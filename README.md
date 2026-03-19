@@ -22,11 +22,9 @@ Generate Stories           Generate 100 Endings      Embedding Geometry     LLM 
 
 ## Prerequisites
 
-- **This repo** (100-endings evaluation pipeline)
-- **[creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench)** (cloned at `/project/jevans/maxzhuyt/creative-writing-bench`) — provides the narrative pipeline classes and API client
 - Python environment with `requests`, `python-dotenv`, `numpy`, `torch`, `transformers`
 - vLLM environment for Stages 2-4 (GPU required)
-- API key for OpenRouter/Anthropic in `creative-writing-bench/.env`
+- API key for OpenRouter/Anthropic in `.env` (create in repo root)
 
 ## Quick Start
 
@@ -223,9 +221,4 @@ Each run saves a `_config.json` with the exact CLI flags used, so runs are fully
 
 ## Relationship to creative-writing-bench
 
-This project imports pipeline classes from [creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench):
-- `core/narrative_pipeline.py` — step classes (`WarmupStep`, `BeatSheetStep`, etc.)
-- `utils/api.py` — OpenRouter/Anthropic API client
-- `data/creative_writing_prompts_v3.json` — the 32 writing prompts
-
-The creative-writing-bench evaluates stories via **rubric scoring + Elo pairwise matchups**. This project (100-endings) evaluates via **geometric coherence + semantic accuracy**. They are complementary evaluation approaches for the same pipeline.
+[creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench) evaluates stories via **rubric scoring + Elo pairwise matchups**. This project (100-endings) evaluates via **geometric coherence + semantic accuracy**. They are complementary evaluation approaches that share the same pipeline architecture and writing prompts.

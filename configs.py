@@ -13,12 +13,8 @@ Usage from generate_stories.py:
 """
 
 import os
-import sys
 import json
 from typing import Optional
-
-# Allow importing from creative-writing-bench
-sys.path.insert(0, "/project/jevans/maxzhuyt/creative-writing-bench")
 
 from core.narrative_pipeline import (
     NarrativePipeline, WarmupStep, GenerateWarmupStep,
@@ -28,9 +24,10 @@ from core.narrative_pipeline import (
 
 # ── Defaults ──────────────────────────────────────────────────────────────
 
-TEMPLATES_PATH = "/project/jevans/maxzhuyt/creative-writing-bench/data/narrative_step0_templates.json"
-NYER_SOURCES_DIR = "/project/jevans/maxzhuyt/narrative_ablation/data/nyer_sources"
-PROMPTS_PATH = "/project/jevans/maxzhuyt/creative-writing-bench/data/creative_writing_prompts_v3.json"
+_DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+TEMPLATES_PATH = os.path.join(_DATA_DIR, "narrative_step0_templates.json")
+NYER_SOURCES_DIR = os.path.join(_DATA_DIR, "nyer_sources")
+PROMPTS_PATH = os.path.join(_DATA_DIR, "creative_writing_prompts_v3.json")
 
 
 def load_precomputed_templates():

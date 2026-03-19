@@ -45,10 +45,8 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-# Add creative-writing-bench to path for API client
-sys.path.insert(0, "/project/jevans/maxzhuyt/creative-writing-bench")
 from dotenv import load_dotenv
-load_dotenv("/project/jevans/maxzhuyt/creative-writing-bench/.env")
+load_dotenv()
 
 from utils.api import APIClient
 from configs import add_pipeline_args, build_pipeline_from_args, describe_pipeline, load_prompts
