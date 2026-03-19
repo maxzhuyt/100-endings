@@ -23,7 +23,7 @@ echo "=== Starting story generation at $(date) ==="
 echo "Node: $(hostname)"
 
 python generate_stories.py \
-    --model "anthropic/claude-sonnet-4-6" \
+    --model "anthropic/claude-opus-4-6" \
     --iterations 3 \
     --threads 4
 

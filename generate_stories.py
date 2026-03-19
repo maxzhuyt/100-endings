@@ -123,8 +123,8 @@ Examples:
   Short beats:       --step1-max-beats 3 --run-id short_beats
         """)
 
-    parser.add_argument("--model", type=str, default="anthropic/claude-sonnet-4-6",
-                        help="Model identifier (default: anthropic/claude-sonnet-4-6)")
+    parser.add_argument("--model", type=str, default="anthropic/claude-opus-4-6",
+                        help="Model identifier (default: anthropic/claude-opus-4-6)")
     parser.add_argument("--run-id", type=str, required=True,
                         help="Unique identifier for this run (used as output folder name)")
     parser.add_argument("--prompts", type=str, default=None,

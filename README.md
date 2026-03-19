@@ -7,7 +7,7 @@ Evaluates creative writing pipeline configurations by measuring **how predictabl
 ```
 Stage 1                    Stage 2                   Stage 3                Stage 4
 Generate Stories           Generate 100 Endings      Embedding Geometry     LLM Judge
-(API: Sonnet 4.6)          (vLLM: Qwen3-32B)        (Qwen3-Embedding)      (Qwen3-8B)
+(API: Opus 4.6)          (vLLM: Qwen3-32B)        (Qwen3-Embedding)      (Qwen3-8B)
 
  prompt + pipeline  ─►  story text  ─►  100 endings  ─►  dist_to_actual   ─►  yes_rate
  config (CLI flags)     per position     per position     intra_mean          per ending
@@ -216,7 +216,7 @@ Each run saves a `_config.json` with the exact CLI flags used, so runs are fully
 
 | Stage | Resource | Approx. Cost / Time |
 |---|---|---|
-| Stage 1 (per config) | API (Sonnet 4.6) | ~$5-8 for 32 prompts × 3 iterations |
+| Stage 1 (per config) | API (Opus 4.6) | ~$5-15 for 32 prompts × 3 iterations |
 | Stage 2 (per config) | GPU (H200, Qwen3-32B) | ~4-8 hours |
 | Stage 3 (per config) | GPU (H200, Qwen3-Embedding) | ~1-2 hours |
 | Stage 4 (per config) | GPU (H200, Qwen3-8B) | ~2-4 hours |
