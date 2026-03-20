@@ -226,22 +226,6 @@ Stories outside the 2000-3000 word range are filtered from analysis (but kept on
 - **Phase 2** (fixed ideas): re-runs step 2 only (reuses warmup + beats from metadata)
 - **Phase 3** (idea-gen): generates entirely new stories to fill gaps
 
-## SLURM Batch Jobs
-
-Endings require H200 GPUs (Qwen3-32B OOMs on H100 80GB).
-
-```bash
-# Endings (H200, jevans-gpu)
-sbatch sbatch/endings_ph3_gpu1.sbatch    # idea_full, idea_no_priming, idea_no_tropes
-sbatch sbatch/endings_ph3_gpu2.sbatch    # idea_no_taxonomy, idea_tax_only, idea_tropes_only
-sbatch sbatch/endings_ph3_gpu3.sbatch    # idea_bare, idea_vanilla
-
-# Judge (H200, jevans-gpu — chain after endings)
-sbatch --dependency=afterok:<id> sbatch/judge_ph3_gpu1.sbatch
-sbatch --dependency=afterok:<id> sbatch/judge_ph3_gpu2.sbatch
-sbatch --dependency=afterok:<id> sbatch/judge_ph3_gpu3.sbatch
-```
-
 ## Relationship to creative-writing-bench
 
 [creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench) evaluates stories via **rubric scoring + Elo pairwise matchups** (EQ-Bench Creative Writing v3). This project (100-endings) evaluates via **geometric coherence + semantic accuracy**. They share the same narrative pipeline architecture (`core/narrative_pipeline.py`) and can use the same writing prompts, but measure different aspects of story quality.
