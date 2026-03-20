@@ -1,5 +1,4 @@
+results/
 __pycache__/
 *.pyc
-results/
-*.egg-info/
 .env

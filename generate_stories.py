@@ -26,6 +26,18 @@ Examples:
     # Custom step1 prompts from JSON
     python generate_stories.py --step1 my_prompts.json --run-id custom
 
+    # Idea generation: full (taxonomy + tropes + priming)
+    python generate_stories.py --idea-gen --run-id idea_full
+
+    # Idea generation: ablate genre priming
+    python generate_stories.py --idea-gen --no-genre-priming --run-id idea_no_priming
+
+    # Idea generation: ablate taxonomy (also ablates priming)
+    python generate_stories.py --idea-gen --no-taxonomy --run-id idea_no_taxonomy
+
+    # Idea generation: ablate tropes
+    python generate_stories.py --idea-gen --no-tropes --run-id idea_no_tropes
+
     # Resume (skips existing files)
     python generate_stories.py --run-id full
 """
@@ -115,6 +127,12 @@ Pipeline configuration:
   --step0       Warmup mode: title | fulltext | precomputed | none
   --step1       Beat generation: default | none | path/to/prompts.json
   --step1=none  → step0 auto-skipped, step2 = vanilla (single-shot)
+  --idea-gen    Enable story idea generation (taxonomy + tropes + priming)
+
+Idea generation ablation (require --idea-gen):
+  --no-genre-priming   Disable genre priming sub-component
+  --no-taxonomy        Disable taxonomy profile (also disables priming)
+  --no-tropes          Disable trope selection
 
 Examples:
   Full pipeline:     --step0 title --step1 default --run-id full
@@ -122,6 +140,8 @@ Examples:
   No warmup:         --step0 none --run-id no_warmup
   Full-text warmup:  --step0 fulltext --run-id fulltext
   Short beats:       --step1-max-beats 3 --run-id short_beats
+  Idea gen (full):   --idea-gen --run-id idea_full
+  Idea gen (no tax): --idea-gen --no-taxonomy --run-id idea_no_tax
         """)
 
     parser.add_argument("--model", type=str, default="anthropic/claude-opus-4-6",
@@ -133,8 +153,8 @@ Examples:
                              "Format: list of {id, idea} objects.")
     parser.add_argument("--prompts", type=str, default=None,
                         help="Comma-separated prompt IDs to run (default: all)")
-    parser.add_argument("--iterations", type=int, default=3,
-                        help="Number of iterations per prompt (default: 3)")
+    parser.add_argument("--iterations", type=int, default=1,
+                        help="Number of iterations per prompt (default: 1)")
     parser.add_argument("--threads", type=int, default=4,
                         help="Parallel API calls (default: 4)")
     parser.add_argument("--results-dir", type=str, default=RESULTS_DIR)
@@ -183,6 +203,11 @@ Examples:
     config_meta = {
         "run_id": args.run_id,
         "model": args.model,
+        "idea_gen": getattr(args, "idea_gen", False),                # ← NEW
+        "no_genre_priming": getattr(args, "no_genre_priming", False),# ← NEW
+        "no_taxonomy": getattr(args, "no_taxonomy", False),          # ← NEW
+        "no_tropes": getattr(args, "no_tropes", False),             # ← NEW
+        "tropes_path": getattr(args, "tropes_path", None),          # ← NEW
         "step0": args.step0,
         "step0_style": args.step0_style,
         "step0_source": args.step0_source,

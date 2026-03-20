@@ -211,6 +211,13 @@ class APIClient:
                 else:
                     content = data["choices"][0]["message"]["content"]
 
+                # Guard against None content — OpenRouter may put the
+                # response in the 'reasoning' field instead of 'content'
+                # when extended thinking is active (even with max_tokens=0)
+                if not content:
+                    msg = data.get("choices", [{}])[0].get("message", {})
+                    content = msg.get("reasoning") or msg.get("reasoning_content") or ""
+
                 # strip out any <think> blocks if the model yields that
                 if '<think>' in content and "</think>" in content:
                     post_think = content.find('</think>') + len("</think>")

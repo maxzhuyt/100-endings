@@ -17,7 +17,7 @@ source ~/.bashrc
 conda activate /project/jevans/maxzhuyt/honest_llama_env
 
 cd /project/jevans/maxzhuyt/narrative_ablation
-mkdir -p results/logs
+mkdir -p results/logswhat 
 
 echo "=== Starting story generation at $(date) ==="
 echo "Node: $(hostname)"
