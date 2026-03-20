@@ -1,0 +1,139 @@
+# The Seventh Seat
+
+---
+
+## I. SATURDAY — MAREN
+
+The dead were patient. They had waited seventeen years already, in the dark between limestone and clay, and they would wait through anything—through the shelling, through whatever came next. Maren envied them that.
+
+She lay flat against the north wall of the excavation trench, her back pressed into a profile of earth striped like a ruined cake—topsoil, humus, alluvial deposit, then the grey-brown layer they'd labeled Stratum D, which was not a geological term but a euphemism for the fill dirt a backhoe pushes over bodies. Her laptop balanced on a femur she'd placed across her thighs like a writing desk. The femur was cataloged already. Tag MG-7/2013/B-0041, left femur, male, estimated age 35-50 at time of death, perimortem fracture consistent with high-velocity projectile. She felt no guilt using it. He would have understood. Everyone down here understood everything now.
+
+The Wi-Fi repeater Ewan had mounted on the ranging pole yesterday—no, she couldn't think about yesterday—still had signal, somehow, its little green LED blinking faithfully through a film of dust. Three bars. The upload progress bar on the ICMP portal crept: 37%, 38%. Twelve megabytes of dental records, periapical radiographs, and AM/PM comparison matrices that James had organized with his maddening color-coded system, each file a small resurrection—a name restored to a number, a number restored to a person, a person restored to a family that had spent almost two decades wondering which of the missing was theirs.
+
+A shell hit the hillside above the tree line, maybe four hundred meters east. The concussion pressed the air flat and then released it. Soil crumbs trickled down the trench wall and landed in her hair, on the keyboard. She blew them away without looking up.
+
+Forty-one percent.
+
+The shelling had started at dawn, or what she'd been told was dawn—from the bottom of a three-meter excavation pit, sky was a rectangle the color of old dishwater, and she had stopped trusting her watch after the second explosion knocked it against the wheelbarrow and cracked the crystal. It was Nadia's watch actually. Maren had taken it from the camp table in the processing tent after—no. She would not think about that either. Not yet. There was a sequence to this, a protocol, and the protocol said: upload the records first. Confirm transmission. Then you can fall apart.
+
+Forty-four percent.
+
+She shifted, and the femur rolled slightly, and she whispered, "Sorry," to its owner, wherever he was, whatever his name would turn out to be when the odontological match came through. James would have laughed at that—her apologizing to skeletal remains. He was always telling her she anthropomorphized the dead. "They're evidence, Maren. You can love them and still call them evidence." He'd said that the first time they'd worked together, in Ovčara in 1998, kneeling in a trench not so different from this one, his loupes magnifying his eyes into something insectile and strange as he bent over a mandible and murmured, "Oh, lovely lateral incisor, you're going to tell us everything, aren't you?"
+
+That was James. The teeth always talked to him.
+
+Fifty percent.
+
+Another shell, closer. The ground shook, and the tarp they'd rigged over the trench snapped against its stakes. A section of the east wall calved—a wedge of Stratum C sliding into the pit in a miniature landslide, burying the grid markers Tomás had set that morning with his surveyor's level and his muttering, his perpetual muttering, half in Spanish and half in some private language of complaint. She should dig the markers out. She should preserve the spatial integrity of the excavation grid. She should do a lot of things.
+
+She stared at the progress bar instead.
+
+Fifty-three percent.
+
+The laptop battery showed 22%. The generator was in the processing tent, sixty meters uphill, and the processing tent was—she had seen it from the trench lip at first light, when the initial salvo hit—a tangle of aluminum poles and shredded fabric, burning. The generator might still be intact beneath it. But to reach it she would have to cross the open slope, and the open slope was where Ewan had been standing when—
+
+Fifty-seven percent.
+
+She pressed her lips together until her teeth ached. The clinical part of her brain, the part that could look at a pelvis shattered by a Kalashnikov round and calmly note the beveling pattern, the radial fractures, the trajectory of the projectile through cancellous bone—that part was still functioning, still ticking along like Nadia's cracked watch. It was the other part that was in trouble. The part that remembered Ewan's face yesterday morning, sleep-creased and smiling, handing her coffee in a tin cup and saying, "Another beautiful day in paradise, Lundqvist," the same thing he said every morning of every dig, in every miserable place they'd ever worked, Ovčara and Kevljani and Batajnica and now here, this hillside above the Drina whose coordinates she'd been told not to write down, and she hadn't written them down, but it didn't matter because the coordinates were in the upload, in the metadata of every photograph and dental chart, and when the upload finished—if it finished, if the battery held, if the signal held, if she held—The Hague would have everything. Not just the identifications, but the location. The proof.
+
+Sixty-one percent.
+
+That was what this had always been about: proof. Not justice—she had stopped believing in justice somewhere around her third exhumation, when she'd found a child's milk teeth in the fill dirt, loose, separated from any skull, small as rice grains in her palm—but proof. The thing that could be weighed and measured and entered into a record that would outlast everyone, that would sit in a filing cabinet or a server long after the tribunals closed and the judges died and the wars became history and history became something people argued about on the internet. Proof was patient too. Proof would wait.
+
+Sixty-four percent.
+
+She thought of Duška, who would have hated this—not the shelling, Duška could endure anything physical with a stoic indifference that unnerved everyone—but the waiting. The stasis. Duška needed to be translating, moving between languages and people, mediating the space between what was said and what was meant, her long fingers shaping the air as she spoke to witnesses, to officials, to the old women who came to the perimeter fences of dig sites with photographs in plastic sheets, asking, asking. "Is it him? Is this my son? You have found my son?" And Duška would kneel—she always knelt, she never stood over them—and take the photograph and look at it and say, in her careful Bosnian that still carried the Belgrade vowels she couldn't quite erase: "We are looking. We are still looking."
+
+Sixty-eight percent.
+
+Battery: 17%.
+
+The shelling paused. Not stopped—Maren had learned the difference in 1998, when she was young enough to mistake a pause for an ending—but paused, as if the hills were drawing breath. In the silence she could hear birds. She could hear the Drina, far below, doing what rivers do. She could hear her own blood in her own ears.
+
+She thought of Tomás saying, three days ago—four? time had collapsed, the week had folded in on itself like stratigraphy compressed under centuries of alluvial deposit—"The soil doesn't lie, Maren. People lie. Documents lie. The soil just is." He'd been photographing a section face, his trowel in his back pocket like a painter's brush, and he'd pointed to a thin orange line in the profile wall and said, "You see that? That's a burn horizon. Someone set a fire here after the burial. Tried to conceal it. But the soil remembers." He'd smiled then, his sad, lopsided smile, and touched the orange line with one finger, reverently, the way another man might touch a holy relic.
+
+The soil remembers.
+
+Seventy-two percent.
+
+She did the math. At this rate, twelve minutes to completion. The battery's decline was nonlinear—slower draw in the upper percentages, steeper near the end—and she estimated she had maybe fifteen minutes of power if she dimmed the screen to nothing and closed every process except the upload client. She did that now, working by touch, the screen a black mirror in which she could see only the faint green ghost of the progress notification.
+
+Seventy-four percent.
+
+Another shell. Southeast this time, lower on the slope, and she heard—or imagined she heard—the metallic shriek of fragment cutting through the SFOR-surplus concertina wire that ringed the excavation compound. The compound they'd been told was secure. The compound Sasha had guaranteed was secure.
+
+Her stomach turned, and she swallowed against it, tasting bile and the stale crackers she'd eaten—when? This morning? Last night? After James—
+
+Seventy-six percent.
+
+She opened the photograph folder on the desktop. She shouldn't. She knew she shouldn't. But the screen was dark enough that only she could see, and there was no one left to see her looking.
+
+The photograph was from the reunion dinner. Sunday night. Six days ago. Nadia had taken it with her phone, holding it at arm's length, her brown arm stretching across the frame, everyone leaning in—and there they all were, captured in the warm sepia of the restaurant's bad lighting: Ewan with his crooked glasses, James with his napkin already tucked into his collar, Tomás looking at the camera with the startled expression of a man who'd been caught off guard, Duška caught mid-laugh in a way that made her look fifteen years younger, and Maren herself, half-hidden behind Ewan's shoulder, her eyes closed at the wrong moment.
+
+And at the edge of the frame, just entering, a seventh figure. Blurred by motion. One arm extended in greeting.
+
+Sasha.
+
+Eighty percent.
+
+She closed the photograph. She closed her eyes.
+
+The clinical part of her brain said: *Upload the records. Confirm transmission. Everything else is affect.*
+
+The other part of her brain said: *You loved these people.*
+
+She opened her eyes. The progress bar was a thin green scar in the dark.
+
+Eighty-three percent.
+
+She would stay in the trench. She would stay with the dead, who were patient, who had waited seventeen years and could wait seventeen more, who did not shell hillsides or betray the coordinates of classified exhumations to men with mortars and old grievances and reasons, always reasons. She would stay until the upload completed or the battery died or the signal failed or a shell found the ranging pole and turned Ewan's little repeater into shrapnel, whichever came first.
+
+Eighty-seven percent.
+
+Battery: 9%.
+
+"Come on," she said. To the laptop. To the dead. To no one.
+
+Ninety percent.
+
+She thought: if I survive this, I will write their names. Not in a report. Not in a forensic protocol or a chain-of-custody log or a dental comparison matrix. I will write their names the way the old women wrote the names of their sons on the photographs they brought to the perimeter fences—in the margins, in pen, in handwriting that trembled not because the hand was weak but because the name was heavy.
+
+Ninety-three percent.
+
+*James Cavill. Ewan Gilchrist. Nadia Ferrer. Tomás Herrera. Dušanka Petrović.*
+
+Ninety-six percent.
+
+Battery: 5%.
+
+A shell hit the south edge of the compound. Close enough that dirt rained into the trench like a second burial, covering her legs, her arms, the keyboard. She wiped the screen with her sleeve.
+
+Ninety-eight percent.
+
+She heard motors. Vehicles on the logging road. Coming up or going down, she couldn't tell.
+
+Ninety-nine percent.
+
+Battery: 3%.
+
+The progress bar disappeared. The screen filled with a dialogue box she could barely read in the dimness, but she knew its shape, its format, its single word of confirmation:
+
+**COMPLETE.**
+
+She exhaled. She pressed her face into the earth wall behind her and breathed in the smell of soil—wet, mineral, ancient, indifferent. The smell of Stratum D. The smell of what the living leave behind when they become evidence.
+
+The laptop screen went black.
+
+In the silence between shells, she heard the birds again.
+
+She closed the laptop and placed it beside her, and she drew her knees up to her chest, and she sat in the grave with the dead, and she began—for the first time all week—to cry.
+
+---
+
+## II. FRIDAY — EWAN
+
+He was thinking about a bridge.
+
+Not any particular bridge—not the Ottoman one at Mostar, which he'd crossed once in 1997 on a temporary walkway bolted to its ruins, nor the Bailey bridge the Royal Engineers had thrown across the Sava during IFOR, which he'd crossed many times in vehicles filled with equipment he couldn't talk about—but a theoretical bridge. A bridge problem. Ewan Gilchrist had a habit of solving engineering problems in his head when fieldwork grew tedious, which was to say: always, eventually, because forensic archaeology was 90% tedium and 10% horror, and the tedium was the part that kept you sane.
+
+He was standing at the processing table in the field tent, logging soil samples into the chain-of-custody database, each sample sealed in a Kraft paper bag and labeled in Tomás's miniature handwriting: MG-7/2013/S-0088, MG-7/2013/S-0089, MG-7/2013/S-0090

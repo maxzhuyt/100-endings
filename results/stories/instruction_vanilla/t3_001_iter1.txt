@@ -1,0 +1,181 @@
+# The Infinite Playoff
+
+## I. The Commission
+
+The envelope arrived on a Tuesday in the dead space between seasons, when the Tri-Cities Dust Devils' front office smelled like mildew and the copier ink that leaked from a cartridge nobody had replaced since August. Lyle Beckmann opened it with his thumb because the letter opener had migrated to someone else's desk, probably Cheryl's, and the paper inside bore the letterhead of the Frontier Independent League's Arbitration and Integrity Commission, which sounded important in a way that nothing in the Frontier Independent League actually was.
+
+They wanted him to audit the Elko Prospectors' 2019 season.
+
+He read the letter three times. Point-shaving allegations. Statistical anomalies flagged by a pattern-detection algorithm that the league had purchased—Lyle happened to know—from a community college data science program for six hundred dollars. The Commission needed someone with deep knowledge of the league's record-keeping systems, someone who understood how the scorebooks were compiled, someone meticulous.
+
+They needed Lyle Beckmann, Official Statistician (Part-Time) for the Tri-Cities Dust Devils, a position that paid eleven dollars an hour during the season and nothing at all during the off-season, which made Tuesday's envelope something close to a miracle.
+
+He called the number at the bottom of the letter. A woman named Diane Ostrowski answered and said the words *per diem* and *hotel stipend* and *independent contractor agreement*, and Lyle said yes to all of it while staring at the water stain on his office ceiling that looked, depending on angle and mood, like either a map of Lake Erie or a dog with its mouth open.
+
+"We'll courier the scorebooks," Diane said. "Physical and digital. The physical ones are originals from the press box."
+
+"Both home and away?"
+
+"Everything we have. Some of it's a mess. You know how Elko keeps their books."
+
+He did know. Elko's press box scorer was a seventy-one-year-old named Hal Murtaugh who still used a mechanical pencil and had been known to record a sacrifice fly as a fielder's choice if the wind was involved. But Hal's eccentricities were legible. They had a grammar. Lyle had learned to read them years ago.
+
+"I'll need the gate records too," Lyle said. "Attendance, concession logs if you have them. Betting lines from the book in Wendover."
+
+Diane paused. "The betting lines might be harder."
+
+"The anomalies won't make sense without them."
+
+Another pause. "I'll see what I can do."
+
+After he hung up, Lyle sat in his chair and felt, for the first time in perhaps two years, the specific pleasure of being selected. Of being the one they called. He swiveled toward his monitor and opened a blank spreadsheet, and the grid of empty cells looked to him like a clean diamond before first pitch—all potential, no error, every outcome still latent in the structure.
+
+He typed a header row: DATE / GAME / INNING / AT-BAT / PITCHER / BATTER / COUNT / RESULT / SCOREBOOK SOURCE / NOTES.
+
+Then he saved the file as ELKO_AUDIT_2019 and went home to his apartment, where the dishes were stacked in the configuration he recognized as a four-day accumulation and the answering machine—he still had an answering machine—held a message from the Mountainwest Credit Union's collections department, which he deleted without listening to because he already knew what it said.
+
+---
+
+## II. The First Contradiction
+
+The scorebooks arrived on Friday in two bankers' boxes and a thumb drive. Lyle cleared his desk by moving everything to the floor and arranged the physical books chronologically: April through September, home and away, the Prospectors' full 96-game season laid out in ruled paper and smudged graphite.
+
+He started with the digital files, running the data against the league's published box scores. For two days there was nothing. The numbers matched. Elko's 2019 season had been mediocre in all the usual ways—47 wins, 49 losses, a run differential of minus-12, attendance averaging 340 per game in a stadium that seated 2,100. Their best hitter was a utility infielder named De La Rosa who'd batted .311 and gone on to exactly nowhere. Their worst pitcher was everyone.
+
+On the third day, Lyle found the first contradiction.
+
+June 14th, 2019. Elko at Tri-Cities. The digital scorebook recorded the following at-bat in the bottom of the seventh: De La Rosa facing Wainwright, the Dust Devils' closer. Full count. Flyout to center.
+
+The physical scorebook—the one in Hal Murtaugh's cramped, tilted hand—recorded the same at-bat as: De La Rosa facing Wainwright. Full count. Single to left.
+
+Lyle checked the published box score. De La Rosa: 2-for-4. The digital scorebook had him at 1-for-4. The physical scorebook had him at 2-for-4.
+
+A transcription error. Obviously. Someone had entered the digital data wrong, flipping a hit to an out. Lyle made a note and moved on.
+
+Except the game's final score didn't accommodate the discrepancy in the way it should have. In the digital version, Elko lost 3-2. In the physical version, Elko *also* lost 3-2. But if De La Rosa's seventh-inning single was real—if the physical book was correct—then the run-expectancy matrix didn't work. The runner on second (Tovar, who'd doubled) would have scored on the single, making it 3-3, and the published final of 3-2 became impossible unless something else in the inning was different too.
+
+Lyle went back to the physical scorebook. In the seventh inning, after De La Rosa's single, Hal had drawn a small arrow from Tovar's diamond to third base and written *HU* beside it—held up. The third base coach had held Tovar at third on a single to left.
+
+Fine. That explained it. Except the third base coach for Elko in 2019 was Phil Mancini, and Phil Mancini never held runners. It was his defining characteristic as a coach, the thing that appeared in every scouting report Lyle had ever compiled on the Prospectors. Phil Mancini waved runners home from second on singles to left with the mechanical certainty of a traffic light. His teams were thrown out at the plate more often than any team in the league. It was a joke. It was the first thing you knew about Elko.
+
+Lyle wrote in his notes: *Check game film if available. Mancini hold anomalous but not impossible. Possible substitute coach?*
+
+He moved on.
+
+June 22nd. Elko at Grand Junction. Bottom of the third. The digital scorebook showed Baker grounding into a double play. The physical scorebook showed Baker striking out, followed by a wild pitch that advanced the runner.
+
+Different at-bat. Different outcome. Same final score in both versions.
+
+Lyle felt something cold open in his chest, the way a window opens into a room that was already cold and makes you realize the cold was there first, that you'd simply stopped noticing it.
+
+He opened both scorebooks side by side and went through the Grand Junction game pitch by pitch. Six more discrepancies. Every time the outcomes diverged, the accumulated runs converged—different paths to the same final score, like water finding equal level through different channels.
+
+That wasn't a transcription error. That was architecture.
+
+---
+
+## III. The Impossibilities
+
+Over the next week, Lyle found forty-three contradictions across twenty-six games. He mapped them on his spreadsheet, color-coding by type: blue for outcome changes (hit vs. out, walk vs. strikeout), yellow for sequence changes (different batting orders, different pitching changes), red for what he started calling *impossibilities*.
+
+The impossibilities were these:
+
+On July 9th, the digital scorebook recorded an at-bat between De La Rosa (batting) and Wainwright (pitching). But July 9th was an Elko home game against Boise. Wainwright pitched for Tri-Cities. He was not in Boise. He was not in the game. The published box score confirmed his absence. Yet there he was in the digital record, striking out De La Rosa in the fourth inning.
+
+On August 3rd, the physical scorebook showed a player named "Beckmann, L." in the Elko lineup, batting eighth, playing second base. There was no Beckmann on the Elko roster. There was no Beckmann on any roster in the league except—and Lyle's hand stopped moving on the page—except that Lyle's own last name was Beckmann, and he had never played professional baseball, and the entry was in Hal Murtaugh's handwriting and looked no different from any other entry on the page.
+
+On August 17th, both scorebooks agreed on every detail of a game between Elko and Tri-Cities. Every pitch, every play, every substitution. The problem was that no game was scheduled for August 17th. The published schedule showed an off-day. The league calendar showed an off-day. There was no record of a game on August 17th in any system Lyle had access to—no box score, no attendance figure, no umpire assignment. But the scorebooks described nine complete innings in meticulous detail, final score 5-4 Elko, and the handwriting was Hal's, and the data entry matched the digital file's format exactly, and the weather notation in the margin read *82°F, clear, wind SSW 8mph*, which Lyle checked against the National Weather Service archive and found to be accurate for Elko, Nevada, on August 17th, 2019.
+
+A game that didn't happen, played in weather that did.
+
+Lyle called Diane Ostrowski.
+
+"I'm finding significant discrepancies," he said.
+
+"Consistent with point-shaving?"
+
+"Consistent with—" He stopped. He didn't know what it was consistent with. "I need more time."
+
+"The Commission meets October 15th. Can you have a preliminary report by then?"
+
+"I don't know."
+
+"Lyle."
+
+"Yes. I'll have something."
+
+After he hung up he sat in his office and listened to the building settle around him. It was September. The season was over. The Dust Devils had finished last for the third consecutive year. The stadium across the parking lot was a concrete parenthesis holding nothing inside, and the floodlights were off, and the infield would be going to crabgrass by now, and Lyle Beckmann was alone with two bankers' boxes of lies that didn't know they were lying.
+
+He opened his desk drawer to get a pen and found instead a spiral notebook he didn't recognize.
+
+He opened it and the handwriting inside was his own.
+
+---
+
+## IV. The Notebook
+
+The notebook was a college-ruled Mead, the kind sold in packs of three at the drugstore. It was about half full. The entries were dated but not consecutively—they jumped from March to June, then back to April, then forward to August, the chronology scrambled like a deck of cards shuffled by someone who wanted to preserve the suit order but destroy the sequence.
+
+The first entry read:
+
+*March 8, 2019. Took the Elko line at +3.5 for the opener vs. Ogden. $200 through Vic. Ogden's rotation is thin after Espinoza. This is a mortal lock.*
+
+The second entry:
+
+*March 8, 2019. Lost. Ogden 7, Elko 2. Espinoza pitched 8 innings, 2 hits. How.*
+
+The third:
+
+*March 11. Doubled down on Elko moneyline vs. Ogden game three. $400. Vic says this is the last time he fronts me without something against it. I told him I'm good for it. He said everyone says that. I said I'm a statistician, I know when I'm good for it. He didn't laugh.*
+
+Lyle read the notebook from beginning to end. It took forty minutes. When he finished, his hands were trembling—not with fear but with the specific vibration of a tuning fork that has found its resonant frequency.
+
+The notebook described a gambling habit. His gambling habit. Bets placed through someone named Vic across the entire 2019 season, escalating from $200 to $2,000 per game, the losses compounding with the geometric cruelty of a function that has no upper bound. By June the narrator—Lyle, the notebook's handwriting confirmed it was Lyle—owed $14,000. By August, $31,000. The Mountainwest Credit Union appeared several times. So did a second mortgage that Lyle did not remember taking out on a house he did not remember owning.
+
+And scattered through the gambling diary, like splinters of glass in bread, were references to the scorebooks.
+
+*June 14. Changed the DLR at-bat in the digital file. Single to flyout. Makes the line look different in retrospect. No one checks these. No one checks anything.*
+
+*June 22. Made six changes to the Grand Junction game. Physical book is what it is—can't change Hal's copy. But the digital file is mine. I enter the data. I can make it say whatever I need it to say.*
+
+*July 9. Put Wainwright in the Boise game file. Why? I don't know why. I was drunk. Christ. Delete it tomorrow.*
+
+But he hadn't deleted it. Tomorrow had never come, or it had come and Lyle had not done what he told himself he would do, which—he realized, sitting in his office with the notebook open on his lap—was the fundamental structure of his entire life. The promise made to the future self, the future self's betrayal of the promise, the past self's inability to hold the future self accountable because the past is dead the moment it happens and the future is always someone else's problem.
+
+He had falsified the Elko data.
+
+He had placed the bets.
+
+He had created the contradictions.
+
+And then—this was the part that made his hands shake—he had forgotten. Or he had made himself forget. Or the forgetting was itself a kind of record-keeping, a way of moving the debt off the balance sheet by declaring the ledger lost.
+
+Lyle closed the notebook and put it back in the drawer. Then he took it out again, because he realized that putting it back in the drawer was what the old Lyle would do—the Lyle who hid things from himself—and the new Lyle, the Lyle who had discovered the notebook, needed to be different from that.
+
+Then he put it back in the drawer anyway, because the old Lyle and the new Lyle were the same Lyle, and the drawer was where it went.
+
+---
+
+## V. The August 17th Game
+
+He should have called Diane. He should have recused himself from the investigation, explained what he'd found, turned over the notebook, and let someone else sort through the damage. This is what a person does when they discover they are the crime they're investigating. They step aside. They confess. They allow the structures of accountability to function as designed.
+
+Lyle did not call Diane.
+
+Instead he went back to the August 17th game—the one that didn't happen—because the notebook didn't mention it. Every other discrepancy in the scorebooks corresponded to an entry in the gambling diary. Every false data point had its confession. But August 17th stood alone, a game between Elko and Tri-Cities played on a day that didn't exist in any schedule, recorded in Hal Murtaugh's handwriting, confirmed by real weather on a real date, and untouched by Lyle's notebook.
+
+If Lyle had fabricated everything else, who had fabricated August 17th?
+
+He drove to Hal Murtaugh's house in Elko, four hours each way across the kind of Nevada landscape that exists primarily to make you aware that the earth is mostly empty. Hal lived in a double-wide on a lot that adjoined a defunct mining claim, and he answered the door in a bathrobe at two in the afternoon and looked at Lyle the way you look at something you ordered online and then forgot about.
+
+"You're Beckmann," Hal said. "From Tri-Cities."
+
+"I need to ask you about a game."
+
+"Come in. Don't touch the cat."
+
+The cat was enormous and orange and occupied the center of the kitchen table like a centerpiece. Lyle sat across from it and opened the August 17th scorebook page, flattened it on the table next to the cat.
+
+"Did you score this game?" Lyle asked.
+
+Hal looked at it. He took a long time. He put on his glasses, took them off, put

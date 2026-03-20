@@ -1,0 +1,149 @@
+# REPORT OF THE SPECIAL INVESTIGATIVE COMMITTEE OF THE GREENFIELD COUNTRY DAY SCHOOL BOARD OF TRUSTEES
+
+## Re: The Events of October 12, 2019 ("The Homecoming Siege")
+
+### Classification: DECLASSIFIED per Board Resolution 2024-11, approved unanimously March 3, 2024
+
+### Prepared by the Office of Institutional Review, with research assistance from the Greenfield Alumni Association Archives, the Greenfield Township Police Department, and the law firm of Bartlett, Chu & Moriarty LLP
+
+---
+
+## PREFATORY NOTE
+
+What follows is a narrative reconstruction of the events of Saturday, October 12, 2019, during which five alumni of the Greenfield Country Day School Class of 2009 were unlawfully detained within the Rensselaer Middle School Building (also known as "Main Hall" or, to generations of students, "The Brick") for approximately four hours and thirty-seven minutes. This report draws upon surveillance camera footage recovered from seventeen of the building's twenty-two functioning cameras; three hundred and nine text messages extracted from two group chats (titled, respectively, "reunion?? 😬" and "WE ARE LITERALLY TRAPPED"); audio captured by the building's intercom system; written statements provided to the Greenfield Township Police Department; and fourteen hours of interviews conducted by the Committee between January and September 2020.
+
+Every effort has been made to present the facts without editorial distortion. Some readers may note, however, that the facts themselves resist seriousness.
+
+The Board wishes to express, once more, its profound regret.
+
+---
+
+## I. THE ALUMNI AND THEIR DISPOSITIONS
+
+To understand the evening of October 12, it is necessary to understand the six people at its center—five of whom were trapped inside the building, and one of whom put them there. All six were members of the Greenfield Country Day School Class of 2009. All six were, at various points during their enrollment, considered close friends. None of the five had spoken to one another, or to Marcus Yoon, in any sustained capacity since June 2008.
+
+The Committee will introduce them as they arrived.
+
+---
+
+**Priya Chandrasekaran** was the first. She pulled into the Greenfield parking lot at 5:47 p.m. in a rental Hyundai Sonata, eleven minutes before the published start time of the reunion, because Priya Chandrasekaran has never been late for anything in her life and, according to her own testimony, "would rather die in a parking lot than walk into a room after someone else has already established the social dynamic." She is a litigation associate at a firm in Boston whose name the Committee has been asked not to print. She wore a silk blouse she later described as "strategically casual." Surveillance footage from Camera 3 (South Lot) shows her sitting in the parked car for nine full minutes, checking her phone, before approaching the building.
+
+**Derek Okafor-Williams** arrived second, at 5:53 p.m., in a pickup truck that belonged to his father and still bore a Greenfield Soccer bumper sticker from 2007. Derek teaches ninth-grade history at a public school in Hartford. He recognized Priya's rental car—or, more precisely, recognized that only Priya would arrive in a rental car to a middle school reunion in a town with three stoplights—and waited in his own vehicle until he saw her enter the building, at which point he followed thirty seconds behind. He has described this as "not wanting to have to do the parking lot walk together," a statement the Committee finds both honest and representative of the social dynamics that pervaded the entire evening.
+
+**Tomás Reyes** arrived at 5:58 p.m. precisely on time, which his former classmates would have found uncharacteristic. Tomás was, during his Greenfield years, late to everything—classes, assemblies, his own bar mitzvah rehearsal (his mother is from Tegucigalpa, his father from Seville, and his stepmother is Jewish, a biographical detail he was reportedly tired of explaining by second grade). He is now a sound engineer in Philadelphia and says he came to the reunion "mostly to prove to myself that I don't still care about these people." The Committee notes that this is a thing people say when they still care about these people.
+
+**Jeanine Park** arrived at 6:04 p.m. She almost did not come at all. In her interview with the Committee, she said she had written and deleted the RSVP email four times and ultimately sent it at 2:00 a.m. on the deadline, "which is when I make all my worst decisions." Jeanine is a veterinary technician in Burlington, Vermont. She was the quietest member of the group in middle school and remains so now, though her written statement to police was by far the most detailed, running to eleven single-spaced pages and including hand-drawn diagrams of the building's air duct system annotated with timestamps. The Committee has found these diagrams invaluable.
+
+**Nolan Morse** arrived last, at 6:11 p.m., pulling up in a black sedan with New York plates. Nolan works in "brand strategy," a phrase he used seven times in his interview without once defining it. He was arguably the social center of the group in their Greenfield years—the one who organized the Friday movie nights, who decided where they sat at lunch, who had the final word on whether an idea was funny or stupid or, most damningly, "kind of a lot." If you had polled the Greenfield faculty in 2008 about which student was most likely to hold a building hostage ten years later, they might well have said Nolan. They would have been wrong. But not unreasonably wrong.
+
+---
+
+**Marcus Yoon** did not arrive through the parking lot. He was already inside.
+
+---
+
+## II. MARCUS YOON: A BACKGROUND
+
+The Committee debated how much space to devote to Marcus Yoon's biography prior to the events of October 12 and concluded that some context is unavoidable, though the Committee wishes to be clear that context is not exculpation.
+
+Marcus Yoon enrolled at Greenfield Country Day in the third grade and was, by virtually all accounts, a remarkable student. His standardized test scores remain the highest in school history. He won the Connecticut MATHCOUNTS chapter competition in seventh grade. He played oboe in the school orchestra, volunteered at the Greenfield Library's after-school literacy program, and was elected class president in both seventh and eighth grade, the latter by a margin of forty-one votes out of forty-three cast (the two dissenting votes have never been identified, though speculation has persisted for over a decade, and the Committee declines to weigh in on what is, at this point, the school's longest-running oral tradition).
+
+His disciplinary record was spotless until May 22, 2008—the date of the eighth-grade talent show, which this report will address in due course.
+
+After graduation from Greenfield, Marcus attended Choate Rosemary Hall on a full scholarship. He was admitted early action to Yale University in December 2012. That admission was rescinded in April 2013. Marcus has stated publicly, and repeated to the Greenfield Township Police Department, that the rescission was the direct result of a disciplinary notation placed on his Greenfield record following the 2008 talent show incident—a note that, per Marcus, was forwarded to Choate and subsequently to Yale as part of a "permanent record" disclosure.
+
+The Committee has reviewed the relevant files. The note in question reads, in its entirety:
+
+> *Student displayed poor judgment and a lack of respect for the collaborative nature of the school community. Recommended for behavioral counseling. See attached incident report.*
+
+The attached incident report is three paragraphs long and describes an event involving a sabotaged fog machine. Yale's admissions office declined to comment for this report.
+
+Whether this note actually caused the rescission of Marcus's admission is a matter of considerable dispute. Marcus believes it did. His attorneys believe it did. Several admissions professionals consulted by the Committee believe it was "more likely a contributing factor in combination with other concerns." Marcus's Choate disciplinary record, which the Committee obtained through legal channels, includes two additional notations: one for "unauthorized network access" in his sophomore year and one for what Choate described as "an elaborate and disruptive prank involving the school's public address system" in his junior year.
+
+The Committee observes that these subsequent incidents might have mattered more than Marcus is willing to admit. The Committee also observes that it is very easy for a committee of adults to say this, and rather harder for a seventeen-year-old boy to believe that the worst note on his record wasn't the one from the place where his friends turned on him.
+
+After the Yale rescission, Marcus attended the University of Michigan, graduated summa cum laude in computer science, and founded a company called BrightPath Systems, which developed smart building management software for K–12 schools—locks, thermostats, intercom systems, automated lighting. BrightPath's signature product was a proprietary platform called *CampusKey*, marketed as "the future of school security." In 2017, Greenfield Country Day School became one of BrightPath's first institutional clients, a detail that the Board of Trustees now regards with the particular horror reserved for decisions that seemed perfectly reasonable at the time.
+
+By 2019, BrightPath was in financial distress. Marcus had been pushed out as CEO by his own board in August. Three former employees had filed a lawsuit alleging a "rigid and retaliatory" management culture. A profile in *Wired* described him as "the most paranoid man in EdTech."
+
+The reunion invitation went out in September. The alumni office records show that Marcus RSVP'd within four minutes.
+
+---
+
+## III. THE BUILDING
+
+The Rensselaer Middle School Building was constructed in 1974 and has been renovated unevenly since. Its east wing was updated in 2011 with modern HVAC, electronic locks, and a centralized building management system—the CampusKey platform, installed under a three-year contract that the Board is no longer eager to discuss. The west wing remains substantially as it was in 1974: manual push-bar doors, a sprinkler system that predates the first Bush administration, and a ventilation system whose ductwork a reasonably slender adult can, as was demonstrated on the night in question, crawl through.
+
+The building has twenty-two surveillance cameras, of which seventeen were operational on October 12. The five nonfunctional cameras have been nonfunctional since 2018. The work order to repair them is still open.
+
+The intercom system was upgraded as part of the CampusKey installation, allowing remote announcements to be broadcast to individual rooms or to the building at large via any device connected to the BrightPath network. Marcus Yoon retained administrative access to this network. The Committee now understands that this was a security vulnerability. The Committee is willing to concede that this is obvious in retrospect.
+
+---
+
+## IV. 5:47 P.M.–6:22 P.M.: ARRIVALS AND INITIAL CONFINEMENT
+
+The reunion event had been organized by the Greenfield Alumni Association, which consists of one part-time employee named Linda Gregson and a MailChimp account. Linda had set up a folding table in the main lobby with name tags, a bowl of pretzels, and a hand-lettered sign reading CLASS OF 2009: WELCOME HOME! She had expected approximately thirty attendees based on RSVPs. By 6:15 p.m., only five had arrived.
+
+Linda Gregson left the building at 6:17 p.m. to retrieve additional beverages from her car. The electronic locks on the east wing doors engaged behind her. She tried her key card. It did not work. She tried the south entrance, the gymnasium doors, and the loading dock. None responded. She called the non-emergency police line at 6:19 p.m. and described the situation as "weird."
+
+Inside, the five alumni had not yet noticed.
+
+Camera 7 (Main Lobby) footage from this period shows the following: Priya standing beside the pretzel bowl, eating pretzels one at a time at a rate that suggests neither hunger nor enjoyment but rather the need to do something with her hands. Derek examining the trophy case with an attention so studied it borders on performance. Tomás checking his phone. Jeanine reading every name tag on the table as though she might be quizzed. Nolan standing in the center of the room—because Nolan has always stood in the center of every room—looking at each of the others with an expression the Committee's video consultant described as "someone trying to seem relaxed while doing math."
+
+They had not yet spoken to one another beyond the preliminary exchange of hellos. The Committee has listened to the audio. The hellos were extensive.
+
+> **Nolan:** Hey! Hey. Wow. Hi.
+>
+> **Priya:** Oh. Hi! Hi. Wow, hi.
+>
+> **Derek:** Hey, man. Hey. Whoa. Hi.
+>
+> **Tomás:** What's up. Hey. Hey. Hi.
+>
+> **Jeanine:** [almost inaudible] Hi.
+>
+> **Nolan:** Wow.
+
+This exchange consumed approximately ninety seconds. The Committee notes that, collectively, these five people hold three graduate degrees.
+
+At 6:22 p.m., every screen in the building—the lobby television, the hallway monitors installed for announcements, the ancient CRT in the teacher's lounge that no one has had the heart to throw away—displayed the same image: a live feed from a webcam showing Marcus Yoon seated at what the police later identified as a desk in the building's server room, located in the east wing basement. He was wearing a BrightPath-branded hoodie. He had a thermos of what he later confirmed was oolong tea. He looked, according to Tomás's police statement, "like a guy about to start a podcast about why his startup failed."
+
+Marcus spoke. The intercom carried his voice into every room.
+
+> "Good evening. This is Marcus Yoon. Class of 2009. Some of you might remember me. I was president. Twice."
+
+---
+
+## V. THE DEMANDS
+
+Marcus's opening statement lasted approximately seven minutes. The Committee has a full transcript, which is appended to this report as Exhibit D. What follows is a summary.
+
+Marcus explained that he had remotely engaged the CampusKey lock system on every exterior door in the east wing and had physically barricaded the connecting doors between the east and west wings. He acknowledged that the west wing doors still operated on manual push bars and were not under his digital control, but stated that he had secured them earlier that afternoon using "bike locks, zip ties, and a level of commitment that I think speaks for itself."
+
+He stated that his demands were simple. He wanted the Greenfield Country Day School Board of Trustees to issue a formal, public retraction of the disciplinary note placed on his permanent record on May 23, 2008, following the eighth-grade talent show, along with a written apology and a press release acknowledging that the note had "materially contributed to the destruction of his life trajectory."
+
+"I'm not asking for money," Marcus said. "I'm not asking for violence. I'm asking for accountability. I'm asking for the truth. And I've brought enough tea for the whole night, so."
+
+He then added: "Also, hello, everyone. It's been a while."
+
+Camera 7 shows the five alumni watching the lobby television in silence. Priya has stopped eating pretzels. Nolan has, for perhaps the first time in his life, moved to the edge of the room.
+
+The first to speak was Derek.
+
+"Is he serious?"
+
+The second was Tomás.
+
+"Is the *tea* serious?"
+
+And the third was Jeanine, quietly, to no one in particular:
+
+"He still does that thing where he says 'accountability' like it's a magic spell."
+
+The Committee wishes to note that this is, in fact, exactly what Marcus does.
+
+---
+
+## VI. 6:22 P.M.–6:45 P.M.: INITIAL RESPONSE AND THE QUESTION OF EXITS
+
+The next twenty-three minutes were consumed by what the Committee can only describe as a five-way argument about what to do, conducted with the particular intensity of

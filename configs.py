@@ -93,6 +93,10 @@ def add_pipeline_args(parser):
                          "'none': skip beats (step2 becomes vanilla, step0 also skipped). "
                          "Or path to JSON file with custom step1 prompts."))
 
+    g.add_argument("--vanilla-instruction", action="store_true", default=False,
+                   help="When step1=none, wrap the idea in a writing instruction "
+                        "matching StoryWriteStep's framing (instruction-vanilla mode).")
+
     g.add_argument("--step1-max-beats", type=int, default=None,
                    help="Limit step1 to N beats (e.g., 3 for short beat list)")
 
@@ -146,8 +150,9 @@ def build_pipeline_from_args(args) -> NarrativePipeline:
         args.no_genre_priming = True
 
     # ── Pure vanilla (no pipeline, no idea gen) ───────────────────
+    use_instr = getattr(args, "vanilla_instruction", False)
     if step1_mode == "none" and not has_idea_gen:
-        return NarrativePipeline([VanillaStep()])
+        return NarrativePipeline([VanillaStep(with_instruction=use_instr)])
 
     steps = []
 
@@ -170,7 +175,7 @@ def build_pipeline_from_args(args) -> NarrativePipeline:
 
     # ── Idea-gen + vanilla (no beats) ─────────────────────────────
     if step1_mode == "none":
-        steps.append(VanillaStep())
+        steps.append(VanillaStep(with_instruction=use_instr))
         return NarrativePipeline(steps)
 
     # ── Step 0 ────────────────────────────────────────────────────

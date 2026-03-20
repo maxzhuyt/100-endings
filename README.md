@@ -5,220 +5,243 @@ Evaluates creative writing pipeline configurations by measuring **how predictabl
 ## How It Works
 
 ```
-Stage 1                    Stage 2                   Stage 3                Stage 4
-Generate Stories           Generate 100 Endings      Embedding Geometry     LLM Judge
-(API: Opus 4.6)          (vLLM: Qwen3-32B)        (Qwen3-Embedding)      (Qwen3-8B)
+Stage 1                    Stage 2                   Stage 3
+Generate Stories           Generate 100 Endings      LLM Judge
+(API: Opus 4.6)           (vLLM: Qwen3-32B)        (Qwen3-8B)
 
- prompt + pipeline  ─►  story text  ─►  100 endings  ─►  dist_to_actual   ─►  yes_rate
- config (CLI flags)     per position     per position     intra_mean          per ending
-                                                          effective_rank
+ prompt + pipeline  ►  story text  ►  100 endings  ►  yes_rate (no_rate)
+ config (CLI flags)     per position     per position    per ending
 ```
 
-**Core idea:** A well-structured story should constrain what comes next. By comparing 100 possible endings at each point in a story, we measure:
-- **dist_to_actual** — How close are generated endings to the true continuation? (lower = more predictable)
-- **intra_mean** — How similar are the 100 endings to each other? (lower = more constrained)
-- **effective_rank** — Spectral diversity: ~1 means all endings are alike, ~100 means maximally diverse
-- **yes_rate** — What fraction of endings match events that actually occur? (higher = more on-target)
+**Core metric — no_rate:** At each sentence position in a story, we generate 100 possible endings and ask an LLM judge: "Does this ending match what actually happens?" The **no_rate** (fraction of endings that do NOT match) measures narrative unpredictability. Higher no_rate = less predictable story = more human-like narrative structure.
+
+**Reference anchors:**
+- Top-10 LLMs (0-shot, EQ-Bench 32 prompts): ~0.71 no_rate
+- New Yorker fiction (human): ~0.87 no_rate
+- Our pipeline configs: 0.83–0.88 no_rate
+
+## Full Ablation Design
+
+### Phase 1 — Structural Pipeline Ablations
+
+**Controlled for:** Fixed 15 story ideas (3 iterations each, best qualified selected) | Model: Opus 4.6
+
+Tests the core pipeline components: warmup modes and beat generation.
+
+| Run ID | Step 0 (Warmup) | Step 1 (Beats) | Step 2 (Story) | CLI |
+|---|---|---|---|---|
+| `vanilla` | — | — | raw idea (no instruction) | `--step1 none` |
+| `instruction_vanilla` | — | — | idea + writing instruction | `--step1 none --vanilla-instruction` |
+| `full_title` | title warmup | full beats | write from beats | `--step0 title` |
+| `full_fulltext` | NYer fulltext warmup | full beats | write from beats | `--step0 fulltext` |
+| `no_warmup` | — | beats from scratch | write from beats | `--step0 none` |
+| `short_beats` | title warmup | 3 beats only | write from beats | `--step0 title --step1-max-beats 3` |
+
+### Phase 2 — Beat Count Sweep
+
+**Controlled for:** Fixed 15 story ideas (1 iteration) | Model: Opus 4.6 | Step 0: fulltext warmup (c1_specific)
+
+Holds step0=fulltext constant, varies beat count.
+
+| Run ID | Max Beats | CLI |
+|---|---|---|
+| `full_fulltext` | unlimited | *(from Phase 1)* |
+| `fulltext_beats10` | 10 | `--step0 fulltext --step1-max-beats 10` |
+| `fulltext_beats5` | 5 | `--step0 fulltext --step1-max-beats 5` |
+| `fulltext_beats3` | 3 | `--step0 fulltext --step1-max-beats 3` |
+
+### Phase 3 — Idea Generation Ablations
+
+**Controlled for:** Model: Opus 4.6 | Step 0: fulltext warmup | Step 1: full beats (except vanilla configs)
+
+Tests whether LLM-generated story ideas (from taxonomy + tropes + genre priming) produce better narrative structure than fixed ideas.
+
+| Run ID | Taxonomy | Tropes | Priming | Step 1 | CLI |
+|---|---|---|---|---|---|
+| `idea_full` | ✓ | ✓ (LLM-curated) | ✓ | full beats | `--idea-gen` |
+| `idea_no_priming` | ✓ | ✓ (LLM-curated) | ✗ | full beats | `--idea-gen --no-genre-priming` |
+| `idea_no_tropes` | ✓ | ✗ | ✓ | full beats | `--idea-gen --no-tropes` |
+| `idea_tax_only` | ✓ | ✗ | ✗ | full beats | `--idea-gen --no-genre-priming --no-tropes` |
+| `idea_tropes_only` | ✗ | ✓ (random 2) | ✗ | full beats | `--idea-gen --no-taxonomy` |
+| `idea_bare` | ✗ | ✗ | ✗ | full beats | `--idea-gen --no-taxonomy --no-tropes` |
+| `idea_vanilla` | ✓ | ✓ | ✓ | **none** | `--idea-gen --step1 none` |
+| `idea_instruction_vanilla` | ✓ | ✓ | ✓ | **none (with instr)** | `--idea-gen --step1 none --vanilla-instruction` |
+
+**Idea generation components:**
+- **Taxonomy**: Random 7-level narrative profile from the Screenwriters Taxonomy (type, super-genre, macro/micro genre, voice, pathway, POV)
+- **Tropes**: Sample tropes from 10 aspect categories, then LLM selects 2 most relevant for the taxonomy profile
+- **Genre Priming**: LLM analyzes 5 random taxonomy profiles to activate narrative reasoning (cached once per run, shared across all 15 stories)
+
+**Dependencies:** Taxonomy off → priming also off. Taxonomy off + tropes on → tropes randomly selected (no profile to match against).
 
 ## Prerequisites
 
 - Python environment with `requests`, `python-dotenv`, `numpy`, `torch`, `transformers`
-- vLLM environment for Stages 2-4 (GPU required)
-- API key for OpenRouter/Anthropic in `.env` (create in repo root)
+- vLLM environment for Stages 2-3 (GPU required, H200 recommended)
+- API key for OpenRouter in `.env`:
+  ```
+  TEST_API_KEY=sk-or-...
+  TEST_API_URL=https://openrouter.ai/api/v1/chat/completions
+  ```
 
 ## Quick Start
 
-### 1. Generate stories (CPU, ~$5-15 per config)
+### 1. Generate stories (CPU, API calls)
 
 ```bash
-# Full pipeline: title warmup → beats → story
-python generate_stories.py --run-id full --step0 title --step1 default
+# Full pipeline: fulltext warmup → beats → story
+python generate_stories.py --run-id full_fulltext --step0 fulltext \
+    --ideas data/story_ideas.json --iterations 1 --threads 6 \
+    --model anthropic/claude-opus-4-6
 
-# Vanilla baseline: single-shot generation
-python generate_stories.py --run-id vanilla --step1 none
+# Vanilla with writing instruction
+python generate_stories.py --run-id instruction_vanilla --step1 none --vanilla-instruction \
+    --ideas data/story_ideas.json --iterations 1 --threads 6 \
+    --model anthropic/claude-opus-4-6
+
+# Idea generation (full)
+python generate_stories.py --run-id idea_full --idea-gen \
+    --ideas data/story_ideas.json --iterations 1 --threads 6 \
+    --model anthropic/claude-opus-4-6
 ```
 
-### 2. Generate 100 endings per position (GPU, Qwen3-32B)
+### 2. Retry unqualified stories (outside 2000-3000 words)
 
 ```bash
-python generate_endings.py                         # all configs
-python generate_endings.py --config full,vanilla   # specific configs
+# Dry run: see what needs retrying
+python retry_unqualified.py --dry-run
+
+# Run retries (Phase 2: re-runs step2; Phase 3: generates new stories)
+python retry_unqualified.py --phase 2 --phase 3
 ```
 
-### 3. Compute geometry + judge (GPU)
+### 3. Generate 100 endings (GPU, Qwen3-32B on H200)
 
 ```bash
-python compute_geometry.py    # embedding distances + spectral metrics
-python compute_judge.py       # LLM binary judge (Y/N per ending)
+python generate_endings.py --config full_fulltext,vanilla --batch-size 64
+# or via SLURM:
+sbatch sbatch/endings_ph3_gpu1.sbatch
 ```
 
-### On SLURM
+### 4. LLM Judge (GPU, Qwen3-8B)
 
 ```bash
-# Stage 1: CPU node (API calls only)
-sbatch sbatch/generate_stories.sbatch
-
-# Stage 2: GPU node (vLLM, Qwen3-32B)
-sbatch sbatch/generate_endings.sbatch
-
-# Stages 3 & 4: GPU node (can run in parallel after Stage 2)
-sbatch sbatch/compute_geometry.sbatch
-sbatch sbatch/compute_judge.sbatch
+python compute_judge.py --config full_fulltext,vanilla --batch-size 128
+# or via SLURM (chain after endings):
+sbatch --dependency=afterok:<endings_job_id> sbatch/judge_ph3_gpu1.sbatch
 ```
+
+### 5. Analyze results
+
+Open `notebooks/norate_by_phase.ipynb` — produces one bar chart per phase with 95% CI and reference baselines.
 
 ## Pipeline Configuration (CLI Flags)
 
-**All ablation settings are command-line flags** — no code edits needed.
+All ablation settings are command-line flags — no code edits needed.
 
 ### Step 0: Warmup (`--step0`)
 
-Controls how the structural beat sheet reference is generated.
-
-| Flag | Mode | Description |
-|---|---|---|
-| `--step0 title` | Title (default) | LLM generates beats from a famous story title (20 stories in pool) |
-| `--step0 fulltext` | Full text | LLM reads entire NYer story text and extracts beats (20 stories) |
-| `--step0 precomputed` | Pre-computed | No API call; selects from 6 pre-generated templates |
-| `--step0 none` | Skip | No warmup; beats generated from scratch in step 1 |
-
-**Step 0 options:**
-- `--step0-style {baseline,c1_specific,c2_abstract}` — Prompt style (default: `c1_specific`)
-- `--step0-source ID` — Fix a specific source (e.g., `A1` for Le Guin, `00015` for NYer). Omit to randomly sample.
-- `--step0-sources-dir PATH` — Directory of .txt files for `fulltext` mode
+| Flag | Description |
+|---|---|
+| `--step0 title` | LLM generates beats from a famous story title (20 in pool, default) |
+| `--step0 fulltext` | LLM reads entire NYer story text and extracts beats (20 stories) |
+| `--step0 precomputed` | Use 6 pre-generated templates (no API call) |
+| `--step0 none` | Skip warmup; beats generated from scratch in step 1 |
+| `--step0-style {baseline,c1_specific,c2_abstract}` | Prompt style (default: `c1_specific`) |
+| `--step0-source ID` | Fix a specific source (e.g., `A1`, `00015`). Omit for random. |
 
 ### Step 1: Beat Generation (`--step1`)
 
-Controls how structural beats are created for the writing prompt.
-
-| Flag | Mode | Description |
-|---|---|---|
-| `--step1 default` | Standard (default) | Adapt warmup beats to the writing prompt |
-| `--step1 path/to/prompts.json` | Custom | Use custom prompt templates from a JSON file |
-| `--step1 none` | Skip | **No beats → step 0 auto-skipped → step 2 becomes vanilla** |
-
-**Step 1 options:**
-- `--step1-max-beats N` — Limit to N beats (e.g., `3` for short beat list)
+| Flag | Description |
+|---|---|
+| `--step1 default` | Standard beat adaptation prompt (default) |
+| `--step1 path.json` | Custom prompt templates from JSON |
+| `--step1 none` | Skip beats → step 0 auto-skipped → step 2 becomes vanilla |
+| `--step1-max-beats N` | Limit to N beats (e.g., 3 for short beat list) |
 
 ### Step 2: Story Writing
 
-Always present. If beats exist (from step 1), writes from beats. If no beats, writes from the raw prompt (vanilla).
+Always present. Writes from beats if available, or directly from the idea (vanilla mode).
 
-### Key Constraint
+- `--vanilla-instruction` — When step1=none, wraps the idea in "Write the story now. Write only the story — no commentary." matching the instruction used by `StoryWriteStep`.
 
-**`--step1 none` forces vanilla mode.** Step 0 is automatically skipped because warmup without beats is meaningless. This is enforced by the code.
+### Idea Generation (`--idea-gen`)
 
-## Ablation Recipes
-
-```bash
-# ── Full pipeline variants ────────────────────────────────────────
-python generate_stories.py --run-id full            --step0 title    --step1 default
-python generate_stories.py --run-id fulltext        --step0 fulltext --step1 default
-python generate_stories.py --run-id precomputed     --step0 precomputed --step1 default
-
-# ── Ablate step 0 (no warmup) ────────────────────────────────────
-python generate_stories.py --run-id no_warmup       --step0 none     --step1 default
-
-# ── Ablate step 1 (no beats → vanilla) ───────────────────────────
-python generate_stories.py --run-id vanilla         --step1 none
-
-# ── Modify step 0 style ──────────────────────────────────────────
-python generate_stories.py --run-id baseline_style  --step0-style baseline
-python generate_stories.py --run-id abstract_style  --step0-style c2_abstract
-
-# ── Short beats ───────────────────────────────────────────────────
-python generate_stories.py --run-id short_3beats    --step1-max-beats 3
-
-# ── Fixed warmup source ──────────────────────────────────────────
-python generate_stories.py --run-id fixed_leguin    --step0-source A1
-python generate_stories.py --run-id fixed_nyer15    --step0 fulltext --step0-source 00015
-
-# ── Custom step 1 prompts ────────────────────────────────────────
-python generate_stories.py --run-id custom          --step1 my_prompts.json
-```
-
-### Custom Step 1 Prompts (JSON)
-
-Create a JSON file with a list of prompt template strings. Use `{warmup}` and `{writing_prompt}` as placeholders:
-
-```json
-[
-  "Reference beats:\n---\n{warmup}\n---\n\nCreate a minimalist 3-act structure for:\n{writing_prompt}"
-]
-```
+| Flag | Description |
+|---|---|
+| `--idea-gen` | Enable story idea generation (taxonomy + tropes + priming) |
+| `--no-genre-priming` | Disable genre priming |
+| `--no-taxonomy` | Disable taxonomy profile (also disables priming) |
+| `--no-tropes` | Disable trope selection |
+| `--tropes-path PATH` | Custom tropes JSONL file |
 
 ## Step 0 Reference Stories
 
 ### Title Mode (20 famous stories)
 
-| ID | Story | Technique Focus |
+| ID | Story | Technique |
 |---|---|---|
 | A1 | The Ones Who Walk Away from Omelas (Le Guin) | Moral philosophy |
 | A2 | The Lottery (Jackson) | Suspense/Reveal |
 | A3 | Hills Like White Elephants (Hemingway) | Subtext/Dialogue |
 | A4 | The Yellow Wallpaper (Gilman) | Unreliable narrator |
 | A5 | A Good Man Is Hard to Find (O'Connor) | Violence/Grace |
-| A6 | The Garden of Forking Paths (Borges) | Metafiction/Structure |
-| A7 | The Metamorphosis (Kafka) | Surrealism/Premise |
-| A8 | Rashomon (Akutagawa) | Subjectivity/Perspective |
-| A9 | The Necklace (Maupassant) | Irony/Pacing |
-| A10 | The Overcoat (Gogol) | Pathos/Character |
-| A11 | Girl (Kincaid) | Form/Prose Rhythm |
-| A12 | Axolotl (Cortazar) | Magical Realism/Identity |
-| A13 | Cathedral (Carver) | Minimalism/Dirty Realism |
-| A14 | The Lady with the Dog (Chekhov) | Modern Realism |
-| A15 | Araby (Joyce) | Epiphany/Coming-of-age |
+| A6 | The Garden of Forking Paths (Borges) | Metafiction |
+| A7 | The Metamorphosis (Kafka) | Surrealism |
+| A8 | Rashomon (Akutagawa) | Perspective |
+| A9 | The Necklace (Maupassant) | Irony |
+| A10 | The Overcoat (Gogol) | Pathos |
+| A11 | Girl (Kincaid) | Form/Rhythm |
+| A12 | Axolotl (Cortazar) | Magical Realism |
+| A13 | Cathedral (Carver) | Minimalism |
+| A14 | The Lady with the Dog (Chekhov) | Realism |
+| A15 | Araby (Joyce) | Epiphany |
 | A16 | A Very Old Man with Enormous Wings (Marquez) | Imagery |
-| A17 | Sonny's Blues (Baldwin) | Voice/Narrative Soul |
-| A18 | The Fifth Story (Lispector) | Narrative Experimentation |
-| A19 | A Madman's Diary (Lu Xun) | Allegory/Social Critique |
-| A20 | The Bear Came Over the Mountain (Munro) | Handling of Time/Memory |
+| A17 | Sonny's Blues (Baldwin) | Voice |
+| A18 | The Fifth Story (Lispector) | Experimentation |
+| A19 | A Madman's Diary (Lu Xun) | Allegory |
+| A20 | The Bear Came Over the Mountain (Munro) | Time/Memory |
 
 ### Full-Text Mode (20 New Yorker stories)
 
-Located in `data/nyer_sources/`. These are short stories (1000-2600 words) from the New Yorker corpus. The full text is sent to the LLM for structural extraction.
+Located in `data/nyer_sources/`. Short stories (1000-2600 words) from the New Yorker corpus. Full text sent to the LLM for structural extraction.
 
 ## Output Structure
 
 ```
 results/
-├── stories/{run_id}/              # Stage 1 output
-│   ├── p01_iter1.txt              # Story text
-│   ├── p01_iter1_meta.json        # Pipeline intermediates + metadata
-│   ├── p01_iter2.txt
-│   ├── ...
-│   └── _config.json               # CLI config snapshot for reproducibility
-├── endings/{run_id}/              # Stage 2 output
-│   ├── p01_iter1_endings.json     # 100 endings per position
-│   └── ...
-├── geometry/{run_id}_geometry.json # Stage 3 output
-│   # Per-position: dist_to_actual, intra_mean, intra_std,
-│   #               top3_eigenvalues, effective_rank
-└── judge/{run_id}_judge.json      # Stage 4 output
-    # Per-position: yes_rate, judgments (100 binary values)
+├── stories/{run_id}/              # Stage 1: generated stories
+│   ├── t1_001_iter1.txt           # Story text
+│   ├── t1_001_iter1_meta.json     # Pipeline intermediates + metadata
+│   └── _config.json               # CLI config snapshot
+├── endings/{run_id}/              # Stage 2: 100 endings per position
+│   └── t1_001_iter1_endings.json
+└── judge/{run_id}_judge.json      # Stage 3: yes_rate + binary judgments
 ```
 
-Each run saves a `_config.json` with the exact CLI flags used, so runs are fully reproducible.
+## Word Count Filtering
 
-## Metrics
+Stories outside the 2000-3000 word range are filtered from analysis (but kept on disk). The `retry_unqualified.py` script regenerates unqualified stories:
+- **Phase 1** (3 iterations): selects best qualified iteration per idea → n=15
+- **Phase 2** (fixed ideas): re-runs step 2 only (reuses warmup + beats from metadata)
+- **Phase 3** (idea-gen): generates entirely new stories to fill gaps
 
-| Metric | Source | What it measures |
-|---|---|---|
-| **dist_to_actual** | Geometry | Mean cosine distance from 100 endings to true continuation |
-| **intra_mean** | Geometry | Mean pairwise cosine distance among 100 endings |
-| **intra_std** | Geometry | Std of pairwise distances (diversity variance) |
-| **effective_rank** | Geometry | Spectral entropy: 1 = all endings alike, 100 = maximally diverse |
-| **top3_eigenvalues** | Geometry | First 3 eigenvalues of the similarity matrix |
-| **yes_rate** | Judge | Fraction of 100 endings matching events in the actual continuation |
+## SLURM Batch Jobs
 
-## Estimated Costs
+Endings require H200 GPUs (Qwen3-32B OOMs on H100 80GB).
 
-| Stage | Resource | Approx. Cost / Time |
-|---|---|---|
-| Stage 1 (per config) | API (Opus 4.6) | ~$5-15 for 32 prompts × 3 iterations |
-| Stage 2 (per config) | GPU (H200, Qwen3-32B) | ~4-8 hours |
-| Stage 3 (per config) | GPU (H200, Qwen3-Embedding) | ~1-2 hours |
-| Stage 4 (per config) | GPU (H200, Qwen3-8B) | ~2-4 hours |
+```bash
+# Endings (H200, jevans-gpu)
+sbatch sbatch/endings_ph3_gpu1.sbatch    # idea_full, idea_no_priming, idea_no_tropes
+sbatch sbatch/endings_ph3_gpu2.sbatch    # idea_no_taxonomy, idea_tax_only, idea_tropes_only
+sbatch sbatch/endings_ph3_gpu3.sbatch    # idea_bare, idea_vanilla
+
+# Judge (H200, jevans-gpu — chain after endings)
+sbatch --dependency=afterok:<id> sbatch/judge_ph3_gpu1.sbatch
+sbatch --dependency=afterok:<id> sbatch/judge_ph3_gpu2.sbatch
+sbatch --dependency=afterok:<id> sbatch/judge_ph3_gpu3.sbatch
+```
 
 ## Relationship to creative-writing-bench
 
-[creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench) evaluates stories via **rubric scoring + Elo pairwise matchups**. This project (100-endings) evaluates via **geometric coherence + semantic accuracy**. They are complementary evaluation approaches that share the same pipeline architecture and writing prompts.
+[creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench) evaluates stories via **rubric scoring + Elo pairwise matchups** (EQ-Bench Creative Writing v3). This project (100-endings) evaluates via **geometric coherence + semantic accuracy**. They share the same narrative pipeline architecture (`core/narrative_pipeline.py`) and can use the same writing prompts, but measure different aspects of story quality.

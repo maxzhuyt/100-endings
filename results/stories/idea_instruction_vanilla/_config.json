@@ -1,0 +1,17 @@
+{
+  "run_id": "idea_instruction_vanilla",
+  "model": "anthropic/claude-opus-4-6",
+  "idea_gen": true,
+  "no_genre_priming": false,
+  "no_taxonomy": false,
+  "no_tropes": false,
+  "tropes_path": null,
+  "step0": "title",
+  "step0_style": "c1_specific",
+  "step0_source": null,
+  "step1": "none",
+  "step1_max_beats": null,
+  "iterations": 1,
+  "description": "idea_gen(full) \u2192 vanilla",
+  "pipeline_repr": "NarrativePipeline([IdeaGenerationStep(full), VanillaStep(with_instruction)])"
+}

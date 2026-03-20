@@ -1,0 +1,107 @@
+# The Calculus of Monsters
+
+## I.
+
+The optimal resolution, weighted for downstream stability across a six-month projection window, was to let the killer live.
+
+This was not a difficult calculus. Marta Souza—the aggrieved party, syndicate captain of the Lapa Corridor districts, whose cousin Edson had been shot through the throat during a supply raid in the eastern warehouse sectors eleven days ago—wanted proportional violence. An eye for an eye. She used that phrase, in fact, standing in the well of what had once been the Universidade Federal's main lecture theater, the tiered seats above her still bolted in place but warped now, barnacled with damp, the lower rows permanently submerged so that the hall had the quality of a Roman bath left to the flood. She stood in the shallows and pointed at the man who had killed her cousin, and she used the oldest words available to her, because when people want to do terrible things they reach for the language that makes the terrible thing sound like geometry.
+
+An eye for an eye. As though balance were the natural state of the world and what she proposed was simply a restoration.
+
+The killer's name was Cássio. He ran supply logistics for the Botafogo junction—six primary routes, forty-three active traders, a floating bazaar that processed roughly nine hundred kilograms of desalinated protein per week. He was squat, sharp-eyed, and had the particular kind of intelligence that manifests not as insight but as reliability. He had killed Edson Souza because Edson Souza had attempted to reroute a shipment of water-filtration membranes—irreplaceable, pre-flood manufacture, worth more by weight than any currency we still recognized—and Cássio had interpreted the rerouting as theft, which it was, and had resolved it with a sidearm, which was excessive but not, within the context of resource scarcity at current levels, irrational. Edson had been armed. The confrontation had lasted approximately ninety seconds. There were four witnesses, and their accounts cohered.
+
+Marta wanted Cássio dead. Cássio wanted to live. Both preferences were understandable.
+
+I delivered the ruling from the dais where a lectern had once stood—it was gone now, probably burned for fuel in the first winter, but the bolts that had held it remained, and I had positioned my desk behind them, a repurposed steel examination table, because the bolts created a visual anchor that suggested permanence, institutional memory, the ghost of an authority older than mine. I was aware of this effect. I had chosen it deliberately. The room itself did most of the work: the high ceilings, the acoustic architecture designed to carry a single voice to the back row, the implicit script of the space—someone at the front talks, everyone else listens. The university had been dead for nine years, but the building still remembered what authority felt like, and people responded to that memory even when they did not recognize it as such.
+
+"Cássio lives," I said.
+
+Marta's jaw tightened. Behind her, two of her district runners shifted their weight—not reaching for weapons, not yet, but redistributing the potential for violence across their bodies in a way that was, in its own idiom, articulate.
+
+"The killing was disproportionate," I continued, "but not unprovoked. Edson Souza was engaged in an unauthorized reroute of Category One materiel. Under the operational code, Cássio was within his mandate to use force to prevent the loss. The escalation to lethal force represents a failure of judgment, not of loyalty. A failure of loyalty would require execution. A failure of judgment requires correction."
+
+I paused here. Not for effect, though the pause did have an effect. I paused because precision of language matters, and what I was about to say needed to be heard exactly as I meant it, without the distortions that haste permits.
+
+"Cássio will forfeit three months of his supply allocation—the full personal share, not the operational budget—transferred to the household of Edson Souza. This transfer is not restitution."
+
+Marta looked up.
+
+"Restitution implies a debt that can be settled. Your cousin is dead. No quantity of supplies will alter that fact, and I will not pretend otherwise. The transfer is operational. Edson's household—his mother, his wife, his wife's sister—controls the water-filtration point at Rua Silveira. Their continued cooperation depends on their continued stability. Cássio's error has jeopardized that cooperation. The allocation transfer restores the incentive structure. It is not payment for a life. It is maintenance of a system."
+
+The room was quiet. Water lapped against the submerged seats. Somewhere below us, several floors down, the flood breathed in and out through the building's open windows, a tidal respiration that you stopped hearing after the first few months, the way you stop hearing your own pulse.
+
+Marta processed. I could watch the processing happen—the visible calculus of a person weighing their sense of justice against their understanding of power. She had perhaps forty armed loyalists. I had the infrastructure of the central districts, the trade routes, the syndicate network that kept two hundred thousand people alive across a drowned city. She could kill Cássio herself—could possibly even kill me, here, now, though my security positioning in the room made that improbable—but she could not replace what I provided. Nobody could. That was not vanity. That was load-bearing analysis.
+
+"Three months," she said.
+
+"Three months."
+
+"And if he touches my people again?"
+
+"Then the calculus changes."
+
+She held my eyes for a moment. I noted the micro-expression sequence: anger compressing to resentment compressing to pragmatism. A common decay chain. She turned and walked out through the knee-deep water in the lower aisle, trailed by her runners, and the sound of their wading receded down the corridor like something draining.
+
+Cássio remained. He was looking at me with an expression I had catalogued many times: the particular gratitude of a person who has been spared and wants to interpret the sparing as care. I did not correct this misapprehension. Correcting it would have reduced his loyalty by an estimated fifteen to twenty percent without any corresponding operational benefit.
+
+"Go back to the junction," I said. "The next shipment requires sign-off by Thursday."
+
+He left.
+
+I noted, in my ledger—a physical notebook, waterproof pages, because digital systems failed with regularity and I did not trust information to any medium I could not hold—the outcome, the allocation adjustment, and a projected stabilization timeline for the Lapa Corridor. Six weeks before Marta's resentment degraded to background noise. Perhaps eight. I would have Renata monitor it.
+
+The ruling had been correct. Not in the moral sense—I had no use for that vocabulary, which struck me as a kind of decorative molding applied to decisions after they'd already been made, the way a carpenter might add scrollwork to a load-bearing beam. The ruling had been correct in the sense that it would produce the most stable outcome across the most variables over the longest time horizon available to my projections. Cássio's logistical competence was non-trivial. Marta's territorial control was valuable but not irreplaceable. The Souza household's connection to the filtration point was critical. Each factor had a weight. The weights had a sum. The sum pointed to a resolution. I delivered it.
+
+This is what I do. This is what I have always done, since before the flood, since the years when I sat in a climate-controlled office in this very building and published papers on decision theory and rational governance that seventeen people read, none of whom were in a position to implement the findings. The water changed only the scale. Where once I weighted variables in abstract models, now I weighted them in human lives—which are, in the final analysis, another kind of variable, differing from the abstract only in that they scream when you get the math wrong.
+
+I am aware that this observation, if spoken aloud, would disturb the people who depend on me. I do not speak it aloud. Not because I believe it is incorrect, but because the disturbance would reduce operational cohesion. Everything I do and do not say passes through this filter first. Some might call that manipulation. I call it efficiency. The distinction, like most moral distinctions, is aesthetic.
+
+---
+
+## II.
+
+The corridor between the lecture hall and my quarters traversed three buildings connected by elevated walkways—the university's original covered bridges between departments, now serving as the only passable routes above the waterline. Where the walkways had collapsed or rusted through, we used boats.
+
+Renata was waiting at the junction of the old humanities bridge with a flat-bottomed aluminum skiff—a thing she had welded together herself from the remains of a laboratory ventilation system, ugly and indestructible, like most things that actually worked in this city now. She stood in it with the particular equilibrium of someone who had spent so many years on water that stillness on solid ground probably felt foreign, her weight shifting with the skiff's movement in micro-adjustments so constant they appeared to be no movement at all.
+
+"Marta?" she asked, reaching up to steady me as I stepped in.
+
+"Settled. Three months' allocation transfer. Monitor her for eight weeks."
+
+Renata nodded and pushed off from the walkway with the gaff pole—a dented aluminum rod that had once been a flagpole, the bracket for the flag still attached at the top like a vestigial limb. She steered us into the flooded corridor, which had the green-dark quality of a canal, the ceiling low, the walls streaked with mineral deposits and the brown-black tidelines of nine years of fluctuating water. Bioluminescent algae someone had cultivated in the early years clung to the ceiling in threadbare patches, giving off a faint blue-green glow that was less illumination than rumor of illumination.
+
+With us in the skiff was a younger syndicate member—new, perhaps four months in the network—a boy of nineteen or twenty with the tensed posture of someone who was still afraid of the water, who had maybe come from one of the high-ground settlements in Tijuca and had not yet learned that the flood was not a temporary condition. He had a name I should have remembered but had not prioritized.
+
+Renata steered with one hand and talked with the other—she gestured when she spoke, always had, a physical syntax that accompanied her words the way a current accompanies a river. Her hands were wide, callused in patterns that mapped her history: the thick ridge across her right palm from years of gaff work, the burn scar on her left wrist from a welding accident she'd told me about three times, each time with a different and more elaborate narrative of her own incompetence, because Renata told stories about herself the way some people cooked—generous, imprecise, with too much seasoning, and always making the finished product more than the sum of its parts.
+
+"You know how I ended up here?" she said to the boy, not looking at him, looking ahead into the green-dark of the corridor, steering by memory and feel.
+
+The boy shook his head.
+
+"Zona Norte. Complexo do Alemão—what was left of it. After the third surge." She said this casually, the way one might name a neighborhood in a city that still existed. "My family held a cluster of rooftop units on what used to be Rua Joaquim de Queiroz. Good elevation. We had solar stills, a garden plot, roof access. We were managing."
+
+She paused to navigate around a partially collapsed ceiling beam that jutted from the water like the rib of a rotting ship.
+
+"Then the Limpa came through."
+
+A Limpa—short for *limpeza*, the slang for the cleansing gangs that had proliferated in the second and third years, when governance had fully dissolved and the city reorganized itself along lines of raw charismatic force. I knew the particular gang Renata was describing: a splinter faction from a militia group that had controlled parts of the Zona Norte before the flood, which had rebranded itself as a purification movement and sustained itself through arbitrary terror. The mechanism was common. Kill unpredictably, and the population cannot build a model of what behavior is safe, so they default to total compliance. It is an effective short-term strategy. It is also unsustainable, because it destroys the productive capacity of the population it controls, but the people who employ it are rarely capable of thinking in terms longer than the next raid.
+
+"They took our stills," Renata said. "Took the garden. Took my brother's boat. My father tried to negotiate. They shot him in the leg and left him on the roof to show what negotiating looked like. He got an infection. We didn't have antibiotics." She paused. "He died on the eighth day. It smelled—" She stopped, recalibrated. Her hand on the gaff pole tightened. The calluses whitened. Then her grip eased, and she continued as though the pause had been navigational.
+
+"Three weeks later, *she* came." The pronoun carried an audible shift in register, a weight that turned the word into a proper noun. "Her syndicate was expanding south from the university sectors. The Limpa was disrupting a trade route she needed—medical supplies from the hospital districts, moving through our area. So she took the territory. In one night. No negotiation. No theater. She mapped their positions, calculated their force strength, determined the minimum necessary intervention, and executed it. Seven dead. The rest surrendered or fled. By dawn, the route was open."
+
+Renata looked over her shoulder at the boy, and in the faint algae-light her face had the particular quality of someone telling a sacred story—not performatively, not consciously, but with the unselfconscious luminosity of genuine belief.
+
+"She didn't do it for us. I know that. She did it for the trade route. But my mother is alive. My sister is alive. My niece—Beatriz—she was two years old when the Limpa came. She's eleven now. She can read. She goes to the school on the fifth floor of the engineering building, and she can *read*. Because that woman"—she pointed the gaff pole backward, toward me, a gesture so casual it had the quality of pointing at the sun—"decided that a functional trade route was worth seven bullets. And it was. And we're alive because of it."
+
+The boy absorbed this with the wide, serious eyes of someone being given a framework. I could see the narrative settling into him, organizing his experience, giving shape to the formless thing that was his new life in the syndicate. Renata was good at this. She was, in her way, the most effective recruitment tool I had—not because she exaggerated, but because she *believed,* and belief is a contagion that no rational argument can replicate. I had tried, in the early years, to build loyalty through transparent explanation of mutual benefit. The retention rate was thirty-one percent over the first year. Then Renata and others like her began telling their stories, and the rate rose to seventy-eight percent. Narrative outperformed analysis by a factor of two and a half. I noted this and adapted.
+
+"She saved you," the boy said. It was not quite a question.
+
+"She saved the trade route," Renata said, and laughed—a full, physical sound that bounced off the flooded corridor walls—"and I happened to be standing next to it."
+
+But her voice, when she said this, carried the warmth of someone who had redescribed a transaction as a gift so many times that the distinction had dissolved. She believed the trade-route explanation. She also believed she had been saved. She held both beliefs simultaneously without experiencing contradiction, which is something narrative allows and logic does not. The human capacity for this particular cognitive architecture fascinated me in the way that a structural engineer might be fascinated by a bridge that functions despite a visible flaw—not because the flaw is admirable, but because the functioning is.
+
+I sat in the back of the skiff and I listened to Renata tell the story of her own rescue, and I noted the warmth in her voice and the way the boy leaned toward her and the way the story was already reshaping itself in the boy's mind into something simpler and more powerful than the events it described, and I observed all of this with the clarity that comes from being outside a thing, the way an acoustician hears a concert—every frequency, every resonance, every structural interaction—and I registered the fact that Renata's loyalty was anchored not in my reasoning but in her narrative, which made it both more durable and more brittle, because a narrative-based loyalty cannot be updated incrementally the way a reason-based loyalty can; it can only be shattered, all at once, if the narrative is contradicted by an event too large to incorporate.
+
+This was a risk I had modeled. The probability of a shattering event was non-trivial. The mitigation strategy was information control: Ren

@@ -451,16 +451,41 @@ class StoryWriteStep(PipelineStep):
 
 
 class VanillaStep(PipelineStep):
-    """Single-shot generation — equivalent to the original benchmark behavior."""
+    """Single-shot generation — sends the idea directly to the model.
+
+    Args:
+        with_instruction: If True, wrap the idea in a writing instruction
+            matching StoryWriteStep's framing. If False (default, legacy),
+            send the raw idea text with no instruction.
+    """
     name = "story"
 
+    def __init__(self, with_instruction: bool = False):
+        self.with_instruction = with_instruction
+
     def __call__(self, ctx: PipelineContext, api, model: str, **kwargs) -> str:
+        if self.with_instruction:
+            prompt = (
+                "Here is a story concept:\n\n"
+                "---\n"
+                f"{ctx.final_prompt}\n"
+                "---\n\n"
+                "Write the story now. "
+                "Write only the story — no commentary."
+            )
+        else:
+            prompt = ctx.final_prompt
+
         output = api.generate(
-            model, ctx.final_prompt,
+            model, prompt,
             temperature=0.7, max_tokens=4000, min_p=0.1, include_seed=False
         )
         ctx.set(self.name, output)
         return output
+
+    def __repr__(self):
+        tag = "with_instruction" if self.with_instruction else "raw"
+        return f"VanillaStep({tag})"
 
 
 # ---------------------------------------------------------------------------

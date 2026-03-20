@@ -1,0 +1,115 @@
+# The God's Marrow
+
+## I.
+
+The first thing you learn in xenoarchaeological morphology is that every structure is a sentence. Bone tells you what lived. The mineral density tells you how long. The architecture of a joint — the fossa, the condyle, the articular surface worn to specific tolerances by specific repetitions — tells you what the living thing *did* with its living. I have read femurs like journals. I have held a fragment of alien scapula to the light and known the angle of a shoulder that rolled seeds between its fingers sixty million years before anything on Earth learned to grip.
+
+So when the Lacuna Expanse resolved on the viewport of the *Penumbra* and I saw the skeleton for the first time, I did what I have always done. I read.
+
+Morphological classification: indeterminate. Scale: planetary-plus, with primary structural elements exceeding Terran continental shelves in gross dimension. Composition: calcium-ite hydroxyapatite analog, heavily doped with elements not yet assigned standard notation, lattice structure consistent with — 
+
+No. Not consistent with anything.
+
+I adjusted the sensor array. The mineral-density readings from the forward suite were returning values that oscillated between calcium phosphate and something the spectrometer was calling, for lack of a better index term, *structured void*. I logged the anomaly. I adjusted again. The readings oscillated again, at a different frequency, as if the bone were — I wrote *as if the bone were breathing* in my field journal and then scratched it out and replaced it with *exhibiting periodic fluctuation in apparent density, mechanism unknown, cf. gravitational lensing artifacts in high-Lacunar environments*.
+
+The viewport was eleven meters wide. The skeleton filled it.
+
+What I mean is: the skeleton filled it the way an ocean fills a window when you are drowning. Not piece by piece, not resolving into components you could name and therefore contain, but *all at once*, a totality that the eye kept trying to reduce into its visual vocabulary — ribs, vertebrae, the long sweep of what might have been a pelvis or a skull or something for which no terrestrial analogy was honest — and failing, failing each time, because the scale did something to the act of seeing itself. My eyes would find a structure, follow its curve, and lose it. Not because the structure ended but because at a certain point the curve exceeded what my visual cortex could model as a single object and the thing I was looking at became *landscape*, became horizon, became the geometry of the world rather than a thing within it.
+
+I felt it first in my hands. A tingling in the metacarpals, an ache below each nail bed, as though I had been gripping something too hard for too long and had only just noticed. I logged this too: *mild peripheral paresthesia, likely secondary to Lacunar gravitational anomalies at current proximity. Monitor.*
+
+The tightness behind my sternum I did not log.
+
+The *Penumbra* adjusted its approach vector, and the skeleton rotated relative to our line of sight — or we rotated relative to it, or the Lacuna itself did something to the spatial relationship between observer and observed that made the word *relative* lose its footing — and new structures came into view. Rib formations. The cathedral comparison is imprecise but I do not have a better one. Each rib was a continent-long arc of pale material, and between the ribs, spanning the intercostal spaces, were membranes of residual tissue — not decayed, not fossilized, but something else, something my spectral analysis kept classifying and reclassifying, cycling through BIOLOGICAL ACTIVE and MINERAL INERT and a third category the system was not designed to offer, a category it kept generating and deleting and generating again as though the software itself were struggling with a concept it did not possess the architecture to hold.
+
+I made a note. I made many notes. The notes were excellent.
+
+Behind me, reflected in the viewport glass so that she appeared to stand inside the skeleton's rib-space, my sister was watching. Lien. She had been there for some time — I had registered her arrival as a shift in the reflection's geometry, a second silhouette appearing at the edge of my visual field — but she hadn't approached, hadn't tapped my shoulder, hadn't done any of the things that constituted the grammar of getting my attention. She was simply standing. Her hands were still. Her face, in the reflection, was illuminated by the skeleton's pale light, and her expression was one I did not have a taxonomy for.
+
+Not wonder. I know wonder. I have seen wonder on the faces of graduate students, field assistants, colonial surveyors encountering their first alien ruin, and it is always recognizable by what it does to the mouth: a slackening, an openness, a momentary dissolution of the face's social architecture into something younger and less defended.
+
+Lien's mouth was closed. Her jaw was set. She looked like a woman arriving at a place she had already been.
+
+She is a cartographer. She has been a cartographer since she was nineteen, when she abandoned the linguistics program that our mother had curated for her — *curated*, not chosen; our mother curated things for Lien the way imperial powers curate the cultures they are saving — and enrolled instead in the spatial-sciences track at the Meridian Institute, where, it turned out, the fact that she had spent her entire life constructing mental models of space through a sensorium that did not include sound had given her certain advantages that hearing cartographers did not possess. She thinks in topography. She dreams in contour lines. She had been waiting for this expedition — for the Lacuna, for the skeleton, for whatever she believed was here — with an intensity that I had been cataloging, privately, as *obsessive fixation, likely grief-related, possibly requiring intervention*, because that is what I do. I catalog. I make the illegible legible. I render the world in terms precise enough to act upon, and I act, and when the terms are wrong and the action fails, I —
+
+The ache in my hands was getting worse.
+
+Gravitational distortion. That was what I was feeling. The Lacuna Expanse is a region of non-standard spacetime; its physics are not our physics, or not consistently our physics, and the human body responds to that inconsistency with symptoms that can mimic emotional states — anxiety, vertigo, the sensation of falling while standing still. I had read the literature. I had read it twice. I knew that the dread pooling in my chest cavity like cold water was a somatic artifact of proximity to a gravitational anomaly of unprecedented scale, and I logged it as such, and the logging helped, the way it always helped, the way writing *seismic instability, probability of cascade event: 0.7 to 0.85, recommend immediate advisory* had helped, once, for exactly the amount of time it took to recheck the models one more time.
+
+I turned from the viewport. Lien was already signing.
+
+*It's larger than the projections suggested.*
+
+Her signs were precise, economical. Lien does not waste motion. In standard Terran Sign, the sign for *large* is an expansion of the hands from the center of the body outward, a blossoming; Lien's version was clipped, almost curt, the hands barely clearing the shoulders before returning to rest. She was not performing awe. She was reporting a measurement.
+
+I signed back: *Sensor data is inconsistent. I'm not confident in any of the dimensional estimates. We'll need to recalibrate before entry.*
+
+*You'll need to recalibrate*, she corrected. *I already know how big it is.*
+
+She held my gaze for a moment — in the reflected light of the skeleton, her eyes were the color of old bone — and then she turned and walked back toward the cartography bay, her boots soundless on the deck, and I stood in the viewport's light and felt my hands ache and wrote in my notes: *Approaching entry threshold. All systems nominal. Observer in good condition.*
+
+The skeleton watched through the glass. I read it and read it and could not find the sentence.
+
+---
+
+## II.
+
+The outer rib-space was designated Site Alpha, because designation is what we do when we are afraid, the first and most fundamental incantation — *I name you, and therefore I contain you* — and I named everything.
+
+The *Penumbra* had anchored to the exterior surface of the fourth rib (R4, I wrote, starboard-lateral, as if the being had a starboard) using molecular adhesion clamps that the engineering team assured me were rated for exactly this kind of substrate, by which they meant they had never been tested on anything remotely like this but the math checked out. We had entered through a natural fissure in R4's cortical layer — a crack wide enough to fly the ship through, deep enough that for seventeen minutes we descended through solid bone and the viewport showed nothing but pale mineral walls striated with lines of luminescence that pulsed at intervals I instinctively began to time. 3.2 seconds. 3.2 seconds. 3.2 seconds. Then 3.7. Then 2.9. Then 3.2 again. I logged the intervals. I graphed them. When the graph began to resemble something — a waveform, a signal, a *rhythm* — I closed the file and opened a new one and began logging mineral composition instead.
+
+We emerged into the intercostal space between R4 and R5, and every instrument I had went critical.
+
+It was a cathedral. I am aware that I said the comparison was imprecise, and it is, the way saying the ocean is "like a large bathtub" is imprecise, but the architecture of the intercostal space triggered the same neural pathways that Gothic architecture was designed to trigger: the eye pulled upward by the converging ribs, the sense of enclosure that is simultaneously a sense of enormity, the light — diffuse, sourceless, emanating from the residual tissue membranes that spanned the intercostal gap like stained glass — falling in patterns that felt *composed*, that felt intended, that I could not stop experiencing as *meaningful* despite having no empirical basis for that assessment.
+
+The membranes. I need to be precise about the membranes.
+
+Spectral analysis returned: BIOLOGICAL ACTIVE. I ran it again. MINERAL INERT. Again. The third category appeared, held for 0.3 seconds — long enough for me to see the readout but not long enough for the system to cache it — and vanished. I manually queried the sensor log. The third category was not in the log. It had not been recorded. My system had generated a classification, displayed it, and then *erased it*, and when I checked the deletion record, the deletion record was empty.
+
+I logged this. I noted the time, the sensor configuration, the precise sequence of events. My hands were steady. My hands were always steady when I was logging.
+
+"Dr. Cau." That was Veracruz, our team lead, on the comms. "Structural integrity reads look solid but I'm getting harmonics I don't love. How's your end?"
+
+"The membranes are returning inconsistent spectral data," I said. "I'd like to deploy a full-spectrum array at the R4-R5 membrane junction. Permission to EVA."
+
+"Membrane's six klicks from your position."
+
+"I'll take the skiff."
+
+"Take your sister. She's been asking to get into the field."
+
+I did not want to take my sister. I did not want to take my sister for reasons that I could articulate precisely and in order — she was not trained for xenoarchaeological EVA; her cartography work could be done from the ship; the environment was unpredictable and I was responsible for her safety — and for one reason I could not articulate at all, a reason that sat in my sternum like a stone and had something to do with the way she had looked at the skeleton through the viewport, like a woman arriving at a place she had already been.
+
+I took my sister.
+
+---
+
+The skiff crossed the intercostal space in forty minutes. Lien sat across from me in the pressurized cabin, her hands busy — not signing, but sketching, her stylus moving across the tablet with the fluid, unhesitating strokes of someone drawing from direct observation rather than from reference. I glanced at her screen. What I saw was not the intercostal space.
+
+Or it was, but it was the space *organized differently*. Where my sensor data showed tissue membranes and bone surfaces and void, Lien's sketch showed *territories*. Regions demarcated by boundaries I could not see, shaded in a gradient that suggested — density? Activity? Sovereignty? The sketch had a legend, but it was in a notation system I didn't recognize, and when I leaned closer to read it, Lien tilted the screen away. Not angrily. Casually. The way you angle a personal letter away from a colleague on a train.
+
+We reached the membrane. Up close, it was not glass-like at all. It was fibrous, layered, and it moved — a slow, rhythmic undulation that could have been wind, if there had been wind, or tidal action, if there had been tides, or *breathing*, if I had been willing to write that word. I deployed the array. Four sensor units, positioned in a cardinal cross, each one tasked with continuous spectral analysis of the membrane surface at a resolution of 0.01 nanometers.
+
+I was calibrating the third unit when I realized Lien was no longer beside me.
+
+She had walked — drifted, it seemed, though the local gravity was stable enough for walking — to the edge of a marrow-channel that opened in the rib surface approximately 200 meters from our landing site. I had marked it on my approach scan: a channel, roughly cylindrical, 40 meters in diameter, descending vertically into R4's cancellous interior. The cancellous bone — the spongy interior architecture of the rib — was where the marrow would have been, in a terrestrial organism. In this organism, my sensors indicated the marrow-channels contained *something*, but the readings were the same oscillating contradiction I had been fighting since we arrived: biological, mineral, void, void, biological, a category that appeared and vanished like a pulse.
+
+Lien stood at the edge of the channel, and she was signing.
+
+Not to me. I was 200 meters behind her. She was facing into the channel — into the dark of it, the deep interior dark where my sensors could not reach — and her hands were moving. Fast. Fluid. A conversation at full speed, the kind of rapid exchange you see between native signers who have known each other for years, the kind where the grammar compresses and the signs blend and the hands become not hands making words but *a single continuous gesture of meaning* —
+
+I crossed the distance faster than I should have. My boots clanged on the bone surface. Her back was to me and she could not hear me coming, but something — the vibration through the bone, perhaps, or a peripheral awareness I have never been able to explain — made her turn before I reached her.
+
+Her face was flushed. Her eyes were bright. She did not look afraid.
+
+She looked like someone who had been *understood*.
+
+*Who are you talking to?*
+
+I signed it too fast, too clipped, the signs sharp-edged with an urgency I could not keep out of my hands. Lien watched my hands the way she always did — reading not just the signs but the tension in my fingers, the angle of my wrists, the whole somatic weather of my body rendered visible through the medium we shared — and her expression shifted. From openness to patience. The particular patience she had cultivated across a lifetime of being the subject of my concern.
+
+*I'm listening*, she signed.
+
+*To what?*
+
+She considered this. Her hands rose, paused, reshaped the air. The sign she chose was one I knew — TERRITORY, the cartographic sign, a sweep of the flat hand across a plane — but she modified it. She added a vertical dimension

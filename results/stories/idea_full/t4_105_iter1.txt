@@ -1,0 +1,160 @@
+# THE PRODUCTION LOG OF THE FEAST OF ECHOES
+
+## Vaskjala Opera House, Harju County, Estonia
+## 3–24 October 2024
+
+---
+
+**Compiled by:** K. Põder, freelance sound engineer (contractor ref. FE-2024-09)
+**Submitted to:** Festival Heritage Committee, Vaskjala Township Cultural Fund
+**Date of submission:** 31 October 2024
+
+---
+
+### Prefatory Note
+
+What follows is an annotated production log and selected interview transcripts from the 2024 cycle of the Feast of Echoes, compiled at the request of the Vaskjala Township Cultural Fund per standing contract addendum 4.2(b), which provides for the delivery of archival audio documentation and supporting written materials within seven days of the festival's conclusion. I have served as contracted sound engineer for the Feast since the 2020 cycle. Prior to that I worked as a boom operator for Estonian Public Broadcasting and did three seasons of location sound for Tallinnfilm before the budgets collapsed. I hold a degree in audio engineering from the Georg Ots Tallinn Music School. My rate is €340/day plus equipment rental and housing. This is noted because the Fund's accounting office asked for it again and I would prefer not to be asked a fourth time.
+
+The 2024 Feast of Echoes took place over twenty-one days in the Vaskjala Opera House, Harju County. The opera house, constructed in 1961 under the oversight of the Estonian SSR Ministry of Culture, has been condemned by the Harju County Building Authority since 2016 due to advanced structural compromise in the east wing foundation and the presence of friable asbestos insulation in the fly gallery and understage areas. The township maintains a special-use exemption for cultural activities during the festival period.¹ The building's RT60² at 1 kHz has degraded to approximately 3.8 seconds in the main hall, which is too long for intelligible speech but suitable for the choral and ambient work the Feast requires. I have filed a standing recommendation that the plaster ceiling above the proscenium be netted. This recommendation has again not been acted upon.
+
+The 2024 cycle's honored guest was Maren Kask (b. 1986, Pärnu; resident New York, NY, since 2009), a theater and performance critic. Ms. Kask's published work includes the essay collection *The Architecture of Liveness* (Verso, 2021) and regular contributions to *Artforum*, *Theater*, and *The Brooklyn Rail*. She was a finalist for the George Jean Nathan Award for Dramatic Criticism in 2023. Her particular area of interest is immersive and site-specific performance. She was invited to the 2024 Feast through the standard process: nomination by the previous cycle's committee, a formal letter of invitation on township letterhead, and a travel stipend funded by the Cultural Endowment. She accepted within forty-eight hours, which I understand is faster than usual.
+
+The log is presented chronologically with minimal editorial intervention. Interview transcripts are taken from my field recordings and are as accurate as my transcription skills allow. My Estonian is native. My English is functional. Where Maren spoke quickly or used academic terminology I was not familiar with, I have marked the transcript [inaudible] or [approximate] rather than guess. Timecodes reference the master audio files, which are archived separately per the Fund's specifications.
+
+The log covers the period from 3 October (Maren's arrival) through 24 October (final night of the cycle). Ms. Kask's review of the Feast of Echoes was never filed with any publication.³
+
+K. Põder
+Tallinn
+31 October 2024
+
+---
+
+¹ The exemption is renewed annually by the township council. The vote is typically unanimous. I have never been present for the vote but I am told it is brief.
+
+² Reverberation time. How long sound takes to decay by 60 decibels in an enclosed space. A concert hall aims for 1.8–2.2 seconds. A cathedral can exceed 6. The Vaskjala Opera House is somewhere between a cathedral and a cave and is getting worse every year.
+
+³ Her editor at *Artforum* emailed the festival's general address on 28 October asking for a status update on Maren's submission. The festival director responded that Ms. Kask had been "profoundly transformed by the experience" and would "need time to find the language." I was cc'd on this exchange. The editor replied with a thumbs-up emoji.
+
+---
+
+## WEEK ONE
+
+---
+
+### Entry 1 — 3 October, 14:20 EET
+
+**Weather:** Overcast, 4°C, light rain turning to sleet by late afternoon. Sunset at 15:47.
+
+**Technical notes:** Arrived at the opera house at 09:00 to begin load-in. Ran cable for the main hall, the backstage corridor, and the kitchen (the township uses the old canteen as a working kitchen during the Feast — the gas lines still function, though the ventilation does not, which creates a persistent haze during long cooking sessions that has a measurable effect on high-frequency absorption). Positioned two Sennheiser MKH 8040s as a spaced pair above the long table in the main hall for ambient recording. Placed a boundary mic under the stage floor to capture structural sound — the building's subsonic activity has been increasing year over year, and the 2023 recordings picked up a low E-flat drone that the choir director, Tiiu, has incorporated into this year's vocal arrangements. I consider this a compliment to my documentation work, though no one has said so.
+
+The fly system engaged twice during setup without input. The counterweight housing is corroded and the hemp lines are beginning to fray. I logged both incidents with timestamps [see master file FE2024-A001, 09:42:17 and 11:03:44]. The second time, a single batten descended approximately two meters before stopping. A dead bird — a fieldfare, I think — was resting on it, desiccated, probably from last winter. I removed it. The batten did not retract.
+
+**Arrival of honored guest:**
+
+Maren Kask arrived at 14:20 by taxi from Tallinn. I was patching the backstage monitors and heard the car on the gravel. She had one large suitcase, a canvas tote full of notebooks, and a shoulder bag that turned out to contain a Zoom H6 portable recorder, two lavalier mics, and a small ring light, which she explained was for "video documentation for my Substack." I told her I would be recording all production audio and offered to share files. She said that would be "amazing" and also that she preferred to make her own recordings because "there's an embodied quality to operating the capture device yourself." I said that was fine.
+
+I had my recorder running. The following is from the transcript.
+
+---
+
+**TRANSCRIPT — MK arrival, exterior/main hall**
+**[FE2024-A003, 14:22:09]**
+
+**MAREN KASK:** Oh my God. Oh my *God*. Look at this place.
+
+**K. PÕDER:** Mind the step. The porch boards are rotten on the left side.
+
+**MK:** No, but this is — you can't *plan* this, you know? The decay is — [sound of hand touching wall] — feel that. The plaster isite — literallyite — you couldn't get this from a set designer in a hundred years. This is real entropy doing real work on a real structure.
+
+**KP:** Yes. The east wall is load-bearing and has shifted nine centimeters since 2019. The county engineer —
+
+**MK:** It's like Punchdrunk's McKittrick Hotel if it were *actually* falling apart. Like if the building weren't performing decay but actually *decaying*. The radical site-specificity of that — of staging work inside a structure that is actively dying — God, I'm already writing the lede in my head. [Laughs.] I should stop. I should experience it first. But it's so — the intentionality of choosing this space —
+
+**KP:** It was built for this.
+
+**MK:** Right, exactly, that's what I mean. The intentionality.
+
+**KP:** No, I mean it was built for this. In 1961. For the Feast specifically.
+
+**MK:** [Pause.] Wait, seriously? The Soviet government funded a purpose-built venue for a folk festival?
+
+**KP:** It was not called a folk festival at the time. The paperwork said it was a regional opera house. There was a deputy minister who was from this county. He understood what was needed. The Soviets built many things in Estonia without understanding exactly what they had built.
+
+**MK:** That's incredible. That's — can I quote you on that?
+
+**KP:** I would prefer not. I am the sound engineer.
+
+**MK:** [Laughs.] Fair enough. Oh — oh, *look* at this.
+
+[Sound of main hall doors opening. Characteristic reverb bloom of the hall, RT60 approximately 3.6 seconds at this position — lower than my measurements from the catwalks, likely due to the table furniture absorbing mid-range frequencies.]
+
+**MK:** Is that — is that seating, or —
+
+**KP:** The seats were removed in 2004. That is the table.
+
+**MK:** One long table. Down the entire length of the auditorium. That's — [counting] — what, thirty? Forty seats?
+
+**KP:** Thirty-six this year. Thirty-five residents plus the guest.
+
+**MK:** It's like a — it's Babette's Feast meets Sleep No More. The communal table as performance architecture. Everyone facing each other, no backstage, no audience-performer divide. This is what I've been writing about for *years*. Maria, this is —
+
+**KP:** Katrin.
+
+**MK:** Katrin, I'm sorry. Katrin. This is one of the most exciting spaces I've ever walked into. And I've been to some spaces. I did Signa's *Hinterlands* in Denmark. I did the Medea installation in that parking garage in Tbilisi. But this — this has a *weight* to it. A historical weight. You can feel it in the acoustics.
+
+**KP:** Yes. The acoustics are terrible.
+
+**MK:** [Laughs.] I love you already.
+
+---
+
+**End transcript.**
+
+I showed Maren to her room. The honored guest stays in the old stage manager's office on the second floor, which has been converted into a bedroom. The window overlooks the rear courtyard where the butchering is done during the final week, but I did not mention this. The room has a radiator that works intermittently. I provided a space heater from my equipment stores and told her not to run it simultaneously with the ring light or she would trip the breaker for the entire east wing.
+
+**Note on building activity:** Between 22:00 and 01:00, while reviewing the day's recordings on headphones, I monitored a sustained low-frequency event from the boundary mic under the stage — a series of deep settling sounds, not rhythmic, not mechanical, more like breathing if a building could breathe. Duration: approximately forty minutes. Peak SPL: 47 dB at 28 Hz, which is below the threshold of conscious hearing for most people but can be felt as unease, nausea, or what some studies describe as a "sense of presence." I have noted similar events in previous years. They tend to increase in frequency and amplitude as the Feast progresses. Whether this is structural (the building responding to increased foot traffic, cooking heat, and vibration) or something else is outside my professional scope. I log it because it is sound and I am the sound engineer.
+
+Maren slept through it. I could hear her snoring faintly through the wall. She has a slight deviated septum, I think. Around 2,200 Hz.
+
+---
+
+### Entry 2 — 4 October, 08:00–22:30 EET
+
+**Weather:** Fog. Temperature 2°C. No visible sun. Sunset technically at 15:44 but functionally the light never arrived.
+
+**Technical notes:** Welcome dinner. Full complement of thirty-five residents in attendance, plus Maren, plus myself (at the back table with the monitoring rig, not seated at the long table — I have never been seated at the long table and have never asked to be). The kitchen team, led by Helle Tamm (age approximately seventy, retired schoolteacher, the one everyone calls Tädi⁴), began preparations at 06:00. I placed a lavalier on the festival director, Andrus Vaher, and a second on the elder, Juhan Sepp, who was giving the welcome speech. Ambient coverage from the overhead pair. Maren had her own Zoom running from her breast pocket; I could see the red LED.
+
+The dinner itself: bread, smoked fish, potatoes with dill, a beetroot soup, roasted pork shoulder, and a cake with lingonberries. Very traditional. Nothing unusual. The food during the first week is always traditional and simple. This is, I have observed over my years of service, good production design. You establish a baseline so the audience knows what "normal" looks like. Then you move the baseline.
+
+Andrus welcomed Maren in English. He is sixty-two, a retired mathematics teacher. He speaks English with a BBC accent he learned from shortwave radio during the Soviet period, which gives his speech an anachronistic formality — like being welcomed by a character from a 1950s documentary. He is very good at his role and would, I believe, have been a fine actor in another life, though I would not say this to him because he would consider it an insult. He does not think of what he does as acting.
+
+The elder, Juhan, is ninety-one. His speech was in Estonian. I translated key portions for Maren in real time, leaning over from my station. I am including the relevant section.
+
+---
+
+**TRANSCRIPT — Welcome dinner, Juhan Sepp address**
+**[FE2024-A007, 19:14:33]**
+
+**JUHAN SEPP:** [In Estonian.] We are grateful this year, as every year, that the house has held. [Laughter from the table.] It was not certain. The east wall — well. Andrus has opinions about the east wall, and I will let him bore you with them later. [More laughter.] But it holds, and we are here, and we have a guest.
+
+[KP, whispering to MK: He says they're glad the building is still standing and they have a guest.]
+
+**JS:** [In Estonian.] Ms. Kask. We welcome you as *tunnistaja*. This is an old word. It means the one who is present. It means the one who sees. In the old law it meant the one whose presence makes the act *real* — because a thing that is not witnessed has not yet happened. You are our witness. Without you the Feast is only a meal. With you it becomes — [pause] — what it has always needed to become.
+
+[KP, whispering to MK: He says you are the witness. He says your presence makes the feast real.]
+
+**MK:** [Whispering.] That's beautiful. What was the word? *Tunnistaja*?
+
+**KP:** Yes. It has — there are different senses. It can mean witness the way English means it. But also in legal proceedings, *tunnistaja* is the one who testifies. And in the older church usage, it is — [pause] — the one who is made to testify. Through experience. There is a — the word shares a root with *tunnistus*, which is confession, and also with *tunne*, which is feeling — but specifically the kind of feeling that is done *to* you.
+
+**MK:** Affect as testimony. Oh, that's — [sound of writing] — that's so rich. The audience-participant as bearer of witness in the sacramental sense. That's exactly the discourse around delegated performance that — sorry, I'm going to write this down properly. Can you say the word once more?
+
+**KP:** *Tunnistaja.*
+
+**MK:** [Writing.] Thank you. God, this is already extraordinary. We haven't even started.
+
+---
+
+**End transcript.**
+
+After the dinner, Maren circulated among the residents. She spoke with everyone who had enough English to manage it and smiled warmly at everyone who did not. She complimented the food to Helle, who patted her hand and said, in English, "You are thin. We will fix this." Maren laughed and wrote it down. Helle was not joking, but it is true that she says this to most visitors, so it was not specific to the context.

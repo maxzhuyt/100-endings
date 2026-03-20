@@ -1,0 +1,129 @@
+# The Second Beacon
+
+## I.
+
+The housing needed cleaning again.
+
+Maren pulled the rag through the third aperture channel, twisting her wrist at the angle she'd learned in her second year — forty degrees off plumb, counterclockwise, firm but not forcing. The residue came away amber, like pine sap. She'd never figured out what it was. The manual called it "photonic discharge condensate." She called it gum. It built up every nine days in the lower channels and every thirteen in the upper ones, and if she didn't clear it, the beam dropped from its standard low-grade output to something you could mistake for a porch light.
+
+Not that anyone was watching.
+
+She logged the cleaning. 0347, local time. Third aperture channel, gum clearance, standard. She noted the ambient hum at 7.2 on the Vasik scale — consistent, unremarkable, the same reading she'd recorded for the last four hundred and eleven days. The light sat in its housing the way it always sat: a pale column of not-quite-white pouring upward through the lens array and fanning out over the coastline, marking the shallows, the channel, the deep-water approach. A glorified lamp on a tall pole on a cliff at the edge of a dying colony.
+
+She put the rag in the solvent bucket and carried the bucket down the stairs. One hundred and twelve steps. She'd counted them once during her first week. She didn't count them anymore.
+
+Outside, the air tasted thinner than last month. Not dangerously — the atmospheric monitors still read within livable range — but she could feel it at the top of a deep breath, a slight incompleteness, like a sentence missing its final word. She noted this in the environmental log. Atmospheric pressure: declining. Rate: 0.3% per quarter, consistent with colonial geology reports. Soil toxicity in the eastern plots had risen another two points. The Vandermeer family had abandoned their holding last week; she'd watched their transport lift from the ridge, and now their greenhouse panels caught the light at odd angles, empty and accusing.
+
+She surveyed the coastline. Her jurisdiction: forty-seven kilometers of basalt cliffs, three navigable approaches, one deepwater channel. Two weeks since the last supply ship. Before that, six weeks. Before that, three months. The intervals were lengthening the way a pulse slows before it stops.
+
+She ate breakfast at the table by the window. Rehydrated protein block, coffee substitute, a nutrient tab she'd started cutting in half to stretch the supply. She ate with her back to the window because the view of the dead greenhouse panels irritated her, and she didn't like being irritated. Irritation was a crack. Cracks widened.
+
+After breakfast she ran the perimeter check. Two kilometers on foot, fourteen sensor posts, each one requiring a manual confirmation ping because the automated network had degraded beyond self-reporting. She carried the handheld unit and walked the same path she walked every morning: north along the cliff edge, east through the scrub, south past the ruins of the old tide station, west back to the lighthouse. Her boots had worn a visible track in the soil. She sometimes thought about varying the route, but there was no reason to. Efficiency was its own justification.
+
+At sensor post nine, she paused to recalibrate the magnetometer. It had been drifting. Everything drifted here — instruments, soil chemistry, the atmosphere itself, slowly thinning toward something that would eventually not support lungs. She adjusted the offset, logged the correction, and moved on.
+
+Back at the lighthouse, she reviewed the comm logs. No new transmissions. Colony administration had gone silent eight days ago, which meant either the uplink relay had failed again or there was no one left to operate it. She composed a status report anyway and queued it for burst transmission at the next satellite window. This is Keeper Maren Elke, Coastal Station Thirty-One, reporting nominal function. The light operates at standard output. The coastline is monitored. She did not add: I don't know who I'm talking to. She did not add: I don't know if anyone is coming.
+
+She cleaned the lens array at midday. This was unnecessary — she'd cleaned it at dawn — but the work settled her, the rhythms of it, the rag moving in its practiced circles over surfaces she could not fully describe. The inner lens was not glass. It was not crystal. It was something the colonial geologists had found buried in the cliff face during initial surveys: a structure of unknown origin, composed of materials that did not appear on any periodic table, arranged in geometries that made the optical physicists argue for three years before they gave up and simply built a lighthouse around it. Maren had read the early reports. They were full of words like "unprecedented" and "paradigm-altering" and "potentially transformative." Then the colony's priorities shifted to survival, and the reports stopped, and the unprecedented artifact became a navigational aid, and the paradigm-altering structure became Maren's job.
+
+She preferred it that way. A job was manageable. A job had edges.
+
+The calibration array on the east face needed its weekly adjustment. She climbed the exterior scaffolding — bolted to the cliff rock, corroding, on her list of concerns she couldn't address — and turned the alignment screws by fractions. She didn't understand what the calibration actually did. The manual described it as "sympathetic frequency attenuation," which meant nothing to her. But when the screws were properly set, the hum smoothed out and the light held steady, and when they weren't, the light flickered and the hum developed an undertone that she felt in her back teeth and her sternum. So she turned the screws.
+
+From the scaffolding she could see the ocean. The Quarantine Ocean, though she had never heard anyone use that name conversationally. People just called it the far water, or the bad stretch, or — in the old colonial survey maps — Oceanus Interdicta, which struck her as grandiose for a body of water whose primary characteristic was that it killed anyone who tried to cross it. Not through storms or sea creatures or navigational hazards, but through something the early explorers had described, in their final coherent transmissions, as "a dissolution of sequential cognition." They forgot where they were. They forgot who they were. They forgot the concept of forgetting. The quarantine had been imposed in the colony's first decade and never lifted.
+
+Maren did not think about the far water. It was not in her jurisdiction.
+
+She descended the scaffolding, entered the day's calibration values in her log, and began preparing the evening system check. The same tasks, the same sequence, the same handwriting filling the same columns in the same logbook. She had seventeen logbooks completed and shelved in the storage room beneath the stairs. Seventeen logbooks and no letters. She did not write letters.
+
+There had been someone to write to, once. Davi, who taught structural engineering at the colony's technical school, who had hands that could frame a wall or thread a needle, who had asked her three times to stay. She had not stayed. She had taken the lighthouse posting — the most remote assignment available, ninety kilometers from the nearest settlement, accessible only by supply transport — and she had told Davi it was a career opportunity. And Davi, who was not stupid, had said nothing, which was worse than anything he could have said.
+
+She thought about this for approximately four seconds, standing in the storage room with logbook eighteen in her hands, and then she carried the logbook upstairs and began the evening entries.
+
+The light hummed. The air thinned. The cliffs held.
+
+She was adequate. She was thorough. She was the keeper of a lamp.
+
+---
+
+## II.
+
+The tremor woke her at 0216.
+
+Not a tremor — a convulsion. The lighthouse swayed and she was on the floor before she was fully conscious, her emergency kit spilling its contents across the stone. The Vasik reader, knocked from its mount, was screaming: 14.6, 15.1, 15.8. Numbers she had never seen. Numbers the scale was not designed to hold.
+
+She got to the observation window.
+
+The coastline was splitting.
+
+Not cracking — *opening*, a seam running north-south along the cliff edge, rock faces pulling apart like hands releasing a held breath, and from the gap: the sea, surging upward, boiling where it met superheated stone, steam columns rising white against the dark. The channel approach — the only navigable route to the colony's port — was reshaping itself in real time, shallows deepening, depths shallowing, every chart she had memorized becoming fiction in the space of a minute.
+
+And on the cliff tops, in the lurid orange of emergency flares: people.
+
+Hundreds of them. A thousand, maybe more. She could see the transports that had brought them — four heavy-lift shuttles grounded on the plateau, hatches open, cargo ramps still extended. An evacuation. Someone had finally organized an evacuation, and they had come to her coastline because her coastline had the only deepwater channel, and the channel was now a boiling trench, and the ships that were supposed to meet them — if ships were coming at all — would founder on new-formed rock.
+
+She was moving before she finished thinking. Down the stairs, across the platform, hands on the beacon's manual override console — a panel she had never opened, sealed with warnings she had always obeyed. FULL ACTIVATION REQUIRES COLONIAL AUTHORITY OVERRIDE. UNAUTHORIZED ENGAGEMENT MAY RESULT IN STRUCTURAL FAILURE. She had read these words a hundred times while cleaning the housing. She had filed them in the category of things that would never be relevant.
+
+The cliff screamed. A section of the plateau — the section nearest the transports — sheared away and dropped into the boiling water. She heard people screaming with it.
+
+She broke the seal.
+
+The override panel was simple. Three switches, one dial, one contact plate sized for a human hand. She had seen it in the technical diagrams but never touched it. The manual called it the "sympathetic interface." She called it — she had always called it — the hand thing.
+
+She put her hand on the plate.
+
+And the light
+
+— unfolded —
+
+— it did not brighten so much as *deepen*, the pale navigational beam swelling into something that had color and weight and texture, a luminance that she could feel pressing against her skin, pressing *into* her skin, and the hum was no longer a hum but a chord, a chord built from frequencies her ears could not parse but her bones understood, and her hand on the plate was no longer her hand on a plate but her hand *in* something, her fingers extending through the metal and into the lens array and through the lens array into the light itself and through the light into —
+
+— the rock. She could feel the rock.
+
+Not feel it the way she felt the cold of the floor through her boots or the vibration of the tremor through the walls. She could feel it the way she felt her own body: from inside, proprioceptive, intimate. The basalt of the cliffs was *hers*. The crystalline structure of each column, the fault lines and compression zones, the places where the stone was strong and the places where it was about to fail — she knew them the way she knew how to close her fist. The sheering plateau, the section that was falling, the people on it: she *caught it*. She didn't think the word "catch." She didn't think any words. Her hand flexed on the plate and the falling stone slowed and stopped and reversed, basalt flowing upward like poured water remembering its glass, the cliff face reconstituting, the cracks sealing, stone knitting to stone with a sound like — like —
+
+There was no simile. There was no comparison. There was only the sound and she was the sound and the stone and the light and the water.
+
+The boiling sea. She reached for it the way she would reach across a table to steady a tipped cup. The thermal vents along the new fissure — she could feel them, pinprick bright, the planet's mantle exhaling through wounds in its crust — and she *soothed* them, pressed them closed, pressed the fissure closed, her will moving through the light and into the seabed and the water cooling in her wake, the steam collapsing, the surface flattening, stilling, until the channel lay before her like a drawn breath.
+
+But the refugees needed more than calm water. They needed harbor. They needed shelter from the next tremor and the next, because the planet was not done breaking, she could feel that now — the tectonic stress, the deep instability, the way the continental plate was slowly delaminating like old plywood, disaster after patient disaster queued beneath the surface. They needed a place to stand that would hold.
+
+So she built one.
+
+The cliffs reshaped under her attention. Basalt columns bent and fused, curving outward from the cliff face in great arcs, forming breakwaters, jetties, a harbor wall that rose from the water as if the planet were offering its cupped hands. She felt every molecule of the restructuring, felt the stone's reluctance and compliance, felt the precise moment when each new formation locked into stability. The channel deepened and widened and she lined its floor with smooth stone, and she carved approach markers into the cliff faces — luminous markers, the light itself embedded in rock, permanent, visible from fifty kilometers in any weather. She gave the harbor a name without meaning to, a name that came from the light rather than from her: *Threshold*. She felt the name settle into the stone like an inscription.
+
+And she could feel the people. Not their thoughts — nothing so articulate — but their *states*. The terror, still white-hot in some of them, cooling in others to bewilderment, and in a few — the children, in particular, the children who had not yet learned that reality was supposed to be fixed — she felt something that burned brighter than terror and didn't hurt: wonder. A girl, maybe eight, standing at the cliff edge, watching the stone reshape, and in her chest a feeling like a door opening onto a room that had always been there.
+
+Maren felt the girl feeling that. And for one moment — one moment of the sixty seconds that would turn out to be all she had — she felt it too. Not the wonder of a child seeing something impossible. The wonder of being the impossible thing. Of having been a woman who cleaned gum from aperture channels and now being — this. The light and the stone and the water and the harbor and the people and the planet's own wounded geology, all of it flowing through her and answerable to her, reality not fixed but *fluid*, a draft she was editing with a hand she could no longer distinguish from the hand of something unimaginably larger than herself.
+
+She wanted to weep. She wanted to stay forever. She wanted to reach farther — the tectonic stress, the deep faults, the slow catastrophe beneath the continent — she could *almost* touch it, almost close her hands around the planet's breaking heart and hold it together, and she reached and reached and the light reached with her and she felt something in the housing above her crack, a sound like a wine glass singing its last note before shattering, and the aperture channels flooded with gum all at once, not amber but black, and the chord in her bones became a shriek and the hum became silence and the stone became stone and her hand was a hand on a metal plate and the plate was cold.
+
+Dark.
+
+She was on the floor again. Smoke. The sharp chemical smell of burned circuitry or burned something — burned *not-circuitry*, whatever the alien components were made of, degassing and dying in the housing above her. For a long time she could not move. Her hand was burned where it had rested on the plate. She did not feel the burn. She did not feel anything except the absence of what she had felt, which was so vast and so sudden that her nervous system had no way to process it and simply presented it as quiet.
+
+She lay on the floor of the lighthouse and breathed.
+
+The hum was gone. The light was gone. The housing, when she finally climbed to inspect it, was dark and inert, the lens array cracked through its center, the alien material beneath it charred to something friable that crumbled at her touch. Dead. The unprecedented, paradigm-altering artifact was dead and she had killed it.
+
+She went back down the stairs. One hundred and twelve steps.
+
+She opened her logbook. Her hand shook. She steadied it.
+
+0219. Full activation engaged. Duration: approximately sixty seconds. Tectonic event mitigated. Coastline restructured. Harbor constructed. Beacon housing: total failure. Artifact: nonfunctional.
+
+She closed the logbook.
+
+She sat in the dark for a long time.
+
+---
+
+## III.
+
+The first wreck was on the fourth night.
+
+She heard the hull breach at 0340 — a sound she had never heard before but recognized immediately, the way you recognize a scream in a language you don't speak. Metal tearing. The specific, percussive groan of a vessel's spine breaking across submerged rock. Then voices, briefly, high and thin across the water. Then nothing.
+
+At dawn she went down to the shore.
+
+The vessel had been a coastal transport, thirty-meter class. It had struck the reef at the northern edge of the channel approach — a reef that hadn't existed before the tectonic event, new rock that
