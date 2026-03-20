@@ -1,4 +1,7 @@
-results/
+results/endings/
+results/judge/
+results/geometry/
+results/logs/
 __pycache__/
 *.pyc
 .env

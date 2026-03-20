@@ -1,0 +1,149 @@
+# The Infinite Playoff
+
+---
+
+The first contradiction was small enough to ignore.
+
+In the official scorebook for Game 3 of the 2019 Tri-City Valley Cats versus the Hudson Valley Renegades, the third at-bat of the fifth inning was recorded as a strikeout looking. Batter: Marcus Delgado, #24. Three pitches: fastball outside, slider low, fastball painting the corner. Called strike three. The home plate umpire was Gerald Fenn.
+
+But in the duplicate scorebook—the one kept by the visiting team's statistician and filed separately with the league office in accordance with Section 14(b) of the New York-Penn League operational handbook—the same at-bat was a ground-rule double to right-center. Four pitches. The count went 2-1 before Delgado drove a changeup into the gap. The ball bounced over the wall on the hop. Gerald Fenn was still behind the plate. The date, time, attendance, weather conditions, and every other at-bat in the game were identical.
+
+I found this on a Tuesday in November, working alone in the basement office the league had given me—a repurposed storage closet beneath FirstEnergy Stadium in Reading, Pennsylvania, where the cinder block walls wept condensation in summer and radiated a geological cold the rest of the year. They'd set me up with a folding table, a rolling chair with a broken pneumatic cylinder that sank to its lowest setting every forty minutes, and a Dell laptop from 2014 whose fan ran so constantly and so loudly it functioned as white noise.
+
+I was supposed to be investigating the Renegades.
+
+The allegations had come through back channels—a former clubhouse attendant who'd talked to a local reporter who'd talked to a league official who'd talked to the commissioner's assistant who'd talked to someone who knew someone who knew that I, Howard Lenz, formerly of the Lehigh Valley IronPigs analytics department and before that the Reading Fightin Phils and before that three semesters of a statistics PhD at Temple that I'd abandoned for reasons I'll get to, was available. Available meaning unemployed. Available meaning willing to work contract, no benefits, at a rate that reflected badly on everyone involved.
+
+The allegation was point-shaving. Specifically, late-inning run manipulation in games with outsized betting activity on regional sportsbooks. The theory was that certain Renegades players had been instructed—or incentivized—to alter their approach in specific at-bats to influence run differentials. Not wins and losses. Spreads. The kind of corruption that lives in the margins, in the gap between a 4-2 loss and a 4-3 loss, where no one who watches the game notices anything but the money moves.
+
+To investigate this, I needed to cross-reference official scorebooks with video records, pitch-tracking data, and betting-line movements. The league had given me access to everything, which meant they'd given me boxes—actual cardboard boxes, warped and water-stained—full of paper scoresheets and a shared drive containing approximately 11,000 files organized by someone who had either never used a computer or actively hated the concept of directories.
+
+I was four weeks into the work when I found the Delgado discrepancy.
+
+I noted it. I flagged it. I assumed it was a clerical error—someone had transposed the outcome from a different at-bat, or miscoded the result during data entry. These things happened. Minor league record-keeping was, charitably, inconsistent. The whole system ran on the diligence of underpaid twenty-three-year-olds who were keeping score in press boxes with broken air conditioning while also managing social media accounts and operating the between-innings T-shirt cannon.
+
+I moved on.
+
+The second contradiction was harder to ignore.
+
+---
+
+Game 7 of the same series—except there was no Game 7. The series was a three-game set. This is standard for the New York-Penn League short-season format. Three games, in and out, move to the next city. But in the shared drive, filed under HVREN_2019_AUG, there was a complete scorebook for a fourth game, and then a fifth, and then two more after that, the series extending like a hallway in a dream, each game logged with full box scores, pitch counts, defensive alignments, and umpire assignments. Game 7: Renegades 6, Valley Cats 3. Attendance: 2,411. Game time: 2 hours, 47 minutes. Temperature at first pitch: 78°F, humidity 64%, wind SSW at 8 mph.
+
+The detail was what unsettled me. Not the existence of the files—misfiled data from other series could explain that—but the granularity. Someone had recorded these games with the exactness of a person who had been there, who had watched each pitch, who had smelled the grass and the spilled beer and the hot rubber of the batting cage. The weather data matched historical records for the dates listed. The umpire assignments were consistent with the crew rotation schedule I'd independently verified. The player statistics flowed naturally from the games before and after—if you slotted these phantom games into the season, the numbers worked. Batting averages, ERAs, fielding percentages: they all adjusted seamlessly, as if the season had always contained these extra games and someone had merely forgotten to tell reality.
+
+I checked the Valley Cats' records. They showed a three-game series. Three games. No more. The dates of Games 4 through 7 corresponded to off-days and travel days in the Valley Cats' schedule. The Renegades' own schedule, obtained independently from their front office, confirmed the same. Three games. The series ended on a Thursday. Friday was a travel day. Saturday they opened against Batavia.
+
+But the scorebooks were there. Seven games. And in those four extra games, Marcus Delgado went 9-for-16 with three home runs and eleven RBIs, which was notable because Marcus Delgado hit .187 for the actual 2019 season with one home run total, a performance so anemic that he was released in August and, according to the most recent information I could find, was now selling solar panels in Scottsdale.
+
+I printed everything. I spread the pages across my folding table in the basement and I stared at them and I thought: someone made these.
+
+Not carelessly. Not as a prank. Someone had constructed fictional games with such meticulous attention to statistical plausibility that they'd reverse-engineered the outcomes to be invisible unless you were specifically cross-referencing series lengths against league schedules. The only reason I'd found them was that I was looking at Delgado's at-bat-level data, and the phantom games had inflated his numbers just enough to shift a standard deviation estimate I was running.
+
+I opened my laptop. I began searching the shared drive systematically, looking for other anomalies. I wrote a script—nothing sophisticated, just a Python routine that compared game counts per series against the published schedule for each team—and ran it overnight, the Dell's fan screaming like a dental drill, and when I came in the next morning and looked at the results, I sat in my broken chair and did not stand up for a very long time.
+
+There were forty-three phantom games across the 2019 season. Forty-three complete scorebooks, with full statistical records, for games that had never been played. They were distributed across fourteen different series involving nine different teams. They were not random. They followed patterns. The phantom games appeared preferentially in series where the actual betting-line movements had been most anomalous—the same series I'd been flagged to investigate. And in every single phantom game, the run differentials aligned with what the point-shaving theory predicted: narrow losses that just covered the spread, manufactured through late-inning collapses that looked organic in the box score.
+
+Someone had built a statistical shadow of the season. A parallel 2019 in which the corruption I was looking for was not just suggested by betting patterns but proven by game records. The evidence I needed—the impossible evidence, the kind you never get—was sitting in the files, waiting for me.
+
+It was perfect. It was too perfect. And as I stared at the printouts, something cold moved through my chest, like a hand reaching between my ribs, because I recognized the formatting.
+
+---
+
+I need to explain how scorekeeping works—not the mechanics, which are simple, but the idiosyncrasies, which are personal. Every statistician develops habits. Shorthand. Quirks of notation. The official system is standardized: K for strikeout, BB for walk, 6-3 for a ground ball fielded by the shortstop and thrown to first. But within that system, there are choices. How you record a foul ball. Whether you note pitch location. How you abbreviate a pitching change. These things accumulate over years into something like a fingerprint.
+
+I had been a professional scorer and statistician for eleven years. I had kept thousands of games. And the phantom scorebooks—all forty-three of them—were written in my hand.
+
+Not literally. They were digital files, typed, formatted in a spreadsheet template. But the template was mine. I'd designed it in 2016 when I was with the IronPigs, a custom Excel layout with specific column widths and header formatting and a particular way of encoding pitch sequences that I'd never seen anyone else use, because I'd invented it. The font was Consolas, 9-point, which I used because it was monospaced and aligned cleanly in cells. The conditional formatting—green for hits, red for errors, yellow for walks—was my color scheme. The formula in cell AK2 that auto-calculated OPS from the component cells had a rounding error I'd never fixed, truncating to three decimal places instead of four. I knew that error. I'd been meaning to correct it for three years.
+
+These were my files. Made with my template. Using my system.
+
+I had no memory of creating them.
+
+---
+
+I should tell you about the gambling.
+
+I should tell you about the gambling because it's relevant, and because I've learned—am learning, am in the process of learning—that the things I don't want to talk about are the things that have shaped all of this, that have carved the channels through which everything else flows.
+
+I started betting on baseball in 2017. This is not unusual for people in my line of work, in the same way that it's not unusual for bartenders to drink. The proximity creates the temptation, and the expertise creates the delusion of edge. I knew the numbers. I knew the tendencies. I knew which pitchers were hiding injuries and which hitters were adjusting their swing mechanics and which managers were making decisions based on superstition rather than strategy. I knew things the books didn't price in.
+
+The first year, I made money. This is the worst possible outcome for a beginning gambler, because it validates the delusion. I made $14,000, which was meaningful—more than meaningful—on a minor league statistician's salary. I felt competent. I felt, for the first time in years, like my expertise was worth something tangible, convertible to a currency the world respected.
+
+The second year, I lost $31,000. The third year, I lost what I couldn't afford to lose, and then I lost more, and I won't give you the numbers now because the numbers stopped being numbers at a certain point and became something else entirely—a pressure, a thickness in the air, a quality of light when I woke up at 3 a.m. and stared at the ceiling and tried to calculate whether the next month was survivable.
+
+I borrowed. From people you don't borrow from, and then from people you absolutely don't borrow from, and then from financial instruments whose terms I signed without reading because reading them would have made the situation real, and I had already developed, by then, an extraordinary ability to prevent situations from becoming real.
+
+This is the important part. Pay attention, because this is where the story starts to eat itself:
+
+I had access to the data. All of it. Game records, statistical databases, scouting reports, injury designations—the entire informational substrate of minor league baseball in the northeast region, flowing through my laptop, because that was my job. My job was to sit in a room and know everything.
+
+And I knew—I know—that at some point during those years, I began to alter records.
+
+I know this the way you know the shape of a room you've never turned the lights on in. The way you know something is behind you. The conviction is total and the evidence is absent and the two facts coexist in a space that reason can't reach. I know I falsified data. I know I did it to obscure my gambling activity. I know it was systematic and sustained and I know I was good at it, because I was good at the work, and the corruption was the work done in reverse—the same skills, the same rigor, the same attention to the hidden architecture of numbers, applied to the construction of a false reality that would remain coherent under scrutiny.
+
+But I don't remember doing it. I don't remember the specific acts—sitting at a keyboard, opening a file, changing a number, saving, closing. I have no episodic memory of falsification. What I have instead is a structural understanding, a knowledge that lives in my hands and my habits and the reflexive way I avoid looking too closely at certain files, certain dates, certain sequences of my own work. I know I did it the way a building knows where its cracks are.
+
+And the forty-three phantom games—my phantom games, built with my tools, following my conventions—were either part of that falsification, or they were evidence I'd planted to frame the Renegades for something they hadn't done, or they were something else entirely, something I hadn't yet found the category for.
+
+---
+
+I called my ex-wife. This was a mistake, but all the available options were mistakes, and at least this one involved another human being.
+
+"Howard," she said, in the tone she reserved for me—a tone I can only describe as the acoustic equivalent of a steel door closing slowly enough that you could stop it but won't.
+
+"I need to ask you something."
+
+"It's eleven o'clock at night."
+
+"Do you remember the months I was working the StatCast implementation? Summer of 2018. I was traveling a lot. Do you remember if I was—did I seem—"
+
+"Howard."
+
+"Was I acting strange? Was I disappearing? Was I—"
+
+"You were always disappearing. You disappeared in every way a person can disappear while still technically being present."
+
+"I mean specifically. Did I—"
+
+"I'm hanging up now."
+
+"Rebecca."
+
+"What."
+
+"Did I ever tell you about any side work? Consulting? Anything off the books? Did I ever mention creating files for—"
+
+"Howard, I'm going to say something and I need you to hear it as clearly as possible: I do not keep records of your life. I stopped keeping records of your life on June 14, 2020, which is the date I signed the papers, and if I could retroactively stop keeping records going back further, I would, because every memory I have of you is a memory of someone who was never fully in the room. You were always somewhere else. You were always doing the math on something. And I don't know what you did or didn't do in 2018, and I don't want to know, and if you're in trouble—"
+
+"I think I might have done something."
+
+Silence.
+
+"Howard, are you safe?"
+
+"I don't know what that means right now."
+
+"Are you physically safe. Are you in danger."
+
+"I'm in a basement in Reading, Pennsylvania."
+
+"Why are you in a basement in Reading, Pennsylvania?"
+
+"I'm investigating a thing. For the league. Point-shaving. But I think—I think I might be investigating myself. I think the thing I'm investigating might be something I did."
+
+Another silence, longer.
+
+"Howard, do you have a therapist?"
+
+"I had one. Dr. Milligan. I stopped going because—"
+
+"Get a new one. Tomorrow. I'm serious. Whatever this is—whatever spiral you're in—you need to talk to a professional, not me. I can't be this for you. I was never able to be this for you."
+
+She hung up. I sat in the basement and listened to the Dell's fan and I thought about what she'd said: *someone who was never fully in the room*. And I thought about the phantom games, the impossible records of events that never happened, recorded by someone who apparently wasn't there—not there in the room, not there in his own life, not there in the way that a person needs to be there to know what they've done and what they haven't.
+
+---
+
+I kept working. What else was there to do?
+
+I went deeper into the shared drive. I cross-referenced everything. I built a master spreadsheet—a real one, my own, a document I was creating consciously and deliberately, though I was no longer entirely sure what that meant—and I logged every discrepancy. The contradictions multiplied. They didn't just live in the phantom games; they had metastasized into the legitimate records too. I found at-bats with different outcomes in the home and away scorebooks, and not just the Delgado discrepancy—dozens of them, scattered

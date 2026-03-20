@@ -1,0 +1,133 @@
+# The Linguistic Fingerprint
+
+## I.
+
+The note had been found on the kitchen table, beneath a clean mug turned upside down on a folded dish towel, as though the writer had washed it last and wanted it to dry properly before anyone arrived. Lena appreciated this detail more than she should have. It suggested a mind concerned with sequence, with the correct ordering of final acts. It suggested authenticity.
+
+She sat in the consultation room of the Portland Police Bureau's Detective Division, a space that smelled of burned coffee and the particular baked-dust scent of electronics left running overnight. Detective Orozco had given her the file forty minutes ago and then retreated, because he had learned from three prior consultations that Dr. Caldwell did not produce faster work under observation.
+
+The note read:
+
+*Mom, I know this is the thing I said I would never do to you. I know that. I've known that the whole time and it didn't change anything, it just made it worse, knowing it and still feeling this way. Please don't read the journals. Please just throw them out. I already took care of the bills and the storage unit key is in the top drawer of the filing cabinet (the one that sticks). I'm sorry this isn't a better letter. I tried to write a better one. This is just what I have.*
+
+Margaret Yoon, age forty-one. Software project manager at a midsize firm downtown. Found by her mother, Sunhee, who had driven ninety minutes from Astoria because Margaret hadn't answered the phone on a Sunday, which Margaret always answered on Sundays, which Sunhee already knew meant something final even before she used her key. Cause of death: overdose of amitriptyline, prescribed eighteen months prior by a psychiatrist whose notes documented moderate-to-severe depression with acute episodes. The toxicology was unambiguous. The note was where Lena came in.
+
+On the desk beside the printed note, she had arranged the comparison samples: six years of Margaret Yoon's emails to her mother, extracted from the mother's account with consent. A performance self-evaluation submitted to her employer. Two handwritten birthday cards, photographed. A long, unsent draft of a letter to an ex-partner, recovered from her laptop.
+
+Lena worked through the samples with the meticulous, bodily satisfaction she had never been able to explain to anyone who didn't do this work — the way each writer's patterns surfaced like the grain in wood when you knew how to sand. Margaret Yoon favored compound sentences joined by "and" rather than subordinated with "because" or "although." She defaulted to imperative softening through "just" and "please" in combination, rarely using either alone. Her comma usage was idiosyncratic in a specific, repeatable way: she inserted serial commas only when the final list item was monosyllabic, as though the rhythm of the sentence, rather than any rule, governed her punctuation. She parenthesized practical afterthoughts — *(the one that sticks)* — in a syntactic habit that appeared in four of the six comparison emails. The apology construction in the final lines — *I'm sorry this isn't* followed by a comparative adjective, then a pivoting *I tried to* plus infinitive — appeared verbatim in a 2019 email about a missed birthday dinner.
+
+The note was Margaret Yoon's writing. Not probably. Not likely. Categorically.
+
+Lena entered the full corpus — note and comparison texts — into her attribution software, a system she had built during her postdoc at Carnegie Mellon and refined over eight years. The platform ran twelve simultaneous analyses: lexical diversity indices, syntactic complexity metrics, function-word frequency distributions, hedging behavior, punctuation patterns, pronoun ratios, clause-embedding depth, discourse-marker preferences, sentiment-affect lexical mapping, and two proprietary measures she had published on but never fully released. The system returned an authorship-match confidence of 98.6 percent. Anything above 94 was considered forensically conclusive in the three jurisdictions that accepted computational stylistics.
+
+She was about to close the analysis window when the secondary readout caught her attention.
+
+The temporal-linguistic signature metric — TLS — was a calibration tool she'd built two years ago and never removed from the dashboard. It was not peer-reviewed. It was not intended for case application. Its function was esoteric even within the already esoteric field of computational stylistics: using the rate and trajectory of idiolect stabilization across a writer's available corpus, it estimated the approximate developmental window during which the writer's core linguistic identity had crystallized — the period, usually in late adolescence or early adulthood, when deep syntactic habits, function-word ratios, and clause-architecture preferences locked into the patterns that would persist, with surface variation, for the rest of the writer's life.
+
+For Margaret Yoon's comparison texts, the TLS returned a formation window of 1998–2001. Margaret had been seventeen to twenty during those years. Consistent with the literature. Normal.
+
+For the suicide note — analyzed as a standalone document, as the system automatically did — the TLS returned a formation window of 2031.
+
+Lena stared at the number. She toggled the display settings, thinking she might have accidentally reversed an axis. She re-ran the metric on the note alone. 2031. She ran it on the note plus comparison texts combined. The combined corpus returned 1999, which was correct, because the comparison texts overwhelmed the single-document anomaly in aggregate. But the note, isolated, kept returning 2031.
+
+She sat with this for perhaps ninety seconds. Then she understood what had happened. The note was short — 127 words, well below the minimum corpus length for reliable TLS estimation. The metric was overfitting to noise. She had known since she built it that TLS degraded sharply below approximately 300 words; she simply hadn't hardcoded a minimum-length threshold, because the tool was for her own calibration, not for case use. The 2031 output was a rounding artifact amplified by insufficient data. It meant nothing.
+
+She made a mental note to add a minimum-length gate to the TLS module. She saved the output log to a diagnostics folder she checked quarterly. She closed the window.
+
+She wrote her report in twenty minutes. *Analysis supports attribution of the subject note to Margaret Yoon with high confidence (98.6%). Stylistic markers, syntactic patterns, and function-word distributions are consistent across the subject note and comparison corpus. No indicators of second-party authorship or coercion markers detected. Findings are consistent with the note having been composed voluntarily by the decedent.*
+
+She signed it. She sent it to Orozco. She drove home to her apartment on Hawthorne, where she ate a bowl of dal she had batch-cooked on Sunday and graded four student assignments by hand because she did not trust herself to be fair when she was tired, and she was tired.
+
+Before bed, she opened the diagnostics folder on her laptop and looked at the number one more time. 2031. She exhaled through her nose — the closest thing to a laugh she allowed when she was alone — and closed the laptop.
+
+Seven years in the future. As if language could arrive before the speaker who carried it.
+
+She slept.
+
+---
+
+## II.
+
+The seminar met on Tuesdays and Thursdays in a basement room of the linguistics building that smelled, depending on the humidity, of either old carpet or new mold. Nine graduate students arranged in what Lena had once calculated was the maximum entropy configuration: no two students ever sat in the same seat twice, as though they were unconsciously running their own randomization protocol. She had mentioned this observation once, in the first year, and had received the particular silence that told her the joke had been either too obscure or too precise to register as humor.
+
+Today's topic was idiolect stability across register shifts. She had assigned readings from Coulthard and Grant, and she was eleven minutes into dismantling a student's claim that code-switching between professional and intimate registers represented a fundamental instability of the linguistic fingerprint.
+
+"The register shifts," Lena said, "are themselves patterned. A speaker who hedges more in professional emails and less in personal texts is not demonstrating two idiolects. She's demonstrating one idiolect with a consistent hedging-register gradient. The gradient *is* the fingerprint. The question is never whether variation exists. The question is whether the variation is systematic." She paused, because the student — Tomás Beltran, her best, the one she was quietly grooming for a research assistantship — had the expression of someone who wanted to push back but was calculating whether this was the day to do it.
+
+"Push," Lena said.
+
+"I'm just wondering," Tomás said, "whether there's a circularity problem. We define the idiolect as the stable pattern. Then when we find instability, we redefine it as a higher-order stable pattern. At what point are we just — fitting curves to noise and calling it signal?"
+
+Lena felt the precise, clean satisfaction of a student arriving at the right question. "That's the right question," she said. "And the honest answer is: the distinction between signal and noise in stylistics is not formally resolved. We manage it empirically. We test. We replicate. We set confidence thresholds and we acknowledge uncertainty. But we do not retreat into the claim that linguistic identity is unmeasurable simply because the measurement is hard."
+
+After class, she ate her lunch — a grain bowl from the café on 12th, the same order she had placed every weekday for nineteen months, because she had found the optimal intersection of macronutrient density, cost, proximity, and the simple pleasure of not having to decide. She ate at her desk in her office, beneath the framed letter.
+
+The letter was a threat. It had been sent, thirteen years ago, to a state legislator in Wisconsin who supported a bill restricting firearms purchases. The letter promised harm, in detail, typed on a public-library printer, and contained no physical evidence — no DNA, no fingerprints, no traceable digital metadata. The FBI had consulted Lena, then a second-year postdoc with a published algorithm and an absurd amount of confidence. She had identified the author in four days: a disgruntled former campaign volunteer whose blog posts shared with the threatening letter an unusual pattern of double-hyphenating compound adjectives and inserting the word "frankly" as a sentence-initial discourse marker at a frequency three standard deviations above average. The man had confessed within hours of being interrogated. The legislator had sent Lena a handwritten thank-you. Lena had framed the threat letter instead. Her sister had asked her once why she hadn't framed the thank-you, and Lena had said, "The thank-you is just a letter. The threat is data."
+
+She did not think of this as strange. She thought of it as honest.
+
+At 3:15 p.m. her phone buzzed. Kevin. Her ex-husband, a term she used loosely for a man she had been married to for fourteen months in her early thirties before they had both arrived, with mutual relief, at the conclusion that they had married each other out of a shared desire to be the kind of person who was married, which was a poor foundation. Kevin remained the closest thing she had to a domestic confidant, a role he filled with the competent, slightly worried attentiveness of a man who suspected he was the control group in someone else's experiment.
+
+"Just confirming you don't need a ride Thursday," he said.
+
+"I don't need a ride Thursday."
+
+"And you're still not finding out the sex."
+
+"Correct."
+
+"And you still don't want me in the waiting room."
+
+"Kevin."
+
+"I'm confirming. These are logistics. I support your process."
+
+"You are very good at supporting my process."
+
+"I have a low bar and I clear it consistently."
+
+She smiled — a real one, small, gone before it finished — and ended the call.
+
+Thursday. The perinatology suite at OHSU was cool enough to raise goosebumps on her exposed abdomen. The ultrasound technician was a woman with a gentle voice and the practiced, nonreactive face of someone who delivered ambiguous news often enough to have developed a protocol for it. Lena lay on the table and watched the monitor.
+
+The image assembled itself in gray gradients: a curved spine like a strand of seed pearls, the four-chambered fist of the heart opening and closing with a mechanical regularity that Lena found, for a moment, genuinely astonishing — not the fact of it but the *clarity*, the readability of it, the way the rhythm presented itself as pure signal, a biological sine wave without noise. She knew the technician was measuring the femur length, checking the nuchal fold, assessing placental position, running the checklist.
+
+"Everything looks good," the technician said. "Right on track for twenty weeks."
+
+"Thank you."
+
+"Do you want to know the sex?"
+
+"No."
+
+On the screen, the fetus moved — a slow, deliberate flexion, one arm extending and retracting as though testing the limits of available space. Lena watched it with the focused, categorizing attention she brought to handwriting analysis, the way she looked for the telling micrographic gesture within the broader stroke. She was looking for pattern. She was always looking for pattern. And for a moment she felt something else — not pattern, not signal, not data — something that registered below the frequency of her analytical processing, a low hum of recognition so alien to her that she could not immediately name it. Her throat constricted. Her vision blurred at the periphery. She blinked once, twice, and the sensation passed, and the screen was a screen again, and the shape on it was a twenty-week fetus of normal morphology and she was a woman collecting information.
+
+"Can you print that image?" she asked. Her voice was the same as before.
+
+She had names for both possibilities. She had chosen them the way she would have chosen variable names in a codebase: meaningful, short, unlikely to collide with existing terms in her social environment. She had not told anyone the names. She had not told anyone that she had, on four occasions, spoken the names aloud while alone in her apartment, testing their phonological properties, and that on the last occasion — the female name — she had experienced a sensation of pressure in her chest that was probably reflux but that she had not investigated further, because some measurements were not yet ready to be taken.
+
+The pregnancy had been deliberate. IVF. Donor selection based on a spreadsheet of hereditary factors she had cross-referenced with actuarial data, a fact she was aware sounded monstrous when stated plainly and that she therefore stated plainly only to people she trusted enough to horrify. When Dr. Miriam Chowdhury, her closest colleague in the department and possibly her closest friend — Lena was aware she used "possibly" to avoid the definitional commitment — had asked her, over coffee, why she hadn't pursued co-parenting or a partnership, Lena had said: "I'm eliminating confounding variables."
+
+Miriam had laughed, and then had stopped laughing, and then had said, "Lena."
+
+"I'm not joking, but I understand why it sounds like one."
+
+"You know that a child is — definitionally — a confounding variable."
+
+"I know that. I've accounted for it."
+
+She had gone home and thought about this for an hour and concluded that Miriam was right in a trivial sense — a child would disrupt her controlled environment — and wrong in the sense that mattered — the disruption was the *purpose*, the reason for the deliberate introduction of an element she could not predict, because Lena had begun to suspect that her life, in its optimized solitude, was approaching a kind of asymptote, a diminishing-returns curve where the gains from further control were no longer distinguishable from the losses incurred by having nothing left to control.
+
+She wanted the child. She wanted the child in the way she wanted a dataset she hadn't seen yet: with the clean, urgent hunger of someone who believed that the right information, properly attended to, could change everything.
+
+She drove home from the ultrasound with the printed image on the passenger seat and did not look at it until she was inside.
+
+---
+
+## III.
+
+The Ohio note arrived on a Tuesday in November, six weeks after the Yoon case, forwarded by a forensic linguist in Columbus named David Wendt whom Lena had met at a conference in 2018 and whose work she respected in the qualified way she respected most people's work — competent, cautious, epistemically honest, but operating without algorithms robust enough to see what her system saw.
+
+"Straightforward case," Wendt wrote in his email. "Suicide of a 58-year-old male, retired school administrator. Note found on the bedroom dresser. Family wants confirmation. I've done my analysis and I'm confident it's genuine, but the detective is crossing t's. Would you mind running it through your system as a second opinion? Comparison corpus attached — emails and a few handwritten letters. I owe you a drink at the next LSA meeting."
+
+Lena ran it in the morning. The authorship match came back at 97.1 percent. Conclusive. Richard Ashworth had written his own suicide note. The lexical profile was consistent: Ashworth had favored a formal register even in personal correspondence, with a preference for complete sentences, semicolons, and the restrained emotional vocabulary of

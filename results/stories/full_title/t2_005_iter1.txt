@@ -1,0 +1,119 @@
+# Form 27-B: Application for Continued Existence
+
+---
+
+## I.
+
+The error was discovered on a Wednesday, which was a polite fiction. The colony ship *Thousandth Crane* had left Earth's solar system seventeen years, two months, and six days ago, and it had maintained a seven-day week for the entire journey because human beings will cling to the arbitrary subdivisions of a dead star's light-cycle long after the star and every planet it warmed have been converted into a rapidly expanding shell of ionized gas. It was a Wednesday because the ship's calendar said it was a Wednesday, and this was, in miniature, the same relationship to objective reality that would shortly prove to be the central problem.
+
+The man who found the error was named Edwin Pale, and he was not a clerk. He had been a structural engineer in his previous life—his Earth life, the one that ended when the sun did—and he had been assigned to the Bureau of External Compliance because the colony ship's organizational chart, like all organizational charts, had been designed by a committee during a period of crisis and had never been revised. Edwin had spent seventeen years filing paperwork with the Auditors of Continuity Provision because someone on the original command staff had confused "structural engineering" with "structural compliance" and no one had ever corrected the mistake. This was, the universe would shortly reveal, appropriate in ways that Edwin could not have appreciated.
+
+What Edwin found, on that Wednesday, in the fourteenth sub-basement of the ship's regulatory archive—a room that existed because regulations require archives and archives require rooms and someone had built one, though no one visited—was a discrepancy. Not a large discrepancy. A categorical one. The kind of error that is invisible precisely because it is total, in the way that a fish cannot discover water.
+
+Every form the *Thousandth Crane* had submitted to the Auditors of Continuity Provision since its departure from the Sol system had been filed under Species Classification 1170-C (Carbon-based Sapients, Singular Homeworld, Pre-Diaspora). This was wrong. Not arguably wrong, not borderline, not a matter of interpretation. Wrong the way a dog is not a tax return. Humanity, since the destruction of Earth, was no longer Pre-Diaspora. It was Post-Extinction Remnant, a classification that carried entirely different paperwork, different deadlines, different jurisdictional authority, and—this was the part that mattered—different *existential standing*. A Pre-Diaspora species was filing for *expansion* rights. A Post-Extinction Remnant was filing for the right to continue to exist at all.
+
+For seventeen years, three thousand human beings—the last of their kind, the entirety of what remained after the sun's premature and poorly explained detonation—had been submitting applications for something they already had to an office that didn't handle what they actually needed, in a cosmic fiscal period that had ended eleven years ago by a calendar they didn't know existed.
+
+The paperwork, in other words, had gone nowhere. The Auditors of Continuity Provision had been receiving it, stamping it MISFILED, and placing it in a dimensional aperture that served the same function as the wire basket behind the counter at a post office in a town where the postmaster retired in 1987 and no one was hired to replace her. The forms existed. They had been received. They had been stamped. They had accomplished exactly nothing, and the *Thousandth Crane* had been hurtling through interstellar space for nearly two decades with no more existential standing than a clerical error.
+
+This is the point at which the narrator must be honest with you: this was not unusual. The universe is vast, and it is administered, and the administration is very, very old, and civilizations fall through cracks in it the way coins fall between couch cushions. The Auditors have a term for it. Roughly translated, it means "non-actionable oversight resulting in deprecated status," which is itself a polite fiction for "we lost you and didn't notice." The narrator has seen it before. The narrator has seen it happen to civilizations far older and more sophisticated than humanity, civilizations that had mapped the bureaucratic architecture of the cosmos with exquisite precision and still managed to file the wrong form because the right form had been renumbered during a procedural audit six hundred years earlier and the update memo was itself misfiled. The universe is not malicious. The universe is a system that has been running without meaningful supervision for longer than most of its current users have existed, and the user interface was designed by a committee that no longer exists, and the help documentation references a version of the system that was deprecated before humanity's sun had finished forming.
+
+Edwin Pale brought the discrepancy to Captain Aisha Yuen at 14:32 ship time.
+
+The captain was on the bridge, which was a room full of screens and consoles that no longer performed most of their original functions because the ship had long since passed the point where human navigation was necessary—the *Thousandth Crane* was following a trajectory calculated before launch and maintained by systems that did not require or particularly welcome human input. Captain Yuen spent most of her days managing the small, grinding crises of a sealed community in transit: water recycling disputes, birth-rate committee recommendations, the question of whether Hydroponics Bay 7 should continue growing decorative flowers or switch entirely to caloric production. She was a good captain. She was competent, direct, and she believed—with the particular ferocity of someone who had watched her planet die—that if you did the right things in the right order, outcomes could be controlled.
+
+She read Edwin's report twice.
+
+"This can't be right," she said.
+
+"I've checked it against the original classification matrices," Edwin said. "Five times."
+
+"Then the matrices are wrong."
+
+"The matrices were provided by the Auditors."
+
+Captain Yuen looked at Edwin Pale, and she looked at the report, and she felt the particular vertigo that accompanies the discovery that the ground you've been standing on was never ground at all but merely the absence of anyone telling you it wasn't. "Get me the compliance team," she said. "Get me legal. Get me anyone on this ship who has ever read these forms and understood them."
+
+"Captain."
+
+"What?"
+
+"Almost nobody understands them. They weren't written for human cognition. We've been filling them out by pattern-matching against the sample documents the Auditors provided at departure."
+
+"Then get me whoever has been doing the pattern-matching."
+
+"That would be me, Captain. And the Auditor subroutine."
+
+"The what?"
+
+"The automated interface the Auditors installed in our systems before launch. To facilitate compliance." Edwin paused. "I asked it about the discrepancy. It confirmed the error, generated a correction notice, and then—" He stopped.
+
+"Then?"
+
+"Then it filed the correction notice to the same misfiled address. Because that's the only address it has. It doesn't have a mechanism for updating its own filing destination. That would require a Form 9-R, which is a Request for Administrative Amendment to Compliance Infrastructure, which has to be filed by—"
+
+"Let me guess."
+
+"The species in question. Using the correct classification. Which we haven't been using. Because the infrastructure hasn't been amended."
+
+Captain Yuen was quiet for eleven seconds. The narrator knows this because the narrator counts, and because those eleven seconds contained the kind of silence that is not silence at all but the sound of a worldview quietly restructuring itself, like ice cracking on a lake that everyone assumed was solid.
+
+The ship's intercom was open. It was always open on the bridge because Captain Yuen believed in transparency of command, which meant that the sixty-odd people in the adjacent operations center heard the entire conversation, and within forty minutes, every human being on the *Thousandth Crane* knew.
+
+Among those human beings was Miriam Choi, who was in the ship's records office, where she worked as an assistant filing clerk, because the colony ship's skills-matching algorithm had placed her there on the reasonable assumption that a woman who had spent twenty-three years working at the California Department of Motor Vehicles would be suited for records management. This assumption was correct but trivial, in the way that observing a surgeon has steady hands is correct but fails to mention the surgery. Miriam Choi heard the news, and she did not panic. Miriam Choi had never, in her professional life, panicked, because panic is what happens when a system fails in a way you did not anticipate, and Miriam had spent twenty-three years inside a system that failed in every way she could possibly anticipate and several she couldn't. What Miriam felt, listening to the intercom, was something closer to recognition. Oh, she thought. *There* it is.
+
+She had been waiting for it. Not consciously. Not in the way the captain waited for emergencies, with drills and contingency plans. Miriam had been waiting the way a veteran of earthquake country waits: with a low, peripheral awareness that the ground is not permanent, that systems are not benign, that the form you need is always the form you don't have. She set down the file she was holding. She straightened the stack on her desk. She noted, without meaning to, that the stack was out of date, irrelevant, paperwork filed with an authority that had never received it.
+
+Also among those human beings was a girl named Lisi Huang, who was nine years old and who was in the ship's school, which was a room with twelve desks and a teacher named Mr. Okonkwo who was at that moment staring at the intercom speaker with an expression of the kind the narrator will not attempt to describe because some faces are beyond narration. Lisi was drawing. She had been drawing when the announcement began, and she continued drawing through it, because Lisi was nine and the announcement concerned forms and classifications and jurisdictional standing, and these words passed over her like weather. She was drawing Earth. Not the Earth she remembered—she had been born on the ship, eight months after departure—but the Earth she had assembled from other people's memories, from photographs, from the careful, fragmentary descriptions adults gave when she asked what trees looked like, what it felt like when wind moved through your hair instead of recycled air through a vent. The Earth Lisi drew was not accurate. It had purple oceans and buildings that curved like ribs and a sun that was too large and too yellow and too close. It was, the narrator will note, a remarkably faithful portrait of a place that exists only in love and loss, which is to say it was a portrait of every place anyone has ever called home after leaving it.
+
+Lisi kept drawing. Mr. Okonkwo kept staring at the intercom. Captain Yuen began issuing orders with the clipped precision of someone who believes orders are the correct response to the discovery that the universe runs on paperwork and yours is wrong. And Miriam Choi, in the records office, began pulling files.
+
+---
+
+## II.
+
+The emergency session was held in the ship's council chamber, which was a repurposed cargo bay with chairs that had been bolted to the floor at angles that suggested the bolters had consulted neither an ergonomist nor each other. Forty people, the ship's department heads and senior staff, sat in the kind of rigid bodily discomfort that pairs well with existential dread. Captain Yuen stood at the front. Edwin Pale stood slightly behind her, holding a tablet, looking like a man who had discovered a gas leak and was being asked to brief the building.
+
+The captain had spent the last four hours in furious consultation with the Auditor subroutine—the automated interface embedded in the ship's systems before launch—and the subroutine had confirmed everything with the helpful, un-inflected precision of a system designed to facilitate compliance rather than survival. Yes, the forms were wrong. Yes, the classification was wrong. Yes, the filing period had expired. Yes, there were consequences. The subroutine laid these out with the cheerful specificity of a parking meter explaining that your car was being towed: upon discovery of deprecated status, the species in question was entitled to a filing period of one processional cycle (a unit of time the subroutine declined to convert into human-readable format) in which to submit a corrected Application for Continued Existence, form 27-B, to the appropriate jurisdictional authority, after which the species' continuity status would be subject to standard review, which could result in one of several outcomes ranging from "provisional continuity" to "archival," a word the subroutine used without further definition and with the particular bureaucratic serenity of a word that means something terrible and has been used so often it has forgotten.
+
+"Archival," Captain Yuen repeated to the council chamber.
+
+"The subroutine won't define it precisely," Edwin said. "When I pressed, it referred me to Appendix 77-G of the Auditor Reference Manual, which we don't have, because our version of the manual is the Pre-Diaspora edition, which doesn't include the Post-Extinction Remnant appendices."
+
+"Because we were classified as Pre-Diaspora."
+
+"Because we were classified as Pre-Diaspora."
+
+"So we can't even read the rules for our own situation because getting the rules requires being correctly classified, and being correctly classified is the thing we failed to do."
+
+"That's correct, Captain."
+
+Someone in the back—Dr. Fenn, who ran the genetics lab and who had a voice like a man gargling with gravel and opinions about everything—said, "This is absurd. We're talking about forms. Paper. Bureaucracy. We are three thousand living, breathing human beings. The last of our species. We *exist*. No form changes that."
+
+Captain Yuen, who agreed with Dr. Fenn in every particular and was already beginning to understand that her agreement was irrelevant, said, "The Auditors don't adjudicate based on whether we exist. They adjudicate based on whether we've filed for the right to."
+
+"And what happens if we simply refuse? If we ignore this, keep flying, find our colony world, and build our settlement?"
+
+Edwin Pale looked at his tablet. "The subroutine indicates that species operating without valid continuity status are subject to—" He scrolled. His face did something complicated. "It's not clear. The language is procedural. It references cross-jurisdictional enforcement protocols and something called 'resource reallocation to uncontested parties,' which I think means—"
+
+"Someone else gets our stuff," said a voice from the middle of the room. "Our ship. Our colony site. Our biological material. Possibly our atoms."
+
+Everyone looked at the voice. The voice belonged to Miriam Choi, who was sitting in the seventh row and who had not been invited to this meeting but who had come anyway, because in Miriam's experience the meetings you were not invited to were the ones where the important decisions got made by people who didn't have enough information.
+
+"I'm sorry," said Captain Yuen. "You are?"
+
+"Miriam Choi. Records office."
+
+"This is a senior staff meeting, Ms. Choi."
+
+"I understand. I've been reading the Auditor compliance documents. The originals, not just the summaries. For about twelve years."
+
+"You've been reading them for twelve years?"
+
+"They're very long."
+
+Captain Yuen studied Miriam Choi. The narrator will describe Miriam at this moment: she was fifty-six years old, and she looked it in the way certain people look their age—not worn, exactly, but *settled*, the way a building settles when it has stood long enough to accommodate its own imperfections. She had a face that was neither kind nor unkind. It was a face that had processed approximately three hundred and forty thousand DMV transactions over twenty-three years, and something about that volume of human interaction—the rage, the tears, the incredulous shouting, the resigned patience, the occasional baffling triumph when a document turned out to be correct—had given her features a quality that the narrator can only describe as *procedural calm*. She was not serene. Serenity implies the absence of conflict. Miriam's calm was the calm of someone who had absorbed more conflict than most people encounter in a lifetime and had metabolized it into a kind of professional equilibrium. She sat with her hands folded on a manila folder—a real manila folder, physical paper, an affectation she had brought from Earth and maintained because she did not trust any filing system she could not touch.
+
+"Ms. Choi," the captain said, measuring, "you said 'someone else gets our stuff.' Can you elaborate?"
+
+"Section 1170 of the compliance framework—the section we should have been filing under, 1170-R, not 1170-C—describes what happens when a Post-Extinction Remnant fails to maintain valid continuity status. The short version is that you become a disputed resource. Your

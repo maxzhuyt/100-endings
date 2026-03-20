@@ -1,0 +1,17 @@
+{
+  "run_id": "idea_bare",
+  "model": "anthropic/claude-opus-4-6",
+  "idea_gen": true,
+  "no_genre_priming": true,
+  "no_taxonomy": true,
+  "no_tropes": true,
+  "tropes_path": null,
+  "step0": "title",
+  "step0_style": "c1_specific",
+  "step0_source": null,
+  "step1": "default",
+  "step1_max_beats": null,
+  "iterations": 1,
+  "description": "idea_gen(no_priming, no_taxonomy, no_tropes) \u2192 step0=title(c1_specific, src=random) \u2192 step1=beats(default) \u2192 step2=story",
+  "pipeline_repr": "NarrativePipeline([IdeaGenerationStep(no_priming, no_taxonomy, no_tropes), GenerateWarmupStep(style='c1_specific'), BeatSheetStep(), StoryWriteStep()])"
+}

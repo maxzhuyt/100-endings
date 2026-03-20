@@ -1,0 +1,101 @@
+# The Kill Box Courtship
+
+---
+
+## I.
+
+There were, on the morning this story finds its occasion to begin, nine human beings alive on the Kvitøya-Nordaustlandet Disputed Administrative Zone, which is a name that was given to seven islands and their surrounding ice by people who had never visited them and who, in all probability, could not have found them on a map prior to the need to name them something that would look appropriate on a defense appropriations subcommittee slide deck.
+
+The islands themselves did not care about the name. They had been ice and basalt for longer than naming had existed as a technology, and they intended to remain ice and basalt for some time after it had been forgotten. The ice was doing what ice does in January north of the eightieth parallel, which is to say it was being totalitarian about it—filling the strait between the two largest islands to a depth of one and a half meters, fusing the archipelago into a single continuous surface of white, creating the impression, if you were looking down from sufficient altitude, that nothing here could possibly be alive, that life was a rumor the landscape had heard and declined to entertain.
+
+But nine. Nine beating hearts, nine columns of breath in the dark morning, nine metabolisms converting military-ration calories into the specific form of entropy that distinguishes a living soldier from a dead one.
+
+On the western island, Outpost Falk, administered by the Kingdom of Norway under provisional NATO mandate: Senior Cultural Liaison Officer Maren Dahl. Lieutenant Petter Ås. Petty Officer Second Class Ingrid Nygaard. Noncommissioned specialists Rune Torvik and Halvor Blix, who did everything together and were, in the private notation system of this narrator, already a single entry.
+
+On the eastern island, Station Vostok-9, administered by the Russian Federation under a bilateral agreement whose signatories had since been replaced by other signatories who did not acknowledge the agreement's existence: Junior Cultural Liaison Officer Nikolai "Kolya" Andreyevich Varganov. Lieutenant Aleksei Sorokin. Sergeant Dmitri Kozlov. Communications technician Yevgeny Leshchenko, who went by Zhenya when anyone remembered to speak to him.
+
+Nine.
+
+The drones do not require individual naming, and this narrator will not indulge the convention somewhat popular in the literature of granting machines the courtesy of personhood. The drones were not persons. They were a weather system. They lived in the air above the archipelago the way a cold front lives above a landscape—distributed, patient, impersonal, and governed by mathematics that expressed themselves as practical consequences for anyone beneath them. On calm days you could hear them: a collective hum at the edge of audibility, like tinnitus, like the islands themselves vibrating at a frequency just below thought. On windy days—which was most days—they were silent and invisible, which was worse, because wind did not impede them. Nothing impeded them. They operated in a swarm grammar that shifted and reconfigured according to inputs this narrator will, in time, describe more fully than is comfortable.
+
+The strait between Outpost Falk and Station Vostok-9 measured eleven hundred meters at its narrowest point. In summer, this would have been open water, black and unswimmable and scored by currents that ran between the islands like the archipelago's own circulatory system. In January, it was ice. Flat, white, crossable on foot in perhaps twelve minutes if you walked with purpose, somewhat longer if you were cautious, and—as will be demonstrated—not at all if you tried to cross it in a group.
+
+Eleven hundred meters. Close enough to see a human figure on the opposite shore. Too far to read an expression. Far enough that a person standing on the ice at the midpoint would be equidistant from both outposts and maximally distant from any cover, exposed to the full sky like a beetle on a dinner plate.
+
+Remember the geometry. It is the board on which every subsequent move will be played.
+
+On this particular morning—a Tuesday, though Tuesdays had lost their specificity some weeks prior—Senior Cultural Liaison Officer Maren Dahl stood in the utility room of Outpost Falk and ironed her uniform. The iron was a travel model, underpowered, and it took three passes to flatten a crease. The outpost's heating system had developed an arrhythmia that produced ambient temperatures ranging from twelve to twenty-two degrees Celsius in no discernible pattern, and Maren had been cold since October, and the act of ironing was warm work, and the uniform, once pressed, conferred a crispness that she experienced as a form of moral insulation against circumstances that did not merit crisp uniforms or, arguably, uniforms at all.
+
+She was thirty-four. She had a degree in cultural heritage management from the University of Bergen and a subsidiary qualification in conflict-zone documentation that she had pursued because the funding was available, not because she had anticipated ever entering a conflict zone. Her assignment to the Disputed Administrative Zone had been presented as a career opportunity: six months documenting Norwegian territorial heritage claims—cairns, trapping-station remnants, nineteenth-century meteorological equipment—in support of a sovereignty case that was, she had been assured, primarily diplomatic and only technically military. She had arrived in September. It was now January, and the diplomacy had developed a body count, and Maren ironed her uniform every morning because if she stopped she might not start again and then she would be a person who had stopped, and she was not yet ready to be that person.
+
+Across the strait, Kolya Varganov stood outside Station Vostok-9 in the blue half-light of a polar morning that would not graduate to full dawn for several more weeks. He was twenty-eight and had the build of a person who had once been physically remarkable and had subsequently been neglected: tall, long-limbed, with the specific carriage of a trained dancer—shoulders open, weight centered, chin lifted as if expecting to be watched. He had been a dancer, in fact. Vaganova Academy, then Mariinsky corps de ballet, then an injury (left knee, minor but placement-altering), then the slow bewildering cascade that deposits a person with artistically trained proprioception into a military cultural-liaison office, filing paperwork about heritage sites on islands that heritage had never convincingly visited.
+
+A Brünnich's guillemot—early, confused, or simply optimistic—flew past the outpost at chest height, its wings working with that particular seabird urgency that suggests flight is an argument the bird is having with gravity and only narrowly winning. Kolya watched it pass, and then, with the full formal precision of a man who had internalized every gesture of the Mariinsky repertoire, he performed a military salute. Arm up, held, released. To the guillemot. Which did not notice, being occupied with the aforementioned aerodynamic argument, and was in any case the wrong species, the wrong kingdom, and the wrong audience for a Russian military courtesy. But Kolya had saluted every guillemot he had seen since November, because the guillemots were the only things on the archipelago that moved with reliable purpose, and he had come to admire this, and admiration, he felt, should be formally acknowledged.
+
+Somewhere above both of them—above Maren's iron and Kolya's salute and the guillemot's laborious transit—the swarm hummed its ceaseless algorithmic hymn, observing everything, and understanding, in its way, nothing. Or: understanding everything that could be quantified, which it had mistaken for everything.
+
+This narrator knows better. This narrator has made the same mistake and learned, at some cost, to recognize it.
+
+Nine, then. That was the morning's number.
+
+Watch how quickly it changes.
+
+---
+
+## II.
+
+Lieutenant Petter Ås was a competent man. This requires emphasis, because competence is about to become the relevant variable, and its coefficient is negative.
+
+On a Wednesday—the day after the morning described above, or possibly two days after; time on the archipelago had begun to exhibit a certain plasticity that this narrator, despite omniscience, finds difficult to resolve into standard units—Lieutenant Ås performed his duties. His duties included, among other items on a checklist he maintained with the rigor of a person who believed checklists were civilization's final barricade against entropy, a daily weather transmission to Northern Fleet Command in Bodø. The transmission was brief, formatted, and sent via the outpost's HF radio at 0800 local time. He had sent this transmission every day for nine weeks. The information it contained was of interest to no one in Bodø, and Ås knew this, and sent it anyway, because it was on the checklist.
+
+At 0800, Ås keyed the microphone and began: "Falk station, meteorological report, date—"
+
+The first strike hit the antenna array. The second, four seconds later, hit the room.
+
+Maren, in the corridor twenty meters away, felt the floor shift and heard a sound she would later describe to no one, because there was no one to describe it to, and because the sound was not extraordinary in itself—a concussive thud, the building's structure absorbing and redistributing kinetic energy—but its *meaning* was extraordinary, and meaning does not transmit well in description. She stood very still. The iron was still in her hand. She waited for the next strike, which did not come, and then she set the iron down on its heel and walked to what had been Ås's communications room and found the room and Ås both open to the sky, the antenna a sculpture of bent metal, the checklist, unburned but weightless, caught in a thermal updraft and ascending, page by page, into the grey air above the outpost like a flock of small white birds that had forgotten how to fly and were trying to remember.
+
+She stood in the doorway for eleven seconds. This narrator counted.
+
+Then she returned to the utility room and resumed ironing.
+
+This was not callousness. This narrator, who has access to the interior architecture of Maren Dahl's mind, can confirm that what she felt in those eleven seconds was so large and so incompatible with the available responses that she defaulted to the only action that still contained a logic she could occupy: crease, press, flatten, next. *Grief in the shape of competence.* The iron's heat was real. The crease's disappearance was real. Lieutenant Ås's disappearance was also real, but the iron could address the crease and could not address the lieutenant, and Maren was, above all, a person who directed her effort toward problems that admitted solutions.
+
+The iron was warm. The building smelled of smoke and ozone. The checklist continued to rise, and the drones above, having completed their engagement, returned to their holding pattern with the indifference of a weather system moving on.
+
+Eight.
+
+---
+
+Across the strait, Lieutenant Aleksei Sorokin died on a Friday.
+
+He was not transmitting. He was not on anyone's checklist. He was standing outside Station Vostok-9 at 1430, which was to say in full darkness, because this was January, and January above the eightieth parallel is a month that has opinions about light, all of them negative. He had a flashlight and a sidearm and the particular alertness of a man who had heard something.
+
+What he had heard was a polar bear. Or rather: what he had heard was something large displacing snow in a rhythmic quadrupedal pattern approximately forty meters north of the station, which was, in Sorokin's professional assessment, a polar bear. He was not wrong. It was in fact a polar bear, an adult female, underweight and irritable and investigating the station's waste storage, and Sorokin knew—correctly—that a 230-kilogram carnivore investigating your waste storage is a situation that benefits from early intervention.
+
+He fired a warning shot. Into the air. Away from the bear. A standard deterrent protocol practiced in every Arctic installation from Tromsø to Provideniya.
+
+The round left the barrel at approximately 370 meters per second. It traveled upward at a 75-degree angle, decelerating, reaching apogee at perhaps 900 meters, and beginning its descent.
+
+Sorokin did not see it reach apogee because Sorokin was dead 1.7 seconds after the discharge, which was the time it took for the nearest drone element to identify a weapons signature, triangulate the source, and deliver its response. The bear, startled by the second sound—which was louder and closer to the ground than the first—abandoned the waste storage and departed north at a lumbering trot, unharmed, the only survivor of the encounter, carrying with her whatever conclusions a polar bear draws from the experience of watching a man become briefly inanimate in a flash of white light.
+
+Seven.
+
+Kolya, inside the station, heard both sounds—the shot and the strike—and registered them as a sequence whose meaning he understood immediately and completely, not through military training (which had been cursory and largely theoretical) but through the same capacity that had once allowed him to register a conductor's breath before the downbeat: the ability to read temporal intervals as information. The interval between shot and strike was too short for human decision-making. It was a machine interval. A reflex arc in silicon. He stood in his quarters and looked at his rifle, which was propped in the corner with a wool sock draped over its muzzle and which had not been fired since—well. It had not been fired. He had disassembled the bolt mechanism in October to use the firing pin as a tool for unjamming the station's cassette player, and had not reassembled it, and the barrel, detached, was currently serving as a curtain rod for the wool blanket he had hung over his window to block the draft, and the stock was propping up the short leg of his writing desk. His rifle existed as an idea distributed across several pieces of furniture.
+
+He looked at the distributed rifle. He listened to the silence where Sorokin had been.
+
+He did not reassemble it.
+
+---
+
+Ingrid Nygaard lasted until Sunday. She had been a quiet presence in Outpost Falk—a petty officer whose specialization was inventory management, who kept meticulous records of fuel, food, and ammunition in a logbook she updated twice daily with the devotion of a medieval scribe illuminating a gospel. On Sunday she walked to the fuel cache, which was located in a Quonset structure thirty meters from the main building. She walked alone. This fact saved no one, because the fuel cache held fuel, and fuel, when struck, does what fuel does.
+
+The strike was precise—a single munition, entering through the Quonset's ventilation port, a target no larger than a dinner plate. The secondary explosion, fed by nine hundred liters of JP-8, was not precise at all. It was extravagant. Maren, watching from a window, saw the light first and the sound second and the pressure wave third, and in the half-second between light and sound she thought, with the weird clarity that terror sometimes permits: *The spacing. It was the spacing. She was too close to stored material that read as military infrastructure.*
+
+This was not quite right, but it was not quite wrong either, and Maren was, in this moment, doing something more important than being right: she was *building a model.* Three data points. Ås: radio transmission. Sorokin: weapons discharge. Nygaard: proximity to fuel cache. Three deaths. Three triggers. The model was crude and incomplete and haunted by the possibility that she was finding patterns in noise—the desperate pareidolia of a mind that needed rules the way her body needed heat—but it was a model, and it was more than she'd had before.
+
+Six.
+
+---
+
+Rune Torvik and Halvor Blix died together, because they did everything

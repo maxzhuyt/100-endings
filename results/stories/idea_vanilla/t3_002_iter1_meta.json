@@ -1,0 +1,43 @@
+{
+  "run_id": "idea_vanilla",
+  "prompt_id": "t3_002",
+  "iteration": 1,
+  "model": "anthropic/claude-opus-4-6",
+  "chars": 288,
+  "words": 49,
+  "narrative_idea_gen": "A besieged compound of eight government-enhanced telepaths \u2014 the last survivors of a psychic warfare unit \u2014 are being killed one by one by an external signal that detonates their amplified neural tissue whenever they vocalize, forcing all interaction into shared thought, where every suppressed contempt, petty alliance, and devastating social judgment plays out as elaborate mental performance art that the all-knowing narrator catalogues with the relish of a society columnist covering history's most vicious dinner party. Twin protagonists Maren (who believes their combined psychic reach can triangulate and destroy the signal's origin) and Dov (who stays solely because Maren's mind is the only one he has never been able to read, and he cannot bear the mystery) share the goal of survival but circle each other through escalating sequences of coordinated action \u2014 barricading, treating wounds, mapping the signal's pattern \u2014 while the group's unguarded thoughts grow more lethally honest with each death, revealing that several members had already been telepathically manipulating others' loyalties for years. The unbearable engine of the story is that every death peels away one more layer of social performance until the final battle forces Maren to open her mind fully to Dov for the tactical link they need to survive \u2014 and what he finally reads inside her is so much worse, and so much more tender, than anything he imagined that it reframes every silent interaction the narrator has shown us.",
+  "narrative_story": "# THE EXQUISITE SILENCE\n\n---\n\n## I. ON THE MATTER OF INTRODUCTIONS\n\nIn any gathering of eight, alliances crystallize along lines that would be instantly legible to anyone who has survived a dinner party, a faculty meeting, or an occupation. There are the obvious pairings \u2014 those who have",
+  "narrative_idea_gen_original_prompt": "The Last Watch of the Mara Celeste\n\nA ship's cook recounts the final hours of Captain Wen, who refused to abandon her vessel during a three-day typhoon in the Sargasso depths\u2014not from heroism, but because she'd rather drown at her wheel than let the insurance company's repo men waiting in Bermuda claim her grandfather's boat. The cook describes, in intimate fragments, how she brought the captain tea that went cold, how she watched Wen lash herself to the mast when the pumps failed, how the mundane ritual of their morning card game continued even as the hull groaned its death song. The story ends not with the sinking, but with the cook's quiet observation that Wen smiled when the horizon finally swallowed them both\u2014the first time she'd smiled since the bank letters started arriving.",
+  "narrative_idea_gen_use_genre_priming": true,
+  "narrative_idea_gen_use_taxonomy": true,
+  "narrative_idea_gen_use_tropes": true,
+  "narrative_idea_gen_taxonomy_profile": {
+    "Type": "Comedy (Comedy of Manners: Emphasizes verbal gymnastics, clever insults, and witticisms above all else.)",
+    "Super Genre": "War: A small group of isolated individuals get killed by an outside force until a final battle.",
+    "Macro/Micro Genre": "Superpowers: Explores the lives of ordinary people with extraordinary abilities. -> Intelligence/Life Extension/Mental/Physical: The nature of the ability.",
+    "Voice": "Dialogue and Interiority: Wordless/Action-Driven: Removing all spoken dialogue between characters, relying solely on action and observation.",
+    "Pathway": "Multiple Protagonists (Buddy Story): Twin protagonists share the same general goals but different driving forces.",
+    "POV": "Authorial Omniscient: The narrator takes the reader on a tour of characters and events designed to intrigue, knowing all thoughts and outcomes."
+  },
+  "narrative_idea_gen_sampled_tropes": [
+    "ABeastInNameAndNature",
+    "AboveTheGods",
+    "ATasteOfDefeat",
+    "ALessonInDefeat",
+    "ALighterShadeOfBlack",
+    "AbominationAccusationAttack",
+    "ASpyAtTheSpa",
+    "AStormIsComing",
+    "AbandonmentInducedAnimosity",
+    "ALoveToDismember",
+    "AboveGoodAndEvil",
+    "AMindIsATerribleThingToRead",
+    "AMacGuffinFullOfMoney",
+    "ABNegative",
+    "AbandonTheDisabled",
+    "ATasteOfPower",
+    "AbileneParadox",
+    "ARiddleWrappedInAMysteryInsideAnEnigma"
+  ],
+  "narrative_idea_gen_selected_tropes": "- AMindIsATerribleThingToRead: A character's ability to read minds reveals the disturbing, selfish, or malicious thoughts of others,"
+}

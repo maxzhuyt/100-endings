@@ -1,0 +1,105 @@
+# Little Worlds
+
+## I.
+
+The footage that survives is beautiful. Say what you will about Auroras Media Group and what they knew and when they knew it, their cinematographer had an eye. The opening sequence of *Little Worlds: Life at the Edge of Breathing* holds on a slow pan across the hydroponic arches of Kepler Station 9's Greenhouse Ring, where engineered fiddlehead ferns uncurl in bioluminescent spirals and a strain of modified bee — fatter, calmer, and more thermally efficient than anything on Earth — drifts between the flowers of a soybean plant that has been taught to bloom purple. The color was a branding decision. Tomás Oliveira's voiceover enters warm and mid-register, almost conspiratorially pleased, as though he has brought you to a garden party and is about to introduce you to the most interesting person in the room.
+
+*"Every colony is an argument with the void,"* he reads from the script Auroras provided. *"Kepler Station 9 makes that argument in green."*
+
+He told the inquest later that he'd tried to change the line. He'd wanted "in chlorophyll," which was more accurate and less stupid, but the network had focus-grouped it and green tested better. He said this with the flat, unamused delivery that had become, by that point, the defining feature of his public persona — the deadpan media liaison who had accidentally become the moral voice of a catastrophe. At the inquest he was already famous. In the footage he is not yet anything. He is a man in a company polo reading company words, and the most notable thing about him is the small, durable unhappiness he carries in the corners of his mouth, like a man who has swallowed a correction and is waiting for the right moment to spit it out.
+
+The opening sequence runs eleven minutes and forty seconds. In the final ninety seconds, the camera follows a maintenance tech named Darren Hoyle through Sublevel 3, where the atmospheric processors hum in rows like cathedral organs, and Darren explains the overnight carbon dioxide readings with the bored competence of a man who has explained the same readings a thousand times. The numbers on his tablet, visible for six frames if you pause, show a 0.4% deviation from baseline. The inquest would later call this "the first clear signal." In the footage, Darren swipes past it without comment. The deviation has been present for nine days. It is within tolerance. Everything is within tolerance. Tolerance is a word that means: we have decided this does not yet require us to change our plans.
+
+The episode was supposed to be about the bees.
+
+---
+
+## II.
+
+Dr. Yuna Shin appears in the documentary for the first time at the fourteen-minute mark of Episode 2, though she had been on station for three years and had twice declined to be interviewed. She was the kind of scientist who treated cameras the way deep-ocean fish treat submersible lights — with a flat, reflective suspicion that made the crew feel, obscurely, that they were the ones being observed. She was small and angular and moved through the station's corridors with the compressed efficiency of someone who has internalized that the distance between any two points is also a measure of the air you'll consume getting there. She had published nine papers on enclosed atmospheric modeling. She could tell you, at any given moment, the precise CO₂ concentration of the room she was standing in, not because she'd checked, but because the backs of her hands would flush at 1,200 parts per million and she'd learned, years ago, to read her own skin like an instrument.
+
+She appears in the documentary because Maren Lindqvist dies.
+
+This is handled, in the final cut, with extraordinary delicacy. There is no footage of Maren dying. There is footage of Maren alive — a background figure in Episode 1, laughing in the cafeteria, one hand on the shoulder of a child who is trying to eat mashed potatoes with a straw — and then there is Tomás's voiceover, stripped of the Auroras script for the first time, saying simply: *"On day nineteen, the station's population decreases by one."* Then there is Yuna standing in the doorway of her lab, holding a tablet in one hand and gripping the doorframe with the other, and an off-screen voice — the producer, Jen Kazemi — saying, "We don't have to film this," and Yuna saying, "Film whatever you want. I need to read." And she turns back to the tablet, and the camera holds on her reading.
+
+What she is reading is Maren's will. The relevant passage has been quoted so many times it has achieved the strange, inert quality of all over-cited texts, but here it is once more: *In the event of my death or incapacitation, I designate Dr. Yuna Shin as emergency guardian of Suki and Reo Lindqvist (age 4). I trust her judgment in all things, including the things she has no judgment about, which are mostly the ones that matter.*
+
+Maren, everyone agreed, had been like that. Funny even in her legal documents, precise even in her jokes. The cause of death was cardiac arrhythmia, underlaid by a congenital defect that the colony's medical screening had not flagged because the colony's medical screening had been pared, three budget cycles ago, to a questionnaire and a pulse-ox check. The inquest noted this. The inquest noted many things.
+
+Yuna had never kept a houseplant alive. She said this to Tomás, the first time he brought the camera crew to her quarters to check on the twins. She said it standing in her doorway, exactly as she had stood when she'd learned about Maren, and Tomás, who was holding his mic like a man holding a leash attached to an animal he did not trust, said nothing for a moment and then said, "Plants don't tell you what they need."
+
+"Neither do four-year-olds," Yuna said.
+
+"No," Tomás said. "But they scream, which is a kind of data."
+
+Behind Yuna, visible through the doorway, the twins sat on the floor of her quarters and breathed. This is a strange thing to note, but the footage makes it notable. They sat cross-legged, holding hands, facing each other, and they were very deliberately, very solemnly, holding their breath. Their cheeks puffed. Their eyes went wide. Then one of them — Reo, the one with the scar on his chin from a fall in the playground — exhaled explosively, laughing, and Suki punched the air with the triumph of someone who has won an Olympic event. They had been playing this game since the morning of Maren's death, though no one had yet connected these two facts. In the documentary, it reads as comic relief: two tiny, solemn people engaged in the gravest possible competition over the most fundamental possible resource. The editor intercuts it with time-lapse footage of the station's air recyclers working through their filtration cycle. It is charming. It was, the editor later testified, supposed to be charming.
+
+Tomás's voiceover: *"Suki Lindqvist can hold her breath for forty-one seconds. Reo Lindqvist can hold his for thirty-six but claims forty-one. In the economy of childhood, this five-second deficit is a catastrophe. In the economy of Kepler Station 9, it will eventually be something else."*
+
+He ad-libbed that last sentence. The network told him to cut it. He did not cut it.
+
+---
+
+## III.
+
+The briefing in Conference Room C takes up the middle third of Episode 3, and it is, structurally, the scene on which the entire documentary pivots, though nothing happens in it. Nothing happens in it the way nothing happens in a loading bay when the pressure seal is failing — with tremendous, invisible force.
+
+The Head of Station Operations, a man named Gareth Pryce, stood before a projection of the colony's atmospheric model and used the word "sustainable" eleven times in nine minutes. Yuna counted. She told the inquest she counted because counting kept her from interrupting, and interrupting would have made her the problem rather than the atmosphere. The atmospheric readings had, by this point, deviated 1.7% from baseline. Processor 6 had been flagged for efficiency loss. The station's oxygen generation was still, on paper, adequate, the way a boat is still, on paper, floating when water is entering from a hole you have classified as a "feature variance."
+
+Gareth Pryce was not a villain. The inquest made this clear, and it is worth stating again, because the documentary—despite Tomás's efforts—implies otherwise through editing. Gareth Pryce was a man who had been given a station to run and insufficient resources to run it, and he had responded by redefining "sufficient" each quarter until the word meant nothing at all. He believed what he was saying in Conference Room C. He believed it because the alternative was to believe that the company had placed six hundred and twelve people in an enclosure whose atmosphere was failing, and that belief was, in every practical sense, unsurvivable. So he did not believe it. He stood in front of his projections and said "sustainable" and meant it every time, and the room full of department heads nodded because they also preferred to mean it, and Yuna sat in the third row and counted.
+
+The documentary crew filmed from the back, and what they captured — what makes the scene unwatchable now — is the ordinariness. The plastic water cups. The slight flicker of the projector. A woman in the second row checking her watch. Gareth's hand, tapping the podium in a rhythm that Tomás would later identify, off-camera, as the Auroras corporate jingle. The banality was the horror, but the banality was also just banal, and the documentary presents both without choosing between them.
+
+Tomás read the approved script for the voiceover:
+
+*"Kepler Station 9 is home to over six hundred residents, each one a steward of their shared environment. Like any community, the station faces challenges — and like any community, it meets them with expertise, collaboration, and an unwavering commitment to the little worlds within the larger world they've built together."*
+
+He read it perfectly. His delivery was warm and paced and had the quiet authority of a man who has been selected by an algorithm to be trustworthy. In the raw footage — released during the inquest, never aired — you can hear him, immediately after the take, say to Jen Kazemi: "If I read this copy one more time, I'm going to swallow my own tongue, and the air in here is too expensive for that." He said it in the same warm, paced tone. Jen, to her credit, laughed.
+
+But here is what the documentary did not include, and what matters: after the briefing, Yuna returned to her quarters and found the twins building a fort out of couch cushions and emergency blankets. They had draped a thermal sheet over the back of two chairs and were sitting inside it, their faces lit orange by a maintenance flashlight Yuna had never been able to find, and they were breathing in turns. One breathed while the other held. Then they switched. They had made a game of rationing air inside their tiny, glowing tent, and they were laughing about it, and Yuna stood in the doorway and watched them and felt something shift in the architecture of her chest that was not, she was almost certain, a response to the CO₂ levels.
+
+She pulled up her atmospheric models on her tablet and ran the projections again with Processor 6's efficiency loss factored in. The curves bent where they had always bent, toward a place she could name precisely but that Gareth Pryce's projections did not include, because Gareth Pryce's projections used last quarter's processor efficiency values on the grounds that the current values were "anomalous." In atmospheric science, anomalous is a word that means: this is happening, and we have decided it isn't.
+
+Yuna closed the tablet and crawled inside the fort.
+
+"What are we doing in here?" she asked.
+
+"Breathing," Suki said.
+
+"Only sometimes," Reo added.
+
+Yuna looked at the thermal sheet above them, the way it trapped their exhalations and held the warmth close. A little world. A closed system. A model of the larger model she had spent three years studying, built by two children who understood, on some level she could not quite dismiss as play, that air was not guaranteed.
+
+"Can I try?" she said.
+
+Suki held up three fingers, then four. "You have to beat forty-one," she said.
+
+Yuna held her breath.
+
+---
+
+## IV.
+
+What made Yuna Shin a good scientist was the same thing that made her a dangerous one: she could not stop modeling. She saw systems everywhere — in the way the cafeteria's ventilation created a dead spot near table nine, in the way the twins' sleep schedule synced with the station's light cycle but lagged behind it by eleven minutes each day, in the way Gareth Pryce's confidence correlated inversely with the reliability of his data. Her mind was a machine that turned observations into projections, and her projections were, almost without exception, correct. This is not the same as being useful. A projection is a map of a future that no one has agreed to enter, and Yuna had learned, across nine published papers and a career spent on stations that preferred their atmospheres unexamined, that being right about the air was a reliable way to be dismissed from the room.
+
+So she stopped telling the room.
+
+What she did instead — and this is the sequence that people remember when they remember the documentary, the part that teachers show in classrooms and engineers cite at conferences and Tomás, in every interview, calls "the part where Yuna became Yuna" — was build.
+
+It started with the bouncy castle.
+
+The bouncy castle was a recreational installation in Ring 4, a cheerful monstrosity of reinforced polymer that the station had purchased three years ago for the children's play area and that consumed, according to Yuna's calculations, more electricity per hour than Research Lab 2. It was also — and this was the part that made Yuna stop in the corridor and stare at it with the expression of someone hearing a piece of music resolve — an airtight, inflatable, structurally sound pressure envelope.
+
+The documentary crew filmed her walking around it. In the footage, she circles it three times, touching the seams, pulling at the anchor points, pressing her palm flat against the surface and holding perfectly still, and Tomás's voiceover — abandoned by this point, Jen had stopped giving him the approved scripts because he kept ad-libbing over them anyway — says simply: *"She's not looking at a bouncy castle. I don't know what she's looking at. I think she's looking at a lifeboat."*
+
+Within six hours, Yuna had commandeered the bouncy castle, four rolls of industrial sealing tape, the backup CO₂ scrubber from Emergency Kit 14, a length of medical-grade oxygen tubing, and — through a negotiation with the station's quartermaster that witnesses described as "quiet, surgical, and deeply alarming" — two portable atmosphere monitors and a canister of supplemental O₂ that was technically reserved for the medical bay. She had also enlisted Tomás, who had put down the microphone and picked up a tape gun with the methodical calm of a man who has been waiting his entire life for someone to tell him to do something that mattered.
+
+"You understand," Yuna said to him, pulling the bouncy castle's inflation valve free and beginning to modify it into an intake port, "this isn't a solution."
+
+"What is it?"
+
+"It's a margin. If the atmosphere degrades faster than the processors can compensate, this gives anyone inside it an extra window of breathable air. Maybe two hours. Maybe four. Depending on occupancy."
+
+"How many people does it hold?"
+
+"The bouncy castle was rated for fifteen children

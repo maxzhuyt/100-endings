@@ -1,0 +1,101 @@
+# LOOM
+
+---
+
+## I.
+
+SITUATIONAL AWARENESS BRIEF — JOINT ANOMALY TASK FORCE (JATF-GOBI)
+CLASSIFICATION: TS//SCI//NOFORN
+LAST UPDATED: 11 NOVEMBER 2026, 0400Z
+DISTRIBUTION: EYES ONLY — PRINCIPALS COMMITTEE
+
+---
+
+The anomaly designated SITE LOOM occupies an irregular area of approximately 312 square kilometers in the southeastern Gobi Desert, Ömnögovi Province, Mongolia, centered on the decommissioned Facility 31-K (Soviet-era research installation, 1971–1993, function: see Annex D, para. 14–17, REDACTED). The area of effect — hereafter "the zone" — does not possess a visible boundary. Demarcation is inferred from instrumentation failure, biological disruption, and the behavioral anomalies of local fauna at the perimeter line (see Appendix C: "Animal Incursion Events, Jan.–Oct. 2026").
+
+Growth rate: 11.3% over the preceding eight months. Models project 19–24% over the next eight, assuming non-linear acceleration holds. Confidence interval: low. All models assume underlying processes that remain unverified.
+
+The zone does not appear on conventional satellite imaging in a stable form. Optical capture produces artifacts. In images taken by Sentinel-2 on 14 September 2026, the terrain registers normally in bands 2 through 4 but in bands 8 and 11 presents columnar structures of apparent solid electromagnetic radiation, regularly spaced, extending between forty and ninety meters in height. Spectral analysis of these structures has been inconclusive. Provisional classification: solidified electromagnetic phenomena (see Technical Annex F). The columns emit low-frequency acoustic resonance measured at 14.2 Hz (±0.3), which is below human hearing threshold but within range of physiological effect. Field monitoring stations at the perimeter have reported persistent condensation on internal electronics, fogging of optical lenses, and — in one case — the spontaneous crying of a signals analyst who had not been aware she was distressed (see Incident Report 2026-LOOM-0447).
+
+The columns are spaced at irregular but recurring intervals. Initial spatial analysis suggested random distribution. A second analysis, conducted at NSA request using architectural modeling software, returned a different result. The intervals correspond to standard residential room dimensions. Living room. Hallway. Kitchen. Bedroom. Bedroom. Bedroom. The correspondence is provisional and has not been briefed above working-group level.
+
+Water has appeared at coordinates 43°17.4′N, 101°52.1′E, where the regional water table sits at 210 meters below surface and no aquifer breach has been detected. Landsat thermal imaging confirms the body is liquid, roughly four hectares, surface temperature consistent with seasonal ambient. However, multispectral analysis indicates anomalous temporal signature. Water samples retrieved by autonomous drone (Drone RQ-42, Mission 1187, 2 October 2026 — drone lost to signal failure on exfiltration, sample recovered at perimeter by ground team) were dated using isotopic methods. Results: the water is approximately nine days older than the moment of collection. It is not water from the past. The assessment — provisional, low confidence — is that the lake *contains* a prior timeframe. Analysts have described it as "still being last Tuesday." In high-resolution capture taken at 0614Z on 3 October, the lake's surface shows what appear to be reflections for which no corresponding objects exist above the waterline. Enhancement of these reflections suggests humanoid figures in seated positions, arranged around a rectangular form consistent with a table. No personnel were present at the coordinates during any prior timeframe. The image has been classified and is not available for distribution beyond this committee.
+
+Fauna incursion events at the perimeter continue. A Bactrian camel (specimen tagged by Mongolian wildlife survey, 2019, recorded deceased April 2026, cause: dehydration) was observed at the eastern perimeter on 18 September 2026 by automated camera trap. The animal was standing. Veterinary assessment from imagery: hide intact, musculature appears reconstituted, rib cage visible under skin shows complete structural reassembly. Gross morphology consistent with a living specimen. However, no respiratory motion was observed over 340 continuous frames (approx. 11 minutes, 20 seconds). The animal did not blink. Its posture was described by the reviewing biologist as "anatomically perfect but motivationally empty — as though it had been told what a camel looks like but not what a camel is for." The specimen was observed a second time on 22 September in the company of a second camel, also previously tagged as deceased (cause: predation, February 2026). They stood side by side, facing the zone's interior. They had not moved. Their shadows, notably, fell toward the nearest crystalline pillar rather than away from it.
+
+Sixty-seven personnel have been lost to the zone across all incursion attempts since June 2025. Unmanned systems fail at the perimeter. Manned expeditions have resulted in fatalities at distances ranging from 200 meters to 11.4 kilometers past the boundary line. Cause of death is not consistent. In some cases, cellular biology simply stops, as though the concept of metabolic function has been withdrawn. In others, spatial geometry appears to fail — a soldier's body recovered at 4.2 km showed compression injuries consistent with the interior volume of his torso reducing by approximately 40%, though no external force was applied. In three cases, no bodies were recovered. In one case, the body recovered was twenty years younger than the soldier who entered and matched no living person on record.
+
+Five individuals have entered and returned. Their conditions are detailed in Section III.
+
+The zone is not static. It is not a detonation, a spill, or a field. If the committee requires an analogy: it is behaving like something that is *waking up*.
+
+Recommendation: proceed to CONTINGENCY WHITEPAPER (see Annex K, para. 1–9: "Thermonuclear Sterilization Options, Yield Calculations, and Estimated Civilian Displacement").
+
+Recommendation (minority, 1 of 7 panel members): before proceeding to Annex K, determine what the anomaly is trying to do.
+
+---
+
+## II.
+
+**DOSSIER 1 — BATZORIG ENKHBAT**
+
+Subject: Male, 41. Mongolian national. Occupation: livestock herder, Ömnögovi Province. Entered zone inadvertently 14 June 2026 while searching for lost horses. Duration inside: approx. 6 hours. Exited under own power. Reported to local authorities three days later when he could no longer lift a cup without crushing it.
+
+Radiological assessment: complete skeletal replacement. Osseous tissue has been substituted throughout with a metallic lattice, composition 99.7% copper, 0.2% zinc, 0.1% unknown (isotopic signature matches no terrestrial sample). Substitution includes all 206 bones, all cartilaginous structures, and — remarkably — the three ossicles of the middle ear, which have been replaced at a scale of fabrication that exceeds current nanotechnological capability. Subject retains full range of motion. Bone marrow has been replaced with a copper foam of open-cell structure that appears to produce functional red blood cells through an unknown mechanism. Hematocrit: normal. Hemoglobin: normal, though spectroscopic analysis shows an absorption band that does not correspond to iron-based oxygen binding.
+
+Subject reports the following subjective symptoms: persistent heaviness in limbs ("like wearing someone else's body, someone bigger"), metallic taste localized to rear molars, and a low hum audible only to himself during periods of emotional distress. The hum, he says, is "not unpleasant, like the drone string on a morin khuur that someone is playing very far away." He also reports that his sense of smell has been replaced by something he cannot name — not smell exactly, but an awareness of the *composition* of things. He can tell copper from bronze by standing near it. He knows when a wire is live.
+
+Subject has been cooperative. His primary and repeated request is to contact his daughter, Sarnai, age 7, currently in the care of his sister in Dalanzadgad. Request has been denied pending security review.
+
+---
+
+He noticed the weight before anything else.
+
+Not the weight of walking, which was the same, or the weight of his own body against the mattress in the task force dormitory, which was only slightly wrong. The weight he noticed was the weight of his hands at the ends of his arms when he thought about Sarnai. It was a specific weight. It came when he imagined lifting her onto the bench outside their ger where she liked to sit and swing her legs and tell him about things she had seen, things she had imagined (she did not always distinguish between the two, and he did not always want her to). The weight came because he had done the arithmetic. His hands — his copper hands that could crush an aluminum chair arm without intending to, that left green oxidation smears on everything he touched, that were heavier than any hands had a right to be — were not safe for a seven-year-old.
+
+So he lay on the mattress and held them in front of his face in the dark, turning them slowly, and he felt the specific weight of a man who has been given a body that cannot do the thing his body is for.
+
+He could hear the hum. It came when the feeling came. It was deep and distant, like a struck bell on the other side of a mountain, and it sounded — he would not have said this to the doctors, to the intake nurses, to anyone with a clipboard — it sounded *sorry*. Like whoever had done this to him had not known it would mean he couldn't hold his daughter. Like they were only now finding out.
+
+---
+
+**DOSSIER 2 — YUNA PARK**
+
+Subject: Female, 34. Republic of Korea national. Occupation: field technician, KT Corporation (seconded to JATF-GOBI communications infrastructure). Exposed at zone perimeter during maintenance of relay tower TK-7112 on 2 August 2026. Duration of exposure: unclear. Subject reports "a few seconds"; relay tower timestamp logs indicate a 41-minute gap. Exited perimeter on foot. Reported anomalous symptoms within hours.
+
+Neurological assessment: unprecedented. Subject presents with what the evaluating team has provisionally termed "mnemonic totalization" — the complete and irrevocable equalization of all autobiographical memory. In a normally functioning brain, memory exhibits temporal gradient: recent events are more accessible, more vivid, more "present" than distant ones. Subject's gradient has collapsed. All memories, from earliest childhood to the present moment, are accessible with equal immediacy, equal sensory fidelity, and — critically — equal *emotional force*. Subject does not remember past events; she *re-experiences* them, fully, concurrently with present experience.
+
+The following exchange occurred during intake interview (transcript excerpt, 4 August 2026):
+
+INTERVIEWER: Can you describe your current experience?
+SUBJECT: I am sitting in this chair. I am also sitting in my grandmother's kitchen in Busan. I am also standing in a parking lot in Daejeon in the rain when I was twenty-two. All of these are happening.
+INTERVIEWER: Which is most real?
+SUBJECT: [pause] That is not a question that means anything anymore.
+
+Linguistic analysis notes that subject has begun constructing verb forms in Korean that do not exist in standard grammar — compound tenses that attempt to express simultaneous present and past experience. Linguistics consultant Dr. An Jiwoo has described these constructions as "grammatically illegal but communicatively precise."
+
+Subject's intake interview extended to 11 hours, 14 minutes, primarily because associative chains triggered by environmental stimuli produced extensive and involuntary narration. The pattern on the interview room wallpaper (a beige diamond lattice) prompted a 22-minute account of a blanket she owned at age four, which connected to a description of her mother's hands folding that blanket, which connected to the smell of her mother's hand cream, which she then identified by brand and by the exact quality of light in the Lotte Mart where it was purchased in 1997, including the song playing on the store's speakers ("Doll" by Uhm Jung-hwa, second verse).
+
+Subject is lucid. Subject is not confused. Subject is *saturated*.
+
+---
+
+The worst part was not the remembering. The worst part was that nothing was over.
+
+Yuna sat on the edge of the dormitory bed and the mattress was thin and the sheets were military-issue and the light was buzzing fluorescent and she was *also* lying in her first apartment in Seoul on a hot night with the window open and the sound of traffic twelve floors down and the particular way Kim Jihoon breathed when he was almost asleep, which was a sound she had loved, and she was *also* sitting in an exam hall at KAIST with a mechanical pencil that was running low on lead and the panic sweet and bright in her chest, and she was *also* nine years old, pulling a spoonful of her father's kimchi jjigae to her mouth too fast, the burn on her tongue exact and present, the precise red of the broth, the steam, her father's face across the table which was the face of a man who was now dead and who she could not stop seeing *alive* — not as a memory, not as a memorial image, but as a lived experience happening right now, in a kitchen in Busan that she was sitting in at this very moment, while simultaneously sitting on a military cot in a Mongolian desert.
+
+She could not get her father to be dead. He kept being alive. Every moment she had spent with him was still running, concurrent, and his death — which she had also lived and which was also present — did not overwrite anything. He was dead and eating jjigae at the same time, and she was nine and thirty-four at the same time, and every moment of her life was a room she was still in, and none of the doors closed.
+
+The task force psychologist had used the word "condition." Yuna had not corrected her. But it was not a condition. It was an *architecture*. Someone — something — had renovated her mind, knocked out all the walls, and made every moment load-bearing, and she could feel the intention in it. It was not cruelty. It was the opposite. Whatever had done this to her had thought it was giving her a gift: *nothing you love will ever fade*. It had not understood that this was the same thing as *nothing you grieve will ever end*.
+
+---
+
+**DOSSIER 3 — DELGER BAYARMAA**
+
+Subject: Female, 12. Mongolian national. Student. Entered zone on approximately 19 July 2026 while pursuing a stray dog across the unmarked perimeter near the southern monitoring station (Outpost Khar-4). Duration inside: unknown. Subject was recovered by perimeter patrol approximately 800 meters inside the zone, unconscious but uninjured. Dog was not recovered.
+
+Anomalous presentation: subject emits radio-frequency electromagnetic radiation in the AM broadcast band (530–1700 kHz), primarily from the mandibular region. Source appears to be metallic dental work — one stainless steel crown (tooth 14) and an orthodontic retainer (placed January 2026). Emissions are continuous, low-power (measured at 0.3–1.2 mW), but clearly modulated. Content is audio.
+
+The broadcasts are not subject's own. She does not choose them, cannot control them, and is often unaware of their specific content unless it is played back to her on recording. Signal analysis identifies the following recurring content types:
+
+1. Voicemail fragments. Mandarin Chinese and Russian. Multiple speakers, identified (tentatively) as former Facility 31-K personnel via voice-print matching against archival recordings recovered from the facility's surface structures in 2003. Content is domestic: a woman telling someone she will be late for dinner; a man asking if anyone has fed the

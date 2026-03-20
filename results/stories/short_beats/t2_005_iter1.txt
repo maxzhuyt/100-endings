@@ -1,0 +1,153 @@
+# Form 27-B: Application for Continued Existence
+
+---
+
+## I.
+
+The *Perseverance* recycled everything, including air, including grief, including the corridor murals that the ship's Arts and Morale Committee painted over every eighteen months because pigment was scarce and walls were scarcer and there was always someone who felt that the mural outside Hydroponics Bay C did not adequately represent the spirit of human perseverance, or represented it too literally (the one with the people gritting their teeth had been particularly divisive), or had begun to peel in a way that management worried might signal metaphorical decay to the children. The current mural outside Hydroponics Bay C depicted a field of sunflowers. No one aboard had ever seen a sunflower. The artist had worked from a seed catalogue that was itself a third-generation photocopy, so the sunflowers looked somewhat like brown stars exploding from green poles, which several children found frightening, which in turn generated a Formal Aesthetics Complaint (Form 9-R, Internal), which sat in the Arts and Morale Committee's intake tray beneath three other complaints and a requisition for more yellow paint that could not be fulfilled because the last of the cadmium sulfide had been allocated to Signage.
+
+This was life aboard the *Perseverance*: three thousand humans continuing to do the things humans do when they have not yet been told to stop. They grew lentils and bok choy under full-spectrum lamps. They held parent-teacher conferences. They argued about the thermostat in Residential Deck 7, where a faction of fourteen households had been waging a low-grade temperature war for six years, adjusting the communal setting by half-degree increments in the night, filing counterpetitions by day, generating a paper trail so voluminous that it had its own archival drawer. They fell in love poorly and often. They performed Shakespeare in the cargo hold, badly, with great conviction. They raised children who had never breathed unprocessed air and who accepted this fact with the same equanimity with which children have always accepted the terms of the world they're born into, which is to say, completely, until one day they don't.
+
+They also, with a regularity that governed the deeper rhythm of shipboard life the way a heartbeat governs a body, filed paperwork with the Auditors.
+
+The Auditors did not have a name for themselves. "Auditors" was the word the ship's linguists had settled on in Year Three, after discarding "Administrators," "Overseers," "Them," and a period of several months during which Captain Achebe had simply referred to them as "the Situation." They were not, in any sense that human cognition could comfortably accommodate, beings. They were something closer to a process — a vast, distributed bureaucratic intelligence that permeated a significant percentage of known space the way a magnetic field permeates iron, invisibly, comprehensively, with total indifference to whether the iron finds this arrangement agreeable. They had not destroyed Earth. That distinction belonged to the gravitational event that the Auditors' system classified as a "Routine Spatial Restructuring (Category 4, Sub-Spiral)." What the Auditors had done was *fail to file the exemption* that would have rerouted the restructuring around inhabited systems. Or, more precisely, they had issued the exemption, but for the wrong spiral arm. Someone — some *process* — had transposed two digits in a galactic coordinate, and four billion years of uninterrupted biological experimentation had been resolved into expanding dust, and the form acknowledging the error had been issued, sincerely, to a stretch of empty space eleven thousand light-years from where Earth had been, where it was presumably still waiting to be signed.
+
+Twelve ships had launched in the final days. The *Perseverance* was the only one still transmitting. Whether the others had been lost to mechanical failure, or navigational error, or simply to the same cosmic indifference that had unmade their homeworld, no one knew. The *Perseverance* carried on. It filed its quarterly Species Continuity Extensions. It submitted its Transit Variance Requests whenever its course deviated by more than 0.003 degrees from the trajectory the Auditors' system had assigned it, which was often, because the assigned trajectory passed through two debris fields and a star. It completed, in triplicate, its Applications for Provisional Non-Archived Status, stipulating in the required supplementary materials that humanity remained a going concern, that it continued to exhibit the minimum cultural and biological markers outlined in Appendix 9(f) of the Interstellar Taxonomy of Extant Civilizations, and that it respectfully requested continued permission to exist.
+
+The Auditors always responded. Their responses were always form letters. The form letters always contained a string of procedural codes that the ship's linguists spent weeks decrypting, only to discover that the codes translated to further requests for documentation, which generated new forms, which required new submissions, which produced new form letters. The system was, June Palowski had once observed, a perpetual motion machine powered by anxiety.
+
+June Palowski knew this because June Palowski had spent the first thirty-one years of her life working at the Department of Motor Vehicles in Dayton, Ohio, and she recognized the architecture.
+
+---
+
+She was sitting in the ship's administrative annex — a repurposed storage closet on Deck 4 that smelled permanently of the adhesive used to mount the shelving — when she found the error. The annex was June's domain. She had claimed it in Year Two, when it became clear that someone needed to manage the Auditor correspondence and that no one else wanted to, partly because the work was tedious and partly because the existential weight of it — you are personally responsible for filing the paperwork that keeps your species from being processed into non-existence — tended to produce, in most people, a kind of paralyzing nausea that was not conducive to detail work. June did not experience this nausea. June had once spent four consecutive hours helping an eighty-six-year-old man in Dayton renew a driver's license that had expired in 1987, navigating a system that required the man to provide a birth certificate that the state of Ohio had lost, a social security card that had been issued under a misspelling of his name, and proof of residency at an address that had been demolished to build a Walgreens, and she had done it, she had gotten him his license, and he had driven away in a car that probably should not have passed inspection, and she had felt, briefly, the purest form of professional satisfaction available to a human being: the satisfaction of bending a system to its own stated purposes despite the system's every effort to prevent this.
+
+The Auditor correspondence filled eleven binders. June had organized them chronologically, cross-referenced by form type, with a color-coded index she had developed using strips of fabric from decommissioned uniforms. She had run out of colors in Year Nine and had begun using patterns — stripes, dots, a small chevron that designated forms related to spatial navigation. The linguists' latest decryption had arrived that morning: a batch of Auditor responses covering the previous two fiscal quarters, rendered finally into something approaching readable language. June was cross-referencing them against her index when she noticed the discrepancy.
+
+It was not a dramatic discrepancy. It was, in fact, the kind of discrepancy that you could look at a thousand times without seeing if you did not have the particular kind of mind that notices when a box has been checked on line 14(a) instead of line 14(a)(amended). June had that kind of mind. It was the only kind of mind that had ever been any use to her, and she felt a complicated rush of gratitude and despair every time it proved useful again.
+
+She pulled the original Species Continuity Extension from Year One. She pulled the Auditors' Taxonomy of Civilizational Origin Codes, which the linguists had partially decrypted in Year Six. She lined them up. She checked line 14(a). She checked line 14(a)(amended). She read the taxonomic distinction between the two:
+
+**14(a): Civilization originating in spiral-arm gravitational zone.**
+
+**14(a)(amended): Civilization originating in spiral-arm gravitational zone (amended).**
+
+The difference between the two, as far as June could determine after forty minutes of cross-referencing supplementary taxonomic notes that had only been partially decoded and that were written in a procedural syntax so dense it made IRS Publication 972 read like a limerick, was this: line 14(a) applied to civilizations whose spiral-arm gravitational zone had remained structurally stable since the civilization's origination. Line 14(a)(amended) applied to civilizations whose spiral-arm gravitational zone had been *altered* — by, for example, a Routine Spatial Restructuring (Category 4, Sub-Spiral) that had, for example, annihilated the civilization's home planet.
+
+Humanity had been checking 14(a).
+
+Humanity should have been checking 14(a)(amended).
+
+For seventeen years.
+
+June sat very still in the adhesive-smelling closet and felt the particular sensation of a systems-person who has found the error — the real error, the one underneath all the other errors — and who understands that finding it does not fix it but merely reveals the true dimensions of the problem, which are worse than anyone imagined, which are in fact so much worse that the problem loops back around to a kind of terrible comedy, because what else can you do with a mistake this large except laugh at it, or file an amendment, or both.
+
+She picked up the binders. All eleven. She carried them to the captain's office.
+
+---
+
+Captain Esosa Achebe was eating hydroponic lentils at her desk. She ate most meals at her desk. She had eaten most meals at her desk for seventeen years, not because she was an obsessive worker — though she was — but because the captain's mess had been converted into a secondary nursery in Year Five, and before that it had been a grief counseling center, and before that it had briefly been a church, and Achebe had ceded it each time with the same brusque pragmatism with which she made every decision, which was the pragmatism of a person who understood that commanding the last human vessel was not a job that rewarded sentimentality, or optimism, or any of the other soft virtues that people associated with leadership, but was instead a job that required, above all, the willingness to keep making decisions in a universe that had demonstrated, conclusively, that it did not care whether you made them or not.
+
+She was fifty-eight. She had been forty-one when the *Perseverance* launched. Her hair had gone white in Year Three — not gradually, but in a single month, as if her body had made an administrative decision to reallocate resources away from pigmentation. She had not looked in a mirror since Year Ten. This was not vanity or its inverse. She had simply stopped needing the information.
+
+"Captain," June said.
+
+"June."
+
+"I found something."
+
+"Sit down."
+
+June sat. She opened the first binder. She explained. She was methodical about it, because June was always methodical, but also because she had learned, over seventeen years, that the captain absorbed bad news better when it was delivered in the language of procedure — steps, codes, cross-references — rather than in the language of feeling. Feeling, for Captain Achebe, was a private weather system, and she did not appreciate being rained on in public.
+
+She explained line 14(a). She explained line 14(a)(amended). She explained the taxonomic distinction. She showed the original filing from Year One, and the carbon copies — actual carbon copies, because the *Perseverance*'s printers had failed in Year Four and all Auditor correspondence had since been handwritten and duplicated using a carbon paper reserve that was, June estimated, three years from exhaustion — of every subsequent annual renewal. Every one of them. Seventeen filings. Seventeen times the wrong box.
+
+Captain Achebe listened. She listened with her fork halfway to her mouth and then she set the fork down and she listened with her hands flat on the desk in the way she listened when the information was bad enough that her body needed to be in contact with something solid, not for comfort but for orientation, a way of confirming that the physical world still operated on reliable principles even when every other system had revealed itself to be garbage.
+
+"So," Achebe said, when June had finished.
+
+"So," June said.
+
+"You're telling me we've been dead for seventeen years and nobody processed the paperwork."
+
+June adjusted her glasses. They were not prescription glasses. Her actual glasses had broken in Year Six and these were a pair of reading glasses she had found in a donation bin, slightly too strong, which gave the world a permanent soft blur that she had come to find almost soothing, like looking at everything through one layer of charitable gauze.
+
+"Not dead," June said. "Pending."
+
+Achebe looked at her.
+
+"The distinction is actually important," June said. "If we were dead — archived, in their system — we would have received a Final Status Notification. We haven't. I've checked. We've received rejections, and requests for additional documentation, and three separate notices that our file was being transferred to a different department, but never a Final Status Notification. Which means —"
+
+"We're in limbo."
+
+"We're in a processing queue. An incorrect processing queue, because of the 14(a) error, but a queue nonetheless. And as long as we're in a queue —"
+
+"We're still being processed."
+
+"Yes."
+
+"And as long as we're being processed, we haven't been —"
+
+"Archived. Correct."
+
+Achebe picked up her fork. She put it down again. She picked up a lentil between her thumb and forefinger and examined it as though it might contain further information.
+
+"Seventeen years," she said.
+
+"Yes."
+
+"Three thousand people."
+
+"Yes."
+
+"Every child born on this ship. Every funeral we held. Every Tuesday-night movie screening and every fight about the thermostat on Deck 7 and every single time I have sat in this chair and made a decision about rationing or course correction or whether to allocate power to the school or the med bay — all of that has been —"
+
+"Unauthorized. In their system. Yes."
+
+"Unauthorized."
+
+"Pending review, technically. Provisionally unauthorized pending review."
+
+Achebe released the lentil. It rolled across her desk, dropped off the edge, and fell to the floor, where it would remain for eleven days because neither the captain nor anyone else would remember to pick it up, a small legume resting against the baseboard like a period at the end of a sentence no one had agreed to write.
+
+"Can we fix it?" Achebe said.
+
+"I think so. If we refile under 14(a)(amended) with a Retroactive Correction Rider — which I believe is Form 22-C, though the linguists are still working on confirming the exact —"
+
+"Then do it."
+
+"It may trigger a review."
+
+"A review."
+
+"Of our entire file. Seventeen years of filings. Every form we've submitted. Every application, every extension, every variance request. If we draw attention to the error, we draw attention to ourselves, and right now the only reason we're still alive is that no one — no process — is looking at us closely."
+
+Achebe was quiet for a long time. Quiet, on Captain Achebe, looked like stillness, but was in fact a form of calculation so intense it consumed all available processing power, including the power normally allocated to blinking, which meant that when the captain was thinking very hard, she appeared to stare at you with an unbroken, slightly terrifying focus that most crewmembers had learned to endure the way one endures a searchlight: by holding still and hoping it passes.
+
+"And if we don't fix it?"
+
+"We stay in the wrong queue. We keep filing under the wrong code. Eventually — it could be a year, it could be thirty years, there's no way to predict when — the system catches the error on its own. And when it does, we won't be pending anymore. We'll just be —"
+
+She didn't finish the sentence. She didn't need to. Achebe was already looking at the binders — eleven of them, hand-labeled, color-coded with strips of old uniform fabric, a monument to seventeen years of one woman's conviction that the right form filed correctly could keep three thousand people alive.
+
+"Fix it," Achebe said. "File the correction."
+
+"It will take me at least two weeks to prepare the amended —"
+
+"Then you have two weeks. And June?"
+
+"Yes?"
+
+"When you file it, make sure you check the right box."
+
+June gathered the binders. She paused at the door.
+
+"There's one other thing," she said.
+
+"Of course there is."
+
+"Pei's drawings."
+
+Achebe frowned. "The girl. The one who draws."
+
+"Her teacher sent something to me last week. Pei drew a picture — a large shape surrounded by smaller shapes. She calls the large shape 'the Waiting' and the smaller shapes 'the Sorry People.' The teacher thought it was interesting. I thought it was interesting too, so

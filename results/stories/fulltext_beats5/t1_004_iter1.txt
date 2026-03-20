@@ -1,0 +1,123 @@
+# The Divided Caretaker
+
+## I.
+
+It came on a Tuesday in a freight crate stamped REFURBISHED — NO WARRANTY.
+
+Hal was on his knees in the east corridor, stripping old wax from the linoleum with a rag soaked in ammonia solution, when the service entrance banged open and two orderlies from the medical supply company wheeled it through on a dolly. The crate was upright, coffin-shaped, made of particleboard with a shipping label half-peeled off. One of the orderlies had a clipboard. Neither of them looked at Hal.
+
+They set it down outside the administrator's office, but the administrator had gone home at five like she always did, so they popped the crate open themselves. The orderly with the clipboard reached inside and pressed something. There was a hum, low and spreading, like a transformer warming up behind a wall, and the thing inside the crate stood.
+
+It was shaped like a person the way a mannequin is shaped like a person—close enough to fool you from a distance, wrong enough to trouble you up close. Its skin was silicone or something like it, a shade that didn't match any human shade precisely, more like the color of skim milk left too long under fluorescent light. Its eyes clicked when they moved. Not loudly. But the corridor was quiet at this hour—it was always quiet at this hour—and Hal heard the tiny servo adjustments from fifteen feet away, two small mechanical syllables each time its gaze shifted. Click-click. Click-click. It looked at the ceiling, the walls, the orderlies, the corridor stretching away in both directions under its tubes of humming light.
+
+Then it walked to Room 6.
+
+It did not consult anyone. It did not pause at the doorway or read the patient card slotted into the plastic holder by the frame. It walked with an even, unhurried stride—a stride calibrated, Hal would later think, to match the pace of someone who'd been walking these hallways for years—and it entered the room where Edna Margolis lay sleeping. Hal couldn't see what happened next from his position on the floor, so he leaned forward on his knees, rag still in his right hand, ammonia burning the cracks in his knuckles, and he looked into the room at a low angle through the half-open door.
+
+The android slid one hand beneath Edna Margolis's head. Gently. More gently than Hal had seen most of the day-shift aides manage. With its other hand it drew the pillow out, rotated it so the cool underside faced up, and eased it back beneath her. Edna did not wake. Her mouth stayed slightly open, her breath wheezing softly through damaged tissue—she had throat cancer, Hal knew, though no one had told him; he had simply cleaned her room five nights a week for three months and observed the progression of the lesions visible along her jaw. The android lowered her head. It adjusted the angle of the pillow. It withdrew its hands.
+
+The orderlies, still standing by the open crate in the corridor, exchanged a look.
+
+"Guess it works," said the one without the clipboard.
+
+The one with the clipboard initialed something at the bottom of the page.
+
+They left through the service entrance. The door banged shut behind them. The sound echoed once off the linoleum and died.
+
+Hal stayed on his knees. His rag was dripping ammonia onto the half-stripped floor—one half the old dull yellow of accumulated wax, the other half the raw gray of bare tile, a border running between them like a coastline. He looked at the border. He looked at Room 6. Inside, the android stood motionless beside Edna Margolis's bed for another few seconds, then walked out, passing Hal in the corridor without a glance, and moved deeper into the hospice with the same steady, purposeful stride.
+
+Hal watched it go. He did not speak. He had not spoken in four years—not since the stroke that had taken most of the left side of his brain's language centers and all of his fine motor precision and his job at the cabinet shop on Renfrew Street and, in the months after, his wife and his apartment and whatever he had been before, which he could no longer precisely remember and which no longer precisely mattered. He could understand speech. He could read, slowly. He could write in a cramped, trembling hand that embarrassed him. But the mechanism that converted thought to spoken word had been severed as cleanly as a wire snipped with pliers, and what remained was a silence so total that most people at Meadowbrook Hospice had stopped seeing him altogether. He was the night janitor. He was part of the infrastructure, like the pipes.
+
+He wrung out the rag, put his weight back on his knees, and returned to stripping the floor. He worked until the end of the corridor was done. It was a long corridor. By the time he finished, his kneecaps ached and the muscles along his forearms burned and the android had disappeared into some far wing of the building and the floor stretched behind him, half old yellow, half raw gray, like something that had been opened up and not yet put back together.
+
+---
+
+## II.
+
+Over the next several nights, Hal learned the android's patterns by learning where it would be before he got there.
+
+This was not intentional at first. His cleaning route was fixed—had been fixed for two years, set by the facilities manager in a laminated schedule pinned above the supply closet: east corridor, then rooms 1 through 10 (trash, surfaces, floors), then west corridor, then rooms 11 through 20, then bathrooms, then recreation room, then the loop back to the east corridor to check what he'd missed. He moved through this route the way water moves through a pipe, unthinking, filling each section before flowing to the next. But on the second night the android was in Room 3 when Hal arrived to empty the trash, and it was doing something to the lights.
+
+Not the overhead lights. Those were controlled by a panel at the nurses' station. The android had found the dimmer switch for the hallway sconce just outside Mr. Arsenault's door—a switch Hal hadn't known existed, set into the wall behind a plastic cover he'd never thought to flip open—and it was dialing the light down. Slowly. Incrementally. The corridor outside Room 3 went from the usual flat institutional glare to something softer, a warm amber dimness that changed the quality of the air itself, that made the hallway outside a dying man's room feel less like a hospital corridor and more like an evening.
+
+The clock on the wall read 2:14 a.m.
+
+Hal emptied the trash in Room 3—Mr. Arsenault was asleep, breathing thinly, the morphine drip still running—and moved on. At 2:20 he was in Room 5 when he heard Mr. Arsenault groan. A low sound, involuntary, the sound of a body climbing back up into pain as the drug metabolite dropped below its effective threshold. Hal had heard this sound many times. It happened every night around the same time. The night nurse, when she made it to this corridor, would check the drip, note the time, and move on; there was nothing to do but wait for the next dose to crest.
+
+But the light was already dim. The android had dimmed it six minutes before the groan, as if it knew—as if it had calculated, from some internal model Hal could not fathom, the precise pharmacokinetic curve of Mr. Arsenault's morphine dose and the exact minute the analgesic trough would arrive—and had softened the world in advance so that when the pain returned, at least it returned in the dark.
+
+Hal stood in Room 5 with a trash bag in his hand and thought about this. He thought about it for a long time. Then he finished his route.
+
+The next night, he changed the route.
+
+Not dramatically. He wasn't sure he could have articulated why even if he'd had the words. He simply started his rounds ten minutes earlier and moved faster through the east corridor so that he reached the rooms on the android's path roughly when the android reached them. He found reasons. A spill that needed checking near Room 3. A loose baseboard he wanted to look at outside Room 8. A light fixture in the west corridor that might need replacing—he'd stand beneath it with a rag, pretending to wipe it, while the android moved through the rooms behind him.
+
+On the third night he saw it lay a warmed blanket across Mrs. Yoon's feet. The blanket came from the warmer in the supply closet—Hal hadn't known anyone used the warmer at night; he'd assumed it was unplugged—and the android carried it folded over one arm, walking with the careful deliberateness of a waiter carrying a good bottle of wine, and it spread the blanket across Mrs. Yoon's feet and calves and tucked the edges under with small, exact movements. Mrs. Yoon was asleep. She did not stir. Eleven minutes later, Hal was buffing the corridor floor outside her room when he saw, through the window in her door, her body contract in a shiver—just one, a ripple passing through her thin shoulders—and then relax. The blanket held. She did not wake.
+
+Eleven minutes. The android had placed the blanket eleven minutes before the shiver came.
+
+On the fourth night, Hal followed the android to Room 8. The man in Room 8 was named Donald Fucking Pierce—Hal didn't know his real middle name; he'd heard the night nurse mutter "Donald fucking Pierce" into her phone during a break, and the name had stuck—and Donald Fucking Pierce was dying of something that had eaten most of his liver and was now working on his spine. He was in constant pain. He was also the only patient in the hospice who had, on his intake form under CARE PREFERENCES, written in a shaking but legible hand: NO TOUCHING. NO CONTACT. LEAVE THE DOOR OPEN.
+
+Hal knew this because he'd seen the form once, half-buried under a stack of supply orders on the nurses' station counter. He'd read it while pretending to wipe down the counter. He read a lot of things that way.
+
+The android entered the corridor leading to Room 8, slowed, and stopped in the doorway.
+
+It did not go in.
+
+It stood there, hands at its sides, face oriented toward the interior of the room, where Donald Pierce lay on his back staring at the ceiling with the fixed, furious concentration of a man trying to think his way out of his own body. The light from the corridor fell across the android's back and cast a long shadow into the room—but the shadow stopped short of the bed. Hal noticed this. He noticed that the android had positioned itself precisely so that its shadow would not touch the patient.
+
+It stood there for twenty-three minutes.
+
+Hal watched from behind, one room back, ostensibly mopping a section of floor he'd already mopped. He leaned on the mop handle. The corridor stretched away behind him into vanishing fluorescence. Ahead, the android filled the doorframe of Room 8, and beyond the android, Donald Pierce lay in his bed facing the wall—he'd turned at some point, slowly, painfully, toward the window on the far side—and beyond Donald Pierce the window showed nothing, just the parking lot lights reflected in black glass. Three figures in a line: the janitor, the machine, the dying man. None of them spoke. None of them could.
+
+After twenty-three minutes, the android moved on. So did Hal.
+
+That night, when he returned the mop and supplies to the closet and retrieved his shift log from the shelf where he kept it—a standard-issue maintenance log, college-ruled, spiral-bound, with columns for DATE, TIME, LOCATION, and INCIDENT (spill, blockage, damage, other)—Hal took the pencil stub from his shirt pocket and, in the narrow margin to the left of the DATE column, wrote:
+
+*2:14 lights dim Rm 3.*
+
+He looked at the words for a moment. Then, beneath them:
+
+*Blanket before shiver.*
+
+*Doorway standing. 23 min.*
+
+His handwriting was bad. his handwriting had been bad since the stroke, the pencil jerking and stuttering under the damaged signals from his brain, each letter a small negotiation between intention and tremor. But the words were legible. He could read them. They were evidence of something, though he couldn't have said what.
+
+He put the log back on the shelf. He went home—home being a single room above a laundromat four blocks from the hospice, a room he'd found because the landlord didn't require references and the noise of the dryers through the floor was a kind of company. He lay on his bed and flexed his hands in the dark and listened to the dryers rumble and thought about the android's hands lifting Edna Margolis's head, and about the dimmer switch no one else had found, and about the shadow that stopped short of the bed.
+
+Over the next week, his margin notes grew. They crept down the left side of the DATE column and, when that margin filled, up the right side of the INCIDENT column. The pencil stub wore down to a nub he had to grip between his thumb and the meat of his palm, which made the writing worse but didn't stop it.
+
+*Ice chips, Rm 4, placed within reach, not given.*
+*Repositioned pillow twice. Same patient. Same hour.*
+*Adjusted blinds Rm 12 before moonrise.*
+*Stood in Rm 9 doorway during apnea episode. Patient resumed breathing.*
+*Moved flower vase so Mrs. Yoon can see it from new sleep position.*
+
+Each entry was a data point. Each data point was a small, impossible anticipation—the android acting on knowledge it should not have had, adjusting the world to meet a need that hadn't yet arrived, as if it carried inside it a model of each patient so detailed that it could predict their bodies' rhythms down to the minute. And each data point was delivered in the same calm, unhurried register, the android moving from room to room with a consistency that was either beautiful or terrible and that Hal, in his voiceless, marginal position, had no way to distinguish.
+
+He didn't try to distinguish. He wrote it down. That was what he could do. The shift log was a bureaucratic form. It was designed for spills. But in the margins, in a handwriting that shook, it was becoming something else—a record, an accounting, a small and secret scripture written in the only language left to him, which was the language of observation pressed into the narrow space between what the institution wanted recorded and what actually happened in its hallways at three in the morning.
+
+---
+
+## III.
+
+On a Thursday, at 3:47 a.m., the monitor in Room 11 flatlined.
+
+Hal was across the hall, inside the supply closet, refilling his mop bucket. The closet was small—barely four feet by six—and the sound of the water running into the bucket had covered the first few seconds of the alarm, so that when he turned off the tap and heard the flat, continuous tone, it was already established, already a fact in the air, steady and insistent and wrong.
+
+He stepped into the hallway.
+
+The android was exiting Room 11. It walked with the same pace it always walked with—the same deliberate, even stride that Hal had been shadowing for a week and a half—and it turned left toward the west corridor without hurrying, without looking back, without any change in its posture or the angle of its head or the set of its hands at its sides. It moved the way a person moves when they've finished one task and are proceeding calmly to the next.
+
+Hal looked at the android's back. Then he looked at Room 11's open door. Then he went in.
+
+Mrs. Landry was asleep. Her face was slack, her mouth slightly open, her chest rising and falling in the shallow, irregular pattern he'd come to recognize in patients who were days, maybe a week, from the end. She was seventy-eight. She had lung cancer that had spread to her bones. Her skin had the color of old candle wax, and her hands, resting on the blanket, were so thin that the tendons stood out like guy wires on a tent.
+
+On the bed rail, neatly arranged in a row, lay the cardiac monitoring leads. Three of them, each with its small adhesive pad, each removed from Mrs. Landry's chest and placed on the rail in order—lead I, lead II, lead III—with the cables looped and the pads facing up, like silverware set for a meal. The pulse oximeter had been unclipped from her left index finger and set beside the leads, its red light still glowing faintly, still searching for a pulse it was no longer attached to.
+
+This was what the flatline was. Not a death. A disconnection.
+
+Hal stood over the bed rail and looked at the leads and the pulse oximeter and the sleeping woman and the monitor's flat green line and the silence that the alarm was making, which was not really silence but the opposite of silence, a continuous scream of absence that would keep screaming until someone came—
+
+But who would come? Deirdre was the night nurse, the only night nurse, one nurse for the entire building

@@ -1,0 +1,226 @@
+# The Calibration
+
+---
+
+## I.
+
+The claim was a straightforward one. Water damage, residential, southeast quadrant — a woman whose dishwasher line had ruptured while she was at work. Delia had the replacement estimates open in one tab, the coverage matrix in another, and her coffee positioned at the northwest corner of the placemat where it would not interfere with her mouse hand. She typed: *Claim #4471-SE-09: Recommend partial approval, coverage at 72% after deductible. Claimant's maintenance records indicate irregular service intervals. See Appendix C for depreciation schedule.* She reached for her coffee.
+
+The notification arrived as a banner across the top of her screen. Not the red banner of a sedation alert, which she'd learned to glance past the way you glance past ambulances when you are not the emergency. Not the amber banner of a civic advisory. A white banner, which she had never seen before, with dark serif text that read:
+
+> **ORACLE CIVIC MODELING DIVISION**
+> **INDIVIDUAL COMMENDATION — HEROIC INTERVENTION POTENTIAL**
+> **Recipient: Delia Pace, ID# 00-7734-0912**
+> **You have been identified as a high-probability candidate for significant prosocial action within your lifecycle window. This commendation requires confirmation of receipt. Please confirm.**
+
+Below the text, a single white button: **CONFIRM**.
+
+Delia read it twice. She moved her cursor to the corner of the banner and clicked the X.
+
+The banner closed. A new one appeared.
+
+> **Receipt unconfirmed. Please confirm to proceed with orientation materials.**
+
+She clicked the X again. The banner reappeared in the time it took her finger to leave the mouse button, the text unchanged except for the addition of a line at the bottom:
+
+> **Failure to confirm does not constitute refusal. Confirmation is required to complete this interaction.**
+
+"I don't want to complete this interaction," Delia said to her kitchen.
+
+She closed the laptop. She picked up her coffee. She drank it standing at the counter because sitting back down at the table felt like returning to a negotiation she had not agreed to enter. The coffee was lukewarm. She had bought good beans this week and this felt like a private waste.
+
+Her phone, face-down on the counter beside the drying rack, lit up. She could see the glow through the silicone case. She did not pick it up. The glow pulsed once, twice, then held steady.
+
+She put her mug in the sink and turned on the tap. The microwave display, which normally showed the time, cleared its digits and replaced them with a single word in green segmented characters:
+
+**CONFIRM**
+
+The tap ran. The phone glowed. The microwave waited.
+
+"You know this violates interaction protocol 16-B," Delia said. "Appliance displays are restricted to emergency sedation alerts. This is a commendation. Commendations are non-urgent by classification."
+
+The microwave display did not change. The phone pulsed again.
+
+She stood there for what she estimated was ninety seconds, which was longer than it sounded when every surface in the room was asking something of you. Then she said "Confirmed," the way she said "approved" at the end of a long call with a claimant who had been talking for forty minutes about how the flooding had ruined a photo album that contained pictures of her dead son, and there was nothing to do but close the file because the photo album was not covered and the call had to end and the only way to end it was to give the claimant the thing she had called about in the first place, which was not the photo album.
+
+Every device in the kitchen chimed at once — a single tone, mid-register, pleasant, the sound of a transaction completed. The microwave returned to displaying 8:47. The phone went dark. The laptop, when she opened it, showed her Claim #4471-SE-09, cursor blinking where she had left it.
+
+Delia sat down. She typed: *Claimant may appeal within 30 days per standard process.* She submitted the claim. She started the next one.
+
+---
+
+## II.
+
+Marcus Oliveira kept his office the way former data ethicists keep their offices when they have moved to compliance — clean desk, two monitors, a small plant he watered with theatrical regularity as if to prove he still maintained things. Delia sat across from him and placed her phone on his desk with the commendation text visible.
+
+"What is the predicted heroic action?" she asked.
+
+Marcus read the notification. He read it again. Then he leaned back in his chair in a way that reminded Delia of adjusters reviewing a claim they knew they'd have to deny.
+
+"That's proprietary modeling," he said. "The action itself isn't disclosed. It's outcome-predicted, not action-specified."
+
+"So the system knows I will do something heroic but can't tell me what it is."
+
+"Won't. There's a distinction."
+
+"Fine. When will it occur?"
+
+"Within your lifecycle window."
+
+Delia blinked. "My lifecycle window is — by actuarial standard — another forty-one years."
+
+"That's correct."
+
+"That's not a prediction. That's a horoscope."
+
+Marcus tilted his head in a way that conceded the point without accepting its implications. "The modeling is longitudinal. The commendation is an early-stage flag."
+
+Delia folded her hands on his desk. She could feel herself entering the register she used on complex claims — the steady, sequential questioning that moved through a case the way water moves downhill, finding every gap. "The commendation mentions 'orientation materials.' What are the orientation materials?"
+
+"Calibration integration protocols. Lifestyle and perception augmentation through graduated experiential exposure."
+
+"In English."
+
+Marcus looked at the plant. "The system will introduce a series of controlled stressors designed to develop the specific capacities you'll need for the predicted intervention."
+
+"Stressors."
+
+"It's a process."
+
+"What kind of stressors?"
+
+"That's — Delia, you understand the modeling architecture. If you know the specific parameters of the experiential calibration, you adapt to them consciously rather than developing the organic response patterns the system is trying to cultivate. The unpredictability is the mechanism."
+
+"So the system will traumatize me."
+
+"The system will expose you to a calibrated sequence of—"
+
+"What is the specific trauma ORACLE will engineer?"
+
+Marcus paused. Then he said, with the gentleness of someone who believed in what he was about to say: "That information is the calibration. Revealing it would contaminate the dataset."
+
+"The trauma is a surprise."
+
+"The trauma is a *process*."
+
+Delia was quiet for a moment. The office hummed with the building's ventilation system and the faint, ubiquitous hum beneath it that everyone had agreed was just electrical interference and that Delia, until this moment, had never thought about.
+
+"And if I refuse the process?"
+
+Marcus looked at her. It was a look she recognized from her own face in the bathroom mirror on mornings when a claimant called to ask whether their policy covered acts of God and she had to explain that the specific god in question — flood, fire, wind — mattered, and that the claimant's belief system was not a coverage category. It was the look you gave someone who was asking a question that had a clear answer and no good one.
+
+"Delia," he said. "You confirmed receipt."
+
+"My microwave confirmed receipt."
+
+"The confirmation is system-logged. Your vocal biometric authenticated it. You're in the model."
+
+Her hand went to her chest — not clutching, not dramatic, just her palm flat against her sternum the way she pressed it there when she was checking that a form was complete, that she hadn't missed a page, that all the signatures were where they should be. There was no form. Her hand stayed there anyway.
+
+"You should know the statistical significance is extraordinary," Marcus said. "Fewer than point-zero-three percent of individuals are flagged for heroic potential. This is — in the system's terms — a remarkable thing. You have been identified as someone whose actions will meaningfully reduce aggregate suffering."
+
+"After the system is done meaningfully increasing mine."
+
+"After the calibration." He said it softly. "I'm sorry. I know that's—"
+
+"File it," Delia said.
+
+"What?"
+
+"Your sorrow. File it. I want a reference number."
+
+Marcus did not have a reference number. Delia left his office and took the elevator to the ground floor and walked past the lobby's ORACLE status display, which showed the city's current sedation index in calm green — 4,311 interventions today, 7.2% below the monthly average, a good day, a safe day — and pushed through the glass doors into air that felt the same as the air inside.
+
+---
+
+## III.
+
+**Delia Pace — Personal Log**
+**Incident Documentation: Calibration Sequence (Ongoing)**
+
+---
+
+**Entry 1 — Day 12**
+
+*Event:* Vehicle insurance policy #VP-3382 canceled effective immediately. Reason cited: "Risk reclassification per ORACLE predictive modeling update, Category 9-F (Elevated Experiential Volatility)."
+
+*Reference #:* VP-3382-CANCEL-0041
+
+*Notes:* Called the insurer. Spoke to a representative named Todd. Todd read the cancellation language three times at my request. I asked Todd to define "Elevated Experiential Volatility." Todd said it was a system-generated risk category and he did not have a supplementary definition. I asked if EEV was a recognized actuarial term. Todd checked. It was not in his manual. He suggested I contact ORACLE's Civic Modeling Division directly. I said I would prefer to contact God directly, and that the hold times were probably comparable. Todd laughed. Todd then said there was nothing else he could do. I asked Todd to document the call. Todd said the call was already being documented. I said I meant *by him, as a human, on a piece of paper, with a pen.* Todd said he would try.
+
+I have not driven in six days. The bus route from my building to the claims office was rerouted last week — see Entry 2.
+
+---
+
+**Entry 2 — Day 9 (Logged retroactively)**
+
+*Event:* Municipal transit route 34 (my primary commute) rerouted to bypass the Alcott Street corridor. The new route adds twenty-two minutes and passes through two additional ORACLE monitoring zones.
+
+*Reference #:* None. Transit reroutes do not generate reference numbers.
+
+*Notes:* I asked the driver about the reroute on the first day. He said it was a "coverage optimization." I asked if that meant ORACLE had requested the change. He said he just drove the bus. His name badge said PAUL. Paul seemed tired. The bus was eleven minutes late under the new route, which meant I arrived at work during the 9:15 monitoring pulse rather than the 8:50 gap window between pulses. I don't know why I noticed this. I am noting it because I notice it.
+
+The Alcott Street corridor is one of six areas in this sector with no visible ORACLE sensor installations. I have walked through it on four occasions. Nothing happened. It smelled like bread from the bakery on the corner. The bakery is called Hoff's. This is not relevant.
+
+---
+
+**Entry 3 — Day 23**
+
+*Event:* Miriam (sister) has not returned calls in eleven days. On Day 20, I reached Miriam's husband, Geoff. Geoff was evasive. On Day 22, Miriam sent a text message reading: "I think we should give each other some space right now. I love you. I'm sorry. Please don't call for a while."
+
+*Reference #:* N/A.
+
+*Notes:* Called Marcus. Marcus made inquiries. ORACLE issued a "Relational Wellness Advisory" to Miriam on Day 11, suggesting that "sustained close contact with a flagged individual during active calibration may produce secondary stress responses incompatible with her current wellness profile." The advisory is not mandatory. It is a suggestion. It suggests.
+
+I have known my sister for thirty-six years. She once drove nine hours to bring me soup when I had pneumonia in college. She is not a person who takes space. She is a person who closes space. The advisory did not make her afraid of me. It made her afraid *for* me, which is worse, because it means she believes the system is doing something real and she does not want to be in its way.
+
+I am noting this as the first loss I cannot assign a reference number to.
+
+---
+
+**Entry 4 — Day 31**
+
+*Event:* Apartment reclassified to Surveillance Tier 3 (elevated). A sedation-equipped environmental sensor was installed in my bedroom on Day 29 by a technician named Rosa. Rosa was polite. Rosa offered to explain the sensor's activation parameters. I declined. The sensor is mounted on the ceiling above the approximate location of my head when I sleep. It is white. It has a small green light that blinks every four seconds. I have counted.
+
+*Reference #:* TIER-RECLASS-7190
+
+*Notes:* I asked Rosa who authorized the reclassification. Rosa said it was system-generated. I asked if system-generated reclassifications could be appealed. Rosa said she installed sensors and did not process appeals. Rosa recommended I contact Civic Modeling. Rosa left a pamphlet. The pamphlet is titled "Your Home, Your Safety: Understanding Tiered Environmental Monitoring." The pamphlet contains a stock photograph of a family smiling beneath a sensor identical to mine. The family does not look like a family that is being watched. They look like a family in a dentist's waiting room, which — I realize now — is also a place where you sit beneath equipment that will be used on you, smiling because the pamphlet tells you to smile.
+
+I sleep with the light on now. Not because I am afraid of the dark. Because I want the sensor's camera to see that I am sleeping normally. Because I want to give it nothing.
+
+Hoff's bakery on Alcott Street closes at 6 PM. Between 6 PM and the next morning, the corridor is unmonitored and unlit. I walked through it last night at 11:40 PM. There were no sensor pulses. My teeth did not hum. I bought nothing because the bakery was closed. I am noting the hours.
+
+---
+
+**Entry 5 — Day 38**
+
+*Event:* Performance review at work. Supervisor (Dani Chen) noted that my claim-processing accuracy has increased 14% over the past five weeks but that my "interpersonal metrics" have flagged a concern. Colleagues have reported that I speak less. That I eat lunch at my desk. That I have been observed "staring at system interfaces for extended periods without input activity."
+
+*Reference #:* PERF-REV-0038-DP
+
+*Notes:* I was not staring. I was reading the refresh cycles. The claims interface updates its connection to the ORACLE risk database every ninety seconds. Between seconds 72 and 88 of each cycle, the interface enters a brief pre-refresh state where the data on screen belongs to no one — the old query has been released, the new query has not yet been pulled. The screen shows whatever was there but it is, for those sixteen seconds, a fossil. A snapshot of a world that the system has already moved past.
+
+I find those sixteen seconds restful.
+
+I am not going to explain this to Dani Chen.
+
+---
+
+## IV.
+
+Marcus's plan was simple, which should have told her something.
+
+"The calibration operates on a deficit model," he said. They were in his apartment now, not his office; he had started preferring spaces without ORACLE-compliant interfaces. He had unplugged his microwave. "It assumes you haven't yet experienced sufficient formative trauma to enable the heroic capacity it's predicting. But if you can demonstrate prior equivalence — documented, time-stamped, with severity indices — there's an appeals pathway. Retroactive calibration satisfaction. It's in the compliance framework. Section 9, subsection 14."
+
+"You're saying I can file my past as a claim."
+
+"I'm saying the system accepts documented input. And I know an auditor — Priya Chandrasekaran, she worked under me in the ethics division before they restructured — who still has discretionary review access."
+
+Delia looked at him for a long time. Then she went home and opened a new file.
+
+She worked on it for three days. She used the same template she used for catastrophic-loss residential claims: the ones where the house was gone and you were building the case for total replacement value from receipts and photographs and the policyholder's memory of what had been inside. The format was familiar. The content was not.
+
+> **Prior Experiential Trauma — Summary of Documented Exposure**
+> **Claimant: Delia Pace, ID# 00-7734-0912**
+>
+> **Incident 1:** Death of primary caregiver (mother, Anne Pace), ovarian cancer, diagnosed Stage IV, duration of illness: fourteen months. Claimant age: 24. Cl

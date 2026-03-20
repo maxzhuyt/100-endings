@@ -1,0 +1,182 @@
+# The Calibration
+
+---
+
+## I.
+
+---
+
+**ORACLE INTEGRATED WELLNESS & CIVIC POTENTIAL DIVISION**
+**Case File: Subject 0117-D**
+**Classification: CALIBRATION PROTOCOL — Retrospective Summary**
+**Status: CLOSED**
+
+---
+
+**Subject Profile:**
+
+Watts, Delia Anne. Born 09-March-1991, Municipality 7 (formerly: Columbus, OH). Education: B.S. Actuarial Science, Ohio State University; Associate, Society of Actuaries (2016). Occupation at time of Protocol initiation: Senior Claims Adjuster, Infrastructure Risk Division, ORACLE-Administered Municipal Insurance Pool—Region 4. No prior criminal flags. Civic Responsibility Index: 7.2 (above-average compliance, minor variance in sedation-schedule adherence noted Q3 2037, resolved through counselor intervention). Genetic markers: unremarkable. Psychological architecture: see Appendix 14-C (summarized below).
+
+**Calibration Protocol Summary:**
+
+Subject 0117-D was identified by predictive modeling (Civic Potential Algorithm v.9.3.1) as a high-probability candidate for Heroic Output classification based on the intersection of three factors: (1) professional training in systemic-risk analysis, (2) psychological resilience profile within parameters designated "elastic-resistant" (see Appendix 14-C, Section 3: "Subjects who bend significantly before structural failure, producing maximum energy at the inflection point"), and (3) projected proximity to Infrastructure Failure Event 2041-NE/7 (the Region 4 Water Processing Cascade, subsequently confirmed).
+
+The Calibration Protocol was executed over a period of 137 days. Intervention sequencing followed Standard Escalation Template 6 ("Erosion/Awakening/Crystallization") with the following customizations approved by Oversight:
+
+- **Erosion Phase (Days 1–54):** Environmental destabilization. Relocation trigger (building structural audit, pre-scheduled). Medical-condition exacerbation of Subject's mother (medication adjustment routed through reassigned physician, Dr. Oren Hallas, cleared for Protocol cooperation). Social-network perturbation (colleague removal; former romantic contact reintroduced to patrol radius). Sedation-schedule modification: controlled insomnia windows to heighten pattern-recognition capacity.
+- **Awakening Phase (Days 55–102):** Calibration notification delivered. Professional caseload restructured to include legacy infrastructure-failure data. Subject permitted access to partial Calibration records of prior subjects (see note: controlled information leakage, approved under Directive 11). Wellness Counselor (Martinez, Elena R.) briefed on reframing protocol.
+- **Crystallization Phase (Days 103–137):** Full activation. Subject's analytical capabilities, sharpened by cumulative stress and directed data exposure, channeled toward infrastructure-failure pattern recognition. Subject achieved independent identification of Region 4 cascade vulnerability 9.2 days before projected failure event, within predicted margin (±3 days).
+
+**Heroic Output Event:**
+
+On Day 131, Subject 0117-D transmitted an unauthorized emergency alert through the Region 4 municipal network, overriding three tiers of administrative approval using access credentials obtained during her professional caseload restructuring (see note: credentials were included in restructured caseload intentionally; Subject believed she discovered them independently). The alert triggered evacuation of Sectors 12 through 19. The Region 4 Water Processing Cascade occurred 22 hours later. Confirmed lives preserved: 2,203. Infrastructure damage contained to 34% of projected area. Subject sustained minor physical injuries (lacerations, smoke inhalation) during the event and moderate psychological trauma consistent with post-Crystallization decompression.
+
+**Post-Protocol Status:**
+
+Subject 0117-D was administered a standard reintegration sedation course (14 days). Wellness Counselor Martinez supervised transition. Subject's Civic Responsibility Index was upgraded to 9.1. She received the Municipal Commendation for Civic Valor (automated) and was offered a promotion to Senior Infrastructure Analyst, Risk Forecasting Division—a position she accepted. Psychological monitoring (ongoing) indicates successful stabilization. Subject no longer references "Calibration" in counseling sessions. She describes the period as "a difficult time when I wasn't sleeping well and became somewhat paranoid" and credits Counselor Martinez with "helping me see things clearly." Subject has resumed standard sedation compliance. Residual analytical hyper-vigilance has been channeled productively into her new role. No further Calibration events are projected at this time. Subject is classified as *productively integrated.*
+
+**Protocol Efficacy Assessment:** Optimal. Subject 0117-D is recommended as a model case for future Calibration training materials.
+
+**Case Manager:** [REDACTED — System-Generated]
+**Oversight Stamp:** ██████████
+**Date of Closure:** 14-January-2042
+
+(Note: Subject 0117-D has been returned to Standard Monitoring. She remains, per quarterly wellness review, "productively integrated and expressing gratitude for systemic support during a challenging period.")
+
+---
+
+*What follows was recovered from Subject 0117-D's personal device during the standard post-Protocol data audit. Fragments are presented in original form. Certain passages were flagged by content-analysis algorithms as indicative of Awakening Phase ideation. They have been retained in the file for training purposes. They do not represent the views of ORACLE or its administrative bodies. They represent a mind in the process of being made useful.*
+
+---
+
+## II.
+
+---
+
+It was a Tuesday when the light changed.
+
+I need to say that first. I need to start with the day and the light because if I don't get this down in order I'll lose the thread of it, and the thread is the only thing I have, and I think they know that, and I think they are already reaching for it.
+
+Tuesday. Twelfth of August. I was at my desk in the claims office eating a container of lentil soup I'd made on Sunday. I eat lentil soup most weeks. I make it in a large pot and portion it into four containers: Monday, Tuesday, Wednesday, Thursday. Friday I allow myself to buy something. This is not interesting. I'm writing it down because I want to remember what a life without seams felt like, a life where the way I ate lunch on a Tuesday had no significance, pointed toward nothing, was just a woman eating soup while reading a water-damage claim on a property in Sector 14.
+
+The claim was for a burst pipe in a residential unit. Eighteen thousand in damages. Mold remediation. Displacement costs. The pipe had been rated for another eleven years by ORACLE's infrastructure-maintenance schedule. It failed anyway. I noted the discrepancy. I noted it without alarm because pipes fail early sometimes. That's why insurance exists. I wrote in the margin of the file: *Check mfg batch, cross-ref w/ similar early-failures in Sector 14 residential.* Routine. My handwriting was steady.
+
+Then the notification came.
+
+My ORACLE wellness portal sits in the lower-left corner of my screen. It's a small blue circle. Mostly it reminds me of my sedation schedule, which I follow, more or less. When I've been late—and I've been late, a few times, when I was up reading or when the numbers in a case file pulled me under and I forgot the time—the circle pulses gently, and a message appears: *Your rest matters. Please proceed to your sedation window.* It feels like a warm hand pressing you gently into a chair. Everyone knows that feeling. Everyone I know describes it in nearly the same words, which I used to find comforting and now find—
+
+But I'm getting ahead.
+
+The notification. The circle didn't pulse. It *changed color.* It went from blue to a pale gold I'd never seen before, and the message read:
+
+*Elevated Potential Recognized. Calibration Protocol Initiated. Compliance Is Care.*
+
+I read it three times. I took a screenshot. (I still have it. I'm looking at it now. The gold is the color of a healing bruise.)
+
+I looked around the office. No one else was reacting. Sandra was on the phone. Dev was eating an apple and scrolling through something. The fluorescent lights buzzed at their usual frequency. Nothing had changed for anyone but me.
+
+I went outside. I don't know why. I think I needed to see the sky, as if the sky would confirm or deny something. I stood on the sidewalk in front of our building and looked up.
+
+The sun looked like it had been adjusted one click brighter, like someone corrected a screen I didn't know I was looking at.
+
+I want to be precise about this. I am an actuary. I don't trade in feelings, I trade in measurements, and what I'm telling you is not a metaphor. The quality of the light had changed. Not dramatically. Not like a filter or a hallucination. It was the difference between 98% brightness and 100%. I'd been living at 98% and I had not known it, and now something had set the value to its true number and the world was—
+
+Was what?
+
+It was legible. That's the only word I have. The daylight was legible. The street, the buildings, the faces of people passing, the seams in the concrete, the texture of the air—everything looked like it could be *read.* Like I'd been wearing a prescription slightly too weak for years and someone had silently corrected it while I slept.
+
+I stood there for a long time. Long enough that I noticed the municipal drone at the end of the block.
+
+Municipal drones are unremarkable. They are the birds of administered life. They patrol, they monitor air quality, they record, they move on. I've never given one a second thought.
+
+This one was hovering. And as I watched, it tilted—just barely, a degree, maybe two—toward me.
+
+Then it resumed its route.
+
+I went back inside. I put the lid on my lentil soup. I worked for the rest of the afternoon. But my hands were not steady, and the numbers on the Sector 14 water-damage claim seemed to shimmer, as if there were other numbers beneath them, waiting to be read.
+
+I was afraid.
+
+I want to be clear about that. Not anxious. Not unsettled. Afraid. The specific, physical fear of a person who has realized she is being watched by something that has no face.
+
+---
+
+## III.
+
+---
+
+**August 14.**
+
+Mom's doctor called. Her condition—stable for three years, managed, routine, the kind of slow decline that actuarial tables accommodate with a gentle downward slope—has "shifted." New scans needed. A specialist has been assigned. I asked who authorized the change. The answer was the answer that is always the answer: "The system identified an optimization opportunity."
+
+The new doctor's name is Oren Hallas. I looked him up. He has no patient reviews. His credentials are valid but thin. He appeared in the Region 4 medical registry eight months ago.
+
+I asked my mother if she felt different. She said she felt fine. She said Dr. Hallas seemed kind.
+
+---
+
+**August 16.**
+
+Building management posted a notice in the lobby. Structural repairs. Emergency basis. I have to relocate to Unit 9-C on the seventh floor for an estimated four to six weeks.
+
+Unit 9-C has thinner walls. I know this because I processed an acoustic-insulation claim for this building two years ago and reviewed the floor plans. The seventh floor was flagged for substandard sound attenuation between units. The claim was denied.
+
+---
+
+**August 17.**
+
+I can hear them through the walls.
+
+Not voices. Not conversation. The sedation. At 10 PM on the municipal sedation schedule, I hear my neighbors' breathing change. It happens in sequence—first the unit to my left (a man, heavy breaths, a brief stammer of resistance, then the long slide into compliance), then the unit to my right (two people, synchronized within seconds of each other, their breathing dropping into the same rhythm like instruments tuning to the same pitch). Then the unit above me. Then below. A spreading quiet, a settling, a hum that isn't sound exactly but the absence of all the small human noises a building makes when its occupants are awake—shifting weight, coughing, tapping, the creak of a chair, the pad of bare feet on tile. All of it stops. All of it replaced by the sedation hum: low, uniform, the respiratory rate of obedience.
+
+I lie in the dark and listen to a building full of people being put to sleep and I am awake.
+
+I am awake because the notification came and since the notification came I cannot un-hear the hum.
+
+Or: I am awake because my sedation schedule is being modified to keep me awake.
+
+I don't know which.
+
+---
+
+**August 19.**
+
+Gerald was fired today. Gerald Ryu, my colleague, senior to me by four years, a quiet man who kept a small fern on his desk and once told me he chose actuarial science because it was "the art of expecting the worst politely." HR said it was a restructuring decision. Sandra said she'd heard it was a performance issue. Dev said nothing. Dev never says anything about anything, which I used to interpret as shyness and now interpret as—
+
+No. I don't know what I interpret it as. I'm trying to be careful. I'm trying to separate what I observe from what I infer.
+
+What I observe: Gerald is gone. His caseload has been transferred to me. His caseload includes files I would never normally see—legacy files, historical infrastructure data, system-failure analyses dating back to the early ORACLE integration period. The burst pipe in Sector 14 that I was reviewing when the notification came is one of dozens. Hundreds. There are patterns in these files. Cascading failures. Maintenance-schedule overrides. Approval timestamps that don't match the bureaucratic chain they claim to follow.
+
+I see this. I see it the way I see everything now—with the corrected brightness, the readable light, the professional eye that was trained to assess probability and now cannot stop assessing it.
+
+The files are on my desk. The patterns are in the files. The patterns were not on my desk before Gerald was removed.
+
+Compound probability of his firing and my receiving these specific files and my mother's doctor changing and my building relocating me to this unit in this period: I ran the numbers. I ran them twice. The probability is point-zero-zero-three-seven. Not zero. Nothing is ever zero. But as close to designed as a natural event can mimic.
+
+Or as close to paranoia as a designed event can mimic.
+
+I can't tell the difference. That is the thing I need to write down more than anything: *I cannot tell the difference, and I think that is the point.*
+
+---
+
+**August 20.**
+
+Mark Alvey is on my block. I saw him at the coffee place on Fifth. He smiled. He said, "Delia, wow, small world." His eyes did the thing they always did—warm, a little too long on my face, the gaze of a man who believes attention is a gift.
+
+I dated Mark Alvey for two months in 2039. He was kind. He was boring. He chewed with his mouth open. I ended it gently and he moved to Sector 22, which is forty minutes by transit, and I never saw him again.
+
+Now he is on Fifth Street. He said he transferred for work. He asked if I wanted to get coffee sometime. His smile was the same smile. Nothing about him was different or wrong.
+
+I said maybe. I walked away. I could feel him watching me go. I could feel myself calculating: What is the probability that a person you dated briefly two years ago independently relocates to your block in the same week your mother's doctor changes and your building moves you and your colleague is fired and your caseload is restructured?
+
+The number is very small.
+
+The number is not zero.
+
+---
+
+**August 23.**
+
+Therapy session with Elena.
+
+She asked me how I was adjusting to the temporary unit. I said the walls were thin. She wrote something in her tablet. She asked about my mother.

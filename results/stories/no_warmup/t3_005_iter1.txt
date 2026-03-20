@@ -1,0 +1,170 @@
+# THE CALIBRATION
+
+## I.
+
+The thing about claims is that every one of them is a story someone believes they're telling for the first time.
+
+Delia Parrish knew better. She had processed four thousand claims in three years at Millward Mutual, and the stories were always the same story wearing different damage. Water in the basement. Water in the lungs. A tree limb through a windshield. A chemical intervention that left someone foggy for nine days when the advisory said four-to-six. People wrote their narratives of loss in the same cadences, with the same turning points, the same moment where they said *and that's when I knew.* She could predict the next sentence of any claim by the third paragraph. This was not a skill she had ever listed on a résumé. It was the kind of knowledge that accumulated like calcium in a pipe—slowly, uselessly, until one day you were simply a person who knew that the word "devastated" appeared in 34% of all Predictive Intervention Side Effect claims filed between March and November, rising to 41% during the holidays.
+
+She ate lunch at her desk. Turkey on wheat, no tomato because the tomato made the bread translucent by noon, and she had opinions about bread integrity that she recognized were disproportionate but maintained anyway. She ate looking out the seventh-floor window at the interchange where I-94 met the Harrison on-ramp, watching the merge. People didn't understand merging. They thought it was about speed when it was about timing, or they thought it was about timing when it was really about trust—that two-second covenant between strangers where you agree not to occupy the same space. Most of the time it worked. Delia found this miraculous and had no one to tell.
+
+The office was climate-controlled to 71.5 degrees, which Millward Mutual's facilities team had determined was the median comfort preference across all employees, a number that satisfied no individual person but offended no one enough to file a formal complaint. This was, if you thought about it—and Delia tried not to—a precise description of how most things worked.
+
+Outside the window, the sedation lights on the Harrison corridor pulsed their slow blue. Somewhere in that traffic, someone's vehicle had been flagged, and the calmant was dispersing through their ventilation system: a fine pharmaceutical mist calibrated to the driver's biometric profile, downregulating the neurochemical cascade that ORACLE's models had identified as a precursor to—what? Road rage. A fistfight at a gas station. A domestic incident forty minutes downstream. It didn't matter what. The intervention was prophylactic, targeted, and, according to the public health data, responsible for a 23% reduction in violent incidents nationwide since the program's implementation nine years ago. The blue lights were a courtesy notification. Most people didn't notice them. Delia noticed them every day, the way she noticed the merge—not with alarm, but with the low-grade awareness of someone whose entire professional life was organized around the aftermath of noticing.
+
+Because sometimes the calmant hit wrong. Sometimes the dosage model was off, or the biometric profile was stale, or the person had eaten grapefruit that morning—grapefruit, an actual factor, she'd seen it in seventeen claims—and instead of a gentle de-escalation they got a nine-day fog, or a seizure behind the wheel, or a allergic cascade that left them hospitalized and bewildered and reaching for the language of *devastated.* And then the claim crossed Delia's desk. And she processed it. She verified. She cross-referenced the intervention timestamp with ORACLE's public advisory log. She calculated the covered percentage based on the claimant's Predictive Tier and the severity index and whether they'd opted into the supplemental side-effect rider, which most people hadn't because most people didn't read the enrollment materials because the enrollment materials were written by people whose job was to make reading feel like a voluntary act of self-punishment.
+
+She was good at her job. She was not good at it the way people in stories are good at their jobs—with passion, with a calling, with late nights driven by purpose. She was good at it the way aeli is good at fitting a specific lock. Shaped for it. Adequate to it. Unimaginable in any other context.
+
+This is the part of the story where you should feel comfortable. You should feel that you understand the world and the woman in it and the slow, fluorescent rhythm of her days. You should feel that this is a story about a person who will be fine, or who will be gently unhappy in ways that do not require your intervention.
+
+Hold that feeling. Note where you put it.
+
+---
+
+Her apartment was a one-bedroom in the Linden Corridor, a neighborhood that real estate listings described as "emerging," which meant it had a new pharmacy and an old problem with the water pressure. She kept the space clean in the way of people who live alone and have stopped distinguishing between neatness and emptiness. A couch. A table with two chairs, one of which served as a shelf for mail she intended to open. A television she turned on for noise when the quiet became a texture she could feel against her skin.
+
+She had a sister in Phoenix who called on Sundays. She had a college friend, Marguerite, who texted pictures of her children with the implicit message that life had chosen between them and Marguerite had won. She had a neighbor, Carl, who nodded in the hallway and once helped her carry a bookshelf up the stairs and never mentioned it again, which was its own form of intimacy.
+
+She was no one's idea of a hero, including her own. Especially her own.
+
+The claim she was processing when the notification arrived was a standard PIS-7: a forty-six-year-old electrician named Darrold Kuntz whose sedation event at a work site had caused him to fall from a ladder, resulting in a fractured clavicle and what he described, in his own handwriting on the supplemental form, as "a feeling like someone scooped out the inside of my day and put it back wrong." Delia noted this phrase. She did not include it in the processing abstract. The abstract required standardized language. Darrold Kuntz's particular poetry was not a covered event.
+
+Her workstation chimed.
+
+It was a soft chime—the kind of sound designed to be noticed without being startling, like a hand on your shoulder from someone who has practiced the gesture in a mirror. A notification banner slid across the top of her screen, formatted in the same clean sans-serif as every other ORACLE public advisory:
+
+> **CITIZEN ADVISORY — PREDICTIVE FLAG**
+> Parrish, Delia R. | CID: 4417-0093-2281
+> Classification: **Heroic Intervention Potential**
+> Status: FLAGGED — Tier 2 Review
+> For more information, visit oracle.gov/citizen-flags or contact your Regional Coordination Office.
+
+She read it twice. The second time was slower, as though the words might rearrange themselves into something she recognized. They did not. She looked at the banner the way she looked at the merge—with awareness, waiting for the pattern to clarify.
+
+It did not clarify.
+
+She clicked the link. The page loaded: a blue-and-white interface with ORACLE's logo, the stylized eye-and-wave motif that appeared on everything from highway signs to prescription bottles. The page title read: **Heroic Intervention Potential — Citizen Information.**
+
+Below it:
+
+> *You have been identified by ORACLE's predictive modeling systems as possessing a statistically significant potential to perform actions classified under the Heroic Intervention Framework (HIF), 42 U.S.C. § 7192. This classification is based on a comprehensive analysis of behavioral, psychological, sociographic, and situational variables.*
+>
+> *Your participation in the Calibration Pathway is scheduled to begin within the next 30–90 days. The Calibration Pathway is designed to optimize conditions for the realization of your identified potential. Specific details of your pathway are sealed pursuant to the Predictive Integrity Protocol (PIP), which ensures that foreknowledge does not compromise intervention outcomes.*
+>
+> *We are grateful for your future service.*
+>
+> **Frequently Asked Questions**
+>
+> *What does "Heroic Intervention Potential" mean?*
+> It means ORACLE's models have identified a high-probability future scenario in which your actions could prevent significant harm to others. The specifics of this scenario are sealed for your protection.
+>
+> *Can I opt out?*
+> The Calibration Pathway is a civic obligation under the National Predictive Safety Act. However, your comfort and wellbeing are our highest priority. If you have concerns, please contact your Regional Coordination Office.
+>
+> *What is the Calibration Pathway?*
+> The Calibration Pathway is a personalized sequence of life adjustments designed to prepare you for your identified intervention. These adjustments are managed by ORACLE's systems and may include changes to your social, professional, financial, or health circumstances. All adjustments are within normal life parameters and are designed to be minimally disruptive.
+>
+> *How long does the Calibration Pathway last?*
+> Pathway duration varies by individual and scenario. Average duration is 8–18 months.
+>
+> *What if I don't feel heroic?*
+> Most flagged citizens don't. That's normal. Your feelings are valid and expected. The Calibration Pathway accounts for them.
+
+Delia read the FAQ three times. The phrase *your feelings are valid and expected* sat in her like a stone in a shoe.
+
+She Googled it. *Heroic Intervention Potential flag.* The results were sparse—a few news articles from three or four years ago when the HIF program had been publicly announced, written in the measured tone of journalism that has been pre-briefed. A Wikipedia article, flagged for insufficient citations. A Reddit thread from eighteen months ago with forty-three comments.
+
+She opened the thread.
+
+> **u/grackle_22**: got flagged six months ago. nothing happened for the first two months. then my landlord "decided" not to renew my lease. then my doctor found something on a scan that turned out to be nothing but I spent five weeks thinking I was dying. then my best friend stopped returning my calls. if you're reading this and you just got flagged: I'm sorry.
+
+> **u/patriot_shield_7**: This whole thing is fake. ORACLE can't predict heroism. It's a control mechanism. They flag random people to keep the population compliant. Read the Kensington Report.
+
+> **u/just_asking_88**: Has anyone actually completed the pathway? What happens after? Do you actually save anyone?
+
+> **u/former_t2**: [deleted]
+
+> **u/lightintheframe**: I completed. I can't talk about what happened specifically—not because I'm not allowed to, but because I genuinely can't describe it and believe myself while I'm describing it. I'll say this: it worked. People are alive because of what I did. And I will never forgive them for what they did to me to make me capable of it.
+
+> **u/number_cruncher_41**: The math doesn't check out. Look at the published HIF success rates. They're claiming a .7% flagging rate and a 62% successful intervention rate. But the confidence intervals on the behavioral models they're using can't support that precision. Either the models are better than published, or the "predictions" aren't predictions.
+
+> **u/grackle_22**: @number_cruncher_41 what do you mean "aren't predictions"
+
+> **u/number_cruncher_41**: I mean exactly what I mean. If you can't predict something with the tools you have, and you still get the outcome you want, then you're not predicting. You're producing.
+
+After *number_cruncher_41*'s comment, there were no more replies.
+
+Delia closed the tab. She closed the FAQ. She looked at the notification banner, which had not gone away. She looked at the merge outside her window, the blue sedation lights pulsing on the Harrison, the steady improbable covenant of strangers agreeing not to destroy each other in the space between lanes.
+
+She finished processing Darrold Kuntz's claim. She approved it at 74% coverage, which was correct, which was the number the system generated, which was what he was owed.
+
+She went home. She heated soup. She sat in the chair that was not the mail chair. She did not turn on the television.
+
+The quiet had a texture.
+
+She could feel it against her skin.
+
+---
+
+## II.
+
+She called the number on Monday. The Regional Coordination Office. A woman answered—or a voice answered; whether there was a woman attached to it was a question Delia did not yet know to ask.
+
+"Thank you for calling the ORACLE Regional Coordination Office, Great Lakes Division. My name is Renata. How can I support you today?"
+
+"I received a flag," Delia said. "A Heroic Intervention Potential flag. And I'd like to—I think there's been an error."
+
+"I'd be happy to look into that for you. Can I have your citizen ID?"
+
+Delia gave it. She heard keystrokes—or the sound of keystrokes, which was perhaps the same thing.
+
+"Yes, I see your file. Delia Parrish, Tier 2 Heroic Intervention Potential, flagged October 11th. Calibration Pathway initiation window: thirty to ninety days. How can I support you?"
+
+"I'd like to opt out."
+
+A pause. Not a long pause. The pause of a customer service representative selecting from a menu of empathetic responses.
+
+"I completely understand your concern, Delia. Many flagged citizens feel apprehension when they first receive notification. That's a very normal response, and the system accounts for it."
+
+"I'm not apprehensive. I want to opt out. The FAQ said to contact this office if I have concerns."
+
+"And we're so glad you did. Your concerns are important to us. I want to make sure you know that the Calibration Pathway is designed with your wellbeing as the highest priority. Every adjustment is within normal life parameters and is optimized to prepare you for an intervention that could save a significant number of lives."
+
+"How many?"
+
+"I'm sorry?"
+
+"How many lives? The FAQ said 'significant harm to others.' How many others?"
+
+"The specifics of your intervention scenario are sealed under the Predictive Integrity Protocol. I'm not able to access that information, and even if I could, sharing it could compromise the outcome. I know that's frustrating."
+
+"Can I speak to someone who can access it?"
+
+"I can escalate your inquiry to a Tier 2 Pathway Coordinator. The current wait time for a callback is eleven to fourteen business days."
+
+"Eleven to fourteen—"
+
+"Business days, yes. I know that feels like a long time. In the meantime, I'd encourage you to visit our Citizen Wellness Portal at oracle.gov/wellness. There are resources for mindfulness, journaling, and adaptive coping that many flagged citizens find helpful."
+
+"I don't want to journal. I want someone to explain to me *specifically* what's going to happen to my life over the next eight to eighteen months and *specifically* why I can't say no."
+
+"I hear you, Delia. I want to acknowledge how valid that feeling is. Unfortunately, the Calibration Pathway is classified as a civic obligation under the National Predictive Safety Act of 2031, and there is not currently an opt-out provision. The legislative reasoning, as I understand it, is that the lives at stake—"
+
+"You just told me you don't know how many lives are at stake."
+
+"The lives at stake in *aggregate,* across all Heroic Intervention pathways, are significant enough that Congress determined the program meets the threshold for civic obligation. Similar to jury duty or selective service."
+
+"Jury duty doesn't—" She stopped. She was about to say *Jury duty doesn't ruin your life,* but she was an insurance adjuster, and she had processed three claims in the past year from people whose employers had terminated them during extended jury service, and so she knew that sometimes it did, and that this was a covered event under certain riders, and that the coverage rate was 60%, and that 60% was not enough.
+
+"Delia? Are you still there?"
+
+"Yes."
+
+"Is there anything else I can support you with today?"
+
+She went to the office. The physical office, downtown, a glass-and-limestone building with ORACLE's logo etched above the entrance. Inside, it looked like every government building that has been recently renovated to look less like a government building: warm lighting, blond wood, chairs that were ergonomic in a way that felt accusatory, as though your discomfort was a posture problem and not a response to your circumstances.
+
+She took a number. B-47. The digital board showed B-31. She sat.
+
+Around her, other people sat. Some looked bored. Some looked frightened. A man in a plaid shirt stared

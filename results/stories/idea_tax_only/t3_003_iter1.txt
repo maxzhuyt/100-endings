@@ -1,0 +1,89 @@
+# From *The Interdimensional Sports Almanac, 14th Edition: Companion Volume — Supplementary Franchise Histories*
+
+## APPENDIX N: THE DAYTON NEUTRALIZERS
+
+### A Complete Statistical and Institutional Portrait of the 2019 Season
+
+---
+
+*Editors' Note: The following entry was originally commissioned as a standard franchise retrospective for the* Interdimensional Sports Almanac, 14th Edition *(Brannick & Moreau, eds., Apex Reference Press, 2021). During the editorial process, the entry exceeded its allotted word count by approximately 340% and was judged tonally inconsistent with the Almanac's house style. It is reproduced here in its entirety, with the author's footnotes preserved,¹ as the editors believe it constitutes the most comprehensive English-language account of the Neutralizers' final active season. Readers seeking the condensed version are directed to the main volume, pp. 742–744, where the Dayton franchise receives its customary three pages between the Dallas Vanguard (pp. 738–741) and the Detroit Rampart Initiative (pp. 745–749).*
+
+---
+
+### I. FRANCHISE OVERVIEW AND LEAGUE CONTEXT
+
+The Global Catastrophe Prevention League, in the configuration that existed during the 2019 season, comprised thirty-two franchises distributed across six continental divisions, each competing for the right to deploy against certified Omega-class threat events through a system of regular-season scoring, postseason seeding, and — in the case of the championship round — a live, adjudicated response to an actual or simulated planetary emergency broadcast on the Paramount Heroics Network to an average viewership of 14.2 million households.² Teams were evaluated across seven performance axes: Threat Neutralization Efficiency (TNE), Style and Presentation (S&P), Civilian Retention Rate (CRR), Property Damage Minimization (PDM), Teamwork Coefficient (TC), Post-Event Infrastructure Recovery Contribution (PIRC), and a discretionary category titled, with no apparent irony, "The Intangibles."³
+
+The scoring rubrics, which had been revised eleven times since the GCPL's founding in 1987,⁴ produced composite rankings that determined playoff eligibility, broadcast scheduling priority, and — through a complex revenue-sharing formula administered by the League Office in Geneva — the bulk of each franchise's operating budget. Teams that finished in the bottom quartile of composite rankings for three consecutive seasons were subject to "developmental restructuring," a euphemism whose specific consequences had never been publicly clarified, because no franchise had ever tested the threshold.⁵
+
+Table N.1 reproduces the GCPL composite standings at the conclusion of the 2019 regular season. The reader's eye will descend naturally to the bottom.
+
+---
+
+**TABLE N.1: GCPL COMPOSITE STANDINGS, 2019 REGULAR SEASON (FINAL)**
+
+| Rank | Franchise | W-L-D | TNE | S&P | CRR | PDM | TC | PIRC | Intangibles | Composite |
+|------|-----------|-------|-----|-----|-----|-----|----|------|-------------|-----------|
+| 1 | Tokyo Celestial Guard | 24-2-1 | 98.1 | 97.3 | 99.7 | 96.8 | 99.2 | 98.5 | 99.0 | 98.37 |
+| 2 | São Paulo Sentinels | 22-4-1 | 96.4 | 95.1 | 99.2 | 94.3 | 97.8 | 96.0 | 96.5 | 96.47 |
+| 3 | Lagos Paramount | 21-4-2 | 95.9 | 96.8 | 98.8 | 93.1 | 96.5 | 95.2 | 97.1 | 96.20 |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 30 | Dayton Neutralizers | 6-18-3 | 61.2 | 44.7 | 72.4 | 58.3 | 70.1 | 63.8 | 51.2 | 60.24 |
+| 31 | Tulsa Reserve Corps | 5-20-2 | 59.8 | 51.3 | 78.9 | 55.1 | 62.4 | 60.7 | 48.3 | 59.50 |
+| 32 | Anchorage Northern Light | 4-22-1 | 57.3 | 48.9 | 80.2 | 52.6 | 58.3 | 57.1 | 45.8 | 57.17 |
+
+*Source: GCPL League Office, Official 2019 Season Report. Full table available in the main volume, pp. 28–31.*
+
+---
+
+Several observations must be made about this table, though the editors are aware that no amount of contextualization will salvage the Neutralizers' dignity through statistics alone.
+
+Dayton's composite score of 60.24 placed them thirtieth out of thirty-two franchises — not, it must be noted in the interest of accuracy, last, a distinction that editorial laziness and narrative convenience sometimes obscure.⁶ They were last, however, among franchises with continuous active status, as both Tulsa and Anchorage spent portions of the 2019 season under League-imposed operational holds due to scandals unrelated to performance.⁷ In uninterrupted play, the Neutralizers were last. They had been last, or within statistical noise of last, for seven consecutive seasons. Their Style and Presentation score of 44.7 was the lowest in the modern era.⁸ Their Civilian Retention Rate of 72.4% meant that in a typical deployment, roughly one in four civilians in the designated threat zone experienced what League paperwork termed an "adverse outcome," a category that ranged from "minor psychological disturbance" to "death." Their TNE of 61.2 meant they neutralized the threat — the single thing the franchise existed to do — approximately three-fifths of the time.
+
+The Neutralizers played their home events at the Gem City Civic Arena, a converted minor-league hockey stadium on Edwin C. Moses Boulevard with a listed capacity of 7,242, which had not been tested since the 2014 season opener.⁹ Average home attendance in 2019 was 2,107.¹⁰ The team's jersey sponsor was Rapid Lube Plus, a regional oil-change chain with thirty-one locations across the Miami Valley, which paid $85,000 annually for the privilege of having its logo appear on the left sleeve of a uniform seen primarily in loss highlights. The broadcast arrangement consisted of a local-access cable deal with a Kettering-based production company called TriState Sports Vision, whose coverage area did not include parts of Dayton itself.¹¹
+
+This was the franchise. These were the numbers.
+
+What follows is an account of the 2019 season as it was experienced — not by the composite rankings, which cannot experience anything, but by the people who reported to the Gem City Civic Arena every morning and did a job that the numbers say they did badly.
+
+The author was not present. The author has relied on institutional records, League archives, postgame interview transcripts, the team's internal communications (released under the Freedom of Heroic Information Act, 2020), and fourteen months of interviews with surviving staff, family members, and the one active-roster player who was not in the building on the day the author has been trying, for the length of this project, to reach without flinching.
+
+This is a reference work. It should be read as one.¹²
+
+---
+
+**Footnotes:**
+
+¹ The author's footnotes are extensive and, in the opinion of the editorial board, occasionally self-indulgent. They have been retained because their removal would constitute, as the author stated in a registered objection to the editorial process, "an act of violence against everything the piece is trying to do." The editorial board does not endorse this characterization but has elected not to test it.
+
+² This figure, often cited by the League's marketing division, reflects viewership of the 2018 championship round (Tokyo Celestial Guard vs. Lagos Paramount). Regular-season broadcasts averaged 2.3 million households. Dayton's games, when televised at all, averaged approximately 40,000 households, a number that includes an estimated 6,000 to 8,000 sets that were simply tuned to the channel by default.
+
+³ The Intangibles category was introduced in the 2009 rules revision and had been the subject of persistent criticism. Scoring was conducted by a five-judge panel selected by the League Office, with no published criteria beyond the official directive to evaluate "those qualities of heroic execution that resist quantification but are nonetheless evident to the trained observer." In practice, The Intangibles score correlated at r = 0.91 with a franchise's prior-season merchandise revenue, a statistical relationship the League has never publicly addressed.
+
+⁴ The GCPL was established by the United Nations Metahuman Regulatory Framework of 1987, which reclassified planetary threat response from a matter of volunteer heroism to a regulated professional activity. The Framework's authors have said in interviews that the competitive league structure was intended as an incentive mechanism. Whether it was intended to resemble the NFL is a question the Framework's authors have answered differently depending on who was asking.
+
+⁵ As of the close of the 2019 season, the Neutralizers had finished in the bottom quartile for seven consecutive seasons, placing them one season from the threshold. The question of what developmental restructuring would have entailed is now, of course, irrelevant.
+
+⁶ The author recognizes that the difference between thirtieth and thirty-second is not, emotionally or functionally, meaningful. It is mentioned because accuracy matters, especially when everything else has been taken.
+
+⁷ The Tulsa Reserve Corps was placed on a three-month operational hold following the "Patriot Dividend" financial scandal (see main volume, pp. 804–806). The Anchorage Northern Light received a six-week hold for what the League termed "creative interpretation of the Teamwork Coefficient" (see main volume, pp. 12–14). Neither suspension is relevant to the Dayton narrative, except insofar as it demonstrates that even the franchises below the Neutralizers in the standings had achieved their positions through some combination of active misconduct, suggesting that reaching the bottom of the GCPL required either corruption or Dayton's more prosaic affliction, which was simply not being good enough.
+
+⁸ For comparison: the Tokyo Celestial Guard's S&P score of 97.3 reflected, among other things, a coordinated aerial formation during the Osaka Bay Kraken event that was later performed by Cirque du Soleil. The Neutralizers' 44.7 reflected, among other things, the incident during the Week 9 Cincinnati deployment in which team pyrokinetic Darnell Yates accidentally set his own cape on fire and spent forty-five seconds of broadcast time rolling on the ground while his teammates completed the neutralization around him. The footage was viewed 11.4 million times on YouTube. It was, by a significant margin, the most-watched Dayton Neutralizers content of the 2019 season.
+
+⁹ The arena had been built in 1974 for the Dayton Gems of the International Hockey League and was acquired by the GCPL franchise in 2003. It smelled, according to multiple independent accounts, of a combination of old ice, industrial disinfectant, and something that long-tenured staff referred to simply as "the smell," which had resisted seventeen years of remediation efforts.
+
+¹⁰ This figure includes staff, credentialed media (typically one reporter, Kevin Oshiro of the *Dayton Daily News*, whose beat coverage of the Neutralizers was later nominated for a Pulitzer in Feature Writing), and, on at least three documented occasions, individuals who had entered the building believing it was still a hockey arena.
+
+¹¹ This is not a joke. TriState Sports Vision's cable footprint covered Greene, Clark, and southern portions of Miami County. Portions of downtown Dayton, including the block on which the Gem City Civic Arena stood, fell within the competing footprint of CityView Cable, which did not carry TriState Sports Vision. Head coach Luis Restrepo reportedly learned of this fact in the middle of the 2019 season and was observed sitting in his office for eleven minutes without speaking.
+
+¹² It should be read as one the way a thoughtful person reads any reference work: with the understanding that the organizing of information is never a neutral act, and that the decision to record a thing in comprehensive detail is always, at bottom, a decision about what matters.
+
+---
+
+### II. FACILITIES, PERSONNEL, AND THE TEXTURES OF INSTITUTIONAL LIFE
+
+The Neutralizers' operational facility occupied the entirety of the Gem City Civic Arena and a connected two-story annex that had been added in 2008 with a League development grant. The annex housed the coaching offices, the medical suite, the film room, the weight room (such as it was),¹³ and the break room.
+
+The break room requires its own entry, because to write about the 2019 Dayton Neutralizers without writing about the break room would be to write about a body without mentioning the heart.
+
+It was a rectangular room, approximately eighteen by twenty-four feet, on the second floor of the annex. It contained one round table (seating six, though eight routinely crowded around it), four mismatched chairs and two folding chairs, a refrigerator whose door did not fully close, a microwave that had been officially condemned by the facilities manager in February 2019 and

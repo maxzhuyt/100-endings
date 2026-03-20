@@ -1,0 +1,113 @@
+# Form 27-B: Application for Continued Existence
+
+---
+
+## I.
+
+Here is a thing that happens in the universe, more often than you'd think and less often than you'd fear: a civilization, usually a young one, reaches the point in its development where it begins to broadcast. Radio signals, gravitational pulses, the injudicious testing of nuclear devices in ways that leave electromagnetic fingerprints on the local spacetime — the specifics vary, but the principle is the same. A species gets loud. And when a species gets loud, it triggers a form.
+
+The form is called, in the closest translation available, a *Notice of Observed Civilizational Activity.* It is generated automatically. No one fills it out. No one reviews it. It simply propagates through the administrative substructure of the galaxy the way a ripple propagates through water, or a memo propagates through a sufficiently large corporation — inevitably, indifferently, and with absolute disregard for whether anyone on the receiving end is prepared for the consequences.
+
+The form arrives at the Bureau of Civilizational Assessment, which is a name I'm using because the actual designation is a glyph that would take eleven pages to render in any human writing system and would, upon comprehension, make you feel a profound and specific melancholy for which no Earth language has a word, though the Finns reportedly came close.
+
+The Bureau reviews the form. The Bureau has *always* reviewed the form. In the entire operational history of the galaxy's administrative apparatus — and that history is very, very long, long enough that the concept of "long" starts to bend under its own weight like a steel beam in a foundry — the Bureau has never once failed to review a submitted form. It has also never once expedited one. These two facts are, in the Bureau's view, equally points of pride.
+
+Upon review, the Bureau initiates an audit.
+
+The audit determines whether the observed civilization meets the threshold criteria for Recognized Sovereign Existence — a status that confers certain protections, certain rights, and, importantly, a filing number in the Central Registry, without which a civilization is, in the administrative sense, *not real.* And things that are not real, administratively speaking, can be processed.
+
+"Processed" is the word the system uses. It is a gentle word. It is a word that suggests cheese-making, or data management, or the efficient movement of materials through a supply chain. It is the word that was used when the Auditors — the enforcement and reconciliation division of the Bureau of Civilizational Assessment — processed Earth.
+
+The Auditors are not evil. I want to be clear about this now, at the outset, because you will be tempted to think of them that way, and it will cause you to misunderstand this story at every critical juncture. The Auditors have never once acted with cruelty. They have never once acted with malice, or spite, or the particular cold satisfaction that the genuinely wicked feel when they harm the helpless. They have also never once acted with mercy, compassion, regret, or any of the other emotions that might lead a being to look at a world full of people making bread and painting ceilings and falling asleep in front of televisions and say, *Perhaps we ought to reconsider.*
+
+The Auditors process. It is not a verb to them. It is their noun. Their identity. They are the mechanism by which the galaxy's paperwork resolves into material reality, and they are as incapable of questioning that function as aeli is capable of questioning gravity.
+
+I know this because I have read their filing cabinets. All of them. Every form, every assessment, every Notice of Observed Civilizational Activity going back to the first species that ever looked up at the stars and shouted something that, in essence, translated to *Hey, we're here!*
+
+Many of those species are no longer here. Their files are marked PROCESSED — RESOLVED — ARCHIVED, in that order, and archived is where things go when they are finished, conclusively, the way a sandwich is finished or a symphony is finished or a civilization is finished when the last of its cities has been converted to administrative feedstock and its orbit allocated to a more properly documented tenant.
+
+I tell you all of this not to horrify you — though if you are not at least slightly horrified, you may be reading this with insufficient attention — but to explain why the story I am about to tell you is remarkable.
+
+It is the story of three thousand people on a ship that was never meant to go where it was going, who filed eight hundred and seventy-three formal appeals to a bureaucracy that had already marked their species PROCESSING — IN PROGRESS, and who, against every procedural precedent in the history of recorded existence, got a response.
+
+But I'm getting ahead of myself. The order matters. Not because the ending changes depending on how you get there — the ending is the ending — but because the *meaning* of the ending changes, the way the meaning of a punchline changes depending on the setup, or the meaning of a life changes depending on which parts you emphasize.
+
+So. Let us begin with the ship. Let us begin with year seventeen.
+
+---
+
+## II.
+
+The colony ship *Provisional* had not been named with optimism.
+
+It had been named by a committee of European Space Agency engineers in the final eighteen hours before Earth's processing was completed, and the name had been chosen because it was the word already printed on the vessel's hull classification plate — PROVISIONAL DEEP-SPACE HABITATION FRAMEWORK, TEST MODEL 4 — and no one on the committee could agree on anything better, and anyway they had more pressing concerns, such as the fact that continents were being administratively dissolved outside and the hull still needed its third-stage radiation sealing.
+
+Seventeen years later, the name had acquired the patina of intention. People said *Provisional* the way you'd say the name of a hometown — with a mix of affection, exhaustion, and the quiet awareness that you'd never really chosen to be here. The ship had been designed to support eight hundred people for a maximum of two years during orbital construction projects. It now supported three thousand people indefinitely, in the way that a dinner plate supports a birthday cake — technically, and with a constant sense that something is about to slide off the edge.
+
+The corridors were narrow. They had been widened where possible, which was not many places, and in the spots where widening was impossible, the ship's residents had developed an elaborate, unspoken choreography of turning sideways, stepping into alcoves, and performing the little apologetic dance that humans do when they meet in a space designed for one and occupied by two. The walls were covered in a patchwork of modifications: additional lighting panels, hand-painted directional markers (the original signage had been in German and Mandarin; the new signs were in a creole of English, Mandarin, Yoruba, and Portuguese that the children had begun speaking as a first language), personal touches that had accumulated the way moss accumulates on a stone. Here, a mural of a sunset that no one under the age of seventeen had ever personally seen. There, a small shelf holding a collection of plastic figurines that someone had thought to grab during the evacuation and that now served as an unofficial memorial. In the main corridor of Deck Seven, a brass plate engraved with numbers — not names, because there were too many names, but the number itself. 10,999,997,000. Give or take. The plate didn't say what the number counted. It didn't need to.
+
+It was 0830 ship-time on a Tuesday. Tuesdays on the *Provisional* were, by ancient and fiercely defended tradition, the day the cafeteria served its closest approximation of scrambled eggs, which were produced by a hydroponic protein system and bore the same relationship to actual scrambled eggs that a photograph of a mountain bears to a mountain — they conveyed the general concept while lacking certain key experiential qualities, such as taste. Nevertheless, Tuesdays were popular. The line for the cafeteria wrapped through the C-deck junction, and the people in it were doing what people in lines have always done: complaining, gossiping, performing the small negotiations of communal existence.
+
+"They've changed the texture again," said a woman near the front, holding up a fork with something yellow trembling on it.
+
+"That's because Hydroponics switched the protein base last week," said the man behind her. "Something about the nitrogen cycling in Bay Four."
+
+"I don't care about the nitrogen cycling in Bay Four. I care about the fact that this tastes like revenge."
+
+"File a request. Nutritional Feedback Form, Section C."
+
+"I've filed nineteen Nutritional Feedback Forms."
+
+"Then file a twentieth. That's how the system works."
+
+"The system works?"
+
+Here was the thing about the *Provisional* that an outside observer — had any outside observer existed, had any outside observer cared — would have found most remarkable: it functioned. Not elegantly. Not optimally. Not without a constant, low-frequency hum of things going wrong and being patched and going wrong again and being patched again in a slightly different way. But it *functioned.* Three thousand human beings, sealed in a metal tube hurtling through a void of incomprehensible scale toward coordinates that might or might not correspond to anything at all, had organized themselves into something that, if you squinted, and if you were generous, and if you had a deep fundamental faith in the human capacity to build structure out of chaos — looked like a society.
+
+They had committees. Of course they had committees. Seven standing committees, fourteen subcommittees, and an advisory board that advised no one in particular but met every Thursday regardless because, as its chairperson once explained, "If we stop meeting, we're just people floating in space, and I'm not ready for that." They had a judicial system, consisting of one exhausted woman named Judge Adaora Eze who had been a second-year law student when the world ended and who now arbitrated disputes ranging from noise complaints to existential custody questions with the weary authority of someone who has realized that the law, even made-up law on a made-up court on a ship held together with literal adhesive patches, is still the only alternative to screaming.
+
+They had a school. They had a small medical bay staffed by three doctors, two nurses, and a veterinarian who had been reassigned to general practice and who still, seventeen years later, occasionally had to be reminded that her patients would prefer not to be addressed as "good boy." They had a chaplain, a rabbi, an imam, a Buddhist meditation group, and a woman on Deck Twelve who had invented an entirely new religion based on the worship of procedural correctness, which had attracted a surprising number of followers before being gently disbanded by Judge Eze on the grounds that it was "too on the nose."
+
+They had, in short, done what humans always do: they had built a world out of what they had. And what they had was not much. And the world they had built was small and cramped and smelled faintly of recirculated air and hydroponics nutrient solution and the particular musk of three thousand bodies that could only shower twice a week. And it was, in its way, a miracle.
+
+The ship was heading somewhere. That was the official position, and the official position was not to be questioned, not because questioning was forbidden — the *Provisional* was, in its creaking way, a democracy — but because the alternative to heading somewhere was heading nowhere, and heading nowhere was not a direction that supported getting out of bed in the morning.
+
+The somewhere in question was a planet designated XR-7742b in the fragmentary database of galactic navigation data that the ship's science team had managed to extract, in the final hours, from the burst of interstellar communications traffic that had accompanied Earth's processing. The data was incomplete. The coordinates were approximate. The basis for believing that XR-7742b was a "sanctuary planet" — a world under some form of administrative protection, exempt from processing — rested on a single phrase in a single document, translated through four intermediate languages, that most closely rendered as "jurisdictional exclusion zone (provisional)."
+
+The word *provisional* in that translation was, everyone agreed, either a coincidence or a sign. No one agreed on which.
+
+The ship had also been doing something else for seventeen years, something quieter and more stubborn and, depending on your philosophical orientation, either deeply heroic or completely insane.
+
+It had been filing appeals.
+
+Formal, carefully formatted, meticulously researched appeals to the Bureau of Civilizational Assessment, requesting the immediate cessation of processing activities against the species *Homo sapiens* (Earth, Sol System, Orion Arm, Milky Way, Filing Sector 7G-Aleph-7742) and the granting of Recognized Sovereign Existence status under the provisions of whatever laws or procedures might apply, which the appellants respectfully acknowledged they might be citing incorrectly but were citing in good faith, and would the Bureau kindly advise?
+
+Eight hundred and forty-six of these appeals had been transmitted into the void. Eight hundred and forty-six times, the ship's communications array had pulsed the signal outward in the standard galactic administrative frequency band — another thing salvaged from the data burst, another fragment put to use by people too stubborn to die quietly.
+
+Eight hundred and forty-six times, the void had said nothing back.
+
+But the appeals kept going out, every Tuesday and Friday, regular as a heartbeat, because the person writing them did not believe in unanswered mail. She believed, with the diamond-hard conviction of the truly competent, that every system had an inbox, and every inbox had a process, and every process had a person — or a something — on the other end, and if you sent enough correctly formatted correspondence to that something, it was *obligated* to respond.
+
+She was, as it happened, right about this.
+
+But she didn't know that yet. On this particular Tuesday morning, she was in her office, and she was working on appeal number eight hundred and forty-seven, and she was annoyed.
+
+---
+
+## III.
+
+The office of the Liaison to Extrasolar Administrative Bodies was, in its previous life, a storage closet for cleaning supplies. It still smelled faintly of industrial solvent, a fact that Miriam Chen had long ago stopped noticing and that her assistant, a young man named Tomás Reyes, noticed every single day with the resigned clarity of someone who has realized that mentioning it will not change it.
+
+The closet was nine feet by six feet. It contained: one desk (fabricated from a disassembled equipment rack), one chair (original, salvaged from the ship's secondary bridge, which had been converted into a dormitory in year three), one cot (for nights when Miriam forgot to go home, which was most nights), seventeen binders (hand-compiled, labeled with color-coded tabs, containing Miriam's comprehensive analysis of every fragment of Auditor communication protocol the ship had ever intercepted), one wall-mounted display screen (cracked in the lower left corner, still functional), and, covering the entirety of the back wall, a map.
+
+The map was Miriam's masterpiece and her obsession. It was a reconstruction — built from fragments, inference, comparative linguistics, mathematical modeling, and what Miriam called "structural intuition" and what everyone else called "guessing, but in a way that is usually right" — of the Auditors' organizational hierarchy. It was drawn in four colors of ink on sheets of recycled paper taped together, and it spread across the wall like a conspiracy theorist's fever dream, which it resembled in every respect except one: it was, in broad strokes, accurate.
+
+At the top: the Central Registry. Below it: the Bureau of Civilizational Assessment. Branching from the Bureau: the Division of Incoming Observations, the Division of Threshold Evaluation, the Division of Status Determination, and — set apart, connected by a red line that Miriam had drawn thicker than all the others — the Division of Processing and Reconciliation, which was the division that had eaten the Earth. Below these: sub-bureaus, offices, administrative units, filing nodes, and, at the very bottom, in tiny, meticulous handwriting, a box labeled APPEALS AND EXCEPTIONS (UNCONFIRMED) with a question mark after it.
+
+That question mark was the most important punctuation mark on the *Provisional.* It represented the one gap in Miriam's knowledge that kept her up at night, and kept her writing appeals every Tuesday and Friday, and kept her from agreeing with the significant minority of the ship's population who believed the appeals were a waste of power and bandwidth and hope.
+
+The question mark meant: *I believe this office exists. I believe there is a mechanism for appeal. I have not proven it. But the structural logic of the system requires it. Every bureaucracy has an exceptions process, because every bureaucracy needs a place to put the things that don't fit, and we, the last three thousand humans, are a thing that doesn't fit, and the existence of an exceptions process means there is someone whose job it is to receive our forms, and if it is someone's job to receive our forms, then we are going to send them forms until the heat death of the universe or a response, whichever comes first.*
+
+The question mark meant: *I am not crazy. I am correct. The universe just hasn't recognized it yet.*
+
+Miriam Chen was fifty-four years old. She had been forty-seven on the first day of the

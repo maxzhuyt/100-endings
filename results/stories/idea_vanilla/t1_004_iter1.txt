@@ -1,0 +1,157 @@
+# The Thermal Pool at Kverkfjöll
+
+---
+
+**I.**
+
+The GPS unit recorded its last position at 64.6523°N, 16.7181°W, elevation 1,140 meters, at 03:47 UTC on August 11th. The battery was at nine percent. The temperature sensor, which had no reason to stop working, logged minus two Celsius and falling.
+
+I have spread everything across my kitchen table. I do this in the evenings after my son goes to bed. The journals—Nkem's leather-bound A5 Moleskine, Pauline's waterproof Rite in the Rain with the chemical-yellow cover. Photocopies of the incident report. My own SAR logs from the initial callout and the six days after. A thumb drive of GPS tracks that someone at the Icelandic Met Office exported into .gpx files that I open in Google Earth and stare at like a woman reading tea leaves, which is a comparison Pauline would have hated.
+
+I should say: I am not the right person to tell this story. I knew them the way you know people at departmental Christmas parties and the occasional shared conference shuttle. I once helped Nkem carry a box of core samples up three flights of stairs at the University of Leeds, and she told me I had the forearms of a woman who understood gravity personally, and I thought about that compliment for a week. Pauline and I sat next to each other at someone's retirement dinner in 2016 and she spent twenty minutes telling me about the precise rheological conditions under which basaltic lava transitions from pahoehoe to a'a, and I found it transfixing, and when I told her so she looked at me as though I had said something suspicious.
+
+I am the right person to tell this story only because I was the one who found the bivouac.
+
+---
+
+**II.**
+
+From Nkem's journal, undated but contextually late July or early August, in the careful handwriting she used when she was being deliberate:
+
+*P. says the Holocene sediment record at Kverkfjöll is "a gorgeous catalogue of indifference." I asked her how she can use the word gorgeous and the word indifference in the same sentence and mean them both. She said, "Easily. Have you met me?" I said I had met her in 1993 and was still recovering. She laughed her real laugh, the one that sounds like someone dropped a tray of glasses.*
+
+*Then she said geology is beautiful BECAUSE it doesnʼt care about us, and I said thatʼs a theology whether she admits it or not, and she said if I called her a theologian one more time she would leave me on this glacier, and I said God would send a raven to guide me home, and she said a raven would eat my eyes. Standard Tuesday.*
+
+---
+
+**III.**
+
+The thermal pool at Kverkfjöll sits where the Vatnajökull ice cap meets volcanic bedrock, and the water is a stupid, impossible colour—a blue-green that looks Photoshopped, milky with silica, steam curling off it in columns that the wind tears apart and reassembles. I've seen it. Everyone on Icelandic SAR has seen it. It smells like eggs and copper and something astringent that you feel behind your teeth.
+
+Nkem first brought Pauline there in 1998. I know this because Pauline's yellow notebook contains, among its otherwise rigorously empirical entries, a passage that reads:
+
+*N. made me get in. Knees, hips, everything ached. Water was approx. 38-41°C at the edges, substantially hotter toward the vent. Mineral composition consistent with deep-source geothermal. N. floated on her back and told me this was "the earth praying" and I told her this was an exothermic chemical process and she said "Pauline, you are standing in a prayer and complaining about the wording." I couldnʼt stop laughing. Hated that I couldnʼt stop laughing.*
+
+They went back in 2009. And again in 2019, when Nkem's department funded what she called a "devotional survey" of glaciovolcanic boundary strata and what Pauline, who had finagled her way onto the grant as co-PI by arguing her expertise was structurally necessary, called "real science parasitized by vibes."
+
+I know they went back to the thermal pool every time because Nkem told me once, at a thing. A reception. Some catered room. I asked her what it was like to do fieldwork with someone who thought her foundational premises were nonsense, and she held her wine glass against her collarbone and said, "We have a special place."
+
+I did not ask what that meant. I wish now that I had, but I also understand that she would not have told me.
+
+---
+
+**IV.**
+
+The SAR callout came at 11:14 on August 12th, nineteen hours and twenty-seven minutes after the last GPS ping. The Icelandic Met Office had detected a moderate jökulhlaup—a glacial outburst flood—from the Kverkfjöll caldera at approximately 01:30 on August 11th. Meltwater volume was estimated at 12 to 18 million cubic meters, which is a number that means nothing until you've seen what it does to a valley. The flood followed the Jökulsá á Fjöllum river channel, as these floods do, as they have done eight times since 1950 and as they did—this matters—in August of 1986.
+
+Nkem and Pauline's planned route had them camped at roughly 1,200 meters on the eastern slope. The flood itself would not have reached them at that elevation. What the flood would have done—what the models show it did—was cut off the lower trail, destroy the river crossing at their planned descent route, and leave them stranded on the upper slope in deteriorating weather with whatever they had in their packs.
+
+I am listing these facts because they are the kind of facts I know how to list. Elevation. Volume. Flow rate. These are the facts that make a SAR report, and a SAR report is a document with a clear purpose: to reconstruct the conditions of an incident so that future incidents might be prevented.
+
+That is what I am doing.
+
+That is what I have been telling myself I am doing since October.
+
+---
+
+**V.**
+
+I need to talk about the 1986 camp.
+
+In 1986, a team of four researchers from the University of Copenhagen established a temporary monitoring station at approximately 1,050 meters on the same eastern slope. Seismic equipment, weather station, two Quonset-style shelters. On August 19th, a jökulhlaup of similar magnitude cut off their descent route. Unlike Nkem and Pauline, they attempted to cross the flooded river channel. The team leader, Dr. Erik Søndergaard, and two of his graduate students—Margrethe Holm and Torben Nyborg—were killed. The fourth member, whose name I have not been able to confirm from public records, survived with hypothermia and a shattered pelvis.
+
+The camp was never fully deconstructed. By the 2000s it was half-buried in glacial till and volcanic ash—a few bent aluminum poles, the base plate of the weather station, a fragment of corrugated shelter wall with Danish text still legible. Hikers occasionally noted it. There was a geocache nearby for a while, which seems obscene, but I am told it was placed respectfully.
+
+Nkem and Pauline found it on August 10th, the day before the flood. Nkem's journal:
+
+*Found the Danish camp. Or what's left. P. went very quiet, which is how I know she feels something. One of the shelter poles is still bolted to its concrete footing. There are core sample tubes scattered in the scree—someone was doing exactly what we are doing, in exactly this place, and the earth swallowed the work and most of the workers. P. measured the burial depth of the base plate and started calculating lahar deposition rates. I sat with the pole and prayed for the people who died here. P. said, "You know they canʼt hear you." I said I wasnʼt praying for their benefit.*
+
+---
+
+**VI.**
+
+Here is a memory I did not know was important:
+
+Leeds, 2014 or 2015. A pub. Some occasion I canʼt reconstruct—possibly Nkem's birthday, possibly just a Friday. I arrived late and found them in a corner booth, and they were arguing so intensely that neither noticed me for a full minute. Pauline was jabbing her finger at the table. Nkem had her hands folded the way she folded them when she was being patient in a way designed to infuriate Pauline, which was often.
+
+Pauline was saying: "You cannot look at the Permian extinction—ninety-six percent of marine species, Nkem, *ninety-six percent*—and tell me there is a *plan*—"
+
+And Nkem said: "I have never once used the word plan. I have said *intention*. They are not the same thing."
+
+"They are *exactly* the same thing in any framework where—"
+
+"An intention can include destruction. An intention can include suffering. I am not saying the earth is *nice*, Pauline, I am saying it is *authored*—"
+
+"And the author killed two hundred and fifty million species for—what? *Narrative purposes?*"
+
+Nkem unfolded her hands. She leaned forward. She said, very quietly, "Yes."
+
+And Pauline stared at her. And then Pauline started laughing—helplessly, bent over, her forehead almost touching the table—and Nkem watched her with an expression I did not have the language for then but do now: it was the way you look at someone who is the most interesting thing that has ever happened to you.
+
+I sat down. They included me. We had a nice evening. I forgot about it until November, when I was transcribing GPS coordinates at two in the morning and it came back to me whole, like a photograph falling out of a book.
+
+---
+
+**VII.**
+
+Pauline's yellow notebook, August 11th, 02:15 UTC. This would have been written by headlamp. The handwriting is compressed, efficient:
+
+*Flood confirmed. River crossing gone—heard it go at ~01:45, sound like continuous thunder. Visibility near zero, horizontal rain. We are at 1,140m in the bivouac. N. is beside me. Her BG was 4.1 at last check, trending down—she ate her last energy bar at 23:00, which will not hold her through the night. Insulin kit is in the blue dry bag, which is in the cache we left at 980m, which is now either underwater or buried in sediment.*
+
+*Situation is manageable if weather clears and we can signal. Situation is not manageable if her glucose bottoms out and I am sitting here with nothing but ibuprofen and a space blanket.*
+
+*N. is reading her Bible. Small one she keeps in her chest pocket. She offered to read aloud and I said I would rather listen to the flood, and she said "That is also scripture," and I said "It is water," and she said "Yes, water with something to say," and I told her she was insufferable and she said "And yet here you are," and I said "I am here because it is a two-person bivouac and the alternative is dying of exposure," and she said "Pauline, that is what I have been saying about the universe for thirty years."*
+
+*This is the worst possible time to note for the record that she is the funniest person I have ever known.*
+
+---
+
+**VIII.**
+
+The thermal pool, 2009. I don't have a journal entry for this one. I have a photograph that Nkem posted on the departmental blog, back when departments had blogs that people read. The image is terrible—early digital camera, steam obscuring everything, white-balance catastrophe. Two women in a milky pool, mountains behind them, Nkem's head tipped back, Pauline caught mid-sentence with one hand raised out of the water, finger pointed at the sky or at God or at nothing.
+
+The caption reads: *Dr. Marsh explains to the hot spring why it doesn't exist.*
+
+I remember seeing this when it was posted and thinking it was funny and moving on.
+
+I downloaded it in September and I have looked at it so many times that I can see it when I close my eyes—the exact angle of Pauline's finger, the tendons in her wrist, the way the steam makes a halo behind Nkem's head that I know Nkem noticed and Pauline refused to notice and that both of those responses were, in their own way, acts of faith.
+
+---
+
+**IX.**
+
+I need to say what I found, and I have been building toward it and circling away from it, which I recognize. Pauline would have called this "epistemic cowardice." Nkem would have called it "the spiral." She once told me—I don't remember when, it might have been the stairs, the box of cores—that she thought human understanding moved in spirals, not lines. "You keep passing the same point," she said, "but higher each time. Or deeper. Depending on whether you are ascending or descending."
+
+I didn't know what to do with that then. I know now.
+
+---
+
+**X.**
+
+From Nkem's journal, August 11th, undated but contextually between 04:00 and 06:00. The handwriting is larger, less controlled.
+
+*P. is being practical, which means she is frightened. She has inventoried everything twice. She has calculated the flood's probable recession rate based on "historical analogs" which means the 1986 event, which means she knows exactly what I know, which is that we are lying in a nylon bag on the same mountainside where three people died doing what we do.*
+
+*I said: "This is a warning."*
+
+*She said: "This is a recurrence interval."*
+
+*I said: "Those are the same thing."*
+
+*She actually paused. I could feel her thinking. Then she said: "The 1986 team did not die because the universe was trying to tell them something. They died because they attempted a river crossing during peak discharge."*
+
+*I said: "And why did they attempt the crossing?"*
+
+*She said: "Panic. Miscalculation."*
+
+*I said: "Or because they believed the river was just water."*
+
+*She turned her headlamp on and looked at me full in the face, and she had her angry-thinking expression—mouth flat, eyes narrowed—and she said, "Nkem. The river IS just water."*
+
+*And I said: "Then it canʼt hurt you."*
+
+*Something moved in her face. She turned the headlamp off. We lay there. After a long time she said, "That's the most manipulative thing you've ever said to me."*
+
+*I said: "Top five, maybe."*
+
+*She laughed. I could feel it through the bivouac floor.

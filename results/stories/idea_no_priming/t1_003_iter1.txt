@@ -1,0 +1,103 @@
+# The Roster
+
+## I.
+
+The first thing I did was count breaths. Not my own — though mine were wrong, too fast, too shallow, the kind of breathing you'd flag on a ward as compensatory tachypnea, except there was no ward and I could not flag anything for anyone because I was the only one, and I was twenty years old, and I had passed Anatomy I but not Anatomy II, and I had seen a chest tube placed once from the back of a theater where I couldn't even see the intercostal space, only the attending's elbow moving, and now the fuselage was open like a body is open when it has been opened by something that did not care about the planes of dissection we'd memorized from Netter's atlas, and there were sounds, the sounds were the worst part, no, the silence was the worst part, no, the sounds were worse because silence meant it was finished and sound meant it was not.
+
+I went to Páez first. Or Páez was closest. I don't remember choosing him. His face was intact, which meant nothing about what was underneath, but the face is what you see first and the face is what your hands go to because they taught us inspection before palpation, doesn't matter, doesn't matter what they taught us. I put my ear to his mouth and felt air. Counted. Fourteen breaths per minute. Normal. I moved on.
+
+Algorta. Breathing. Rapid, maybe twenty-eight per minute. Kussmaul? No. Kussmaul is deep, this was shallow. Pain response, then. Guarding. I pressed his abdomen and he screamed and tried to hit me and that was the most diagnostic thing I'd seen all day — voluntary guarding, so he was conscious enough to localize, conscious enough to resist, and the resistance meant his motor pathways were intact even if something underneath was bleeding into places blood was not supposed to be, and I could not see those places because I did not have a scalpel or a retractor or a light source or gloves or knowledge, I had one year and seven months of medical school and a pair of hands that were shaking so badly I pressed them flat against his sternum just to make them stop.
+
+Compound fracture of the right tibia. Enrique. I could see it. Four centimeters, maybe five, of exposed diaphysis. The bone was — it was very white. That's not how you describe it in a clinical note. In a clinical note you write "exposed diaphysis with moderate soft tissue involvement and no evidence of vascular compromise distally." You don't write that the bone looked like a thing that was not supposed to be outside, a private thing, an interior thing now made exterior, and it was so white it looked like it was from a different body, a clean body, a body that had not been in what we had been in. There was so much blood it looked black. At altitude, I think blood oxidizes differently against snow, or maybe it doesn't, maybe I made that up, maybe the altitude was already making me stupid. I knew the altitude was making me stupid because I could feel my thoughts arriving one at a time instead of in parallel, like a man carrying groceries up a staircase one bag at a time because his arms have stopped working.
+
+3,570 meters. The partial pressure of oxygen at 3,570 meters is approximately — I calculated this, I remember calculating it, using the formula we'd learned in physiology, the one with e to the negative something, I could not remember the exponent, which proved my point about the altitude, but the result, I thought, was somewhere around 100 millibars, which meant an effective FiO2 of maybe 13 percent instead of 21, which meant every cell in every body on this mountain was quietly suffocating even if the lungs were intact, which most of them were not.
+
+I counted twenty-nine alive.
+
+Forty-five had boarded. I did the subtraction and then I stopped doing the subtraction.
+
+Twenty-nine alive. I wrote this number in my head the way you'd write it on an intake form. Chief complaint: airplane crashed into a mountain. History of present illness: all of it, everything, the whole thing. Physical exam: twenty-nine patients, one provider, the provider has no instruments, no medications, no supplies, no clean water, no experience, the provider is a second-year medical student who has never sutured a wound outside a pig's foot in a skills lab, the provider's hands are shaking, the provider cannot feel his own fingers, the provider is at this moment the most qualified medical professional in a radius of — how far? How far was the nearest hospital? Sixty kilometers? A hundred? Over a wall of rock and ice that might as well have been the surface of the moon?
+
+I moved through the fuselage the way they'd told us to move through a trauma bay: systematic, proximal to distal, primary survey then secondary survey, airway breathing circulation, the holy trinity, the ABCs that every first-year memorized before they memorized anything else. Airway: is there one. Breathing: is it happening. Circulation: is there a pulse, is there blood where blood should not be.
+
+Arturo had a pneumothorax. I was almost sure. Decreased breath sounds on the right. Tracheal deviation — I thought I felt tracheal deviation, but my fingers were numb and his neck was swollen and I did not trust my hands and I did not trust my knowledge and I could hear Professor Gianello's voice saying *palpation is an art that takes years to refine* and I had not had years, I had had seven months of physical diagnosis, most of which I'd spent hungover.
+
+If it was a tension pneumothorax, I needed to decompress it. Needle thoracostomy. Second intercostal space, midclavicular line. I knew the landmark. I knew it the way I knew the offside rule — automatically, without understanding. Find the angle of Louis. Go lateral to the sternal border. Go to the second rib. Go above it, because the neurovascular bundle runs along the inferior margin and if you go below you'll hit the artery and then you'll have made everything worse, which was the only thing I could not do, the only rule I had left: do not make it worse.
+
+But I had no needle. I had no catheter. I had no chest tube. I had a ballpoint pen and a vague memory of a movie where someone used a ballpoint pen and I thought: *that is not medicine, that is a movie, and if I put a ballpoint pen into this man's chest and I am wrong about the diagnosis, I will have punctured his lung and he will die of my confidence rather than my ignorance, and I do not know which is worse.*
+
+I did not decompress the chest.
+
+He breathed all night, ragged and fast, and by morning the deviation was the same or less, and he lived, and I do not know whether I saved him by inaction or almost killed him by inaction, and I will never know, and the not knowing is its own wound that does not heal because there is no imaging of the conscience, no CT scan of the question you cannot stop asking.
+
+I moved from body to body. I touched faces. I checked airways. I palpated abdomens. I counted breaths. I did the only clinical routine I half-knew, and with each patient I felt the same thing, the same vertiginous double exposure: the textbook in one eye, the body in the other, and they did not match, they could not match, because the textbook assumed a world where you could act on what you found, and this was a world where you could only find, and name, and know, and do nothing.
+
+I named everything I could not treat. It was all I had. The naming.
+
+Compound fracture. Pneumothorax. Avulsed scalp. Deviated septum. Hypothermia. Hypoxia. Shock — hypovolemic, neurogenic, I could not tell which, maybe both, it did not matter because the treatment for both was volume resuscitation and the only volume I had was snowmelt and you cannot run snowmelt through an IV because I had no IV, and you cannot give it fast enough by mouth, and the mouth was sometimes full of blood, and sometimes the blood was from the mouth and sometimes it was from somewhere deeper, and I could not tell, and I named that too: *hematemesis, differential includes esophageal tear, gastric laceration, or swallowed blood from facial trauma*, and the naming sat there in the cold air like a prayer to a god who had studied medicine and wasn't here.
+
+---
+
+## II.
+
+On the second day, Enrique's leg told me what it was going to do.
+
+The tibia was displaced. The fracture — the compound fracture, the bone I'd seen gleaming against the black blood — was angulated, maybe thirty degrees, and the foot below it was dusky, which meant the blood supply was compromised, which meant if I did not reduce the fracture the foot would die and then the leg would die and then the sepsis would climb and then Enrique would die, and the timeline was not weeks, it was days, maybe less.
+
+I had seen a closed reduction performed twice. Once on a video in the skills lab, narrated by a man with a South African accent who made it sound like assembling furniture. Once in a teaching hospital, third floor, orthopedics, where an attending named Dr. Rodríguez had done it under fluoroscopy with two residents holding traction and a full anesthesia team standing by and even then, even with everything, the attending had said afterward in the hallway, *That one fought me. I almost lost the alignment twice.* He said this to a colleague, not to us. We were students. We were shadows on the wall. We were supposed to learn by absorption, the way children learn language, not by instruction but by presence in the room, and what I had absorbed was this: the procedure was difficult even for an expert with equipment and imaging and help.
+
+I had no fluoroscopy. I had no anesthesia. I had no residents.
+
+I had a rugby team.
+
+I looked at the hands of every man who could stand. I looked at them the way I had never looked at hands before — not as patients' hands are looked at, for capillary refill and clubbing and the palmar erythema of liver failure, but as instruments. Which hands could do what I needed hands to do?
+
+I needed traction. Sustained, powerful, directional traction along the axis of the tibia while I guided the bone fragments back into alignment by feel, since I could not see alignment, since I had no X-ray, since I would be operating by palpation and guesswork and the memory of a procedure I'd seen performed by a man whose elbow technique I'd observed from forty feet away.
+
+Traction is not strength. Traction is the sustained application of force along a vector, with constant adjustment as the muscles resist and then yield and then resist again. It is, I realized, exactly what a fly-half does. Daniel. His position required him to receive the ball at speed, absorb the angular momentum of the pass, redirect it — hands adjusting in real time to the ball's trajectory, grip modulating between firm and fluid because if you grip too hard you'll drop it and if you grip too soft you'll lose it and the hands have to know before the brain knows, the hands have to be smarter than the mind, and Daniel's hands were the smartest hands on the pitch, everyone knew this, it was why he'd been selected for the first team at seventeen.
+
+I said, "Daniel. Come here."
+
+He came. His face was bruised on one side, a hematoma that had yellowed already, and his right eye was swollen half-shut, and he was limping on an ankle I had not yet assessed, and he came.
+
+I said, "I need you to pull traction on Enrique's leg."
+
+He looked at me.
+
+"You're going to grip above the ankle, both hands, and pull along the axis of the tibia — along the line of the bone, straight, like you're pulling a rope. When I say harder, pull harder. When I say hold, hold. When I say ease, ease. You cannot let go. If you let go during reduction, the muscle spasm will pull the fragments back and I'll have to start over and I'm not sure he can survive starting over."
+
+Daniel said, "I've never—"
+
+"You've caught every difficult pass I've ever seen you receive."
+
+"That's not—"
+
+"It is. It's the same thing. Your hands know how to manage force under resistance. That's all I need. I need your hands and I need them to do what they've always done, just — not on a ball."
+
+What I did not tell him was that I had never done this either. What I did not tell him was that I was guiding him through a procedure I had observed twice, once on video, and that my understanding of the biomechanics was theoretical in the way that a first-year swimmer's understanding of hydrodynamics is theoretical — technically accurate, functionally useless, and about to be tested against an ocean.
+
+I did not tell him because I had learned something in the last thirty-six hours that medical school had not mentioned: that confidence, when you have nothing else, is a therapeutic instrument. Not confidence in yourself — I had none. Confidence offered to others, like a ligature around a bleeding vessel. You tie it not because you know it will hold, but because the bleeding demands that you try, and the trying requires a knot, and the knot requires hands that do not hesitate even when the mind behind them is screaming.
+
+I positioned myself at Enrique's side. The fracture site was swollen, hot — inflammatory response, appropriate, useless, the body sending its repair crews to a construction site where there were no materials, just like me, we were all just like that, the body and I, doing the indicated thing with nothing indicated to do it with.
+
+"Now," I said.
+
+Daniel pulled.
+
+Enrique screamed.
+
+The sound — I need to say something about the sound. In the skills lab, on the video, the South African narrator had said, *You may hear crepitus as the fragments engage.* Crepitus. A word. A Latin-derived, clinically precise, emotionally vacant word for the sound of bone moving against bone inside a living, screaming person. Crepitus. In the video, you couldn't hear it over the narrator's voice. In the fuselage, at 3,570 meters, with the wind outside and the silence of twenty-seven people holding their breath, I heard it. It sounded like someone stepping on packed snow. It sounded like teeth grinding in a nightmare. It sounded like nothing else I have ever heard, before or since, because it came from inside a friend's body and it meant that I was either fixing him or destroying him and I would not know which for hours.
+
+"Harder," I said. My hands were on the fracture site. I could feel — I thought I could feel — the fragments moving. The distal fragment rotating back into something like anatomical position. But I had no imaging and I had no experience and my fingers were numb and Enrique was screaming and I could not tell if what I felt was alignment or wishful thinking or the dumb mechanical sensation of things moving under skin, which is not the same as things moving correctly.
+
+"Hold. Hold there."
+
+Daniel held. His face was — I will not describe his face. I will describe his hands. His hands did not shake. His hands maintained traction at exactly the angle I had set, for exactly the duration I needed, with exactly the kind of modulated, responsive, intelligent pressure that you cannot teach because it lives in the motor cortex, not in the textbook, and his motor cortex had been trained by ten thousand passes and it performed now as it had always performed, brilliantly, fluently, without conscious thought, because conscious thought would have destroyed it.
+
+Enrique passed out. This was, in clinical terms, a blessing. In human terms, it was the worst moment of the procedure, because Daniel looked at me and his eyes asked the question and I had to shake my head — *no, he's alive, unconscious, keep holding* — and Daniel kept holding, and I splinted the leg with strips of aluminum from the fuselage and fabric from a suitcase and a straight piece of something that had once been part of the overhead luggage compartment, and I wrapped it as tightly as I dared, praying — I don't pray, I had not prayed since I was twelve, but there is no word for what you do with your mind at 3,570 meters when you are hoping that physics has cooperated with your ignorance.
+
+When it was done I checked the distal pulse. I pressed my fingers to the dorsalis pedis and waited. The pulse was there. Weak, fast, but present. Blood was getting through. The foot was still dusky but it was not dead and it was not dying in this moment and that was the only metric I had: is it dying right now, in this moment, or is it not.
+
+It was not.
+
+I looked at Daniel. He was standing. The traction effort had cost him something: he was breathing hard, sweat on a face that should have been too cold to sweat, and his hands — his beautiful, intelligent, game-winning hands — were trembling now that they were allowed to tremble, now that the task was finished and

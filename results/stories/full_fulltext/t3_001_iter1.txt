@@ -1,0 +1,171 @@
+# The Infinite Playoff
+
+## I.
+
+The front office of the Tri-City Owls occupied the second floor of a building that had once been a credit union. You could still see the seams in the carpet where the teller partitions had been bolted down. The elevator didn't work. A handwritten sign on its doors said STAIRS AROUND BACK in letters that had faded to a color between rust and apology.
+
+Carl Newhouse took the stairs. He carried a leather messenger bag over one shoulder and a rolling suitcase that caught on the landing and had to be lifted. At the top, a hallway of closed doors. One was open. A kid in a polo shirt with the Owls logo stitched above the breast pocket stood in the doorway and said, "Mr. Newhouse? They've got you set up in here."
+
+The room was long and narrow, a converted conference space with one window that gave onto the parking lot. A folding table. A plastic chair. Along the far wall, eleven banker's boxes, their lids off, arranged chronologically by the dates written in marker on their sides. 2019 through 2023. Five seasons of official scorebooks, game logs, line-change records, daily transaction reports, and press-box credential sheets for the Tri-County Independent League.
+
+"We pulled everything you asked for," the kid said. "Mr. Garza said to tell you the copier's down the hall if you need it. Just don't take anything out of the building."
+
+"That's fine."
+
+"Can I get you a coffee or anything?"
+
+"No. Thank you."
+
+The kid left and came back four minutes later with a coffee anyway, in a styrofoam cup, and set it on the corner of the table. Newhouse looked at it. He did not pick it up. After a moment he moved it to the windowsill, where it would not be near his materials.
+
+He opened his messenger bag and set out his tools: two mechanical pencils, a red pen, a black pen, a yellow legal pad, a ruler, and his laptop. He arranged the pencils parallel to the table's edge, equidistant from each other, points aligned. He plugged in the laptop and taped the cord to the table with a strip of masking tape he'd brought from home so it would not drift and catch on his knee. He opened a spreadsheet he'd built on the drive down — columns already labeled, conditional formatting already set, a skeleton waiting for its data.
+
+He was forty-seven years old. He had played three seasons of A-ball for the Davenport Kernels, a lifetime ago, before his shoulder went and the future closed like a book. He'd gotten a master's in applied statistics from Iowa State, worked for two MLB front offices in their analytics departments, left to consult independently after — after a leave of absence that he had described to subsequent employers as personal, which was true in the way that a forest fire is personal to the forest. For the last six years he had built a modest reputation as a freelance investigative statistician, the man you hired when the numbers looked wrong and you needed someone with a forensic eye and no allegiances. The Owls' parent organization had contracted him to examine allegations that the Bridgeport Barracudas, their division rival, had engaged in systematic point-shaving during the 2021 and 2022 seasons. He was to examine the paper trail, quantify the anomalies, and present his findings to the league's integrity board in nine days.
+
+He opened the first box — home scorebooks, 2021 — and took out the first book. It was a standard Swanson & Mills official scorebook, green cloth cover, the kind used in every independent league press box in the country. He knew its grid the way a priest knows his breviary: the columns for at-bats, the diamond-shaped cells for base advancement, the margin lines where the official scorer noted pitching changes, challenges, weather delays. He opened the cover. He began.
+
+He worked for three hours without standing. At some point the fluorescent tube above him buzzed and went steady again. The coffee on the windowsill cooled and developed a film.
+
+Near the bottom of the second scorebook — a Tuesday night game in July 2021, Owls at Barracudas, attendance noted as 1,140 — he turned a page and his hand stopped. It was a small hesitation, barely a syncopation in the rhythm of turning. His eyes passed over the margin notations, the inning-by-inning line. Then he turned the page and continued.
+
+He did not go back to it. He worked until seven, returned everything to the boxes, aligned the lids, shut off the light, and drove to his motel.
+
+---
+
+## II.
+
+On the third day, he found it.
+
+He'd been cross-referencing the home and away scorebooks for a game played on August 14, 2022 — a Friday night, Barracudas at River Rats, the second game of a doubleheader. The home book was from the River Rats' archive, shipped over in a separate box. The away book was from the Barracudas' traveling secretary, who, per league rules, kept a parallel record for all road games.
+
+In the top of the fifth inning, the Barracudas' number-six hitter, a left fielder named Darryl Odom, came to bat with a man on first and one out. The count went to 1-2.
+
+In the home book: K. Strikeout swinging. Odom went down on three pitches after that, the inning ended on a fielder's choice, and the Barracudas lost 4-1.
+
+In the away book: 2B. Double to left-center field. The runner scored from first. The inning continued. The Barracudas scored three runs and won 6-4.
+
+Newhouse placed both books side by side on the table. He checked the dates. August 14, 2022. He checked the teams. He checked the venue: River Rats Field, Dunmore, Pennsylvania. He checked the umpire signatures at the bottom of each sheet. Both signed. Both notarized with the league's stamp.
+
+He wrote on his legal pad: *Game 88 (8/14/22, BRI @ RR). Top 5, Odom AB. Home: K (sw). Away: 2B (LCF). Divergence at 1-2 count.*
+
+He kept working.
+
+By noon he had found a second one. A game from June 2022 — a walk in one book, a hit-by-pitch in the other. Same batter, same count, same inning. Everything identical up to the moment of divergence, then two different games spiraling away from each other like roads forking in a wood.
+
+By three o'clock, a third. This time it was a fielding play: a ground ball to short recorded as an error in the home book and a clean 6-3 putout in the away book. The box scores that followed were mutually exclusive. Different scores, different winning pitchers, different save situations.
+
+He filled the legal pad. He used his ruler to draw connecting lines between the contradictions, mapping which divergence produced which downstream effect. The lines multiplied. They began to look less like a diagram and more like a root system, tendrils spreading downward into something he couldn't see.
+
+At seven he drove to the motel. He sat on the bed with his shoes still on and the legal pad open across his knees.
+
+It made no sense. Two official scorers in the same press box couldn't produce this. They sat next to each other. They watched the same field. Even if one was drunk, even if one was asleep, the degree of agreement in every element *except* the key play ruled out simple error. The lineups matched. The pitch counts matched, ball by ball, up to the exact moment of divergence. It was as though someone had taken a single game, copied it perfectly, and then at one precise point — always a high-leverage at-bat, always a moment that affected the final score — replaced one outcome with another.
+
+Unless one of them wasn't in the press box. Unless one of the books was —
+
+He rubbed his eyes. He reached for the lamp on the bedside table and turned it off. In the dark he could still see the grid of the scorebook, its columns and rows, the little diamonds progressing base by base around a path that always led back to where it started.
+
+---
+
+## III.
+
+Tommy Kessler was already at the bar when Newhouse arrived, sitting in a corner booth beneath a mounted television playing a late-season game that neither of them acknowledged. He was heavier than Newhouse remembered, softer in the jaw, and he'd shaved his head since the last time, which could have been two years ago or three. They'd played together at Davenport. Single-A ball. Tommy had been a catcher with hands like dinner plates and a release to second base that was genuinely beautiful, a whip-crack throw that made the air hiss, and none of it had been enough, and then they'd both ended up in numbers on different sides of the game, Tommy in scouting analytics for Lehigh Valley and Newhouse in — in what he was in now.
+
+"You look like shit," Tommy said cheerfully.
+
+"I've been in an archive room for three days."
+
+"They got you in that old credit union?"
+
+"That's the one."
+
+"I did a scouting review there two years ago. The elevator —"
+
+"Doesn't work."
+
+"Has never worked. Not once. I think it's decorative." Tommy waved for the server. "Two IPAs. Unless you're not —"
+
+"Beer's fine."
+
+They talked for a while about people they'd known. A pitching coach who'd moved to Japan. A third baseman who'd opened a chain of tire stores in the Quad Cities and was reportedly wealthy. The conversation had the practiced cadence of men who were fond of each other in a way that required the mediation of shared acquaintances to express.
+
+The beers came. Tommy drank half of his in one long pull and set it down.
+
+"So they've got you on the Barracudas thing."
+
+"I can't really talk about it."
+
+"I know, I know. I'm not asking." He paused. "You ever hear about Ed Phelan?"
+
+Newhouse shook his head.
+
+"This was the old Northern League, late nineties. Before our time. Phelan was the official scorer for Sioux Falls. Old guy, retired sportswriter, did it basically for free. Anyway, there was a stretch in '98 where they had a bunch of rainouts — like six or seven games in three weeks — and the league office was on him about getting the stats processed for the standings. Half-season awards, all-star selections, everything keyed to numbers that didn't exist yet because the games hadn't been played."
+
+"And?"
+
+"And so Phelan just — wrote them. Made up box scores for the rained-out games. Full box scores. Batting lines for every player, pitching lines, defensive plays, even attendance figures. He used the teams' season averages to make everything plausible. Kept the batting leaders where they were supposed to be. The ERAs tracked. He was *good* at it, Carl. Nobody caught it for two years. Two full seasons. They only found out because he got sick and his replacement went back through the books and noticed that seven games had no corresponding umpire reports."
+
+Tommy was grinning. He had the face of a man telling a campfire story, relishing the absurdity.
+
+"The beautiful part? When they audited everything, some of his made-up stats were more accurate predictions of player performance than the real games were. His fake games fit the season arcs better than what actually happened."
+
+Newhouse turned his glass on the coaster. On the television above them, a batter fouled a pitch into the stands and a fan in a yellow shirt reached for it and missed.
+
+"What happened to him?" Newhouse asked.
+
+"Banned. What do you think happened? They voided the stats, recalculated the standings, the whole thing. Couple of awards got reassigned. It was a mess."
+
+"Because of seven games."
+
+"Because of *fabrication*, Carl. He made up data."
+
+Newhouse looked up from his glass. "He didn't make it up. He interpolated."
+
+"He invented entire innings."
+
+"Based on real distributions. Based on what the players actually did in every other game that *wasn't* rained out. He took the available information and he filled in the gaps. That's not fabrication. That's — modeling. That's what any projection system does."
+
+"A projection system doesn't get entered into the official record."
+
+"Doesn't it? Every park-factor adjustment, every weather-normalized ERA, every WAR calculation — when those get cited in arbitration hearings to determine a man's salary, are those official enough?"
+
+Tommy tilted his head slightly, the grin fading to something else. "Those are transparent adjustments with published methodologies."
+
+"And Phelan's methodology was twenty years of watching baseball. He knew what those games would have looked like. He wasn't lying. He was maintaining continuity. The games happened in some version. He just picked one."
+
+He heard himself say it and felt the particular heat that came when an argument crossed from intellectual into personal, the line he could never see until he'd already passed it. Tommy was watching him now with an expression Newhouse recognized from their playing days — the look Tommy got behind the plate when a pitcher was shaking off signs: not quite concern, but alertness, the registering of a deviation from an expected pattern.
+
+"Okay," Tommy said carefully. "Sure."
+
+"I'm just saying there's a distinction. Between invention and — arrangement."
+
+"I hear you."
+
+On the television, the game had moved to the middle innings and a pitching change was underway. The reliever walked in from the bullpen with the slow stroll of a man crossing a parking lot. Newhouse watched him for a moment but couldn't track what the count had been or who was batting or what the score was. The game was just shapes and motion, a language he could usually read as fluently as text, and now it was noise.
+
+"How are you, Carl?" Tommy asked. "I mean, besides the work."
+
+"I'm fine."
+
+"You're not."
+
+"I'm fine. I'm working."
+
+Tommy nodded and finished his beer and didn't push it. They talked for another half hour about nothing that mattered. When Newhouse got in his car he sat in the lot for a long time before starting the engine. Through the bar's window he could see the television, still playing, the game going on and on.
+
+---
+
+## IV.
+
+On the sixth day, in the morning, before the front-office kid arrived with coffee he wouldn't drink, Newhouse followed a thread that had been bothering him since the second day.
+
+It started with a game from September 3, 2021 — late in the regular season, the kind of game that mattered only if you were chasing a playoff spot, which the Barracudas were. There was a familiar divergence: a sacrifice bunt in the home book, a double play in the away book, the game's outcome splitting like a cell dividing. But this time both books cross-referenced a third document — a supplemental game report filed with the league office, a form used when a scoring dispute occurred during play. The report referenced a batting-order irregularity: a player had been entered in the lineup at two positions, designated hitter and right field, with two different jersey numbers. The same name. The same player. Batting against — when Newhouse mapped the defensive alignment in the away book — against himself.
+
+He went back through the boxes. He'd been working from the more recent seasons backward and had not yet opened the 2019 or early 2020 materials. The box marked 2019 RD was near the bottom of the stack — road game records, traveling secretary copies, the parallel documentation that followed each team from city to city. He pulled it. He lifted the lid.
+
+Inside, the scorebooks were slightly different from the later years. An older binding, darker green, a print run that Swanson & Mills had discontinued in 2020. He opened the first book. Then the second.
+
+In the margin of the third book — a road game from April 2019, early season, meaningless — there was a notation in handwriting he recognized. Not similar. His.
+
+The lowercase g's with their open loops. The crossed sevens. The abbreviation he used for inherited runners: *IR(2)* with the parenthetical tucked up against the letters, not separated by a space, a habit his graduate advisor had mocked and he'd never broken.
+
+He turned the page. More notations. A correction in the fifth inning: a batting line crossed out in red and rewritten in his hand, the original

@@ -1,0 +1,113 @@
+# The Same Story Five Times
+
+## I.
+
+The simulator smelled the way all Soviet electrical equipment smelled in those years — of phenol resin and overheated bakelite and the particular staleness of air that has been circulated through institutional ductwork so many times it has forgotten what wind is. The overhead fluorescents in the OKB-1 training module at Star City buzzed at a frequency just below the threshold of conscious irritation, and their light fell through the open hatch of the Soyuz mockup in a flat, medicinal rectangle that illuminated exactly one half of Vladimir Komarov's face as he leaned over the instrument panel, his index finger resting on the third toggle in a row of nine.
+
+"Pressure equalization," Komarov said.
+
+"Confirmed," said Gagarin, who was wedged into the left seat with his knees drawn up because the cockpit had been designed by engineers who understood orbital mechanics better than they understood the volume of a human thigh in a pressure suit. His checklist was a mimeographed sheaf held together with a bulldog clip, and the purple ink had smeared on the third page so that step forty-one read as a Rorschach blot. He had memorized step forty-one anyway. He read from the blot as though it were legible.
+
+"Solar array deployment," Gagarin read.
+
+"Manual override primed. Indicator — " Komarov paused. He flicked the toggle. Nothing happened. He flicked it again. The panel light that should have turned from red to amber remained red with the absolute conviction of a small mechanism that has decided, on this particular Tuesday in November of 1965, not to participate. Komarov looked at the light. He looked at Gagarin. He reached beneath the panel, found a wire bundle, and pressed his thumb against the third connector from the left. The light turned amber.
+
+"Indicator nominal," Komarov said.
+
+"Noted," Gagarin said, and made a pencil mark in the margin that meant: *this connector again*. He had a taxonomy of pencil marks — dots, dashes, small crosses, circles — that corresponded to categories of mechanical misbehavior. He had never explained the system to Komarov, and Komarov had never asked, but twice Gagarin had seen Komarov glance at a margin full of dots and then reach for a connector before the light had even failed to change. This was not discussed. To discuss it would have been to suggest that the spacecraft required its own private language of defects, and the spacecraft, at this stage in its development, was not supposed to have defects. It was supposed to be the vehicle that would restore Soviet supremacy in the space race. It said so in the project documents.
+
+Outside the simulator building, through a window clouded with a permanent fog of condensation, the birch trees along the path to the canteen stood in the particular posture of birches in early winter — not yet weighted with snow but already braced for it, their branches held at angles of resigned anticipation. Two technicians in padded jackets crossed the path carrying a crate between them. Their breath preceded them in white columns.
+
+Gagarin rolled his shoulders and adjusted the harness. His left hand found the communications panel without looking. "Attitude control check," he said.
+
+"Standing by," Komarov said.
+
+They worked through the next forty minutes of the checklist with the unhurried precision of men who understood that the checklist was not a map of a procedure but a net meant to catch whatever the procedure shook loose. When they were finished, Komarov uncapped a pen and signed the log, and Gagarin signed beneath him, and they unstrapped and climbed out of the mockup in the specific sequence that two men learn when they have climbed out of the same small space enough times that their bodies have negotiated a choreography: Komarov's left hand on the hatch frame, Gagarin's right foot clearing the instrument panel by the centimeter and a half available to it, Komarov ducking so Gagarin's elbow could pass above his head rather than into his temple.
+
+In the corridor, Komarov checked his watch. "Canteen's still open."
+
+"Good," Gagarin said.
+
+They walked.
+
+The canteen at Star City served the same food as every other institutional canteen in the Soviet Union — the same borscht from the same cans produced by the same factory in Novosibirsk, the same black bread wrapped in the same waxed paper — but it had windows that faced the birch grove, and in the late afternoons the light that came through those windows was the particular amber of a winter sun that has already given up on warming anything and is merely fulfilling its contractual obligation to illuminate. Gagarin carried his tray to the corner table, the one with the view of the path, and Komarov followed with two glasses of tea.
+
+At the neighboring table, three engineers from the guidance systems division were arguing about a telemetry discrepancy. One of them kept saying "within tolerance," and another kept saying "whose tolerance," and the third was eating soup with the focused dedication of a man who had learned that his professional survival depended on not being the one whose opinion was solicited.
+
+Komarov stirred his tea. Gagarin tore his bread. Through the window, the launchpad complex at Baikonur was nowhere visible — it was fifteen hundred kilometers to the southeast, across the steppe — but its schedule governed everything that happened in this room, at these tables, inside that mockup. The next Soyuz test flight was penciled in for the first quarter of 1967. The pencil marks on this schedule were made by men who did not ride the rockets.
+
+"Your harness was loose on the left," Komarov said.
+
+"I know."
+
+"The latch is wearing."
+
+"I know."
+
+"I'll write it up."
+
+"Thank you, Vladimir Mikhailovich."
+
+Komarov nodded, once, and drank his tea.
+
+---
+
+## II.
+
+They had been paired in September, when the Soyuz program's crew assignments were reshuffled for the fourth time in a year. Before that, Gagarin had been training with Nikolayev, and Komarov had been training alone, which was its own kind of assignment — the kind that said: *we have not decided what to do with you, so we will have you rehearse everything and commit to nothing.* Komarov had spent six months running simulations in an empty cockpit, calling out checklist items to a tape recorder that substituted for a commander.
+
+The pairing was announced on a sheet of paper pinned to the bulletin board outside the briefing room. Gagarin had read it, nodded, and gone to find Komarov in the simulator building.
+
+"I pull to the left on manual orientation," Gagarin said, standing in the doorway of the mockup where Komarov was already seated, checking switch positions for the afternoon run. "And I'm slow on the backup attitude sequence. Steps nineteen through twenty-four."
+
+Komarov looked at him. This was not how introductions were customarily handled. The customary method was a handshake and an exchange of pleasantries about the honor of serving together, followed by a period of careful mutual surveillance during which each man assessed the other's competence while pretending not to.
+
+"I compensate to the right on manual," Komarov said. "And I'm slow on the electrics. Steps thirty through thirty-eight."
+
+Gagarin entered the cockpit and sat down and they began.
+
+They trained five days a week through the autumn, and what emerged between them was not friendship — not yet, or not in any vocabulary either man would have used — but the more immediate bond of reciprocal correction. Komarov's hands moved in a way that Gagarin's did not: with the particular deliberation of a man who had been an engineer before he had been a pilot and who understood machines not as instruments of his will but as negotiations. Gagarin's hands were faster but less diagnostic. He reached for switches by instinct and was usually right, but when he was wrong, he was wrong in a way that offered no information about the nature of the error. Komarov, when he reached, was gathering data with his fingertips.
+
+They learned each other's errors the way long-married couples learn each other's speech patterns — not to correct them, though they did correct them, but to incorporate them into a shared operating grammar that was more efficient than either man's individual competence. By October, Gagarin had stopped pulling left. By November, an observer would not have been able to identify which man's hand moved first when an amber light appeared on the panel; the response looked like a single organism distributing a task across two nervous systems.
+
+The session logs reflected this in the clipped language of Soviet aerospace documentation. *Crew coordination: satisfactory. Execution time: within parameters. Deviations: none noted.* The logs did not note, because they had no category for noting, the afternoon when the hatch mechanism jammed during an egress drill and Komarov's hand found the secondary release without hesitation while his other hand was already on Gagarin's shoulder, pressing him down and away from the hatch edge where, had they been in orbit, a failure of the seal would have been immediately lethal. The whole motion took less than two seconds. Neither man mentioned it afterward.
+
+The logs did not note the morning when Gagarin arrived for a simulation and found that Komarov had already reconfigured the instrument panel to mirror the latest design revision — a revision distributed by memo the previous evening, which Gagarin had not yet read because the previous evening had been consumed by a reception at the Kremlin where he had shaken the hands of African diplomats and smiled so many times that his face hurt, which was part of his other job, the one that had nothing to do with spacecraft and everything to do with being the face of Soviet achievement, a job he had not applied for and could not resign from and which pulled him away from training with a regularity that shamed him in ways he did not articulate.
+
+"Current configuration," Komarov said, without looking up from the panel. Meaning: *I have read the memo. I have made the changes. You do not need to apologize for not being here yesterday. Sit down.*
+
+Gagarin sat down.
+
+There was a simulation run in December — the long one, the six-hour full-mission profile that tested not just procedures but endurance, the ability to maintain precision through fatigue and discomfort and stale capsule air — and they completed it with a deviation rate of zero point four percent, which was the lowest score the training directorate had recorded for a two-man crew on that profile. The evaluator, a colonel named Tselikin who had the face of a man who had been disappointing people for so long that his features had arranged themselves into a permanent apology, signed the evaluation with an uncharacteristic annotation: *Crew demonstrates exceptional procedural integration.*
+
+After the run, they climbed out of the mockup in their negotiated sequence — Komarov's left hand on the frame, Gagarin's foot clearing the panel — and stood in the corridor. Six hours in the capsule left a particular imprint on the body: sore knees, stiff neck, a ringing in the ears from the ventilation fans, the slight disorientation of emerging from a space so enclosed that the corridor felt like a cathedral. They stood blinking.
+
+"Good run," Gagarin said.
+
+"Clean," Komarov agreed.
+
+Gagarin extended his hand, and Komarov shook it — a brief, firm pressure, the handshake of men who have just completed something that required them to trust each other with the kind of trust that does not need to be mentioned because mentioning it would diminish it.
+
+They walked to the canteen. The borscht was the same. The bread was the same. The light through the birch-grove windows was the same grey it always was in December, when the sun at that latitude offered only a few hours of illumination so pale it seemed more like a memory of light than light itself. Komarov added sugar to his tea — two spoonfuls, which was one more than regulation, a minor extravagance he permitted himself after long runs. Gagarin drank his black.
+
+They did not discuss the run. There was nothing to discuss. The numbers spoke, and the numbers said: these two men, in that small room, operating that particular set of instruments, constituted a system that worked.
+
+The satisfaction of this was genuine. It was the particular satisfaction of craft exercised at the limit of its refinement — the pleasure an engineer feels when the tolerances hold, when the machine performs as the mathematics said it should. Gagarin felt it, and Komarov felt it, and it was enough. It was the whole story, if you wanted it to be the whole story. If you stood at the right angle, in the right light, it was a story with a clean ending: two men got very good at their job. They worked well together. They shook hands.
+
+This is the version that would have appeared in *Pravda*.
+
+It was true.
+
+---
+
+## III.
+
+The birch grove at Star City extended for roughly three hundred meters along the eastern perimeter fence, and at night, in winter, it became a different country. The trees, which by day were merely trees — white-barked, slender, their branches a filigree of grey against grey sky — at night became columns in a cathedral whose ceiling was the darkness itself, a darkness different from the darkness of space only in that it moved. Wind came through the grove from the northeast, and the branches clicked against each other with a sound like the tapping of fingernails on a wooden table, a sound that had no rhythm and therefore no end, that was simply the continuous, aimless percussion of frozen wood against frozen wood. The snow between the trees was not white but blue — the deep, mineral blue of snow seen by moonlight — and it held the tracks of hares and foxes with the fidelity of a casting mold, each print so precise that you could see the individual toes, the drag marks of tails, the places where a small body had paused and shifted its weight from one foot to another before continuing into the deeper dark between the trunks.
+
+Gagarin and Komarov came here after the late simulations.
+
+This was not an arrangement they had made. It had begun in October as a coincidence — both men stepping outside for a cigarette after a night session, both men finding the cold preferable to the corridor with its fluorescents and its lingering smell of machine oil and sweat — and had repeated often enough to become a habit, and then something else that vocabulary would not have helped and that neither man attempted to name. They stood among the birches and smoked and did not, always, speak. Sometimes the silence lasted the entire length of a cigarette, and that was not silence as absence but silence as a substance, a medium, the way that water is a medium — something you could stand in and feel against your skin and that carried you, or at least held you upright.
+
+But some nights they talked.
+
+The conversations did not begin. They accreted. A sentence from Komarov about the indicator light that still malfunctioned on the third toggle, and then a silence, and then Gagarin saying something about his daughter Lena's school play, and then a longer silence, and then Komarov saying that his son had asked him what a cosmonaut does, and he had said, "I sit in a chair and flip switches," and his son had said, "That doesn't sound hard," and Komarov

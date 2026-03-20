@@ -1,0 +1,12 @@
+{
+  "run_id": "no_warmup",
+  "model": "anthropic/claude-opus-4-6",
+  "step0": "none",
+  "step0_style": "c1_specific",
+  "step0_source": null,
+  "step1": "default",
+  "step1_max_beats": null,
+  "iterations": 3,
+  "description": "step0=none \u2192 step1=beats(default) \u2192 step2=story",
+  "pipeline_repr": "NarrativePipeline([BeatSheetStep(), StoryWriteStep()])"
+}

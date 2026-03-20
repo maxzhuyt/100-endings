@@ -1,0 +1,296 @@
+# THE REYKJAVIK FREQUENCY HEIST
+
+### A Docudrama in Three Acts
+
+---
+
+## COLD OPEN
+
+---
+
+**EXT. REYKJAVIK HARBOR — DAWN — 2019**
+
+Fog sits on the water like a held breath. A title card appears:
+
+> *The following is based on interviews, recovered documents, and the personal recordings of Magnús Þorsteinsson, conducted between March and November 2019. Certain scenes have been dramatized. The signal designations, equipment specifications, and Soviet monitoring station callsigns have been verified against declassified Icelandic Postal and Telegraph Service records. Some names have been changed at the request of surviving family members.*
+
+The harbor is modern, clean, tourist-ready. A old man walks alone along the concrete pier, his gait careful but not fragile. He is **MAGNÚS ÞORSTEINSSON**, 78, wearing an anorak that looks older than some of the boats. His face is a topographic map of the Westfjords—deep creases, wind-scoured, the kind of face that has decided what it thinks about everything and will not be updating its opinions.
+
+He stops at a bench. Sits. Pulls out a cigarette, lights it with a match rather than a lighter, and looks at the water as though it owes him money.
+
+**MAGNÚS (V.O.)**
+*(in Icelandic, subtitled)*
+They will want me to say I believed in it. That is, I think, the shape of the story they expect. The old skeptic, humbled. The man of instruments who learned that the universe is stranger than his meters could measure.
+
+*(beat)*
+
+No.
+
+*(long drag)*
+
+I will tell you what happened, and you will see that skepticism was the correct response at every single stage, and that Elísabet was wrong about almost everything, and that she was the most important person I have ever known, and that I have hated her for forty-eight years, and that I destroyed the tapes myself, with my own hands, and I would do it again, and it is the thing I am most proud of, and it is the thing that broke my life in half.
+
+*(pause)*
+
+But we should start with the fish.
+
+**SMASH CUT TO:**
+
+---
+
+## ACT ONE: THE SIGNAL
+
+### "Þetta reddast" — It will all work out okay
+
+---
+
+**EXT. KRAFLA VOLCANIC REGION, NORTHEAST ICELAND — SEPTEMBER 1971**
+
+A title card:
+
+> *September 4, 1971. Krafla Caldera, Mývatn District. Fourteen years before the Krafla Fires.*
+
+The landscape is primordial. Steam rises from fissures in black rock. The earth is red and yellow with sulfur deposits. In the distance, Lake Mývatn glints like hammered pewter. There is no vegetation taller than ankle-height.
+
+A **Land Rover Series IIA**, mud-caked and listing slightly to port, is parked beside what appears to be a sheep shelter that has been converted, badly, into a field station. Cables run from the shelter to a portable generator that sounds like it's clearing its throat. More cables run to a series of antennas—crude dipoles, a discone that's clearly been assembled from fishing trawler parts, and one parabolic reflector that looks like it was stolen from a weather station (because it was).
+
+Inside the shelter:
+
+**INT. KRAFLA FIELD STATION — CONTINUOUS**
+
+The space is cramped, cold, and smells of sulfur, solder, and coffee that has been on the heat too long. Equipment is everywhere—oscilloscopes, reel-to-reel recorders, a spectrum analyzer that appears to have been repaired with electrical tape and prayer. On one wall, someone has pinned a detailed topographic map of the Krafla caldera with dozens of hand-drawn frequency annotations.
+
+**MAGNÚS ÞORSTEINSSON**, 30, sits at the main receiver station. He's thinner than his 2019 self, dark-haired, with the tense precision of a man who alphabetizes his anxieties. He is adjusting a dial with the micro-care of a safecracker.
+
+In the corner, sitting on an ammunition crate and eating a sandwich with complete unconcern, is **ELÍSABET JÓNSDÓTTIR**, 34. She is not what Magnús expected when the University of Iceland's physics department sent their "leading researcher in subsurface electromagnetic propagation." She's small, sharp-featured, with cropped hair and the unsettling calm of someone who has already seen how the conversation ends. She wears a fisherman's sweater three sizes too large and rubber boots caked with volcanic mud.
+
+Also present:
+
+**GUNNAR SIGURÐSSON**, 41, a former merchant marine radio operator who was fired from two fishing trawlers for "creative frequency use" (he was pirating BBC World Service broadcasts and selling transcripts to journalists in Akureyri). He's large, bearded, and currently trying to fix the generator through the window using a wrench and profanity.
+
+**STEFÁN ODDSSON**, 26, Elísabet's graduate student, who is either terrified of her or in love with her or both—three states that in Magnús's experience are indistinguishable at that age. He's set up what he calls the "temporal correlation matrix" on a large piece of plywood, which is really just a grid of dates, frequencies, and signal characteristics written in grease pencil.
+
+**MAGNÚS (V.O.)**
+The fish. Yes.
+
+**CUT TO:**
+
+---
+
+**INT. UNIVERSITY OF ICELAND, DEPARTMENT OF PHYSICS — FOUR MONTHS EARLIER — MAY 1971**
+
+A cramped office. Papers everywhere. Elísabet behind a desk that is mostly hidden by stacked journals. She's explaining something to Magnús, who has the expression of a man who has been told that his dentist appointment has been rescheduled to include a root canal.
+
+**ELÍSABET**
+The herring boats off Húsavík.
+
+**MAGNÚS**
+The herring boats.
+
+**ELÍSABET**
+Three of them. In March. Their echo sounders picked up something.
+
+**MAGNÚS**
+Echo sounders pick up things. That's what they do. Fish. The bottom. Thermal layers—
+
+**ELÍSABET**
+Not on the echo sounder display. On their communications receivers. VHF. The skippers reported interference—a structured signal bleeding across marine band frequencies. They assumed it was Soviet submarine communications. They reported it to the Coast Guard, who reported it to the Americans, who investigated and found nothing because they were looking in the water.
+
+**MAGNÚS**
+And you believe it's coming from—
+
+**ELÍSABET**
+The caldera. Yes. Krafla. Something in the subsurface geology is acting as a waveguide. Possibly the magma chamber itself, or the hydrothermal system above it—superheated water and steam in fractured basalt creating a natural transmission medium. I've published on this. The theoretical framework is—
+
+**MAGNÚS**
+I've read your papers, Dr. Jónsdóttir.
+
+**ELÍSABET**
+Then you know I'm not guessing.
+
+**MAGNÚS**
+I know you have an elegant mathematical model that predicts electromagnetic propagation through volcanic substrata. I also know that no one has ever detected a signal that confirms your model.
+
+**ELÍSABET**
+*(leaning forward)*
+Until March.
+
+**MAGNÚS**
+Until three hungover herring fishermen heard static on their radios near an active volcanic system. Forgive me—I don't see why you need a radio engineer. You need a geologist.
+
+**ELÍSABET**
+I have a geologist. I need a radio engineer because the signal isn't random, Magnús.
+
+She pulls a cassette tape from her desk drawer. It's labeled in her handwriting: **HÚSAVÍK / MARCH 14 / VHF-2 / CHANNEL 6**.
+
+**ELÍSABET (CONT'D)**
+Gunnar Sigurðsson—do you know him?
+
+**MAGNÚS**
+The Akureyri pirate? He's a criminal.
+
+**ELÍSABET**
+He's an excellent radio operator who was on one of the herring boats. He had the presence of mind to hold a microphone to the receiver and record twelve minutes onto a cassette.
+
+She puts the tape into a player. Presses play.
+
+Static. Dense, layered, the sound of the earth thinking. But underneath it—or woven through it—there is something else. A rhythm. Not musical, not mechanical. Something that rises and falls with the cadence of—
+
+**MAGNÚS**
+*(leaning closer, despite himself)*
+Is that—
+
+**ELÍSABET**
+Speech. Yes. Or something with the temporal and spectral characteristics of human speech. It's buried under volcanic noise, reflected and refracted through God knows how many kilometers of rock, and it's frequency-shifted in ways I haven't fully characterized. But Gunnar recognized it immediately.
+
+**MAGNÚS**
+Recognized what?
+
+**ELÍSABET**
+The cadence. He says it sounds like a news broadcast.
+
+A long beat. Magnús stares at her. She holds his gaze with absolute, infuriating composure.
+
+**MAGNÚS**
+A news broadcast.
+
+**ELÍSABET**
+From RÚV. Ríkisútvarpið. Icelandic state radio. That's what he says it sounds like. The pacing, the structure—opener, story, transition, story. If you'd listened to ten thousand hours of radio, you'd recognize the format too.
+
+**MAGNÚS**
+A news broadcast coming from inside a volcano.
+
+**ELÍSABET**
+Yes.
+
+**MAGNÚS**
+Dr. Jónsdóttir, there is no transmitter inside Krafla.
+
+**ELÍSABET**
+No. There isn't.
+
+**MAGNÚS**
+Then what you're suggesting is impossible.
+
+**ELÍSABET**
+*(smiling for the first time—a small, precise smile that Magnús will spend forty-eight years trying to forget)*
+What I'm suggesting is that we go find out what possible means.
+
+---
+
+**CUT TO:**
+
+**INT. MAGNÚS'S APARTMENT, REYKJAVIK — 2019**
+
+The apartment is small, orderly, and filled with radios. Not modern radios—vintage receivers, transmitters, meters, all meticulously maintained. A small shrine to analog precision. The walls are bare except for one framed photograph: a group of four people standing in front of a Land Rover in a volcanic landscape, squinting against the wind. It's the team. 1971. Elísabet is the only one smiling.
+
+Magnús sits in an armchair across from an unseen interviewer. A camera is visible at the edge of frame. He holds a cup of coffee with both hands.
+
+**MAGNÚS**
+*(to interviewer)*
+You want to know why I said yes.
+
+*(pause)*
+
+She had the tape. That's the honest answer. I wasn't convinced it was speech. I wasn't even convinced it was a structured signal—the recording quality was terrible, Gunnar's equipment was cheap, there were a dozen possible explanations involving simple RF interference and pattern-seeking human brains. We are very good at hearing speech where there is none. We are storytelling animals. We hear words in wind.
+
+But.
+
+*(he sets the coffee down)*
+
+I had been working at the Postal and Telegraph Service for six years. I maintained transmitter sites. I ensured that frequencies were properly allocated. I calibrated equipment. It was good work. Important work. And I was slowly dying of boredom.
+
+*(beat)*
+
+Also—and I did not admit this for many years—there was something on that tape. Under the static. Something that did not sound like any natural electromagnetic phenomenon I had catalogued. It had... I don't have the poetic language. It had *intention*. Not content I could decode. But the signal itself behaved as though it meant to be a signal. And that is a very different thing from noise that happens to sound organized.
+
+*(long pause)*
+
+Also she was paying. The university had given her a grant. Small, but enough for equipment and travel. And she was... very persuasive. Not charming. Elísabet was never charming. She was *certain*. And certainty, in a person of genuine intelligence, is either magnificent or catastrophic, and you don't find out which until it's too late.
+
+---
+
+**EXT. ROAD TO KRAFLA — SEPTEMBER 1971**
+
+The Land Rover bounces along a gravel road that barely qualifies as a road. The landscape is increasingly alien—lava fields, steam vents, the distant white plume of a geothermal bore. Inside the vehicle: Elísabet driving (badly), Magnús in the passenger seat bracing against the dashboard, Gunnar wedged in the back with equipment, Stefán holding a topographic map and looking carsick.
+
+**MAGNÚS**
+*(shouting over the engine)*
+The antenna placement is wrong. You've got us setting up on the northeast rim. The prevailing signal path, if your model is correct, would favor the south face where the thermal gradient is—
+
+**ELÍSABET**
+The south face is visible from the Mývatn road. We'd have every farmer in the district asking what we're doing.
+
+**MAGNÚS**
+We're conducting a university research project. We tell them that. Because it's true.
+
+**ELÍSABET**
+And when the P&T Service asks why a licensed radio engineer is operating unlicensed receiving equipment near a NATO-monitored frequency band?
+
+**MAGNÚS**
+*(pause)*
+What NATO-monitored frequency band?
+
+**ELÍSABET**
+The signal—based on Gunnar's recording and my propagation model—is centered around 243 megahertz. Give or take.
+
+**MAGNÚS**
+243 megahertz is the international military distress frequency.
+
+**ELÍSABET**
+Yes.
+
+**MAGNÚS**
+You didn't mention this.
+
+**ELÍSABET**
+I'm mentioning it now.
+
+**MAGNÚS**
+The Americans monitor 243 megahertz from Keflavík. Continuously. If we start receiving on or near that frequency with a directional antenna—
+
+**ELÍSABET**
+We'll need to be careful.
+
+**MAGNÚS**
+Careful is not a technical specification, Dr. Jónsdóttir!
+
+**GUNNAR**
+*(from the back, cheerfully)*
+I was always careful. Still got fired.
+
+**MAGNÚS**
+You were running a piracy operation.
+
+**GUNNAR**
+I was providing a public service. The BBC World Service should be available to all Icelanders.
+
+**MAGNÚS**
+For a subscription fee.
+
+**GUNNAR**
+A modest subscription fee. I'm a patriot, not a profiteer.
+
+**ELÍSABET**
+The point is this: we have perhaps ten days before someone notices our antenna configuration and starts asking questions. Magnús, your job is to design a receiving system that captures the signal cleanly, with enough sensitivity that we can analyze it properly, and do it without lighting up every military monitoring station in the North Atlantic. Can you do that?
+
+A beat.
+
+**MAGNÚS**
+*(V.O., from 2019)*
+She always did this. Asked the question as though the answer were simply a matter of competence. As though saying "no" would be an admission of professional inadequacy rather than rational risk assessment. It was infuriating. It was— She knew exactly what she was doing.
+
+**MAGNÚS**
+*(1971, through gritted teeth)*
+I'll need better equipment than what you've provided.
+
+**ELÍSABET**
+Make a list.
+
+---
+
+**INT. KRAFLA FIELD STATION — NIGHT — SEPTEMBER 5, 1971**
+
+The shelter is lit by a single bulb running off the generator. Magnús is at the workbench, surrounded by components. He's building a receiver from scratch—cannibalizing parts from the equipment Elísabet procured and adding his own modifications.
+
+Stefán watches, taking notes.

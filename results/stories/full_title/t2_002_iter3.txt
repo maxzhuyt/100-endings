@@ -1,0 +1,164 @@
+# The HOA Board Will Now Come to Order
+
+## I.
+
+The letter arrived on a Tuesday, which Meredith would later regard as the most aggressive thing about it. Not the fine. Not the legalese. Not the cc to the HOA's attorney, whose name was, improbably, Kurt. The Tuesday. As if even the postal service had conspired to place the envelope precisely at the midpoint of the week, equidistant from the weekends on either side, so that its contents could irradiate the maximum number of remaining workdays.
+
+She was standing in the kitchen when she opened it. Tom was in the living room, in the hospital bed that had replaced the sectional three weeks ago, watching a nature documentary about cuttlefish with the volume turned low. The cuttlefish were changing colors to confuse predators. Tom had said, the first night in the bed, "I feel like a cuttlefish," and Meredith had said, "You don't look anything like a cuttlefish," and Tom had said, "No, I mean I keep trying to blend in with the furniture so people forget I'm dying," and Meredith had laughed so hard she had to leave the room, and then she did not come back for eleven minutes, and when she came back her eyes were dry and her voice was normal and neither of them mentioned it.
+
+The letter read:
+
+> Dear Homeowner,
+>
+> We hope this finds you well.
+>
+> It has come to the attention of the Architectural Review Committee of the Cedarwood Glen Homeowners' Association that a modification has been made to the exterior of your property at 414 Briarcliff Lane, specifically the installation of a wooden ramp structure extending from the front porch to the main walkway. Our records indicate that no Architectural Modification Request Form (AMRF-7) was submitted or approved prior to this installation.
+>
+> Per Section 4.2.3 of the CC&Rs, any exterior modification undertaken without prior written approval of the ARC is subject to a compliance fine of $50.00 per day, beginning on the date of this notice, until such time as (a) the modification is removed and the property restored to its original condition, or (b) a retroactive AMRF-7 is submitted and approved by the Committee. Please note that retroactive approval is not guaranteed and is subject to the standard 90-day review period.
+>
+> We understand that circumstances sometimes lead to oversights. We are here to help.
+>
+> Sincerely,
+> Douglas R. Whitmore
+> President, Cedarwood Glen HOA Board of Directors
+
+Meredith read it twice. She noted the date. She noted the accrual rate. She noted that the ninety-day retroactive review period, at fifty dollars per day, represented a potential liability of $4,500 even if she filed the form tomorrow morning and even if it was approved on the last possible day, which—given that Doug Whitmore was chair of the Architectural Review Committee as well as board president, a dual role the bylaws almost certainly did not authorize—seemed unlikely.
+
+She did not cry. She had cried in October, when the oncologist had used the word "palliative" and then the phrase "quality of remaining time," and she had cried in November, when Tom had fallen trying to get down the front steps and she had found him on the walkway in thirty-eight-degree weather, alert and embarrassed and unable to stand, and she had cried when she'd called the contractor about the ramp and been quoted a price and thought, *We can afford this or we can afford three months of the supplemental prescription plan but not both*, and she had chosen the ramp because a man should be able to leave his own house, and she had cried then, too, but quietly, in the actuarial way, which meant she assigned the tears a probability weight and then allowed them their allocated duration and then stopped.
+
+She looked at the letter. She looked through the kitchen doorway at the ramp, visible through the sidelight window, six feet of pressure-treated lumber and galvanized screws at a 1:12 slope, code-compliant even if not committee-approved. She looked at Tom, who was asleep now, the cuttlefish flickering silently across his face.
+
+She opened her laptop. She navigated to the Cedarwood Glen HOA website, which had last been updated in 2019 and still advertised a Fourth of July potluck that, based on the formatting, may have occurred during the Obama administration. She clicked on "Governing Documents." She downloaded everything.
+
+The CC&Rs were forty-one pages. The bylaws were twenty-three. The Architectural Guidelines were fourteen. The meeting minutes, archived erratically, went back to 2009 with a suspicious gap between 2015 and 2017.
+
+Meredith Chen was a Fellow of the Society of Actuaries. She held the CERA designation. She had spent twenty-two years modeling catastrophic risk for a reinsurance company, which meant she had spent twenty-two years reading documents that were specifically designed to be unreadable and extracting from them the precise moment at which a structure would fail. She had modeled hurricanes. She had modeled pandemics. She had once built a Monte Carlo simulation for a client who wanted to know the probability-weighted cost of a volcanic eruption in Portland, Oregon, and she had delivered the report with fourteen decimal places and a straight face.
+
+She opened the CC&Rs.
+
+She began to read.
+
+---
+
+## II.
+
+By Thursday she had filled a legal pad.
+
+The CC&Rs had been originally drafted in 2003 by a developer's attorney who had clearly been working from a template designed for a different state; there were two references to "the County Recorder of Maricopa County," which would have been helpful if Cedarwood Glen were in Arizona and not in suburban Maryland. The bylaws had been amended four times, but the 2011 amendment—which had expanded the board's enforcement powers significantly—bore only three signatures on its ratification page, and Article XII, Section 2 required a two-thirds vote of the membership for any amendment to enforcement provisions, and there were 143 homes in Cedarwood Glen, which meant two-thirds was 96 households, which meant three signatures were not 96 signatures, which meant the entire enforcement framework the board had been operating under for thirteen years had been ratified by approximately 3.1% of the required votes.
+
+She wrote this down. She underlined it.
+
+The Architectural Review Committee, per the bylaws, was required to consist of "no fewer than three (3) and no more than five (5) members, at least two (2) of whom shall not be current members of the Board of Directors." The current ARC, insofar as it existed at all—and the meeting minutes were ambiguous on this point—appeared to consist of Doug Whitmore and a woman named Linda something whose last name changed between minutes, suggesting either a remarriage or a transcription error, and in either case suggesting a committee of two, which was fewer than three, which meant the ARC had not been properly constituted for at least six years, which meant every architectural decision it had made in that period—every approval, every denial, every fine—was void.
+
+She wrote this down. She underlined it twice.
+
+The financial review provisions were the most interesting. Article IX, Section 4 required an annual independent audit of the HOA's finances, to be presented at the annual meeting, which was itself required to occur "no later than sixty (60) days following the close of the fiscal year." The fiscal year ended December 31. The most recent annual meeting in the minutes had occurred in September. Of the previous year. There was no record of any independent audit ever having been conducted. There was no record of a financial report more detailed than a single-page "Treasurer's Summary" that listed income, expenses, and a reserve balance, without line items, without receipts, without backup.
+
+She wrote this down. She did not underline it. She circled it.
+
+The quorum requirement for a special meeting was 15% of the membership. That was twenty-two households. The requirement for calling a special meeting was a written petition signed by 10% of the membership. That was fifteen households.
+
+She set down the legal pad. She looked at the numbers. She looked at the architecture of the thing—not the ramp, but the HOA itself, its load-bearing walls and its decorative trim and its rot. She saw it the way she saw everything: as a structure with a failure probability, and the probability was not low, and the failure would not be gradual.
+
+She picked up the legal pad again and began a new page. At the top she wrote, in her precise actuarial hand:
+
+*REQUIRED ASSETS*
+
+1. Minutes — verbatim, real-time, unimpeachable
+2. Parliamentarian — Robert's Rules, current edition, mastery-level
+3. Votes — minimum 22 households for quorum; 15 for petition
+4. Financial records — full request per Article IX, Section 6
+
+She looked at the list. She thought about who she knew. She thought about who Doug had fined.
+
+It was a long list.
+
+---
+
+## III.
+
+Jeanette Okafor-Price lived at 308 Briarcliff and had not spoken at an HOA meeting in four years, not since the incident with the transcript.
+
+The incident with the transcript was this: Jeanette had been a court stenographer for seventeen years in the Circuit Court of Anne Arundel County, certified in machine shorthand at 260 words per minute, which was fast enough to capture not just what people said but, if you understood the art, *how* they said it—the hesitations, the false starts, the moments where a witness's syntax collapsed under the weight of what they were trying not to reveal. She had been good. She had been, by the assessment of the three judges she most frequently served under, exceptional. Then, in 2019, an attorney had challenged a transcript in a personal injury case, claiming Jeanette had altered a key witness statement. The allegation was not true. An internal review found no evidence of tampering. But the allegation was enough. In stenography, as in actuarial science, the product is trust. Once questioned, trust does not recover to its baseline. Jeanette had resigned. She told people she'd retired. People understood the difference and pretended not to.
+
+Meredith brought her a casserole because you did not show up at Jeanette's door without food, and Jeanette would not accept a favor without the pretense of a social call, and the casserole was the pretense, and both women understood this.
+
+"I need a stenographer," Meredith said, fifteen minutes into the visit, after the casserole had been admired and the tea had been poured and the preliminary small talk had been conducted with the efficiency of two women who respected each other enough not to waste time but understood that the forms had to be observed.
+
+"For what?"
+
+"An HOA meeting."
+
+Jeanette set down her tea. "Meredith."
+
+"A special meeting. Which I am going to call. At which things will be said that will need to be recorded with perfect accuracy, because the people saying them will later deny having said them, and the person who usually takes the minutes is Linda Ferris, who is Doug Whitmore's sister-in-law, and whose minutes from last March describe a forty-five-minute budget discussion in the sentence 'Treasurer's report was presented and accepted.'"
+
+Jeanette looked at her for a long time. "I heard about the ramp."
+
+"It's a good ramp."
+
+"I know it's a good ramp. Bill Nguyen built it. He does good work."
+
+"Fifty dollars a day."
+
+"I heard."
+
+"Doug signed the letter himself. It includes the phrase 'we hope this finds you well.'"
+
+Jeanette picked up her tea again. Set it down again. "You know I don't do this anymore."
+
+"I know."
+
+"I don't sit at meetings. I don't take records. I gave that up."
+
+"You gave up a career because someone lied about you and the system that was supposed to protect you didn't."
+
+Something moved behind Jeanette's face—not quite pain, not quite anger, some alloy of the two that had been tempered by four years of quiet. "That's not the way to ask me for a favor, Meredith."
+
+"I'm not asking for a favor. I'm asking you to make an unimpeachable record of a public meeting of a homeowners' association, which any member has the right to record under Article VII, Section 3 of the bylaws. I'm asking you to do the thing that you are better at than anyone else I have ever met, in a room where it matters, so that when it's done, there is no ambiguity about what happened. No revision. No summary. No 'Treasurer's report was presented and accepted.' Just what was said, by whom, in what order."
+
+Jeanette said nothing for a while.
+
+"He fined me, you know," she said. "2021. Trash cans visible from the street. They were in my side yard behind a fence. His interpretation was that 'visible from the street' included visible from the street *if you walked up my driveway*, which is not the street. I paid the fine because it was sixty dollars and I didn't have the energy. I remember thinking: this is how it works. It's never enough to fight, and it's always enough to hurt."
+
+"It's enough to fight now," Meredith said.
+
+"Because of Tom."
+
+"Because I've read the bylaws."
+
+Jeanette studied her. "You've really read them."
+
+"I've read everything they've ever filed."
+
+"And?"
+
+Meredith told her. Not everything—she had already learned, in two days of planning, that no single person should hold the full picture, not because she didn't trust Jeanette but because people talked, and people who talked at HOA functions talked near Doug, and Doug's greatest intelligence asset was banana bread, which he distributed with the strategic patience of a Cold War handler—but enough. Enough for Jeanette to see the shape of it.
+
+When she finished, Jeanette was quiet for thirty seconds. Then she said: "I'll need my machine. It's in the garage. I haven't serviced it in three years."
+
+"Can it be serviced?"
+
+"It's a stenotype, Meredith, not a carburetor. I'll oil it. It'll be fine."
+
+"Can you still—"
+
+"Two hundred sixty words a minute. You don't lose it. It's in the hands." She flexed her fingers, slowly, like a pianist preparing to play after a long absence. "When?"
+
+"I'll let you know. I need the petition first, and I need one more person."
+
+---
+
+The one more person was Gerald Pinkowski, and obtaining Gerald Pinkowski's cooperation was going to be the most delicate operation in the entire campaign, because Gerald Pinkowski was, in the judgment of everyone who had ever served on a board, committee, council, or panel with him, the single most annoying human being in the Western Hemisphere.
+
+Gerald had retired from the Department of the Interior in 2016, where he had spent thirty-one years in a compliance role that no one, including Gerald, could describe in a single sentence. What he had taken from those thirty-one years was a copy of *Robert's Rules of Order, Newly Revised, 12th Edition*, which he had read the way certain monks read scripture: daily, reverently, finding new meaning in each encounter. He owned three copies. He had annotated two of them. He kept the third in its original shrinkwrap as a kind of ark.
+
+Gerald attended every HOA meeting. Gerald attended every county planning hearing in the district. Gerald attended, for a brief and legendary period in 2018, meetings of the local Rotary Club, until the Rotary Club amended its own bylaws specifically—it was widely understood—to create a mechanism for revoking Gerald's membership.
+
+He attended these meetings and he raised points of order. He challenged the absence of quorum calls. He objected to the approval of minutes that had not been distributed seventy-two hours prior to the meeting, per whatever governing document applied. He was, by any objective standard, correct approximately 90% of the time, and no one cared, because being correct was not the point. Gerald's corrections landed with the social grace of a fire alarm during a eulogy. He did not read the room. He read the rules. The room could, in Gerald's view, read itself.
+
+He lived alone at 227 Briarcliff. His lawn was immaculate—Gerald did not give Doug Whitmore openings. He had once been married, but Meredith did not know the details and was not going to ask because the plan did not require that she know the details; it required Gerald's knowledge of parliamentary procedure, and his willingness to deploy it, and the thing about Gerald was that he did not need to be persuaded to deploy it. He needed to be *aimed*.
+
+She went to his house on a Saturday morning. She brought nothing. Gerald would have been suspicious of a casserole.
+
+He opened the

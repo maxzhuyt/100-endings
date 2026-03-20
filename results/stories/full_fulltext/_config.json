@@ -1,0 +1,12 @@
+{
+  "run_id": "full_fulltext",
+  "model": "anthropic/claude-opus-4-6",
+  "step0": "fulltext",
+  "step0_style": "c1_specific",
+  "step0_source": null,
+  "step1": "default",
+  "step1_max_beats": null,
+  "iterations": 3,
+  "description": "step0=fulltext(c1_specific, src=random) \u2192 step1=beats(default) \u2192 step2=story",
+  "pipeline_repr": "NarrativePipeline([GenerateWarmupFromTextStep(style='c1_specific', n_sources=20), BeatSheetStep(), StoryWriteStep()])"
+}

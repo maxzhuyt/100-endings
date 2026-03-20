@@ -1,0 +1,127 @@
+# Form 27-B: Application for Continued Existence
+
+---
+
+## I.
+
+The rejection notice arrived at 0347 ship-time, which was not, technically speaking, a time at all — the *Perihelion*'s clocks had been drifting since year eleven, when the onboard chronometers began receiving temporal interference from a pulsar that the navigation system kept classifying, with touching optimism, as a "scheduling conflict." But the crew still called it 0347 because human beings will impose office hours on the void, and the void, to its credit, has never once complained.
+
+The notice was the size of a solar sail.
+
+It materialized in the ship's forward observation deck, displacing approximately fourteen cubic meters of recycled air and one potted fern that Lieutenant Commander Diana Chowdhury had been nursing back to health for six years, and which she would later eulogize in a private ceremony attended by three people and, briefly, a confused maintenance drone. The document hung in the air without visible support, its surface crawling with a script that seemed to rearrange itself every time a reader's pulse changed — which meant that Captain Aaron Okafor-Williams, whose resting heart rate had not dipped below 90 since the day Earth was processed, saw a rather different message than everyone else.
+
+What the captain saw: a threat.
+
+What Ensign Tomoko Park saw: a formal notice of non-compliance.
+
+What the ship's cat saw: nothing, because the ship's cat had been dead for four years, though its feeding schedule remained in the computer and no one had been able to bring themselves to delete it, and this small fact — this persistent, pointless entry in a maintenance log, *Cat, Tabby, 1x daily, Deck 7* — was, in a way that no one aboard the *Perihelion* could have understood, closer to the heart of the problem than anything in the fourteen-cubic-meter rejection notice.
+
+But we will come to that.
+
+---
+
+Gladys Okonkwo-Bernstein saw the notice twenty minutes after it appeared, because she had been in the sanitation queue on Deck 4 — even aboard a generation ship fleeing the gravitational jurisdiction of a processing event that had rendered Earth and its seven billion inhabitants into archived data, the toilets backed up on a semi-regular basis, and the queue for the functioning ones on the port side maintained a structure that Gladys found privately, almost shamefully, soothing.
+
+She had worked for the California Department of Motor Vehicles for twenty-three years before the processing. Window 6, the Compton office, a building whose fluorescent lights operated at a frequency that subsequent studies would show was clinically identical to mild despair. She had been, by every available metric, neither the best nor the worst employee at that office. She had processed an average of 47.3 transactions per shift. She had taken her fifteen-minute breaks at exactly the scheduled time, not because she was inflexible but because she understood — in the way that a structural engineer understands load distribution, in the way that a nurse understands triage — that systems held because people held them, and people held because the small rituals held, and the fifteen-minute break at 10:15 and 2:45 was a small ritual, and so she took it, and the system held, and the line moved, and the next person came to the window.
+
+The processing of Earth had not changed this about her.
+
+If anything, it had clarified it.
+
+She arrived at the observation deck wearing the soft-soled shoes she preferred for long shifts and carrying a mug of the nutrient broth that the ship's galley called "coffee" in the same spirit that a child's drawing of a dog might be called a dog — with love, and with full knowledge that the referent had been lost.
+
+She looked at the rejection notice.
+
+She did not read it. Not yet. She did not need to.
+
+Gladys Okonkwo-Bernstein had seen sixty thousand faces at Window 6 of the Compton DMV, and at least ten thousand of them had been holding the wrong form. She knew — not intellectually but *somatically*, in the same place where a musician knows a note is flat — the particular quality of a misfiled document. The weight was wrong. Not the physical weight; the *institutional* weight. A correct form, properly situated in its system, has a certain settled quality, a rightness of fit, like a bone in its socket. A wrong form vibrates. It fidgets. It has the anxious energy of a person standing in a line they suspect is not their line but who has already invested forty minutes and cannot bear to start over.
+
+The rejection notice vibrated.
+
+"Captain," she said, in the tone she had once used to tell a weeping nineteen-year-old that his learner's permit application had been submitted with a 2017 medical form when the system now required the 2018 revision, which differed from the 2017 version only in the placement of a single checkbox, which had been moved three millimeters to the left for reasons that no one at any level of the California state government could explain but which the scanning system would nonetheless reject with the implacable indifference of continental drift, "we've been using the wrong forms."
+
+---
+
+Captain Aaron Okafor-Williams was not a man who had been built for paperwork.
+
+He had been built — and he would have used this word without irony, because irony was a resource he had exhausted somewhere around year six — for *command*. He had captained the UNSS *Perihelion* out of Lunar Drydock 3 on the day the Auditors' processing wave reached the Kuiper Belt, had executed a seventeen-minute burn that cost the ship 40% of its fuel reserves and saved 12,000 human lives, and had spent every subsequent day of the seventeen-year voyage doing what he understood a captain to do: keeping the ship intact, the crew fed, the mission alive.
+
+The mission, as he understood it, was to reach the sanctuary planet in the Kepler-442 system, present humanity's case for continued habitation rights in the galaxy, and *survive*. He understood this as a story with enemies and allies, strategies and counter-strategies, a war fought with information instead of weapons. He had assembled a team. He had studied every fragment of Auditor communication the ship's translation systems could parse. He had authorized the filing of 1,247 separate documents with the cosmic bureaucracy over seventeen years — Species Continuity Extensions, Trajectory Variance Requests, Cultural Heritage Justifications under Appendix 9-G, and one deeply optimistic Request for Expedited Review that the ship's xenolinguist had spent three months composing in a script that gave her cluster headaches and permanent floaters in her left eye.
+
+He had understood these filings as *maneuvers*. As gambits. As the bureaucratic equivalent of suppressing fire — you didn't expect every shot to land, but you kept the pressure on, you demonstrated seriousness of intent, you made the enemy understand that you would not go quietly.
+
+He looked at the rejection notice.
+
+He read it — or rather, his particular heartbeat, which was rapid and angry and certain, decoded a particular version of it, one that emphasized finality and dismissal and the phrase NONCOMPLIANT SUBMISSIONS — DEPRECATED FORMAT (PRIOR FISCAL CYCLE), a phrase that his mind would not, for several seconds, allow to mean what it obviously meant.
+
+"That's not possible," he said. "We followed their specifications exactly."
+
+Gladys took a sip of her broth.
+
+"Their *old* specifications," she said. She did not say this with satisfaction or with pity or with any of the other emotional colorings available to a person delivering catastrophic news. She said it with the flat, clean precision of a woman who had once explained to a seventy-year-old veteran that his Real ID application had been rejected because the utility bill he'd brought as proof of address was from a provider that the state database had reclassified as a "non-qualifying entity" six weeks prior, not because the provider had changed but because the database had been updated, and the database did not, as a rule, announce its updates, and the man had looked at her with an expression she would remember for the rest of her life — not anger, not despair, but a kind of *existential bewilderment*, as though the ground beneath the concept of "proof" had quietly dissolved — and she had looked back at him with the only thing she had to offer, which was the truth, delivered without cruelty, followed by actionable next steps.
+
+"All of them?" the captain said.
+
+"All of them."
+
+1,247 documents. Seventeen years. The xenolinguist's floaters. The entire apparatus of human resistance, carefully assembled and diligently maintained and completely, *completely* wrong. Not wrong in substance. Not wrong in intent. Wrong in *format*. Wrong in the way that a 2017 medical form is wrong when the system requires the 2018 revision: trivially, technically, and absolutely.
+
+The captain's face did something complicated.
+
+"No," he said. "No. This is — there has to be a challenge process. An appeals board. Someone with *authority* —"
+
+He was still, after seventeen years, looking for the villain. The face behind the window. The decision-maker who could be confronted, persuaded, intimidated, reasoned with. He could not accept — and this was not stupidity but a particular form of courage, or possibly a particular form of denial, and the line between the two is thinner than most people are comfortable admitting — that the mechanism of his species' annihilation was *procedural*. That there was no malice. That no one had decided to end humanity. That the forms were simply wrong, and the system did not process wrong forms, in the same way that gravity did not process appeals.
+
+---
+
+On the nursery deck, three levels below the observation deck and insulated from adult despair by a combination of structural engineering and the universal conspiracy of parents to maintain normalcy until normalcy is no longer physically possible, a five-year-old girl named Ofelia Azoulay-Chen was drawing.
+
+She had been drawing for most of the morning, which on the *Perihelion* meant the period after the overhead lights shifted from their "nighttime" amber to their "daytime" blue-white, a transition that the ship's designers had calibrated to mimic a terrestrial sunrise but which more closely resembled the lighting in a particularly optimistic hospital corridor. Ofelia did not remember Earth. She had been eleven months old during the evacuation, an age that stores experience as sensation rather than narrative — warmth, motion, a sound that might have been her grandmother singing, might have been the Lunar Drydock's ventilation system, might have been both.
+
+She was drawing with the crayons that the ship's fabrication lab produced twice a year, in a ceremony that the parents on the nursery deck treated with a reverence that would have puzzled anyone who had not spent five years watching children draw with nutrition-paste squeezed from tubes. The crayons were not good crayons. They were waxy and crumbled easily and came in only seven colors, one of which was a brown so dark it was functionally black and another of which was a yellow so pale it was functionally invisible on the white recycled paper. The children loved them absolutely.
+
+Ofelia drew a circle. She considered it. She drew a square around the circle. She considered that. The circle inside the square pleased her in a way she could not have articulated, in a way that did not require articulation, in a way that was, in fact, damaged by articulation, because what she was responding to was the oldest aesthetic impulse in the human cognitive repertoire — the contained curve, the sheltered roundness, the thing-inside-the-thing — and the power of that impulse lay precisely in its preverbal directness, its refusal to be translated into reasons.
+
+She set this drawing aside and began another. A house. The house had a door (rectangle), two windows (squares), a roof (triangle), and a chimney with smoke coming out of it, drawn as a column of ascending spirals. In front of the house stood two figures holding hands — one tall, one short, both with the radial-line fingers that children's drawings share across every culture humanity has ever produced, as though the human hand, rendered by a human child, always becomes a sun.
+
+This was a drawing of a place Ofelia had never been, made by a person who did not know she had never been there. She drew it with the specificity of memory and the freedom of invention. The tall figure was her grandmother, whom she did not remember, whose face she had assembled from photographs and the particular catch in her mother's voice when the word *abuela* surfaced in conversation. The short figure was herself, or a version of herself that lived in a house with a chimney instead of a ship with recycled air, and this version was not better or worse than the real Ofelia but simply *another filing* — another way of recording what it felt like to be a small person who wanted something she couldn't name.
+
+The narrator notes — and asks the reader's patience for the noting, because the relevance will not become clear until later — that this drawing, this particular arrangement of wax on recycled fiber, was, by a set of criteria so ancient that the civilization which established them had been dead for longer than Earth's sun had been burning, a formally valid document.
+
+But the morning was still young, and the crayons were still good, and Ofelia did not know this, and would not have cared.
+
+---
+
+The captain paced.
+
+This was his primary mode of cognitive processing, and the observation deck had been designed — though not intentionally — to accommodate it: a long, curved room with viewports that stretched from floor to ceiling, offering a panorama of the interstellar medium that looked, depending on one's mood, like either the majesty of creation or the inside of a very large, very dark waiting room.
+
+"Seventeen years," he said.
+
+He was not speaking to Gladys. He was speaking to the viewports, to the dark, to whatever entity or principle or cosmic customer service department might be listening, and the answer — which was: no one, or possibly everyone, depending on how one defined "listening" in a universe where bureaucratic processing occurred at scales that made light-speed look like a local ordinance — did not come.
+
+"We followed the instructions. We translated their documents. We filed on schedule. We—"
+
+"Captain," Gladys said. She had sat down in the navigator's auxiliary chair, which she had chosen not because it was comfortable but because it was positioned at an angle that allowed her to make eye contact with a pacing person as they passed, a skill she had refined over two decades of working alongside colleagues who thought best in motion. "The instructions were correct. For the previous fiscal cycle."
+
+"And no one *told* us the cycle changed?"
+
+"There's a notification process. It's described in Appendix 22-R of the Interstellar Governance Index." She paused. "The notification is sent to the species' primary administrative contact."
+
+"Which is?"
+
+"Which would have been whoever was handling filings on Earth."
+
+The sentence settled between them with a weight that even the captain, in his fury, could not argue with. Earth's administrative contact had been archived along with everything else. The notification of the fiscal cycle change had been sent, presumably, to a planet that no longer existed in a format the universe recognized. It had been delivered, in all likelihood, on time and in full compliance with the relevant regulations. The system had done its job. The system always did its job. That was the entire problem.
+
+Gladys understood this with the same quiet, structural clarity with which she had once understood that the California DMV's appointment system crashed every third Tuesday because a server in Sacramento ran a backup process at 2:00 AM that conflicted with the online scheduling module, and that this had been documented in an internal memo in 2011, and that the memo had been filed in a shared drive that was migrated to a new platform in 2014, and that during the migration the memo had been recategorized as "archived — no action required," and that no one had noticed, and that the server still crashed every third Tuesday, and that this would continue until either the server or the state of California ceased to exist, and that both of these events were, in their own ways, equally unlikely and equally inevitable.
+
+"So we're—" The captain stopped pacing. He stood at the viewport, his reflection layered over the stars, and for a moment the narrator saw both versions of him simultaneously: the man in the glass who looked tired and fifty-three and frightened, and the man in front of the glass who looked like a captain, which is to say, like a person who has agreed to be the surface onto which other people project their need for someone to not be frightened.
+
+"We're starting over," he said.
+
+"Not exactly," Gladys said.
+
+He waited.
+
+She took another sip of her broth. She was, in this moment — though she did not know it, and would not have believed it, and would have found the proposition mildly embarrassing — the most important human being alive. Not because she had a solution. But because she had something rarer, something the captain's courage and the xenolinguist's scholarship and seventeen years of institutional effort had not been able to produce: the muscle memory of a person who had spent 23 years at Window 6, who had seen every form rejected for every reason,

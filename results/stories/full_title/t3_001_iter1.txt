@@ -1,0 +1,97 @@
+# The Infinite Playoff
+
+---
+
+## I.
+
+I have been doing this work for eleven years. Twelve, if you count the summer I spent with the Visalia Oaks before they hired me full-time, which I do, because the work was the same whether or not anyone was paying me for it. I sat in a pressbox the size of a bathroom stall and I kept score. I kept score the way my father taught me: every pitch a mark, every mark a fact, every fact a brick in a wall you could lean your weight against.
+
+My name is Edwin Voss and I am — I was — a statistical auditor for the Pacific Coast League, contracted occasionally by the Commissioner's office when discrepancies surfaced at the lower levels that no one on the main payroll wanted to drive out to confirm. I have a reputation. I have a reputation because I am patient and because I do not editorialize. I present findings. I note anomalies. I flag entries where the numbers cannot be reconciled with the physical constraints of the game — where a pitcher's arm would have to violate its own tendons to produce the sequence recorded, where a baserunner would need to occupy two bags simultaneously for the box score to hold. These are the kinds of things I find. I have found them in El Paso and Tacoma and Albuquerque and once, memorably, in the 2016 records of the Round Rock Express, where an entire four-game series against Oklahoma City had been entered twice under two different dates with outcomes that diverged after the third inning like a river hitting a stone. That one made the trade papers. I was not credited. I was the instrument, and instruments do not get bylines.
+
+I am good at this because I understand something most people do not: a baseball game is not a thing that happens. A baseball game is a thing that is *recorded*. The event and the record are not two things. They are one thing. The crack of the bat is meaningless until someone notes what happened to the ball. The run does not score until it is marked. In the major leagues, where cameras and STATCAST and a hundred thousand witnesses provide redundancy, this distinction collapses — the record and the event converge under the pressure of observation. But in the minor leagues, in the low minors, in the short-season leagues where the stands hold eighty people and the pressbox holds one, the record is the only evidence the game occurred at all. The scorebook does not *describe* the game. The scorebook *is* the game.
+
+I have been explaining this to people for twelve years. Eleven. I have been explaining it since Visalia, and before that, and no one listens, because it sounds like philosophy when it is in fact the most practical thing I know.
+
+---
+
+## II.
+
+The Heron Bay assignment came to me the way most of my assignments came to me: sideways, without ceremony, during a rain delay.
+
+It was September, the kind of September where the season has already ended for everyone except the people whose job it is to process its paperwork. I was in my apartment in Mesa, which is where I lived then and where I suppose I live now, though I have not been back to it in some time. The apartment had a window that faced a parking lot and a desk that faced the window and a computer on the desk that was connected, most days, to the league's internal records system, a platform called Diamond Archive that ran on software from 2009 and crashed whenever two people tried to access the same file. I spent most of my days on Diamond Archive. I spent most of my evenings on Diamond Archive. The distinction between my days and my evenings was the lighting in the parking lot.
+
+The call came from Linda Pruitt in the Commissioner's western office. Linda and I had worked together on the Round Rock situation. She trusted me the way institutions trust instruments — not with affection but with the confidence that I would produce outputs consistent with my inputs. She told me there had been a complaint. A former scorekeeper for the Heron Bay Herons — a short-season affiliate, Northwest League, the kind of team that plays in a converted softball complex in front of scouts and parents and nobody else — had contacted the league claiming that the team's official statistics for the 2017, 2018, and 2019 seasons had been systematically falsified. Point-shaving adjacent. Not on the field but in the books. Someone had been altering outcomes after the fact — adjusting at-bats, manufacturing plate appearances, inflating and deflating batting averages in patterns that, the complainant alleged, correlated with regional betting lines.
+
+Linda asked if I was available. I was available. I was, by my own accounting, between things. I had been between things for some time. She said the budget was minimal — gasoline and per diem, no hotel, a flat fee I will not name because it would embarrass both of us. I said fine. She said the physical records were in a storage unit in Heron Bay, Oregon, and that digital backups might or might not exist on Diamond Archive, and that the former scorekeeper had declined to be interviewed but had sent a letter, which she would forward.
+
+She forwarded the letter. I read it once, then again. The complainant was anonymous. The letter was typed. It described, in language that struck me as unusually precise for a whistleblower, a three-year pattern of post-game alteration to official scoresheets, targeting specific players whose statistical performances had become objects of minor wagering interest in certain offshore markets that tracked Northwest League action. The letter named dates. It named games. It named a player — a second baseman named Alejandro Mota who had played for Heron Bay from 2017 to 2019 and whose batting average, the letter claimed, had been artificially maintained at a level designed to trigger specific over/under thresholds on a per-game basis.
+
+I drove to Heron Bay. It took nine hours. The storage unit was on a road that ended at a lumberyard. It was padlocked with a combination the league office had given me, and when I opened it, the smell was mildew and old paper and something faintly chemical, like duplicating fluid. Inside were fourteen bankers' boxes. I carried them to my car in three trips. I drove to a motel that was not on the per diem but that I paid for anyway because I am fifty-three years old and I do not audit statistics in my car.
+
+I opened the first box and I began.
+
+---
+
+## III.
+
+The first anomaly was small. It usually is.
+
+Heron Bay versus Eugene, June 23, 2018. Bottom of the fifth. Alejandro Mota at bat against a left-hander named Cisneros. The official scoresheet — handwritten, on the league's standard carbonless form — recorded a strikeout looking. Full count, 3-2, called third strike. I noted this and moved to the corresponding entry in the secondary scorebook, the one maintained by the visiting team's scorer, which the league required as a redundancy measure that no one in my experience had ever actually used for redundancy.
+
+The visiting scorer's book recorded the same at-bat as a double to left-center. Same batter. Same pitcher. Same inning. Same count — 3-2. But where the Heron Bay book had Mota frozen and walking back to the dugout, the Eugene book had him standing on second, dusting off his pants.
+
+I noted the discrepancy. I annotated it with the date, the game number, the inning, the batter, and the two conflicting outcomes. I opened a new spreadsheet — I use my own template, which I have refined over eleven years of this work, columns for game ID, inning, plate appearance number, home record, away record, variance type, and severity rating on a scale I developed myself and have never published because no one has asked.
+
+I found the second anomaly forty minutes later.
+
+Heron Bay versus Spokane, July 9, 2018. The Heron Bay scorebook recorded the game as having taken place on July 9th. The Spokane scorebook recorded it as July 11th. The lineups were identical. The umpire crew was identical. The pitch-by-pitch record was identical through six innings, then diverged. In the Heron Bay version, Mota grounded into a double play in the seventh. In the Spokane version, Mota singled to right, driving in two.
+
+I checked the weather records, thinking perhaps a suspended game had been resumed on a different date. No rain on either date. No record of suspension in the league's game logs. The game logs, in fact, listed a different game entirely for July 11th — Heron Bay versus Tri-City — which appeared in the scorebooks exactly where it should, with no anomalies.
+
+The third anomaly was not a discrepancy between two sources. It was a contradiction within a single document. Heron Bay versus Boise, August 2, 2018. The Heron Bay scoresheet listed Alejandro Mota in the lineup twice: batting fifth as the second baseman and batting eighth as the designated hitter. Two different jersey numbers. His at-bats in the fifth slot produced an 0-for-3 with two strikeouts. His at-bats in the eighth slot produced a 2-for-4 with a home run. Both sets of at-bats included detailed pitch sequences. Both were recorded in the same hand.
+
+I built the spreadsheet. The spreadsheet grew.
+
+By the end of the first week, I had cataloged forty-seven anomalies across the three seasons. They ranged from minor discrepancies — a sacrifice fly recorded as a sacrifice bunt, an earned run reassigned as unearned — to structural impossibilities. A nine-inning game that contained ten at-bats for a player who batted seventh. A pitching line that credited a starter with four innings pitched and seven innings pitched in the same game on the same sheet, the second number written over the first in ink that was the same color but slightly thicker. A game in which the final score, per the Heron Bay book, was 6-4, and per the league's official report, was 4-6 — and not a simple reversal, because the inning-by-inning run distribution was different in both, as if two separate games had been played on the same night by the same teams and each scorer had watched a different one.
+
+I will tell you what this felt like. It felt like opening a book you have read many times and discovering that the sentences — the same sentences you have read, in the same order — now describe events you do not recognize. Not because the book has changed. Because you are reading it closely enough, for the first time, to see what was always there.
+
+The anomalies were not random. They clustered. They clustered around Alejandro Mota. They clustered around games in which his statistical performance would have crossed specific thresholds — a batting average rising above or dropping below .280, a hitting streak extending or breaking, an on-base percentage clearing a line that I recognized, with a nausea I did not yet understand, as a betting threshold. Someone had been adjusting his record, game by game, nudging it in one direction and then the other, maintaining his season line within a band so narrow that it could only have been designed to exploit the geometry of a wagering system.
+
+The precision was beautiful. I mean this technically. The falsifications were calibrated to the third decimal place. They anticipated the downstream effects — how changing a single at-bat would ripple through the game's run expectancy, how it would alter the box score, how the box score would feed into the season totals, how the season totals would register against the lines. Whoever had done this understood the mathematics not as arithmetic but as architecture. Each altered entry bore the weight of every entry above and below it. Nothing buckled.
+
+Except that it had. Here and there, at the joints, the seams showed. The contradictions I was finding were not signs that the falsifier had been sloppy. They were signs that the falsification had been so extensive, so layered, so recursive — correction upon correction upon correction — that the system had exceeded its own capacity for internal consistency. The errors were not where the fraud was. The errors were where the fraud had tried to correct itself and, in correcting, had introduced new fractures that required further correction, in a process I recognized even then as theoretically infinite.
+
+I did not sleep well that week. I am noting this for the record.
+
+---
+
+## IV.
+
+On the ninth day I pulled the original handwritten sheets for the August 2, 2018, game — the one where Mota appeared in the lineup twice. I had been looking at photocopies and digital scans. But the originals were in Box 7, filed in a manila envelope with a coffee ring on it, and I wanted to see the paper itself because paper tells you things. Paper tells you whether an entry was made in real time or filled in after the fact, because real-time entries have the slight wobble of a hand writing in a pressbox during a live game, and after-the-fact entries have the fluid consistency of copying.
+
+I unfolded the scoresheet. I looked at the handwriting.
+
+Everyone who keeps score by hand develops a signature. Not the handwriting itself, though that is part of it. The signature is in the choices — how you abbreviate, where you annotate, what system you use for pitch counts. I use a system my father taught me, which is itself a modification of the Project Scoresheet method from the 1980s, which I have further modified over the years until it is, I believe, unique to me. I mark strikeouts with a backward K only when the batter is looking. I cross sevens. I abbreviate "sacrifice fly" as "SF" with the S formed in two distinct strokes rather than one continuous curve, because my father formed his S that way and I learned from his hand.
+
+The scoresheet for August 2, 2018, had two-stroke S's.
+
+I set it down. I picked it up again. I looked at the sevens. They were crossed. I looked at the K's. Backward for looking, forward for swinging, exactly as I would mark them. I looked at the pitch count notation — balls before strikes, with a slash between them, the slash angled at roughly forty-five degrees, a method so common it proved nothing. But the sevens proved something. The S's proved something. The overall gestalt of the hand on the page — the size of the numerals, the pressure of the pen, the slight leftward drift of each line — proved something that I sat with for a long time.
+
+I opened Box 3. I pulled the scoresheet for June 23, 2018 — the first anomaly, Mota's at-bat that was simultaneously a strikeout and a double. The handwriting was mine.
+
+I pulled the scoresheet for July 9. Or July 11. Whichever it was. The handwriting was mine.
+
+I sat on the motel bed with the scoresheets spread around me like a hand of cards and I looked at my own handwriting describing games I did not remember attending, in a pressbox I had no memory of sitting in, for a team I had never, to my knowledge, worked for, and I understood that either I had done this or someone had replicated not just my handwriting but my idiosyncratic scoring method with a fidelity that would require them to have studied me the way I studied records, which is to say, with the obsessive attention of a man who has mistaken proximity for understanding.
+
+I did not call Linda Pruitt.
+
+I did not call anyone.
+
+I sat with it the way you sit with a sound in the night that might be the house settling or might be a door opening — still, with the lights off, listening for the next thing that will tell you which world you are in.
+
+I should note — and I am noting it here because the record should contain it, and because I do not trust that I will be in a position to note it later — that in 2017 and 2018, I had debts. Gambling debts. Not large by the standards of the stories you hear, but large enough by the standards of a man who earned what I earned, which was not much. I played poker. I played poker badly. I played poker badly in the way that a man who understands probability can play it badly, which is to say I understood the odds perfectly and overrode them nightly with the conviction that understanding the structure of chance gave me a special dispensation from its consequences. I owed money to a man in Phoenix whose name I will not put in this document because it does not matter and because I am not entirely sure it was his real name. I owed money in amounts that varied because the debt was a living thing, accruing interest the way a season accrues statistics, each day's total built on the day before's.
+
+I paid those debts off. I paid them off in 2019. I have a record of the payments, or I believe I do, though I have not checked them recently and I note with a precision that is intended to be clinical rather than dramatic that I am no longer fully confident in my ability to distinguish between records I have verified and records I believe I have verified.
+
+The handwriting was mine. I knew this the way you know your own face in a photograph — not through analysis but through the recognition that precedes analysis, the

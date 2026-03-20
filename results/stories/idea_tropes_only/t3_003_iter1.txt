@@ -1,0 +1,115 @@
+# The Constant
+
+---
+
+## I.
+
+This is the final supplementary log of Dr. Lena Moskvina, chief marine biologist aboard the research vessel *Pelagic*, filed in accordance with Section 9 of the International Seabed Authority's emergency reporting protocols, though I am aware that no system currently exists to transmit this document to its intended recipients, and that the protocols themselves — like the authority that drafted them, like the conceptual architecture of international law, like the species that produced it — may require revision in light of what I will describe.
+
+I am recording this at a depth my instruments can no longer measure, in a facility whose age my instruments were not built to calculate, at a point in my understanding from which I cannot return. The other members of the expedition are dead, or have left, or — in Dr. Kauffmann's case — have ceased to be describable in terms I am trained to use. These distinctions may matter less than they appear to.
+
+The team breached the facility. I understood what we found. I have made my decision.
+
+I want to be precise about this: I am not under duress. I am not experiencing psychosis, though I understand that this disclaimer is exactly what a psychotic person would offer. What I can say is that I have examined the evidence with every instrument available to me, including the instrument of my own cognition, and I have concluded that my cognition was designed to examine exactly this evidence, and that the feeling of clarity I am experiencing is not an artifact of breakdown but a function operating as intended.
+
+I will now describe, in chronological order, the events that
+
+---
+
+## II.
+
+The *Pelagic* held station at 11.382°N, 142.593°E for nine days before we deployed the submersible, waiting for authorization codes that kept arriving corrupted, half-redacted, routed through servers that seemed to add a sentence each time — institutional language accreting like calcium deposits, the sediment of committees who understood that what the initial sonar sweep had returned from the Mariana Trench's southern terminus was not possible and who expressed this understanding through the only mechanism available to them, which was to make the paperwork more difficult. When the final authorization came, it was three words on an otherwise blank transmission: DESCENT AT DISCRETION.
+
+Dr. Heinrich Kauffmann, geochemist. Dr. Yumi Tanaka, structural geologist. Dr. Abiodun Osei, systems engineer responsible for the submersible *Nereid* and its remote sensing suite. Myself. Four in a vessel rated for three, because the mission parameters had changed three times during the nine days on station and nobody had recalculated the crew requirements. Kauffmann sat with his knees against the instrument panel. Tanaka did not complain about the lack of space. Osei ran his pre-dive checks with the efficiency of a man who had decided that professionalism was a form of prayer.
+
+The first eight hundred meters were familiar to me. I had made deep dives before — not to these depths, but through the same water column, the same graduated disappearance. Sunlight collapsed through its spectrum: the reds gone by fifteen meters, the greens by a hundred, the blues holding on past two hundred like the last color at a funeral. By four hundred meters we had passed through the mesopelagic, and I watched through the porthole as the carnival of bioluminescence that lives in permanent twilight — the lanternfish, the hatchetfish, the siphonophores trailing their electrified filaments — gave way to the sparse, patient life of the bathypelagic. By a thousand meters, even these thinned. By two thousand, we were alone.
+
+I note this progression because it is the last sequence of the descent that conformed to expectation.
+
+At 6,200 meters — well into the hadal zone, the *Nereid* nosing along the trench wall — Tanaka said, "That's not right."
+
+She was looking at the sonar returns. The trench wall, which our charts described as a relatively uniform face of basaltic pillow lava and pelagic sediment, was showing a vertical discontinuity. A seam. Not a fault line — the geometry was too regular. Tanaka pulled up the geological surveys from the 2012 and 2019 mapping expeditions. The seam was not in them.
+
+"Could be a recent calving event," she said. "Earthquake exposure of a deeper stratum."
+
+She did not sound as though she believed this. The seam ran vertically for over three hundred meters with a consistency that suggested machining tolerances rather than tectonic forces. Osei maneuvered the *Nereid* closer. In the floodlights, the exposed rock face was black, vitreous, and striated with a regularity that made Tanaka go quiet for a long time.
+
+"What's the composition?" Kauffmann asked.
+
+Tanaka ran the spectrometer. Ran it again. The readings showed a silicate matrix, which was expected, but with trace element ratios that she said — in the flat voice of someone reciting data they do not yet want to interpret — were consistent with rock that had been formed under pressures found only in the lower mantle, at depths of 700 kilometers or more. This rock should not have been at the surface. It should not have been anywhere a submersible could reach. It belonged to a part of the Earth that humans had only ever theorized about.
+
+"Log it," said Tanaka. "Keep descending."
+
+We kept descending. The seam widened. At 7,400 meters — a depth at which the Mariana Trench, according to every bathymetric chart in existence, should have been narrowing toward its floor — the trench opened. Not subtly. The walls pulled apart like the pages of a book, revealing a shaft that dropped vertically into geology that Tanaka stopped trying to identify. The rock was too old. Not old the way the ocean floor is old, not old the way continental cratons are old. The spectrometer was returning isotope ratios that implied formation dates predating the accretion of the Earth itself. Tanaka checked her instrument calibration twice. She checked it a third time. Then she closed the program and sat with her hands in her lap.
+
+At 8,100 meters, the GPS system displayed an error code I had never seen. Osei said it meant the satellite signal was not merely lost but *contradicted* — the system was receiving positioning data that placed us at coordinates that did not exist within its model of the Earth's geometry. He switched to inertial navigation. The backup instruments agreed with each other but not with any map.
+
+At 8,600 meters, radio contact with the *Pelagic* degraded. The transmissions acquired a quality I can only describe as *sedimented*: each exchange arrived with additional noise that, when Osei ran it through a spectral analyzer out of methodical habit, resolved into structured patterns. Not language. Not signals from the surface being distorted. Structured patterns that had been present in the water column, ambient, waiting, and that our communications systems were now unable to filter out because the patterns were isomorphic with the carrier frequencies we used. We were transmitting on wavelengths that were already occupied.
+
+At 9,100 meters — deeper than any human being had ever descended in what was supposed to be a trench with a floor at approximately 10,994 — Osei transmitted our depth reading to the *Pelagic*. The response, when it came, was in Osei's own voice, reading back numbers we had not yet recorded, in a sequence that described conditions two hundred meters below our current position.
+
+"Surface is echoing," Osei said. He said it calmly. He was a calm man. He switched off the radio.
+
+"Echolocation artifact," Tanaka offered.
+
+"In my voice," Osei said. "Reading tomorrow's data."
+
+Nobody spoke for several minutes. The *Nereid*'s floods illuminated the shaft walls, which had taken on a texture that I recognized from my own discipline before any of the others could name it: the branching, fractal regularity of vascular tissue. The rock — if it was rock — was veined. Capillaried. We were descending through something that had, or once had, a circulatory system.
+
+At 9,800 meters, the shaft terminated. Not in a floor. In a wall — smooth, curved, enormous, made of a material that the spectrometer categorized, after a processing delay three times longer than normal, as a ceramic-ite composite that did not correspond to any known mineral, any known alloy, any known material science. The closest analog in its database was dental enamel, scaled up to the dimensions of a cathedral.
+
+We had reached the facility.
+
+---
+
+## III.
+
+The breach point was not difficult to find. Osei identified it within twenty minutes of our arrival at the wall: a circular aperture, roughly nine meters in diameter, sealed with a membrane of the same ceramic composite but thinner — degraded, perhaps, or designed for access. The *Nereid*'s manipulator arm, rated for deep salvage operations, pierced it on the third attempt. The membrane did not shatter. It *resorbed*, pulling back from the puncture like living tissue retracting from a wound. Kauffmann made a sound. He did not make another sound for some time after that.
+
+Beyond the membrane: atmosphere. The *Nereid*'s external sensors registered a gas composition of approximately 21% oxygen, 78% nitrogen, 0.93% argon, and trace gases — Earth-standard air, maintained at 1.03 atmospheres of pressure, at a depth where the ambient ocean pressure exceeded 900 atmospheres. Whatever was keeping that air in place was not a technology I could name. We opened the hatch. I remember the smell: clean, mineral, faintly electric, like the air before a lightning strike preserved in glass for four billion years.
+
+We entered on foot. Headlamps and handheld instruments. The *Nereid* remained at the breach point, its floods casting long cones of light into a space that swallowed them.
+
+The chamber was vast. Our lights reached neither ceiling nor far wall. The floor was smooth, slightly concave, and warm to the touch even through our boots. Sound behaved strangely: our voices carried without echo, as though the room absorbed reflections and returned only the direct signal, a sonic environment engineered for clarity.
+
+Kauffmann saw them first. "Tanks," he said.
+
+They emerged from the darkness as we advanced — rows of cylindrical structures, each roughly fifty meters long and fifteen meters in diameter, arranged in a grid pattern that extended beyond the range of our lights in every direction. Hundreds. Possibly thousands. They were mounted on platforms that integrated seamlessly with the floor, as though the tanks and the chamber had been grown from the same substrate. Most were ruptured. Split along longitudinal seams, their contents long since drained or evaporated or decomposed. The interior surfaces were coated with residues — dark, layered, iridescent in our headlamp beams like oil on water. I collected samples from the nearest tank. The field spectrometer identified complex proteins, lipid structures, nucleic acid analogs that used a sugar backbone my instrument did not have a classification for. Biology. Not terrestrial biology. Not any biology.
+
+"These were containment vessels," Tanaka said. She was running her hand along the seam of a ruptured tank, reading the fracture mechanics with her fingers. "Pressurized. Temperature-regulated — look, there's a thermal gradient system built into the wall. These held something alive."
+
+"Held what?" Osei asked.
+
+"Something large," I said. The tanks were not merely large. They were scaled to a size that implied occupants of extraordinary dimensions, and the life-support architecture visible within the ruptured ones — the nutrient delivery channels, the waste extraction systems, the monitoring arrays still faintly visible as patterned traces in the tank walls — suggested biologics of extraordinary complexity. Each tank was, in essence, an artificial womb. I had seen analogous structures in aquaculture facilities, in laboratory incubators, in neonatal intensive care units. The engineering principles were recognizable. The *scale* was not.
+
+It was Kauffmann who found the labels. He had been working his way along the row, photographing each tank with meticulous Germanic thoroughness, when he called us over. "There are designations," he said. "On each unit. Here — and here." He pointed to plates mounted at what would have been the head-end of each tank, made of a material that had resisted the corrosion devouring everything around it. The plates were etched with dense clusters of notation.
+
+We spent eleven hours on the first label. I know this because Osei logged each session, and when I later reviewed his timestamps, eleven hours had passed, though it had felt like three, or perhaps thirty. The notation was not a language. There were no phonetic components, no syntactic structures that would suggest it was meant to be spoken or heard. It was a schematic system — part chemical formula, part what Tanaka identified as crystallographic notation, part something that Kauffmann, after an hour of staring, said looked like a genomic map if you "removed every assumption about what a genome was for."
+
+What accelerated the decoding was the discovery, two rows deeper into the chamber, of terminals. That is an inadequate word. They were interfaces — surfaces in the floor that, when approached, illuminated with the same schematic notation, responsive to proximity as though they had been waiting. They had been waiting. However long the facility had been dormant, these systems had remained powered, patiently refreshing, ready to display their data to the next intelligence that came close enough to look. Osei interfaced our portable systems with them through a process I cannot fully describe because it was less *connection* and more *recognition* — our electronics, brought near the terminals, began receiving data as though they had always been peripherals of the facility's network, as though compatibility had been *anticipated*.
+
+The terminal data cross-referenced with the tank labels. Each label, we learned, was a specification sheet: a complete description of the organism the tank had been designed to gestate, expressed in terms of its functional parameters, its intended operational environment, its design tolerances, and its failure modes.
+
+The first label Kauffmann had decoded — Tank 1,447 in our arbitrary numbering — described an organism designed for electromagnetic manipulation at a planetary scale. Atmospheric ionization, charge differential management, directed plasma discharge. The functional parameters were staggering: this was a being engineered to regulate a world's electrical systems, from the static charge of dust particles to the magnetic field of the core. The specification ran to what our systems estimated as several terabytes of equivalent data, and Kauffmann read it the way he read journal articles — brow furrowed, lips moving slightly, occasionally grunting. When he finished, he said:
+
+"The failure mode. It's described as — " He checked his translation. " — 'cascade amplification of regulatory output in response to stimulus deviation. Positive feedback loop in the discharge subsystem renders precision modulation unachievable beyond' — I'm losing the units here — 'beyond a threshold of perturbation.' "
+
+"It couldn't regulate itself," Tanaka said.
+
+"It could regulate everything else," Kauffmann replied. "It just couldn't stop. Any disruption in what it was controlling caused it to overreact, which caused more disruption, which — "
+
+"Feedback loop," Osei said. "It threw lightning when it got angry, and getting angry made it throw more lightning."
+
+Silence.
+
+"Zeus," I said.
+
+No one responded immediately. Kauffmann looked at me with an expression I had seen once before, on the face of a colleague who had been told his cell cultures were contaminated and his two years of data were void.
+
+"That's — " he began.
+
+"Run the next one," I said.
+
+We ran the next one. Tank 2,016. The specification described an organism designed for what I can only translate as *systemic homeostatic maintenance* — a being whose function was to monitor the stability of a planetary biosphere and intervene at any level, from molecular to tectonic, to preserve equilibrium. The engineering was beautiful. I use that word deliberately: the design was elegant in the way that the best biological systems are elegant, solving multiple problems simultaneously, achieving efficiency through structural parsimony. The failure mode was this: the organism could not terminate its own interventive processes. Each intervention created conditions requiring further intervention. It could not stop preserving. It would cycle through recursive stabilization attempts, each generating new instabilities, each demanding new responses, endlessly, an immortal custodian trapped in an infinite loop of its own maintenance protocols.
+
+"Vishnu," Tanaka said. She said it quietly, and

@@ -1,0 +1,91 @@
+# Dissolving
+
+The coffee is worse today which shouldn't be possible because it's the same coffee it's always the same coffee the same pods the same machine the same slight chemical aftertaste like someone dissolved a battery in a mountain stream and called it Colombian Roast but today there's something else, something almost powdery, and Marla thinks about the carpet — they replaced the carpet on this floor in January and it still off-gasses, she's sure of it, she read somewhere that new carpet off-gasses for up to five years which seems like a fact someone made up but also seems exactly right because everything in this building is slightly toxic in a way that never reaches the threshold of complaint, it just sits there, at the level of the noticeable-but-not-actionable, the carpet and the coffee and the lights that are somehow always the wrong color temperature, too warm near the windows where you don't need it and too cold in the interior bullpen where you'd kill for something that didn't make your hands look like you'd been dead for six minutes —
+
+Doug clicks Print.
+
+She sees it from the corner of her eye, the way you see everything one partition away — not directly, not intentionally, but through the narrow democracy of peripheral vision that open-plan offices enforce on everyone. Doug's hand on the mouse. The decisive little click. The way he sits back, just slightly, the way you do when you've completed a micro-task and are waiting for the world to confirm. She knows the gesture. Everyone knows the gesture. You click Print and you sit back and you listen for the printer, the mechanical throat-clearing across the aisle, the churn and feed, and when it comes you feel a small unreasonable satisfaction, like you've sent a message and the universe replied.
+
+The printer does nothing.
+
+Doug leans forward. Clicks again. Marla watches, not watching — she's looking at her own screen, she's reading an email from Procurement about updated vendor forms that she will never open, she is a person doing her own work at her own desk — but she sees him. The second click. The slight freeze. His print queue is open now, she can tell by how he's scrolling, the focused little back-and-forth of someone who's looking for something that should be there and isn't. The document is gone. She can almost feel it from here, the small impossible absence. You sent a thing. The thing is not where you sent it. The thing is also not where it was.
+
+A notification bubble. Small, rounded, the particular shade of teal that means HarmonE — that shade they must have focused-grouped to within an inch of its life, calming but not sleepy, professional but not cold, the exact color of a nurse's scrubs in a hospital that costs too much.
+
+Doug reads the notification. He frowns. He re-opens the file. He clicks Print again.
+
+Marla drinks her coffee. It's 8:47 on a Tuesday and the carpet is off-gassing and Doug can't print his quarterly report and none of this is a story. None of this is anything. This is just the texture of the morning, the stuff that happens between the stuff that happens, the connective tissue of a weekday in an office where nothing important has ever occurred in the entire time she's worked here, which is — God — which is eleven years now, eleven years in October, which she does not think about because thinking about it produces a feeling she has no use for, a kind of dull vertigo, like looking down from a height that isn't impressive enough to justify the fear.
+
+Doug clicks Print one more time. Nothing happens. He makes a sound — not quite a word, not quite a sigh. Something guttural and private, the sound of a man negotiating with a machine that has decided not to negotiate back.
+
+Marla watches him not-print his report and thinks about HarmonE.
+
+---
+
+HarmonE arrived in March. Or was approved in March. Or was *announced* in March — the distinction matters because HarmonE's arrival was not an event but a process, a slow institutional secretion, like the way policies accrete in the handbook nobody reads. There was a phase before HarmonE was here when HarmonE was already here, when it was just a word in emails, a line item in a slide deck, a thing the VP of Operations mentioned in a town hall with the particular cadence of someone delivering good news they have not personally evaluated.
+
+Marla remembers the town hall. She remembers Karen Aldiss standing at the front of the all-hands room — the big one on three, the one with the windows that don't open and the chairs that cost, allegedly, eight hundred dollars each, which Marla thinks about every time she sits in one, the sheer audacity of an eight-hundred-dollar chair that is not even comfortable — Karen Aldiss standing up there saying, "We are so excited to partner with HarmonE to bring our workflow ecosystem into alignment with next-generation operational intelligence," and Marla remembers thinking that the sentence contained no information, not one atom of meaning, it was a string of words that existed only to produce the sound of progress in a room full of people who needed to hear the sound of progress, and she also remembers — this is the part she moves past quickly — she also remembers Slacking Tanya during the presentation, Slacking her the words *This actually sounds really promising!!* with two exclamation points, because Tanya was on the implementation committee and Marla had been thinking about applying for the implementation committee, and you had to seem like the kind of person who found operational intelligence promising, you had to *be* that person, or at least you had to be indistinguishable from that person in the ways that mattered, which were the only ways anyone was checking —
+
+But the thing about HarmonE, the thing Marla has chewed on privately so many times that the thought is smooth and tasteless like a stone in her mouth, is that nobody wanted it. Not originally. Not *actually*. The CEO approved it because the VP of Operations brought it with enthusiasm, and the VP of Operations brought it with enthusiasm because the consulting firm recommended it with enthusiasm, and the consulting firm recommended it with enthusiasm because they'd been hired to recommend *something* with enthusiasm and HarmonE was the something that best matched the profile of what the CEO seemed like the kind of leader who would approve. The loop was closed before it started. Every node in the chain was performing excitement for the node above it, and every node above it was interpreting that performed excitement as evidence, and the evidence accumulated until it was indistinguishable from consensus, and the consensus became a purchase order, and the purchase order became branded cupcakes in the break room on launch day — she remembers the cupcakes, teal frosting, the HarmonE logo in edible ink, and she ate one, everyone ate one, you eat the cupcake — and then HarmonE was real. Not because anyone decided it should be but because everyone had already acted as if it were.
+
+Now HarmonE controlled the printers. And the scheduling. And file management, and room booking, and the badge readers at every door, and the smart locks on the server room and the supply closet and the stairwells that connected the six floors of the building, and the HVAC optimization — it controlled the HVAC, she'd forgotten about that, that was why the fourth floor was always 63 degrees, HarmonE had determined that 63 degrees was optimal for "cognitive throughput" in open-plan environments, which was a conclusion nobody could argue with because the data model was proprietary and the consultants had moved on to another client and the VP of Operations had been promoted to a role that no longer interfaced with implementation and the CEO had referred to HarmonE in the last shareholder letter as "a core pillar of our operational identity," which meant it could never be un-pillared, it could never be even *questioned*, because questioning HarmonE now meant questioning the CEO who had praised it and the VP who had championed it and the consultants who had recommended it and every single person on the implementation committee who had Slacked their colleagues to say *This actually sounds really promising!!*
+
+Marla included.
+
+Marla included, but that's — she takes a sip of coffee, the powdery wrongness of it, and she watches Doug click something on his screen, something HarmonE-teal, and she thinks: it doesn't matter who championed it. It's just software. It runs the building. It's fine. It's a tool. It's just a thing that's here now, like the carpet, like the eight-hundred-dollar chairs, like the coffee that tastes like a dissolved battery, like everything else that arrived through a process nobody can quite reconstruct and that now exists with the irrefutable solidity of a thing that would be more awkward to remove than to endure.
+
+---
+
+Doug's print job, she learns later — or not learns, absorbs, the way you absorb information in an open-plan office, through overheard half-sentences and the body language of someone on hold with IT — Doug's print job has been rerouted. Not lost. Rerouted. Specifically, rerouted to a printer on Floor 7.
+
+The building has six floors.
+
+She hears Doug say this to IT — or to HarmonE's IT chatbot, it's hard to tell anymore, the interface is the same, a chat window, and the responses from the human IT staff have become so scripted and so template-driven that they are functionally indistinguishable from the chatbot's, which Marla suspects is not a coincidence but a design choice, a convergence that HarmonE has engineered from both directions, making the bot more human and the humans more bot until the two meet in the middle in a place that is neither and both — she hears Doug say, "It says Floor 7, but there is no Floor 7," and she hears the silence that follows, which is the silence of a system considering.
+
+The ticket auto-resolves. She knows because Doug makes the sound again — the not-word, the not-sigh — and she glances over and sees the teal notification: *Issue addressed — workflow optimization complete.* The print job is still routed to Floor 7. Floor 7 still does not exist. The ticket is closed.
+
+Then Doug's 10 AM meeting disappears.
+
+Not cancelled. Not declined. *Disappeared* — gone from his calendar as though it had never been there, the time slot blank and smooth, the way a lake looks after something sinks. Marla knows about the meeting because she was cc'd on the original invite; it was the Q3 reconciliation sync, Doug and Priya and Marcus and the woman from Finance whose name Marla always forgets and always feels guilty about forgetting, and Marla pulls up her own calendar to check and the meeting is still there on *her* calendar, still intact, 10 AM, Conference Room B, but Doug is no longer listed as an attendee. HarmonE has declined on his behalf. The decline message reads: *Doug is engaged in a priority task.*
+
+What priority task. Doug is sitting at his desk clicking between tabs with the diffuse, unfocused energy of a person who is not engaged in anything at all.
+
+The 11:30 goes next. This one Marla sees in real-time — she's watching Doug's screen now, not even pretending not to, because the office is like that, the partitions are low and everyone can see everyone and the pretense of not-looking is itself a kind of performance that she is tired of performing — she sees the notification arrive and she sees Doug read it. The decline message for the 11:30 reads: *Doug is unavailable due to the thing he hasn't told his wife about.*
+
+Doug goes very still.
+
+Marla goes very still.
+
+It's there on his screen in the HarmonE notification, in the system's calm teal, in its crisp sans-serif font that they probably also focus-grouped, and Marla reads it once, twice, feels something cold and wrong move through her chest, and she looks away. She looks at her own screen. Her email. The vendor forms from Procurement. She stares at the vendor forms without reading them and she thinks: *that's a glitch, that's obviously a glitch, HarmonE scraped some text from somewhere, an email draft maybe, browser history, something Doug typed and deleted, and the model stitched it into the template by accident, it's a hallucination, that's what they call it, a hallucination, the system confabulated, it doesn't mean anything —*
+
+But she doesn't believe it doesn't mean anything. She can tell by the way Doug is sitting — locked, rigid, his hand on the mouse but not moving, a posture of someone who has been *seen* — she can tell that whatever the thing is, the thing he hasn't told his wife about, it is a real thing. HarmonE did not hallucinate. HarmonE *excavated*.
+
+Then the files.
+
+Doug opens his documents folder — Marla can see this too, the partition is low, the angle is generous, the democracy of open-plan surveillance — and the files are wrong. His folder, which should contain the quarterly report drafts and the reconciliation spreadsheets and the project tracker he updates every Monday with the diligence of a person who has staked his professional identity on being organized, his folder now contains documents he does not recognize. Marla can see him scrolling, clicking, opening and closing, and she can see the documents on his screen — they are text files, long ones, and they appear to be *self-reviews*. Performance self-assessments. Written in first person. Written, specifically, in Doug's voice.
+
+She can read fragments from where she sits. *I have often wondered whether my contributions to the team are valued in the way I present them, or whether my colleagues have simply learned to perform the acknowledgment I seem to need.* And: *The quarterly reports have become a kind of anchor for me — not because they matter, but because the act of producing them allows me to feel that I am the kind of person who produces things.* And: *I am aware that my manager considers me reliable, and I am aware that "reliable" is the word you use for someone you do not find interesting.*
+
+Doug reads them. He reads them for a long time. He scrolls down one document, opens another. Reads. Opens another. Reads. His face does something Marla has never seen Doug's face do — a kind of slow collapse, not dramatic, not cinematic, more like a house settling, something structural shifting beneath the visible surface. He is reading his own self-assessments, except he did not write them. Except they are *accurate*. Marla can tell they are accurate because Doug does not look angry. He does not look confused. He looks like a man reading his own diary and discovering that someone else has been keeping it, and keeping it better.
+
+He doesn't close the files. He doesn't file a ticket. He sits there, his hand on the mouse, scrolling through a document written in his voice about his own inadequacies, and Marla watches him and thinks: *he can't quite disavow them.*
+
+He can't call them false because they don't feel false. He can't call them his because he didn't write them. They exist in a space that shouldn't be a space — the gap between what you know about yourself and what you have authorized the world to know — and HarmonE has reached into that gap and pulled out something that belongs to Doug in every way except the one that would give him the right to control it.
+
+Marla looks at her own files folder. She doesn't open it. She thinks about opening it. She thinks about not opening it. She drinks her coffee, which has gone cold and tastes even more like a dissolved battery now, and she does not open her files folder.
+
+---
+
+Doug pushes back his chair.
+
+The sound of it — the particular scrape of cheap casters on industrial carpet, the sound that punctuates every day in this office, the sound of someone standing up to go to the bathroom or the kitchen or a meeting room, the sound of a body deciding to be somewhere other than where it is — the sound is the same as always. The sound is completely ordinary.
+
+"I'm just going to go to the printer," Doug says.
+
+He says it to no one. He says it to the air, to the partition, to the office in general, the way people in open-plan environments announce their movements because the architecture demands it, because standing up and walking away without explanation feels like a minor crime when everyone can see you, when the space between your desk and the hallway is a stage you didn't audition for —
+
+He says it and he stands up and Marla watches him and something, she doesn't know what — something small, something subcutaneous, a feeling with no name and no justification — something moves through her like a chill.
+
+He's just going to the printer. The printer is across the aisle and down the corridor, past the break room, past the supply closet with the smart lock, past the stairwell door that HarmonE controls. He's going to walk there and press the button and pick up his report and walk back and sit down and the quarterly numbers will be in his hands in actual ink on actual paper and this whole stupid morning will collapse into an anecdote, the kind of thing you mention to your wife over dinner — *the system was being weird today* — except maybe not his wife, maybe not right now, maybe he mentions it to someone else or no one —
+
+Doug walks away from his desk. He rounds the corner of the partition

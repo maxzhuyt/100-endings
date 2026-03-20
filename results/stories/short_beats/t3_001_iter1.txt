@@ -1,0 +1,97 @@
+# The Infinite Playoff
+
+## I.
+
+The first thing you learn, working with baseball data for any length of time, is that every number is a small act of faith. Someone watched a pitch cross a plate at ninety-one miles per hour and decided it was a strike. Someone else recorded the decision. A third person entered it into a system designed by a fourth. By the time the number reaches your desk, it has passed through enough human hands to constitute a rumor — but the beautiful thing, the thing that keeps you in the profession long after the profession has stopped keeping you, is that the rumors *cohere.* They build structures. They make sense.
+
+I had not made sense for some time.
+
+The box from the Harrisburg Senators arrived on a Tuesday in November, forty-two pounds of photocopied scorebooks spanning two and a half seasons, shipped in banker's boxes that smelled of mildew and institutional carpet. Todd Adelman, the independent auditor retained by the Double-A Northeast League's Board of Governors, had sent them with a one-paragraph cover letter: *Enclosed please find source documentation relevant to the Board's inquiry into irregular statistical patterns in games involving the Binghamton Rumble Ponies, seasons 2021–2023. Your analysis and expert summary requested by December 15. Standard consulting rate applies.*
+
+Standard consulting rate. Eighteen hundred a week before taxes. The rate had been twenty-four hundred when I'd set it, back when clients called more than once a year, back before the Petersen incident had made my name synonymous in certain circles with the phrase *overfitted conclusion.* I hadn't told Adelman that I'd taken the rate down. I hadn't told him that the apartment I worked from had been the apartment I lived in since the separation, or that I'd sold the car, or that I was three months behind on the storage unit where I kept my own archived files. He didn't need to know any of that. He needed to know that I was the most precise correlative statistician working in minor-league baseball auditing, which I was, which I still am, which the Petersen incident did not change no matter what the *Athletic* published.
+
+I set up on the kitchen table — the only surface long enough — and began with standard verification protocol: cross-referencing official scorebooks against the league's digital box scores, then against the media guide summaries, then against the play-by-play logs maintained by the home team's official scorer. Four independent records of every game. In a clean system, the four converge. Discrepancies are typically minor and classifiable: a scorer's judgment call on an error versus a hit, a pitch count off by one due to a mound visit that disrupted the counter, the occasional transposition of innings in the handwritten books. I've developed a taxonomy. Nineteen categories of standard discrepancy, each with a characteristic frequency. I can tell you, from a sample of thirty games, whether a scoring irregularity is random noise or systematic bias with a confidence interval that has held up in four separate legal proceedings.
+
+The Binghamton books did not fall into any of the nineteen categories.
+
+I found the first anomaly on page twelve of the June 14, 2022 scorebook, home game against the Richmond Flying Squirrels. The official scorer's handwritten sheet recorded Javier Molina's third-inning at-bat as a groundout to short, 6-3. The digital box score agreed. The play-by-play log agreed. But the Binghamton team's internal scorebook — the parallel record kept by the front office statistician for player evaluation purposes — recorded the same at-bat as a single to right field, runner advancing to second. Two different events occupying the same coordinate in time and space. Molina both grounded out and singled. The game both included and did not include a baserunner in scoring position in the third inning.
+
+I marked it. Category twenty, I thought. New territory. I kept going.
+
+By Thursday I had forty-seven anomalies across the first season alone, and the taxonomy had broken. The discrepancies were not between official and unofficial records, which would suggest one faulty source. They were *distributed* — sometimes the digital box score contradicted the handwritten sheet, sometimes two handwritten sheets contradicted each other, sometimes a single document contradicted itself, recording a different pitch count in the summary line than the one that could be derived from its own detailed log. The errors did not favor one team. They did not cluster around gambling-relevant outcomes — run totals, margins of victory, over/under thresholds — in any pattern consistent with point-shaving. They were, as far as I could determine through the first seventy hours of analysis, perfectly non-strategic.
+
+Which was more disturbing than if they'd been strategic. A motivated falsifier leaves a motive. These anomalies left *architecture.*
+
+On Friday, eleven days into the work, I found the recursive plate appearance.
+
+It was buried in the August 2, 2022 scorebook: a game between Binghamton and Hartford. Top of the sixth. The internal scorebook recorded Derek Samuels, Binghamton's number-eight hitter, at the plate. The pitch sequence was logged in granular detail — first pitch fastball high, ball one; second pitch slider in the dirt, ball two; third pitch fastball fouled back, ball two and strike one; fourth pitch changeup grounded foul, two and two; fifth pitch — but here the log stuttered. The fifth pitch was recorded as thrown by Derek Samuels.
+
+Not *to* Derek Samuels. *By* Derek Samuels.
+
+The entry didn't mark a pitching change. There was no substitution noted. The scorer simply recorded, in the same steady clerical hand, that the batter threw a pitch to himself, which he fouled off, making the count two and three. The at-bat continued for seven more pitches in this fashion — Samuels pitching to Samuels — until it ended in what the scorer recorded as a "flyout to center, caught by Samuels."
+
+I read it again. I read it four more times. I pulled the digital box score: it recorded the at-bat as a routine groundout to second, nothing unusual. The official scorer's sheet was missing for that game — one of eight missing sheets across the full sample, which was itself two standard deviations above the expected rate of missing documentation.
+
+A bookkeeping error would be one thing. A bookkeeping error that produced a logically impossible event — a batter facing himself, fielding his own out — and *continued to record the impossible event with the same procedural fidelity as every entry around it* — that was something else entirely. That was a record that did not know it had become impossible, or did not care. The handwriting did not waver. The ink did not change. The scorer logged the impossibility as if it were a ground ball to short.
+
+I pinned the page to the corkboard above my desk, between the Con Edison shutoff notice and the photograph of my daughter at her piano recital, and I stood back and looked at it, and I experienced something I had not experienced in a very long time: the specific, almost physical pleasure of a problem that exceeded my categories. A problem that required new instruments. I could feel the old machinery starting up — the part of my mind that doesn't just process data but *hunts* through it, that finds the signal under the noise not through patience but through a kind of predatory attention that has always been the best thing about me, the one capacity that survived the drinking and the debts and the Petersen disgrace and the year I spent doing piecework salary verification for a personal injury firm in Queens.
+
+I was good at this. I was still good at this.
+
+I cleared the kitchen table entirely. I bought a new pack of grid paper and a box of mechanical pencils, the 0.3mm Pentel that I've used since graduate school. I started a master chart: game dates along the x-axis, categories of anomaly along the y. I developed new notation. I tracked the recursive events — there were more, I was sure of it, the Samuels at-bat couldn't be the only one — and I began mapping the contradictions not as errors to be corrected but as a *topology,* a shape in the data that would reveal its own logic if I was precise enough, patient enough, good enough.
+
+I worked fourteen hours on Saturday. Sixteen on Sunday. I forgot to eat and forgot to notice I'd forgotten. The anomalies bred under scrutiny: each one I catalogued pointed to two more in surrounding records, as if the inconsistencies were not discrete events but nodes in a network. The topology was elaborate. It was, I realized with something approaching awe, *beautiful* — a structure of interlocking contradictions so intricate that no single vantage point could resolve it. Every time I thought I had found the pattern's center — this game, this series, this cluster of falsified entries — the center shifted, and I was looking at a different configuration that was equally coherent and equally impossible.
+
+I was hunting. And the hunting was the best I'd felt in years.
+
+I should note that I was aware, in the disciplined part of my mind, that pleasure is a bias. That the dopamine of pattern-finding is not distinguishable, neurologically, from the dopamine of pattern-*imposing.* This is the statistician's occupational hazard: we are drawn to signal, and our brains will manufacture it in pure noise. I knew this. I compensated for it. I ran randomization checks, shuffled the entries, looked for the same patterns in control data. The anomalies in the Binghamton scorebooks were not artifacts of my attention. They were real — as real as any data can be, which is exactly as real as the system that recorded it.
+
+That qualification did not trouble me at the time. It should have.
+
+By the end of the second week, I had charted two hundred and twelve distinct anomalies, including eleven recursive events (players appearing on both sides of the same play), thirty-one temporal impossibilities (plays recorded as occurring in innings that the game did not contain), and one entry — I keep returning to this one, I cannot leave it alone — in which a stolen base was attributed to a player who had been released from the team four months before the game took place and who was, on the date in question, playing in the Mexican League, a fact I verified through three independent sources in a fit of thoroughness that felt, at the time, like rigor and may have been something else.
+
+I wrote up a preliminary report for Adelman. I used cautious language. I described the anomalies as "systematic inconsistencies suggestive of coordinated record manipulation across multiple documentation streams." I did not mention the recursive plate appearances. I did not mention the temporal impossibilities. I was not ready to describe those in language that a Board of Governors would understand, because I did not yet understand them myself, and I have a professional's horror of presenting conclusions that outrun the methodology.
+
+But I knew — in the part of my mind that doesn't wait for methodology, the part that sees the shape before it can prove the shape — that what I was looking at was not point-shaving. Point-shaving is crude. Point-shaving has a payoff structure. What I was looking at had no payoff structure at all. What I was looking at was a record-keeping system that had become, at some point and for some reason, *recursive* — folded in on itself, generating entries that referred to other entries that referred back to the original, a closed loop of documentation that no longer documented anything outside itself.
+
+Someone had done this. Someone with access to multiple record streams, someone with the statistical sophistication to construct interlocking falsifications across independent systems, someone who understood scoring conventions well enough to mimic their texture while violating their logic. Someone, in other words, like me.
+
+I thought this was an observation about the perpetrator's skill set. I thought I was narrowing the suspect pool. I thought the investigation was progressing.
+
+The investigation was progressing.
+
+---
+
+## II.
+
+The archived records were stored in the league's central office in Bridgewater, New Jersey, in a basement file room that smelled like pipe insulation and mouse traps. Adelman arranged access. I drove a rented Kia — the cheapest model on the lot, which I put on a credit card that was itself a kind of fiction — and spent two days in the basement, pulling records.
+
+What I was looking for was the entry vector. Every falsification has an origin point: the first altered record, the place where someone's hand first deviated from what actually happened. Find the origin, and you find the falsifier's method. Find the method, and you find the falsifier. This is standard forensic statistics. I have done it before. I did it in the Petersen case, and I was *right* in the Petersen case — the model was correct, the data supported the conclusion, and the fact that the conclusion was later deemed "not adequately supported" by a review board composed of people who did not understand hierarchical regression does not change the underlying mathematics, a point I have made in writing and will make again if given the opportunity, which I will not be, which is fine.
+
+I pulled the archived records by entry code. Every official entry into the league's digital system carries a four-part code: the scorer's credential number, the game identifier, the date of entry, and a verification hash generated by the system itself. What I had noticed in my kitchen-table analysis was that the anomalous entries — the contradictions, the recursions, the impossibilities — shared a particular pattern in their verification hashes. The pattern was subtle. It would not have been visible to anyone who wasn't specifically looking for structural regularities in the hash sequences. But I was looking, and I found it, and the pattern pointed backward in time, away from the 2021–2023 sample and into older records.
+
+The anomalies didn't start in the Binghamton scorebooks. They had been propagating — or rather, they had been *present* — in the league's archived records for years before the period under investigation.
+
+I pulled files from 2019. From 2018. From 2017. I carried them to a folding table under the basement's one working fluorescent light and began cross-referencing.
+
+The entry codes had a grammar, if you knew how to read it — a set of habits embedded in the way data was formatted. Professional scorers develop idiosyncratic conventions over time: a preferred abbreviation for intentional walks, a particular way of logging incomplete at-bats disrupted by rain delays, a decimal notation style for batting averages carried to three or four places. These habits are signatures. They are as identifiable as handwriting, and more reliable, because they are produced unconsciously.
+
+I was reading the grammar of the 2017 entries when I noticed the decimal convention.
+
+Four places. Batting averages carried to four decimal places — .2857 instead of .286 — which is non-standard, which most scorers consider excessive, which I have argued for in every professional context I've worked in because the rounding from four to three places introduces a systematic bias of up to half a point per thousand, which over a full season's sample compounds into a measurable error in any rate-based metric.
+
+I knew one person who used four-place decimals as a default.
+
+I set the page down. I picked it up again.
+
+The abbreviation for intentional walks was "IBB(i)" — a notation that appends a lowercase "i" in parentheses, redundantly, as a secondary marker. I developed this convention in 2014, during a consulting engagement with the Trenton Thunder, because the league's digital system at the time had a parsing error that sometimes dropped the "IBB" code during bulk uploads, and the appended "(i)" served as a backup flag. It was a workaround for a software bug that was patched in 2015, after which the appended marker was unnecessary. But habits persist. Mine did.
+
+The incomplete-game notation used a forward slash followed by a lowercase "r" and the inning number: "/r5" meaning "game stopped by rain after five innings." I had never seen another scorer use a forward slash in that context. The standard notation is a dash. I use a slash because I was trained by Howard Kenneally at Rutgers, who used a slash, who was in turn trained by someone whose name I've forgotten, and the convention passed from hand to hand like a gene for a trait no one selects for.
+
+I was looking at my own system.
+
+Not *a* system like mine. *My* system. My decimals, my abbreviations, my particular way of marking a game that did not finish. Embedded in archived records from 2017, 2018, 2019 — years during which I had, in fact, performed contract work for the league's statistical office, years during which I had access to the digital entry system, years that overlapped with — 
+
+I put my hands flat on the folding table and held them there. The fluorescent light buzzed at a frequency I could feel in my teeth.
+
+Years that overlapped with the worst of the gambling. The period between Laura's first ultimatum and the separation. The months when I was placing bets through Dominic's operation in New Brunswick — never on baseball, I told myself, I told Laura, I told the counselor at the employee assistance
