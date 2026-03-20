@@ -59,7 +59,10 @@ RESULTS_DIR = os.path.join(BASE_DIR, "results", "stories")
 def generate_one(api, model, pipeline, prompt_id, final_prompt, run_id,
                  iteration, out_dir):
     """Generate a single story and save to disk. Returns (success, path)."""
-    fname = f"p{prompt_id:02d}_iter{iteration}.txt"
+    if isinstance(prompt_id, int):
+        fname = f"p{prompt_id:02d}_iter{iteration}.txt"
+    else:
+        fname = f"{prompt_id}_iter{iteration}.txt"
     out_path = os.path.join(out_dir, fname)
 
     if os.path.exists(out_path):
@@ -71,7 +74,7 @@ def generate_one(api, model, pipeline, prompt_id, final_prompt, run_id,
         response = response.strip()
 
         if len(response) < 200:
-            log.warning(f"[{run_id}] p{prompt_id} iter{iteration}: "
+            log.warning(f"[{run_id}] {prompt_id} iter{iteration}: "
                         f"too short ({len(response)} chars), skipping")
             return False, out_path
 
@@ -94,12 +97,12 @@ def generate_one(api, model, pipeline, prompt_id, final_prompt, run_id,
             json.dump(meta, f, indent=2)
 
         dt = time.time() - t0
-        log.info(f"  [{run_id}] p{prompt_id:02d} iter{iteration}: "
+        log.info(f"  [{run_id}] {prompt_id} iter{iteration}: "
                  f"{len(response.split())} words, {dt:.1f}s")
         return True, out_path
 
     except Exception as e:
-        log.error(f"  [{run_id}] p{prompt_id:02d} iter{iteration}: {e}")
+        log.error(f"  [{run_id}] {prompt_id} iter{iteration}: {e}")
         return False, out_path
 
 
@@ -125,8 +128,11 @@ Examples:
                         help="Model identifier (default: anthropic/claude-opus-4-6)")
     parser.add_argument("--run-id", type=str, required=True,
                         help="Unique identifier for this run (used as output folder name)")
+    parser.add_argument("--ideas", type=str, default=None,
+                        help="Path to JSON file with story ideas (replaces default 32 prompts). "
+                             "Format: list of {id, idea} objects.")
     parser.add_argument("--prompts", type=str, default=None,
-                        help="Comma-separated prompt IDs (default: all 32)")
+                        help="Comma-separated prompt IDs to run (default: all)")
     parser.add_argument("--iterations", type=int, default=3,
                         help="Number of iterations per prompt (default: 3)")
     parser.add_argument("--threads", type=int, default=4,
@@ -145,8 +151,23 @@ Examples:
     log.info(f"Pipeline repr: {pipeline}")
     log.info(f"Model: {args.model}")
 
-    # Load prompts
-    prompts = load_prompts()
+    # Load prompts / story ideas
+    if args.ideas:
+        with open(args.ideas) as f:
+            raw_ideas = json.load(f)
+        # Convert to prompt dict format: {id: {"writing_prompt": text}}
+        prompts = {}
+        for entry in raw_ideas:
+            pid = entry.get("id", str(len(prompts) + 1))
+            idea = entry.get("idea", "")
+            title = entry.get("title")
+            if title:
+                idea = f"{title}\n\n{idea}"
+            prompts[pid] = {"writing_prompt": idea, "seed_modifiers": []}
+        log.info(f"Loaded {len(prompts)} story ideas from {args.ideas}")
+    else:
+        prompts = load_prompts()
+
     if args.prompts:
         prompt_ids = [p.strip() for p in args.prompts.split(",")]
         prompts = {k: v for k, v in prompts.items() if k in prompt_ids}
@@ -182,7 +203,10 @@ Examples:
     existing = 0
     for prompt_key in prompts:
         for iteration in range(1, args.iterations + 1):
-            fname = f"p{int(prompt_key):02d}_iter{iteration}.txt"
+            try:
+                fname = f"p{int(prompt_key):02d}_iter{iteration}.txt"
+            except ValueError:
+                fname = f"{prompt_key}_iter{iteration}.txt"
             if os.path.exists(os.path.join(out_dir, fname)):
                 existing += 1
             total += 1
@@ -200,9 +224,17 @@ Examples:
         seed_mods = prompt_obj.get("seed_modifiers", [])
 
         for iteration in range(1, args.iterations + 1):
-            seed_mod = seed_mods[(iteration - 1) % len(seed_mods)]
-            final_prompt = base_prompt.replace("<SEED>", seed_mod)
-            tasks.append((int(prompt_key), final_prompt, iteration))
+            if seed_mods:
+                seed_mod = seed_mods[(iteration - 1) % len(seed_mods)]
+                final_prompt = base_prompt.replace("<SEED>", seed_mod)
+            else:
+                final_prompt = base_prompt
+            # Use prompt_key as-is for custom ideas (may be string like "t1_001")
+            try:
+                pid = int(prompt_key)
+            except ValueError:
+                pid = prompt_key
+            tasks.append((pid, final_prompt, iteration))
 
     with ThreadPoolExecutor(max_workers=args.threads) as executor:
         futures = {}

@@ -24,7 +24,6 @@ echo "Node: $(hostname)"
 
 python generate_stories.py \
     --model "anthropic/claude-opus-4-6" \
-    --iterations 3 \
     --threads 4
 
 echo "=== Finished at $(date) ==="
