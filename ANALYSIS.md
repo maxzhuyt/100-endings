@@ -2,7 +2,7 @@
 
 ## 1. The Puzzle: What Makes Great Stories Great?
 
-EQ-Bench Creative Writing v3 is a widely used benchmark for evaluating LLM-generated fiction. It scores stories on 22 rubric criteria — adherence to instructions, character believability, prose quality, emotional complexity, and others — using Claude Sonnet 4 as judge. We applied this rubric to three human-written story corpora of varying quality:
+EQ-Bench Creative Writing v3 is a widely used benchmark for evaluating LLM-generated fiction. Its rubric scores stories on 22 rubric criteria — adherence to instructions, character believability, prose quality, emotional complexity, and others — using Claude Sonnet 4 as judge. We applied this rubric to three human-written story corpora of varying quality:
 
 | Corpus | EQ-Bench Rubric Score (0–100) | n |
 |---|---|---|
@@ -10,7 +10,7 @@ EQ-Bench Creative Writing v3 is a widely used benchmark for evaluating LLM-gener
 | Tell Me a Story (amateur, curated) | 60.89 | 41 |
 | StoryStar (amateur, uncurated) | 44.25 | 100 |
 
-The rubric correctly orders the corpora by quality: New Yorker > Tell Me a Story > StoryStar. However, New Yorker stories (78.71) do not reach the top 10 of the EQ-Bench leaderboard, where LLMs score 81–84:
+The rubric correctly orders the corpora by quality: New Yorker > Tell Me a Story > StoryStar. However, New Yorker stories (78.71) do not even reach the top 10 of the EQ-Bench leaderboard, where LLMs score 81–84:
 
 | Model | Rubric Score |
 |---|---|
@@ -20,9 +20,9 @@ The rubric correctly orders the corpora by quality: New Yorker > Tell Me a Story
 | ... | ... |
 | New Yorker (human) | 78.71 |
 
-This is a surprising result. The top-10 LLMs generate stories using zero-shot prompting — no iterative revision, no editorial feedback, no human-in-the-loop refinement. It is difficult to accept that these zero-shot outputs are genuinely better than professionally edited New Yorker fiction across all dimensions of quality.
+This is surprising. In EQ-Bench, the LLMs generate stories using zero-shot prompting — no iterative revision, no feedback, no human-in-the-loop refinement. It is difficult to believe that these zero-shot outputs are genuinely better than professionally edited New Yorker fictions across all dimensions of quality.
 
-The more likely explanation is that the EQ-Bench rubric captures important but incomplete aspects of writing quality — prose fluency, character consistency, emotional engagement — while missing something that distinguishes professional literary fiction from competent LLM output. We hypothesize that one such missing dimension is **narrative tension**: the degree to which a story's progression is unpredictable, where what comes next cannot be easily anticipated from what came before.
+The more likely explanation is that the EQ-Bench rubric captures important but incomplete aspects of fiction quality — prose fluency, character consistency, emotional engagement — while missing something that distinguishes professional literary fiction from competent LLM outputs or human amateurs. We hypothesize that one of the missing dimensions is **narrative tension**: the degree to which a story's progression violates reader's expectation, where what comes next cannot be easily anticipated from what came before.
 
 ## 2. The 100-Ending Metric
 
@@ -41,7 +41,7 @@ A no-rate of 0.90 means 90 of 100 generated endings fail to predict what actuall
 | Tell Me a Story (amateur) | 0.698 | 0.035 | 100 |
 | StoryStar (amateur) | 0.530 | 0.038 | 100 |
 
-The ordering is consistent with intuition: professional fiction is the least predictable, amateur fiction the most. Notably, the top-10 LLMs (0.709) cluster with the amateur corpora rather than with New Yorker fiction — despite scoring *higher* than New Yorker on the EQ-Bench rubric. This confirms that the 100-ending metric captures a dimension of quality that EQ-Bench misses: LLM stories are rhetorically polished but narratively predictable.
+The ordering is consistent with our intuition: professional fiction is the least predictable, amateur fiction the most. Notably, the top-10 LLMs (0.709) is on par with the better amateur corpora rather than with New Yorker fiction — despite scoring *higher* than New Yorker on the EQ-Bench rubric. This suggests that the 100-ending metric may capture a dimension of quality that EQ-Bench misses: LLM stories are rhetorically polished but do not skillfully play with the reader's expectations. 
 
 ## 3. Can a Story Pipeline Improve Both Metrics?
 
@@ -62,7 +62,7 @@ We applied this pipeline to Claude Sonnet 4.6 on the standard EQ-Bench 32 story 
 | GPT-5 (2025-08-07) | 83.95 |
 | Claude Sonnet 4.6 (vanilla) | 82.50 |
 
-The pipeline places Sonnet 4.6 at #1 on the rubric leaderboard (84.58), above GPT-5.4 (84.45) — a +2.08 improvement over vanilla Sonnet 4.6 (82.50).
+The pipeline places Sonnet 4.6 at #1 on the rubric leaderboard (84.58), above GPT-5.4 (84.45) — a slight improvement over vanilla Sonnet 4.6 (82.50).
 
 **100-Ending No-Rate (same 32 EQ-Bench prompts):**
 
@@ -70,11 +70,11 @@ Results pending — GPU jobs in progress. This will provide a direct apples-to-a
 
 ## 4. Ablation Study: What Creates Narrative Tension?
 
-To understand which pipeline components contribute to narrative tension, we conducted a systematic ablation across 17 configurations organized in three phases. Due to cost constraints, this ablation uses only the 100-ending metric (not EQ-Bench rubric scoring). All stories are generated by Claude Opus 4.6 on a set of 15 story ideas.
+To understand which exact pipeline components contribute to narrative tension, we conducted a systematic ablation across 17 configurations organized in three phases. Due to cost constraints, this ablation uses only the 100-ending metric (not EQ-Bench rubric scoring which uses API calls). All stories are generated by Claude Opus 4.6 on a set of 15 story ideas.
 
 ### Statistical Note
 
-All results are from n=15 stories per configuration (n=14 for one config), filtered to 2000–3015 words. With this sample size, 95% CIs are ±0.03–0.05. **We only draw conclusions from gaps exceeding 0.05.**
+All results are from n=15 stories per configuration, story length between 2000–3015 words. With this sample size, 95% CIs are ±0.03–0.05. **We only draw conclusions from gaps exceeding 0.05.**
 
 ### Complete Results
 
@@ -132,7 +132,7 @@ Comparing configurations that differ only in trope inclusion:
 | `idea_no_priming` (0.788) | `idea_tax_only` (0.866) | 0.078 |
 | `idea_full` (0.833) | `idea_no_tropes` (0.847) | 0.014 |
 
-Removing tropes consistently improves no-rate. The effect is largest when priming is absent (0.078 gap). Tropes are content-level constraints — they specify concrete plot devices ("a festival masks a deadly ritual"). The LLM maps these to familiar narrative patterns, producing stories whose events are predictable because they follow well-known structures.
+Removing tropes consistently improves no-rate. The effect is largest when priming is absent (0.078 gap). Tropes are content-level constraints — they specify concrete plot devices ("a festival masks a deadly ritual"). The LLM maps these to more familiar narrative patterns, producing stories whose events are predictable.
 
 #### Finding 3: Form-level constraints (taxonomy) increase tension
 
@@ -141,7 +141,7 @@ Removing tropes consistently improves no-rate. The effect is largest when primin
 | `idea_bare` | 0.746 | None |
 | `idea_tax_only` | 0.866 | Taxonomy only |
 
-A 0.12 gap — the largest effect size in the study. The Screenwriters Taxonomy constrains *how* a story is told (genre, voice, POV, narrative pathway) without specifying *what* happens. Unusual combinations like "Horror + Bromance + Stream of Consciousness + Defeated Underdogs" force the model into genre territory it cannot solve with default patterns. The model must invent content to satisfy the structural constraints, and the unusual combinations produce narratives that are difficult to predict.
+A 0.12 gap — the largest effect size in the study. The Screenwriters Taxonomy constrains *how* a story is told (genre, voice, POV, narrative pathway) without specifying *what* happens. Unusual sampled combinations like "Horror + Bromance + Stream of Consciousness + Defeated Underdogs" force the model into genre territory it cannot solve with default patterns. 
 
 This suggests a general principle: **constraints on narrative form increase tension; constraints on narrative content decrease it.** The most effective creative scaffolding specifies *how* to tell a story, not *what* story to tell.
 
