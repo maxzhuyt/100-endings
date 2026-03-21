@@ -1,0 +1,103 @@
+# SCP-7741
+
+**Object Class:** Keter (Provisional)
+
+**Special Containment Procedures:** SCP-7741 is currently under active investigation. Dr. Yael Orin (hereafter "the subject") has been placed on administrative leave pending psychological evaluation. All personal effects recovered from her office are stored in Provisional Locker 7741-A. Security footage from Site-19, Wing C, has been flagged for forensic review.
+
+---
+
+## Incident Log — Personal Account of Dr. Yael Orin
+
+*Submitted under duress, per O5 directive. All editorial notes mine.*
+
+---
+
+The first note appeared on a Tuesday.
+
+I remember because I had just finished my weekly behavioral assessment of SCP-████ and was looking forward to something mundane — coffee, paperwork, the ordinary mercy of a boring afternoon. I set my badge on my desk, turned to hang my coat, and when I turned back, there was a folded square of yellow legal paper sitting beside my keyboard.
+
+I hadn't heard anyone enter. The door had been closed.
+
+I unfolded it.
+
+> *Don't run the Thursday diagnostic. Tell Vasquez to check the secondary coolant line in Cell 7. — Y*
+
+The handwriting was mine. I know my own handwriting the way I know my own face. The slight leftward lean, the way my lowercase *e* closes too tight. It was mine.
+
+I told myself it was a prank. I did not tell Vasquez anything.
+
+On Thursday, Cell 7's secondary coolant line failed. SCP-████ experienced a 4.7% temperature fluctuation before automated systems corrected it. Minor. Logged. Forgotten by most.
+
+Not by me.
+
+---
+
+The second note appeared eight days later. I was reviewing containment protocols at my desk when I noticed the security camera in the upper corner of my office — the small one, mounted near the ventilation grate — flicker. A single stuttering blink, maybe two seconds of static. When the feed stabilized, the note was already there.
+
+I checked the timestamp on the camera log afterward. The footage showed me sitting at my desk, then two seconds of corrupted signal, then me sitting at my desk holding a piece of paper I hadn't been holding before. Nothing entered. Nothing moved.
+
+> *Yael. The breach happens during the Level 4 drill. SCP-████ is not the threat — it's using ████ as a distraction. Check the intake manifold on Sub-level 3. You need to do this before the 14th. I'm sorry I didn't give you more time. — Y*
+
+I reported the note to Site Director Chambers. I did not check the intake manifold. I was afraid of what I would find, and I was more afraid of what it would mean if I found it.
+
+The O5 Council authorized a psychological evaluation. Standard protocol when a researcher reports anomalous self-directed communication. I sat in a white room and answered questions about my sleep, my stress levels, my relationship with SCP-████, whether I had experienced intrusive thoughts or unusual temporal perceptions.
+
+I said no to most of them. I lied about some.
+
+---
+
+The third note was different.
+
+The handwriting was the same — mine, unmistakably — but the pressure was wrong. The pen had torn through the paper in two places, as though written by someone whose hands were shaking badly or moving with terrible urgency.
+
+> *They're saying I fabricated them. Don't let them convince you. The breach kills FOURTEEN people and you KNOW what ████ does to the bodies afterward you've READ the incident reports from ████ don't trust the coolant readings they've been spoofed since March MARCH Yael please I am running out of time to send these and I don't know if any of them are reaching you at the right—*
+
+The note ended mid-sentence.
+
+I sat with it for a long time. I noticed that my hands were steady, which seemed wrong. I felt I should be more frightened. Instead I felt something worse: the horrible clarity of a person who has already made up their mind and is only waiting for permission to act on it.
+
+I went to Sub-level 3. I checked the intake manifold.
+
+I found nothing wrong.
+
+---
+
+That was when I began to doubt everything.
+
+The Foundation's working theory, as explained to me by Dr. Vasquez with the careful gentleness of someone delivering a diagnosis, was that SCP-████ — whose primary anomalous property involves the manipulation of written language and symbolic cognition — had been influencing my perception since my last assessment. The notes, they suggested, were either self-generated under cognitohazardous influence or physically placed by me during dissociative episodes I had no memory of.
+
+The camera glitches, they said, were consistent with SCP-████'s documented electromagnetic interference range.
+
+I asked why the coolant line had failed exactly as the first note predicted.
+
+They said coincidence was more parsimonious than temporal mechanics.
+
+I asked why the note had known about the temperature fluctuation before it happened.
+
+They said I might have noticed subtle signs during my assessment and processed them unconsciously.
+
+I asked why my handwriting looked like it did when I was frightened.
+
+They didn't answer that one.
+
+---
+
+The fourth note appeared this morning.
+
+I know this because I was watching my desk when the camera glitched — I had been watching it for an hour, waiting — and when the static cleared, the paper was there. I was sitting completely still. I had not moved.
+
+I haven't opened it yet.
+
+This is the part I keep returning to, the part that makes sleep difficult and makes the white walls of my evaluation room feel like they're breathing: I don't know if I'm a researcher documenting an anomaly, or if I am the anomaly. I don't know if the notes are warnings or symptoms. I don't know if trusting my own perception is rational self-preservation or the exact thing SCP-████ needs me to do.
+
+The note is still folded on my desk.
+
+My handwriting is on the outside. It says: *Open this one alone.*
+
+I'm going to open it alone.
+
+---
+
+**Addendum 7741-A:** Dr. Orin was found unresponsive in her office at 0340 hours. The note's contents have not been recovered. Security footage shows 47 seconds of static beginning at 0337.
+
+The Level 4 drill is scheduled for the 14th.

@@ -1,0 +1,132 @@
+# SCP-XXXX: "The Reading Room"
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** All confirmed instances of SCP-XXXX access points are to be sealed with Foundation-standard Barrier Class IV materials and monitored remotely. Personnel are prohibited from entering SCP-XXXX without Level 4 authorization and three-person team minimums. As of ██/██/20██, no new access protocols will be issued pending review by the O5 Council.
+
+This review has been pending for fourteen months.
+
+**Description:** SCP-XXXX designates a non-Euclidean interior space accessible through a series of unmarked doors appearing in abandoned structures across ██ countries. Confirmed access points have been identified in decommissioned factories, vacant hospitals, an evacuated school district in rural ████████, and three instances within buildings owned by Foundation front companies.
+
+All access point doors share identical scoring patterns around the doorknob—parallel scratches, four in number, consistent in depth and spacing across every confirmed instance regardless of the door's material or age. Forensic analysis indicates the scratches were made by the same implement, or implements of identical manufacture, applied with identical pressure. No implement has been identified. No mechanism for coordinated placement has been established. The scratches are present on the interior face of each door as well as the exterior.
+
+The interior of SCP-XXXX is a single continuous archive of indeterminate size. Preliminary mapping efforts have not produced a usable floor plan. Exploration teams have walked uninterrupted corridors for eleven hours and encountered no exterior wall. Compass readings are inconsistent. GPS signals do not penetrate the interior. Teams navigate by chalk mark and by thread, both of which have proven reliable.
+
+The archive contains documents.
+
+---
+
+**Exploration Log XXXX-7 | Team: Dr. ████████ (Lead), Researcher Osei, Agent Valcarce**
+**Authorization Level: 4 | Date: ██/██/20██**
+
+*[Timestamp 00:00:14]* We're inside. Temperature is—Valcarce, what does your gauge say? Okay. Eleven degrees Celsius. Smells like a library, which I recognize sounds mundane in a report context, but I want to be precise: it does not smell like the library we were just standing outside of. It smells like every library simultaneously. Accumulated paper, accumulated dust, the particular staleness of climate-controlled air that hasn't been refreshed in decades. No single library smells like this. The combination shouldn't be possible in a space that opens off a service corridor in an abandoned textile mill. The shelving units extend approximately thirty meters in every visible direction before curving. The curve is wrong. I don't have better language for it than that yet. The geometry is wrong. We're proceeding.
+
+*[Timestamp 00:47:22]* Documents appear to be organized, though we haven't determined the system. The shelving is wooden, the kind with the brass rail at eye level for a rolling ladder, except the ladders are fixed—bolted at top and bottom, immovable, decorative or vestigial. Languages catalogued so far: English, Mandarin, Arabic, something Osei thinks might be a Proto-Indo-European variant, and at least two scripts none of us recognize. One of the unknown scripts appears on documents that otherwise look contemporary. Laser printer paper, dot matrix perforations still attached in strips at the margins. The unknown script has been printed on them, not typed, not handwritten. Printed, in a font. Paper quality varies enormously across the archive. Some documents feel ancient in the hand—not brittle, just heavy, dense, as though they've been compacted by time. Some feel like they were printed this morning.
+
+*[Timestamp 01:33:09]* First anomalous document, photographed and logged as XXXX-7-DOC-001. It references an organization called the Covenant of Sealed Things. The organizational structure described is indistinguishable from our own. Three-tier classification system. Numbered containment subjects, the numbering format identical to ours with the exception of a prefix character we don't use. A oversight council of thirteen. A field division and a research division and a security division, arranged in the same reporting hierarchy. The terminology differs in places but the function is the same. The document is dated in a calendar system that doesn't correspond to any current standard, but cross-referencing internal references to astronomical events, Osei estimates the date at approximately 340 years ago.
+
+*[Timestamp 01:34:55]* The Covenant of Sealed Things managed something called the Lattice Failure. The document does not describe what the Lattice was. It describes its failure in the passive voice throughout, consistently, as though the author were working very hard to assign responsibility to no one in particular. *The Lattice became non-viable. Protocols were insufficient. The consequences were accepted.* Osei pointed out that *the consequences were accepted* is a strange formulation—it implies there was someone to do the accepting, and that they chose to accept rather than resist, and that this was the correct choice, and that the author agreed with it, and that none of this required further explanation. The document ends mid-sentence. The final sentence is about archival procedures. It ends after the word *however.*
+
+*[Timestamp 02:11:40]* Osei found something. We've stopped moving.
+
+---
+
+**XXXX-7-DOC-019 [Excerpt, transcribed from photograph taken in situ]:**
+
+*PERSONNEL FILE — COVENANT ADMINISTRATIVE RECORD*
+
+*Subject: [REDACTED IN ORIGINAL]*
+
+*Cohort Assignment: Northern Containment Bureau, Third Iteration*
+
+*Physical Description: [The physical description has been redacted in the original document with a black bar. The bar appears to have been applied recently. The ink has not fully dried. When Researcher Osei touched the edge of the bar, ink transferred to his finger.]*
+
+*Psychological Profile: Subject demonstrates above-average aptitude for containment protocol design and anomalous object classification. Subject demonstrates persistent difficulty accepting necessary losses. Recommend reassignment to theoretical rather than field roles before Lattice transition enters terminal phase. This is a kindness. Subject is not expected to survive the Lattice transition regardless. Most are not. The record should reflect that the subject performed adequately and that the failure, when it comes, will not be the subject's failure specifically.*
+
+*Status: [REDACTED IN ORIGINAL]*
+
+The file number in the upper right corner is formatted in the Covenant's numbering system. Below it, in smaller print, is a second number, a conversion or a cross-reference or a duplicate entry maintained in another system. That second number is formatted as a Foundation personnel file number. It is not a number selected at random. It belongs to Dr. ████████, the lead researcher on this team.
+
+She is currently holding the document. She has read it twice. Her hands are not shaking. She has been trained not to let her hands shake, and the training holds, which she is aware of, which means she is watching her own training hold from some distance behind her eyes, which is not the same as being calm.
+
+Researcher Osei has his hand on her shoulder. Agent Valcarce is watching the corridor.
+
+She reads it a third time. The ink on the redacted physical description has dried by now. She does not try to lift the bar. She tells herself this is because she does not want to contaminate a document sample. She tells herself this clearly and she does not examine it further.
+
+She photographs the document, logs it, and replaces it exactly where Osei found it.
+
+She calls the team to continue.
+
+---
+
+**Exploration Log XXXX-7 | Team: Dr. ████████ (Lead), Researcher Osei, Agent Valcarce**
+
+*[Timestamp 03:04:17]* We can hear them. Approximately forty meters ahead, past the curve in the shelving. They are wearing suits—white, sealed, positive-pressure respirators, visors. Four of them. They are removing documents from the shelving and placing them in opaque rigid-shell containers, the kind used for biohazard transport. They move methodically. They divide the shelving into apparent grids and work the grids in sequence. One of them has a tablet. She's logging. One of them is doing something to the empty shelf space once sections are cleared, but I can't see what from this distance. Whatever they're doing to it, the shelf space looks different afterward. Flatter. Wrong.
+
+*[Timestamp 03:04:51]* They have seen us. They are leaving. Running—no, not running, moving with controlled speed, deliberate, the kind of movement that has been trained rather than panicked into. One of them dropped a container. It landed on its side, the lid came unsealed, documents scattered. They left them. They did not stop. We waited thirty seconds and then approached.
+
+*[Timestamp 03:06:30]* The recovered documents—forty-seven pages, several complete files, several partial—all share one characteristic. Every personnel file among them has been redacted in the same manner as XXXX-7-DOC-019. Physical descriptions removed. In some cases, the names removed as well. In all cases, the file numbers: both the Covenant number in the upper right and the secondary number below it. Whatever was written in the secondary number field has been taken off cleanly. No smearing. It looks as though someone went through each document with a tool designed precisely for the purpose. The secondary number field is just gone. The paper beneath is intact.
+
+Foundation personnel file numbers. Whatever was written there, they are Foundation personnel file numbers in a three-hundred-and-forty-year-old archive. This is not a hypothesis. This is what they came here to remove.
+
+*[Timestamp 03:09:14]* We are leaving. We are leaving now. We have the forty-seven pages in our possession. Osei is marking the shelf location. Valcarce has the exit thread. We are leaving.
+
+*[End of log.]*
+
+---
+
+**Addendum XXXX-8: Post-Exploration Medical Report**
+
+All three members of Exploration Team XXXX-7 have been evaluated and cleared for return to duty with no significant physiological findings. Osei reported tinnitus for approximately six hours following exit; this has resolved. Valcarce reported a period of disorientation that she described as *not knowing in which direction time was moving*, which persisted for roughly forty minutes and resolved without intervention. She declined psychological follow-up and this declination is her right.
+
+Dr. ████████ reported no symptoms and requested immediate access to the archive's cataloguing database. She has been cross-referencing for eleven days. She sleeps four hours a night. She has not requested psychological follow-up. Her hands do not shake.
+
+---
+
+**Addendum XXXX-9 [Site Security Camera Footage, Compiled | Prepared by: Site-██ Security Division]:**
+
+Cross-referencing access point security logs across all Foundation-monitored SCP-XXXX locations has identified ██ unauthorized entries over the preceding three years. The entries were not flagged in real time. The monitoring software logged them correctly; the flags were cleared. In each case the flag clearance is attributed to automated system maintenance. No maintenance orders exist for those dates and times. Someone cleared the flags manually and attributed the clearance to a maintenance process that did not occur.
+
+Biometric data from Foundation-owned access points—access points in buildings that the Foundation owns, that have Foundation biometric scanners on the doors, that log every entry—identifies six of the ██ individuals.
+
+Three are O5 Council members.
+
+They did not sign out documents. The containers they brought in left full; this is visible on the footage. They arrived unaccompanied. They stayed an average of four hours each. Their faces are visible on the footage. They did not wear the white suits. They went inside in their ordinary clothes, carrying empty containers, and they came out carrying containers that were no longer empty, and they drove away, and the flags were cleared, and no one flagged the cleared flags, and three years passed.
+
+None have acknowledged the visits when questioned by the site security team that compiled this addendum.
+
+None have been formally questioned by any body with authority to compel answers.
+
+The site security team that compiled this addendum has been reassigned. Their new assignments are distributed across four different sites. This was processed as routine rotation.
+
+---
+
+**Researcher Note, Dr. ████████, submitted ██/██/20██:**
+
+Eleven days of cross-referencing. The forty-seven pages from the dropped container have given me enough to work with.
+
+The Covenant of Sealed Things was not a predecessor organization. That framing is comfortable and wrong. An organization that has the same structure, the same procedures, the same file numbering system, the same classification tiers, the same council of thirteen—that organization is not a predecessor. It is the same organization. It is us, in the archive's record, in a document dated three hundred and forty years ago. The names are different. Some of the names. The file numbers are the same.
+
+I have found my number in six additional documents now. My psychological profile recurs with minor variations. The phrasing *persistent difficulty accepting necessary losses* appears in all of them. In the oldest version I can find, the wording is different—an older English construction—but the meaning is the same. She will not let go of things. She will hold on too long. This is her primary liability.
+
+I have found Osei's number. I have found Valcarce's number. I have found numbers belonging to eleven other active Foundation personnel. I have not told them. I am aware this is a professional failure and possibly an ethical one. I am not ready to tell them yet. I am trying to determine what I would be telling them.
+
+I have been trying to determine what makes the scratches around the doorknobs.
+
+The scratches are on both sides of every door. Interior and exterior. Four parallel marks, same depth, same spacing. The implement is held in something with a consistent grip width, consistent strength, consistent angle of approach. The angle of approach is consistent across hundreds of doors in dozens of countries.
+
+Made from the inside, exiting.
+
+Made from the outside, entering.
+
+Both. Always both. The implement pressed to the door frame on the way in and on the way out, always, by something that does not let go easily, that holds on at the last moment, both times.
+
+I don't know how many times. I don't know how to count the iterations. The archive is very large.
+
+I think it knows where I'll be.
+
+**[NOTE: This addendum has been flagged for review by O5-Command. Access restricted pending clearance determination. Clearance determination timeline: unspecified.]**
+
+**[NOTE: The preceding note was added ██ minutes after Dr. ████████ submitted this addendum. The access restriction is currently preventing Dr. ████████ from viewing her own submission. She has submitted a formal objection. The formal objection has been flagged for review. The timeline for that review is also unspecified.]**
+
+**[NOTE: Dr. ████████'s laboratory access card stopped working at ██:██ this morning. Facilities has been notified. Facilities has not responded. This note was added by Researcher Osei, who has been attempting to reach Site Command since ██:██ and who is writing this note in the gap between attempts, because it seems important to have a record somewhere, even here, even in a file he's not sure anyone will read, even though—]**

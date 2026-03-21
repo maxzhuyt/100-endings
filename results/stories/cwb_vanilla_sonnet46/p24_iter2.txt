@@ -1,0 +1,90 @@
+# SCP-XXXX: "The Anteroom of Prior Accounts"
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** Foundation operatives embedded in municipal demolition and urban surveying agencies are to monitor reports of anomalous architectural features in condemned structures. Upon confirmation of an SCP-XXXX instance, the surrounding building is to be purchased or condemned under false pretense. Access is restricted to Level 4 personnel and above, pending O5 review.
+
+*Note: As of [REDACTED], all O5 review requests regarding SCP-XXXX have been returned unanswered.*
+
+**Description:** SCP-XXXX refers to a collection of identical unmarked steel doors appearing within abandoned or derelict structures across 47 confirmed countries. Each instance is physically indistinguishable from the others: brushed gunmetal finish, no handle on the exterior face, no hinges visible, no manufacturer markings. Notably, several instances exhibit weathering patterns inconsistent with their host structures—oxidation, stress fracturing, and material fatigue suggesting ages between 200 and 900 years, despite the buildings themselves being no older than 60.
+
+All instances open from the exterior with uniform pressure applied to the upper-left quadrant of the door face. All instances lead to the same interior space.
+
+SCP-XXXX-1 is the interior. It is large enough that no exploration team has located a far wall.
+
+---
+
+**Exploration Log XXXX-7**
+*Team: Dr. Yuen Farouk (lead), Agent Thessaly Morse, Agent Daniel Obi*
+*Entry point: Abandoned textile mill, Łódź, Poland*
+
+The door opened without resistance. Dr. Farouk noted the air beyond was climate-controlled, dry, carrying a faint chemical smell he later described as "old paper and something medicinal." The team entered.
+
+SCP-XXXX-1 presented as a corridor approximately four meters wide, extending forward until curvature made further assessment impossible. The walls were floor-to-ceiling shelving, each shelf bearing archival boxes of varying age and material—cardboard, leather, what appeared to be fired clay tablets sealed in preservation resin. Lighting came from recessed panels overhead, powered by no visible infrastructure.
+
+"There's no ceiling junction," Agent Morse reported on the recording. "The shelves just... continue up. I can't see where they stop."
+
+The team walked for eleven minutes before reaching the first branching intersection. Corridors extended in four directions. Each was identical.
+
+Dr. Farouk selected a box at random from the nearest shelf. Inside were documents in at least three languages, two of which the team could not identify. The third was archaic Latin. A partial translation was completed on-site:
+
+---
+
+*Recovered Document XXXX-7-A (partial translation):*
+
+*"...the Committee of Wardens acknowledges that the secondary containment of Catalogue Entry 7 has been compromised at the cellular level. The spread is now continental. The Committee has voted. The record will be preserved. The record is all that can be preserved now. Let those who come after understand: we did not fail through ignorance. We failed through certainty. We were certain we understood what we held..."*
+
+---
+
+Agent Obi located a section of shelving bearing labels in modern English. The labels were printed in a font consistent with current Foundation documentation standards. The team photographed 34 boxes before extraction. Cross-referencing confirmed that 31 of the 34 boxes contained personnel files.
+
+Personnel files for current Foundation staff.
+
+The oldest was dated 1743. The subject was a Level 2 researcher currently employed at Site-19. Her photograph in the file matched her current employee ID photograph exactly.
+
+---
+
+**Exploration Log XXXX-11**
+*Team: Dr. Farouk, Agents Morse, Obi, Chen*
+*Duration: 4 hours, 17 minutes*
+
+The team penetrated approximately 2.3 kilometers into SCP-XXXX-1 before Agent Chen signaled a halt. Ahead, in a parallel corridor visible through a gap in the shelving, figures were working.
+
+The team counted seven entities. Each wore full positive-pressure hazmat suits of an unrecognized design—the material appeared to absorb light at its seams rather than reflect it. The entities were removing boxes from shelves and placing them into containers that collapsed flat when full, in a manner the team described as "geometrically incorrect." No sound accompanied this process.
+
+Dr. Farouk moved to approach. The nearest entity stopped working. It turned its faceplate toward him. The faceplate was opaque.
+
+All seven entities then moved away from the team at a rapid walk, turning a corner and disappearing. The team followed. The corridor beyond the corner was empty. Twelve meters of shelving had been cleared.
+
+Agent Morse photographed the empty shelving. The dust patterns indicated the removed boxes had been present for a considerable time. She also photographed a single document left on the floor, apparently dropped.
+
+---
+
+*Recovered Document XXXX-11-F:*
+
+*"INTERNAL NOTICE — WARDEN COUNCIL EYES ONLY*
+*RE: Premature access by field-grade personnel*
+*The Archive is not a resource. The Archive is a warning. Entities accessing restricted genealogical sections without Council authorization risk accelerating the indexing process. The indexing process ending is not a desirable outcome. Personnel who have visited the Archive without authorization are reminded that their files were written before they were born. They are reminded of what that means."*
+
+---
+
+Following standard debrief, Agent Morse submitted a supplementary report. She had recognized handwriting in the margin of Document XXXX-11-F. She had seen it on internal memos. She requested the identity of O5-7 be cross-referenced with the handwriting sample.
+
+The request was returned marked: **QUERY OUTSIDE AUTHORIZED SCOPE.**
+
+Dr. Farouk's own personnel file was located during Exploration Log XXXX-14. It was filed under a section labeled, in the unidentified language, with a character grouping that the Foundation's linguistic consultants translated, provisionally, as either *"pending"* or *"almost."*
+
+The file contained his photograph.
+
+It was dated 2031.
+
+Dr. Farouk was born in 2009.
+
+---
+
+**Addendum XXXX-O5:**
+*Access logs for SCP-XXXX Entry Point 3 (Pripyat, Ukraine) indicate seven badge-level entries between [REDACTED] and [REDACTED]. No exploration was authorized during this period. Badge records correspond to O5-3, O5-7, and O5-11.*
+
+*All three O5 members were unavailable for comment.*
+
+*This addendum was flagged for deletion by an automated process with administrative-level clearance. Deletion was prevented by Dr. Farouk. Dr. Farouk has been placed on administrative leave pending review.*

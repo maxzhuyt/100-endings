@@ -1,0 +1,131 @@
+# Lost & Found in Osaka
+
+The synthesizer module had been here. She was almost certain. Third shelf from the bottom, left side of the display case, behind the acrylic scratch card advertising a figurine lottery that had ended two months ago. Mika pressed her nose closer to the glass and adjusted her headphones, which immediately slid sideways off one ear.
+
+Then something got through.
+
+Not through the shop sounds or Den Den Town's general crush of afternoon noise—through the headphones themselves. A guitar. Cutting right past the attenuation foam, past the forty-minute ambient mix she'd assembled specifically to level out the world. She straightened up. The sound was coming from outside, somewhere near the arcade entrance down the block, and she recognized the melody after two bars.
+
+*Fly Me to the Moon.* Except arranged like it was angry about something.
+
+She was already walking before she'd decided to walk.
+
+---
+
+The busker was seventeen, maybe eighteen, perched on a fold-out stool with a cherry-red Telecaster and a pedalboard that cost more than Mika's entire setup at home. Her leather jacket sleeves were pushed to the elbow and she was bent into the solo with her whole body, eyes half-closed, the way you close your eyes not because you can't see but because you're somewhere else while you do it. She was performing for the fifteen people watching her and ignoring the fifty passing, and she played like both numbers were fine with her. She hit the final bend, held it until it wavered right on the edge of control, then brought it back clean. The kind of ending that sounds like a decision rather than a landing.
+
+The small crowd clapped. The crowd dispersed. The busker began tuning.
+
+Mika didn't move.
+
+She watched the girl's right hand, the economy of it, the way she muted strings between notes out of pure habit. She watched the slight forward lean on the accents, theatrical but not calculated—the body naturally following sound. The scar through her left eyebrow. The way she held the pick loose, which you didn't do unless you'd learned to hold it tight and then unlearned it, which took years. There was a moment, between the last note and the retuning, when the girl's expression was completely private, and the crowd already gone, and she was just a person alone with a guitar on a folding stool, and something in that half-second was outside the categories Mika had available.
+
+Then the busker looked up. She had sharp eyes and a small scar through one eyebrow and she looked directly at Mika with the specific tolerance of someone who has been stared at many times and made her peace with it.
+
+"You want a photo?"
+
+"No," Mika said. Then: "Your reverb pedal. You barely touched it."
+
+The busker lowered her pick. "What?"
+
+Mika's headphones slipped. She grabbed them. "For something that orchestral. The original strings arrangement. I just—I assumed you'd use more. Reverb. But you kept it dry and it worked better." She stopped. Her face felt warm. "Sorry."
+
+"Don't apologize." The busker set her guitar across her knees. "Say that again."
+
+"I—the dry signal. It made it feel closer. More—" she searched for the right word, found three wrong ones first— "urgent."
+
+"Yeah." The busker nodded slowly, running the logic somewhere behind her eyes. "Yeah, exactly. Everyone tells me to layer it up. More chorus, more shimmer, turn the bloom all the way up." She made a dismissive gesture that encompassed, apparently, everyone who had ever offered this advice. "It's a song about loneliness in space. It should sound like a room."
+
+Mika's headphones slipped again. She caught them.
+
+"Those fit you badly," the busker observed.
+
+"They're my brother's. Mine broke." She adjusted the headband, which promptly expanded again. "He has a bigger head."
+
+"What kind?"
+
+"Sony MDR-7506."
+
+Something changed in the busker's face—just slightly, the way someone's expression shifts when they've been listening politely and then hear something that actually interests them. "Good cans. What do you play?"
+
+"I don't play. I—" A group of middle schoolers were trying to get past, jostling between Mika and a merchandise display. She stepped aside. "I make things. On synthesizers. Not assemble," she added quickly, because people always pictured soldering—"I design patches. Sequences."
+
+"You're a producer?"
+
+"I'm sixteen."
+
+"That's not what I asked."
+
+Mika looked at the pedalboard again. Strymon, Chase Bliss, a battered Boss tuner that had to be older than both of them. She catalogued them the way she catalogued everything—automatic, precise, a tallying—and when she looked up the busker was still watching her with that same particular attention.
+
+"What was the chain?" Mika asked. "Into the amp."
+
+The busker glanced down at her board, then back up. She had a very specific kind of smile, like she'd made a small bet with herself and was watching it pay. "Compressor into the overdrive—noon on the gain, nothing more—then a clean boost. Tuner last in chain, but I keep it switched on."
+
+"Better buffer."
+
+"Exactly." The busker raised her eyebrows marginally, not surprised but satisfied. "Everyone wants true bypass, but you put true bypass into a long chain like this, especially near—" she nodded at the arcade entrance "—any of that signage, you're picking up interference all night."
+
+"Radio frequencies."
+
+"I played a venue in Namba last spring. Got a taxi dispatcher through my signal for two full sets. Every power chord, somewhere a cab was being sent to Shinsaibashi."
+
+Mika laughed. It came out suddenly, louder than she'd intended, and she put her hand over her mouth.
+
+The busker grinned, genuinely this time, the performance mode gone. "I'm Hana."
+
+"Mika."
+
+"You eat?"
+
+Mika blinked. "What?"
+
+"It's almost five." Hana was already loosening her guitar strap, moving with the efficient ease of someone who has broken camp a hundred times and knows exactly which step comes next. "There's a kaitenzushi place on the next block. It won't have a line yet. In twenty minutes it will." She laid the Telecaster in its case, latched it, stood. "I want to know more about your patches."
+
+"I haven't—there's nothing recorded. It's not finished. It's barely—"
+
+"I didn't ask to hear them." Hana hoisted the case and tilted her head toward the street. Her voice was matter-of-fact, not unkind. "I asked about them. There's a difference." She waited, one beat, in the way of someone accustomed to not waiting long. "You coming?"
+
+Mika looked back once at the electronics shop, at the third shelf from the bottom, left side of the display case.
+
+The module would still be there, or it wouldn't.
+
+She followed.
+
+---
+
+The restaurant was lit in the particular warm fluorescent way of places built for function rather than atmosphere, the kind of light that forgives nothing but asks nothing either. The conveyor belt made its steady, patient loop around the counter, offering and retrieving, offering and retrieving. Hana had a plate of salmon before she'd properly settled onto her stool. Mika sat beside her and set her headphones on the counter and didn't pick them up again.
+
+They stayed there.
+
+"So patches," Hana said, chopsticks already moving. "What are you working on?"
+
+"It's—" Mika watched the belt. A small dish of tamago revolved past and she took it without thinking. "It's a texture thing. A sequence that evolves. I'm trying to make something that sounds like being in a place you almost remember."
+
+Hana chewed, considering. "Almost remember like—déjà vu?"
+
+"Like when you hear a song and you can see the room you first heard it in. Even if it wasn't real. Even if you made up the room afterward and forgot you made it up."
+
+A plate of tuna slid between them. Hana took half; Mika took half. Neither of them appeared to notice.
+
+"That's a record," Hana said. "You're describing a full record."
+
+"It's one sequence."
+
+"Stop saying just and stop saying only and stop saying it's nothing." Hana pointed her chopsticks briefly in Mika's direction, not unkindly, before returning to her plate. "You do that with everything you say about yourself. You get smaller right before the interesting part."
+
+Mika looked at her tamago. "Okay," she said.
+
+The belt moved. Two plates of ebi. A single dish of ikura, orange and gleaming, which Hana claimed immediately. Above them the fluorescent tube hummed at a frequency Mika couldn't quite place in the register—50 Hz, maybe 60, varying slightly, the way old lights do.
+
+"Does it have a name?" Hana asked.
+
+Mika thought about it, which she hadn't before. She'd been inside the thing for three months without stepping back far enough to look at it from outside.
+
+"Not yet," she said.
+
+Hana set down her chopsticks and leaned her chin on one hand, and looked at Mika the way she'd looked at the guitar in that private moment between the last note and the retuning—the expression that had no audience, no performance in it, the real one. Like she was listening to something and deciding whether it was true.
+
+"When it does," she said, "I want to hear it."
+
+The belt moved on. Somewhere near the door, a family of four was being seated. The light hummed. Mika reached out and took a plate of salmon that passed in front of her, and thought: 50 Hz. The frequency of something still running.

@@ -1,0 +1,95 @@
+# Pattern Recognition
+
+The candle between us is a fire hazard. I notice this before I notice her eyes, which is probably something I should discuss with a therapist.
+
+The restaurant's point-of-sale system is running an outdated Aloha interface — I clocked it when the host checked our reservation. Probably still on Windows 7. The WiFi network broadcasting as "TavernGuest_Open" is an embarrassment. No WPA2, just sitting there like an unlocked car in a bad neighborhood, and I make a mental note not to check my bank balance tonight, then remember I use a VPN anyway, then remember I'm on a *date* and should stop auditing the network infrastructure of Italian restaurants.
+
+Her name is Claire.
+
+Focus on Claire.
+
+---
+
+Claire is funny. This is surprising not because I expected her to be humorless but because first dates are usually elaborate performances of curated personality, and genuine funny is rare in performance mode. She made a self-deprecating joke about her parallel parking that landed with actual timing. I laughed before I could evaluate whether I should.
+
+The conversation does that thing where it moves fast without feeling rushed. Jobs. Hers: UX designer. Mine: penetration tester, which I explain as *I get paid to break into things before the bad guys do*, which is the sanitized version I keep ready like a pre-loaded response. She doesn't do the usual thing where people lean back slightly. She leans forward.
+
+"So you just... think like a criminal?"
+
+"Reformed criminal," I say, and smile, and it's not entirely untrue.
+
+She asks what I do for fun and I'm preparing the acceptable answer — hiking, I've been to a hiking trail twice — when she says, almost apologetically, "I've been playing a lot of Magic: The Gathering lately and I know that's incredibly nerdy—"
+
+The acceptable answer evaporates.
+
+---
+
+Twenty minutes disappear into a conversation about Pioneer format and whether Izzet Phoenix is a skill-testing deck or a crutch and she has *opinions*, real ones, not borrowed ones, and I'm thinking: *this is the attack surface I didn't expect.* Which is a horrible way to think about a person I like. I know it's horrible. I'm thinking it anyway.
+
+She's describing a tournament she played in last year — "I got destroyed in the quarterfinals, it was humiliating, I'd been playing since I was twelve, my older brother taught me, we grew up in Tempe, Arizona, and I should have known better than to run that sideboard—"
+
+*Older brother. Tempe, Arizona. Started at age twelve.*
+
+I'm not writing this down. I'm not doing anything with it. But some subroutine in my brain that I cannot fully decommission is just... collecting. Logging. Her mother's maiden name will probably surface in the next twenty minutes if the conversation stays warm. It always does. People are so *generous* with the keys to their own houses.
+
+*Stop it.*
+
+The pasta arrives. She has the cacio e pepe. I have something I ordered without reading the description because I was listening to her talk about blue-black control strategies.
+
+---
+
+This is when it happens.
+
+A notification buzzes her phone, face-up on the table. She flips it over to dismiss it and unlocks the screen and I am not trying to watch, I genuinely am not, but pattern recognition doesn't ask permission.
+
+An L-shape. Starting top-left, down to bottom-left, across to bottom-right, up to top-right. Four points. Sequential corners.
+
+It's not even a pattern, it's a *perimeter*. It's the combination 1-2-3 of swipe patterns. I have seen this exact unlock sequence used as a demonstration in security presentations under the heading *What Not To Do.*
+
+I know I should let it go.
+
+I know this with the same certainty that I know the restaurant's WiFi is unsecured. I know it the way I know things I act on anyway.
+
+"Hey, so—" I start, and something in my tone must telegraph the gear-shift because she looks up. "Your unlock pattern."
+
+A beat.
+
+"...What about it?"
+
+"It's a box. Just the four corners, clockwise. It's one of the most common patterns statistically, and it's visible in smudge traces on the screen from like three feet away, I wasn't trying to—"
+
+She's looking at me with an expression I am currently classifying as *indeterminate* but which I fear is trending toward *check please.*
+
+"You watched me unlock my phone."
+
+"I didn't *watch*, I just—my brain does this thing—"
+
+"You watched me unlock my phone and then told me about it."
+
+There it is. The accurate summary. Devastating in its compression.
+
+---
+
+The silence has a texture. I'm running recovery scenarios in parallel and none of them are good. Apologize directly: genuine but potentially makes it weirder. Make a joke: high risk, high reward, probably high risk. Explain the neurology of threat-pattern recognition: *absolutely do not do this.*
+
+"I'm sorry," I say. "That was — I have a professional habit of noticing things I shouldn't notice and sometimes the filter between noticing and *saying* has a latency issue."
+
+She's quiet for a moment.
+
+"A latency issue," she repeats.
+
+"In my defense, you should genuinely change it. You have a lot of personal data on that—"
+
+"*In your defense,*" she says, and she's not smiling, but she's not *not* smiling, and I am parsing this with everything I have. "You're really committed to this bit."
+
+"It's not a bit. I'm actually like this."
+
+"I know," she says. "That's what's interesting."
+
+---
+
+She changes the subject back to Magic. I let her lead. Under the table I'm thinking about the older brother in Tempe, Arizona, the tournament loss, the name she'll never know I've already half-catalogued, and I'm thinking about how trust is just a system with vulnerabilities and how I have spent years learning to find the holes in things.
+
+And I'm thinking that maybe the most interesting thing about Claire is that she just watched me do exactly that, and she's still here, refilling her wine, asking me what I'm running in Standard.
+
+Some systems, I think, are worth protecting.

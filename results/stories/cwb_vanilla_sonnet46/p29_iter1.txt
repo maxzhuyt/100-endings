@@ -1,0 +1,67 @@
+# The Half-Life of Green Things
+
+The thermocycler wheezed through its forty-fifth cycle, held together with epoxy and hope and a strip of copper tape Maren had scavenged from a pre-Collapse Subaru. The machine's display—a cracked tablet zip-tied to the chassis—showed temperature fluctuations she didn't like. Fifty-eight degrees when it should hold sixty-two. The solar rig outside was having one of its moody afternoons.
+
+She watched the voltage meter she'd wired into the circuit. The needle trembled. The panels on the roof were Frankenstein work: three commercial units from different manufacturers, two salvaged from a strip mall parking structure, one she suspected had been a garden ornament. They fed into a bank of car batteries through a charge controller she'd rebuilt twice. When clouds moved over the Cascades, the whole system hiccupped.
+
+The thermocycler hiccupped with it.
+
+"Come on," she said, to the machine or the sun or neither.
+
+The reaction had to complete. She had maybe six hours before the template DNA degraded past usefulness—GenAgra's final gift to the world, written into every engineered genome they'd ever sold. Terminator sequences that didn't just prevent seed-saving. They unravelled. Generation by generation, each copy slightly less coherent than the last, until you had something that grew, technically, but produced nothing, or produced wrong things, or produced things that made you bleed from places you hadn't expected.
+
+The settlement at Ridgeback had been eating wrong things for two seasons.
+
+---
+
+The contract had come through Dorotea, who ran the black market out of a former dental office in what used to be Bellingham. Dorotea had kept all the equipment. Maren found this either practical or disturbing depending on her mood.
+
+"Collective outside Wenatchee," Dorotea had said, not looking up from the ledger she kept in a water-damaged accounting book. "They've got three hundred people and a valley with actual topsoil. They're eating GenAgra wheat, third generation. You know what third generation looks like."
+
+Maren knew. She'd seen the photographs. The grain heads that formed but didn't fill. The kernels like little grey teeth.
+
+"They want viable seed stock. Something that'll breed true. Something without the kill switch."
+
+"That's not a small ask."
+
+"The payment isn't small." Dorotea had slid a list across the desk. Reagents, mostly. A working centrifuge. Two kilograms of agarose. Things Maren had been sourcing in grams for years.
+
+She'd taken the contract.
+
+---
+
+The source material was heirloom Red Fife wheat, pre-Collapse, kept in a seed vault that a librarian in Olympia had been maintaining in a repurposed chest freezer run off a woodgas generator. The librarian's name was Teo and he had a persistent cough and the slightly luminous quality of someone who'd been dosing themselves with an antifungal gene therapy of uncertain provenance.
+
+Maren had that quality too, she supposed. Her left hand's ring finger had been numb for eight months following an accidental exposure to a nerve-growth vector she'd been adapting for agricultural use. But she'd also stopped needing reading glasses, which she chose to interpret as a net positive. Her night vision was better than it had been at twenty. She tried not to think about what her telomeres looked like.
+
+The Red Fife genome was clean. Old. Magnificently, stubbornly analogue. No terminator sequences, no proprietary markers, no built-in expiration. Just wheat being wheat, the way wheat had been for ten thousand years before someone decided that was leaving money on the table.
+
+Her job was to amplify the key sequences—drought tolerance markers, disease resistance loci—and splice them into a Wenatchee-adapted cultivar that could actually survive the drier post-Collapse climate east of the mountains. PCR to copy the target sequences. Restriction enzymes to cut. Ligase to join. Then transformation, selection, and the long anxious wait to see what grew.
+
+Simple, in theory. Everything was simple in theory.
+
+---
+
+The voltage meter spiked. The thermocycler's display went white, recovered, showed a temperature that was definitely wrong.
+
+Maren was across the room in two steps, pulling the manual override, checking the reaction tube through the lid's scratched polycarbonate window. The tube was intact. She exhaled.
+
+She'd insulated the machine's interior with strips of neoprene from an old wetsuit, which helped buffer temperature swings, which was either brilliant or the reason her amplification efficiency was inconsistent and she'd never fully know. That was the texture of this work. Every solution introduced new variables. You built a model of the system in your head and the model was always wrong in at least two places.
+
+She pulled up the amplification curve on the tablet. The fluorescence readings were noisy but the trend was there. The DNA was copying itself, the target sequences multiplying exponentially in the little tube, the polymerase enzyme—sourced from a thermophilic bacteria culture she'd been maintaining for two years in a modified yogurt maker—doing its ancient, mindless, perfect work.
+
+Life copying life. The oldest trick.
+
+The voltage meter steadied as the clouds moved on. Late afternoon light hit the panels at a better angle and the batteries began, slowly, to recover.
+
+---
+
+She'd deliver the transformed seed stock in three weeks, if the selection process went cleanly. The Wenatchee collective would plant it in spring. If it bred true—and it would, it had to, she'd checked her work four times and would check it four more—their grandchildren would plant the same wheat. No expiration date. No kill switch. No quarterly licensing fee extracted from people who were already dying.
+
+This was what the corporations had never understood, or understood too well and feared: the impulse to share viable things. To pass them forward.
+
+The thermocycler clicked through its final cycle. The display read: *COMPLETE*.
+
+Maren labelled the tube with a strip of medical tape and a marker. She wrote the date, the cultivar, and one other word.
+
+*Persistent.*

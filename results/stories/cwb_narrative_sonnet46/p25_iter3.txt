@@ -1,0 +1,124 @@
+# THE AZRA GAMBIT
+## Chapter Four: *The Invitation*
+
+---
+
+The display screen on the wall cycled through its diagnostics in pale green text—pressure, hull integrity, drive telemetry—and Arthur Neegan read each line the way a man reads a menu in a language he doesn't speak. Methodically. Without result.
+
+He'd had eleven hours to think.
+
+He'd spent them cataloguing what he knew, which was a habit from the mines: before you drill, you map. You account for what's there before you commit to any direction.
+
+What he knew: the retinue had arrived at 0640 local, six men in grey-and-copper livery with sidearms worn openly and expressions worn carefully. They'd been polite the way a locked door is polite—technically offering no violence, practically offering no choice. His neighbour Prast had watched from her step as they loaded Arthur into the courier with his overnight kit and a form he'd had thirty seconds to sign, authorising his *voluntary cooperation* with an *interagency consultation of sensitive mutual interest.*
+
+He'd signed it. Of course he'd signed it. Prast was still watching.
+
+What he knew about what he didn't know: where, precisely, they were headed. The courier's navigation display had been tastefully blanked. The drive signature was Meridian-standard, which meant nothing—half the inner colonies ran Meridian drives, and the other half wished they could afford to. Arthur had tried to estimate travel time from the duration of the burn cycles and arrived at a range of conclusions too wide to be useful. What he could say was that they'd been outbound from Azra long enough for his back to ache and the meal tray to have come and gone twice.
+
+What he'd left behind: a homestead with a questionable water pump. Sixteen barrels of pre-assay sample core. His survey notes, handwritten, in the cabinet above the stove where they would be useful to no one unless they knew to look there, which they might.
+
+He turned the next fact over carefully, the way you turn over a stone you're not sure you want to look under.
+
+What he knew: the insignia on the guard's shoulder was Antares.
+
+He'd only glimpsed it when the man shifted to brace against a course correction—a flash of the crest beneath the folded collar, the paired rings and the angular A that fourteen years of miner's mess rumour had made legible as any warning sign. The Antares Diplomatic Corps maintained offices in seventeen inner-colony jurisdictions and, if even a fraction of what Arthur had heard was true, maintained considerably more enterprise than its filing documents acknowledged. They negotiated resource corridors. They arbitrated extraction rights between parties who arrived at the table as competitors and departed as something harder to name. They hosted the kind of summits where the host's interests had a way of emerging best served. *Diplomatic* was their word. It was not inaccurate. It was the way a foundation is not inaccurate when you ask what holds a building up—technically true, aggressively incomplete.
+
+This was not a corporate extraction play.
+
+Arthur had been prepared, in a provisional way, for corporate. Corporate had recognisable levers and predictable pressure points. You could negotiate with corporate because corporate wanted something quantifiable and had procedures for getting it. Corporate was the river you could learn to swim in.
+
+Antares was not a river.
+
+The vessel hummed. Somewhere below the floor, through two inches of insulated alloy, the drive burned Azra ore into thrust—or its processed derivative, which amounted to the same indignity. Even here. Even now. Arthur thought: *eleven years in the ground, and the ground is what sent for me.*
+
+He looked at the diagnostics and they told him nothing he could use, and he kept looking at them anyway, because a man has to look at something.
+
+---
+
+He was shown into a room that had no business existing on a transport vessel.
+
+Not large—perhaps five metres by four—but furnished with a certainty that made the dimensions beside the point. A table of dark synth-mahogany, its grain running in one direction with the confidence of real wood. Two chairs that did not fold, did not stack, had clearly never been asked to. A decanter of something amber resting in a gimballed cradle, making small adjustments against the faint variance of acceleration with the patience of long practice. The air was cooled and recirculated, as all ship's air was, but it carried underneath the chemical undertone something warmer—cedar, or a synthetic approximation convincing enough to produce the same effect in the chest, which Arthur supposed was the point.
+
+The man behind the table rose when Arthur was brought in.
+
+He was perhaps sixty, carrying it well, with the particular pallor of someone who had spent the better part of his life under artificial lighting and had ceased to regard this as a deprivation. Narrow across the shoulders, dressed in the kind of clothes that communicated money by communicating nothing—no insignia, no ornamentation, a dark fabric that did what fabric was supposed to do and declined to make a production of it. He had the face of a man accustomed to being the second-most-important person in any given room, which was not a small thing to be accustomed to, and something about the steadiness of his gaze suggested he had chosen that position with care.
+
+The quality Arthur liked least, having identified it, was this: the man looked patient. Not composed—that was a different thing, a surface quality, something trainable. Patient. The patience of someone who had made arrangements for time itself and trusted the arrangements to hold.
+
+"Mr. Neegan." He extended a hand toward the opposite chair with the ease of a man in his own office. "My name is Voss. Please sit."
+
+Arthur sat.
+
+"I'm grateful for your flexibility," Voss said, settling back into his own chair.
+
+"I'm not certain I exercised any," Arthur said.
+
+Voss received this without adjustment. "A fair point," he said, which was not an apology and was not intended to be. "I represent a consortium of interests that has been observing the Meridian Basin survey process with some attention over the past several months. Your claim, in particular."
+
+"A consortium," Arthur said.
+
+"The composition is—at this stage—a secondary consideration."
+
+"It usually isn't."
+
+Voss looked at him with the mild interest of a man who has just heard a clock tick slightly differently than expected. From the left side of the room, near the door, an aide made a small adjustment in her standing posture—weight redistributed, attention narrowed—that Arthur registered and did not visibly register.
+
+Voss reached beneath the table and produced a survey chart. He placed it between them with the deliberate care of a man offering a hand in a game he has already won to his satisfaction. It was Arthur's survey—the filing he'd submitted to the Colonial Resource Authority six weeks prior, stamped *Pending Administrative Review,* which was the CRA's way of saying *sealed,* which was a bureaucratic concept that appeared to have meant less than Arthur had been counting on.
+
+The vein was marked in red. It was larger, on this map, than Arthur's own numbers had yielded. Someone had continued the work.
+
+"You've filed six weeks ago on approximately four thousand tonnes of Grade-A Azra ore," Voss said. "Your projections were, if I may, conservative. The seam runs northeast past your current sampling boundary, at depth your present equipment isn't rated to reach. Our independent assessment places the full yield closer to nine thousand tonnes."
+
+Arthur looked at the map. He used the expression he'd developed across fourteen years of inspections gone sideways and administrative hearings with predetermined findings: attentive, level, recording. The expression of a man who is listening and not responding to what he hears, which is its own kind of answer.
+
+"That's a substantial revision," he said.
+
+"It is. It changes the nature of your asset considerably." Voss lifted the decanter and poured for himself, then held it out toward Arthur with a raised eyebrow. Arthur made a small negative motion. Voss set it down. "To be direct with you, Mr. Neegan: a four-thousand-tonne vein is a fine claim. A nine-thousand-tonne vein is an object of serious institutional interest. There are corporate entities—you know their names—who have the legal apparatus and the administrative patience to work a claim out from under its owner through process alone. File reviews, CRA appeals, enviro-impact delays. Eighteen months of paper and you're holding statutory compensation and watching someone else's equipment on your ground." He let this settle. "My consortium is not interested in your land. We are interested in your expertise. A joint extraction agreement, your license retained, you engaged as chief engineer on contract. The returns would make you a wealthy man inside of eighteen months."
+
+Arthur looked at the red line on the map. He thought about the word *partnership* and what containers it had been used to carry over the years and how reliably they had held.
+
+"There's been corporate interest already," he said. It was not quite a question.
+
+"Approaches. Not offers. The distinction matters."
+
+"It does," Arthur agreed. "What's the consortium's position if the corporate approaches become offers?"
+
+"Then the window we're presently sitting inside becomes shorter," Voss said, with the flatness of a man stating weather. "Which is why I'd value your decision promptly."
+
+"Nine thousand tonnes is a number that travels," Arthur said. "Who else has your independent assessment?"
+
+Something crossed Voss's face—brief, precise, and managed immediately back into smoothness. A fraction of a second, maybe less. The aide near the door shifted. A small movement, a centimetre of weight transfer, the kind of thing you would not see if you were looking at Voss, which was why Arthur was looking at Voss and attending, at the edges of his vision, to everything else.
+
+"The assessment," Voss said, choosing the words with a care that had not been there before, "has been held in close confidence."
+
+"But it hasn't been held exclusively."
+
+Voss looked at him. "No," he said. "Not exclusively."
+
+"Then the timeline," Arthur said, "is already under pressure you haven't described to me."
+
+A silence. Outside the vessel's hull, space went about its business indifferently.
+
+"I'd like your answer within seventy-two hours," Voss said.
+
+"I'll need sixty to think properly."
+
+Voss nodded once, the nod of a man recalibrating an estimate upward, and signalled to the aide without looking at her.
+
+---
+
+His cabin was as he'd left it. The wall screen cycled its pale diagnostics: hull integrity nominal, drive output steady, pressure within acceptable parameters. Arthur sat in the chair that was bolted to the floor and stared at the green numbers and turned the meeting over in his mind the way he turned core samples—looking for the layer that changed, the place where one kind of material became another.
+
+Nine thousand tonnes. Someone else knew the nine-thousand figure. Voss had not intended to confirm this and had confirmed it anyway, somewhere in the management of his expression. Which meant the offer on the table was not the opening position but the response to a situation that was already in motion—a situation with more parties than Voss had named and possibly more than Voss himself knew.
+
+The aide's shift in weight. The fraction of a second.
+
+Arthur was not certain what he'd caught the edge of. He was certain he'd caught the edge of something.
+
+He had ten days of stores at the homestead. He'd shut off the well pump before the retinue arrived—old habit, wasted water was the sin the desert never forgave you for. His survey notes were handwritten and above the stove in the cabinet where he kept the things that mattered and the things that needed to stay put.
+
+Prast would water his tomatoes. She was a practical woman with a reliable conscience, and the tomatoes were not her problem, and she would do it anyway.
+
+Arthur looked at the diagnostics. Drive output: steady. He thought: *sixty hours is not very long.* He thought: *it is, however, longer than zero,* which was the only arithmetic that felt reliable at the moment.
+
+He folded his hands in his lap and watched the screen cycle, and thought carefully about what he knew, and more carefully still about what he'd seen without being meant to see it, and began, with the methodical patience of a man who has spent his life reading what the ground conceals, to consider what it might mean.

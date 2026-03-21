@@ -1,0 +1,41 @@
+# The Half-Life of Hunger
+
+The thermocycler was lying again.
+
+Mara could tell by the way the temperature display flickered between 72 and 94 degrees Celsius without settling—the heating block's resistance coils were oxidizing, probably, or the PID controller had drifted again. She'd recalibrated it three times this week using a salvaged thermocouple and a spreadsheet she kept in her head because paper was worth more than the data on it. She tapped the housing with two fingers, a percussive diagnosis she'd learned from the machine itself over eighteen months of cohabitation.
+
+The display settled. The coils clicked. PCR cycle forty-one of sixty began.
+
+Around her feet, the mushrooms pulsed their cold blue-green light—*Panellus stipticus* crossed with something proprietary and now unnameable, one of her early splices that had escaped containment in the way that early splices always did. They grew from the cracked tiles like small lanterns. She'd stopped finding them unsettling around month three. Now they were useful. On nights when the settlement's solar batteries ran below threshold and she had to kill the overheads, she worked by mushroom light. There were worse arrangements.
+
+She checked the reaction tube. Forty microliters of a solution that represented six weeks of work and three deaths—not her deaths, not directly, but deaths she'd been hired to prevent. The sample contained what she hoped was a viable promoter sequence for drought-tolerance, extracted from the last surviving specimens of a Monsanto-variant sorghum before the plants finished their programmed senescence and collapsed into inert organic matter. Engineered obsolescence. The legal term, before there were courts to use it, had been *generational licensing*. The crops grew, produced, and then their engineered sequences degraded—methylation patterns unraveling on a corporate timer, the DNA itself designed to become junk after one reproductive cycle. It had been brilliant, commercially. It had been catastrophic, ecologically. Mara had a more specific word for it that she used when the mushrooms were her only audience.
+
+The contract was simple on its surface. A man named Odel had come to her through the usual intermediaries—the woman who traded antibiotics at the eastern checkpoint, who knew a man who knew a courier, who knew Odel. He represented a settlement three days east, larger than hers, with better water but failing fields. They'd been running the same degraded seed stock for two seasons and watching yields drop in the precise geometric curve that the original engineers had intended. They needed a splice. They needed it to be heritable. They needed it to not kill anyone.
+
+The last condition was the one Mara found optimistic but professionally necessary.
+
+She'd negotiated her payment in insulin analogs—her own synthesis was running low and the tremors in her left hand were becoming a diagnostic problem—plus two kilograms of copper wire, a functioning centrifuge rotor, and something Odel had called *the Venter files*. She hadn't let her face move when he'd said it. The Venter files were supposed to be mythological: a pre-collapse archive of open-source genetic sequences compiled by a coalition of academic holdouts specifically to circumvent the corporate IP landscape. If they existed and were half of what rumor claimed, they were worth more than the settlement itself.
+
+She'd asked to see them first. Odel had smiled with one side of his face and said she'd see them when the splice was viable and heritable and not killing anyone.
+
+The thermocycler finished cycle sixty and beeped twice, which meant it was done, or that it had given up, depending on interpretation.
+
+Mara pulled the tube and loaded the gel. The electrophoresis rig was a food storage container with electrodes stripped from a car battery, filled with agarose she'd extracted from agar-agar packets found in the ruins of a restaurant supply warehouse. The buffer solution was improvised and slightly wrong in ways she'd compensated for empirically. She ran the gel for forty minutes by the clock on her wrist—a mechanical watch, the only kind worth wearing—and then held the result under the UV lamp, which was actually a sanitizing wand from a dental office, modified to emit at the right wavelength, powered by a converter she'd built from a tutorial she'd memorized before the internet finished dying.
+
+The bands appeared.
+
+She looked at them for a long time.
+
+They were in the right place. Not exactly the right place—there was drift, there was always drift with degraded template—but close enough that the sequence was probably functional. Probably. The word did a lot of work in her profession. She'd spliced it into a bacterial vector two weeks ago and the bacteria had survived, which was the first threshold. She'd transformed it into a tobacco plant surrogate—tobacco was still tobacco, unchanged, stubbornly itself—and the plant had survived, which was the second threshold. The third threshold was heritability, and for that she needed a full growing season she didn't have, which was why she was going to have to tell Odel that she could give him viable seed stock with a reasonable probability of heritable drought-tolerance, and that *reasonable probability* was the most honest language available to her.
+
+She was also going to tell him about the secondary expression.
+
+The tobacco surrogate had survived the drought-tolerance test. It had also developed an unusual secondary metabolite in its leaf tissue—she'd noticed it when the leaves began to exhibit a faint luminescence under stress conditions. Not the mushroom's steady glow. Something intermittent. Something that responded to soil moisture levels like a readout.
+
+She hadn't intended that. The degraded template had contributed something she hadn't sequenced, a ghost of the original corporate design that had recombined with her vector in a way she didn't fully understand yet.
+
+It might be worthless. It might be extraordinary. It might be both.
+
+She wrote up her notes in the shorthand she'd developed—partly for speed, partly because legible records were a liability in contract work—and looked at the mushrooms glowing patient and blue around her feet.
+
+*Reasonable probability*, she thought, *is the foundation of everything still alive.*

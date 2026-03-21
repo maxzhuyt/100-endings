@@ -1,0 +1,75 @@
+# SCP-7441: Temporal Correspondence
+
+**Object Class:** Euclid
+
+**Special Containment Procedures:** SCP-7441 is contained within Site-19's Anomalous Documents Archive, Locker 7441-A. Researcher Dr. Mara Osei (formerly assigned to SCP-7441 investigation) is currently on indefinite administrative leave pending psychological evaluation. All recovered notes have been catalogued and cross-referenced with known temporal anomalies in the Foundation database.
+
+---
+
+## Incident Report — Filed by Dr. Mara Osei
+
+The first note appeared on a Tuesday. I know that because I remember being annoyed about the Tuesday staff meeting, the one where Dr. Hargrove spent forty minutes discussing break room refrigerator etiquette. I came back to my desk and found it tucked beneath my keyboard.
+
+The handwriting was mine. I knew it immediately — the way I curl my lowercase *e*, the habit of crossing my sevens. But the pen was wrong. My handwriting in blue ballpoint. I use black exclusively.
+
+The note read:
+
+> *Don't go to Sub-level 4 on the 14th. Tell Hargrove. Tell him before the briefing. You won't want to but you have to. There isn't time to explain everything. — M*
+
+I assumed it was a prank. Someone had studied my handwriting. The Foundation employs people capable of exactly that kind of forgery, and I had recently submitted a negative performance review for two junior researchers. I photographed it, filed it under personal correspondence, and forgot about it.
+
+The 14th was four days away.
+
+I went to Sub-level 4 on the 14th. There was a minor coolant failure in SCP-████'s secondary containment. Nobody was hurt. Hargrove was annoyed I hadn't flagged the maintenance report I'd technically been cc'd on. It was exactly the kind of small, embarrassing incident the note might have been warning me about.
+
+Or it was coincidence. I told myself it was coincidence.
+
+The second note arrived six days later, folded inside a sealed coffee cup I had purchased from the Site-19 commissary. I watched the attendant pour it. I watched her seal the lid. The note was inside.
+
+> *They're going to ask you about the ink. The results come back Thursday. Don't let them dismiss it. The trace elements matter — the ratio of iron gall to synthetic binder isn't possible with current manufacturing. It matters because it means I wrote this from somewhere the pens are different. Somewhere after. Please. You're running out of time to believe me. — M*
+
+The ink analysis had already been ordered. I hadn't told anyone about the first note's handwriting concern — I'd only flagged it internally. The results did come back Thursday.
+
+The report indicated trace elements inconsistent with any commercially available or Foundation-issued writing instrument. The iron gall concentration suggested pre-1970s manufacture. The synthetic binder components suggested post-2019 synthesis. The combination was, according to our materials analyst, "not chemically coherent."
+
+I brought both findings to Dr. Hargrove. He assigned a team.
+
+---
+
+The team's working hypothesis was SCP-████-7, a contained cognitohazardous entity in Sub-level 2 known to induce targeted paranoid ideation in researchers by exploiting their existing anxieties. The theory was elegant: I was a control-oriented person. What better anxiety to exploit than the feeling that something terrible was coming and only I could prevent it.
+
+They weren't wrong that I was control-oriented. They weren't wrong that I was anxious.
+
+But they couldn't explain the ink.
+
+The third note was on my bathroom mirror at home. Not written in steam. Taped there, on Foundation letterhead that didn't match any current template — the logo was slightly wrong, the font marginally different. I stood in my bathrobe for a long time reading it.
+
+> *They're going to tell you it's 7-7. It isn't. 7-7 can't leave the sub-level, we confirmed that in 2019, you were there for that confirmation, you know that. Whatever is sending these isn't contained. It's something we haven't classified yet. The breach happens on the 28th. Hargrove doesn't survive it. I'm writing this from the medical wing and my hands won't stop shaking. The date on my end is the 3rd. That gives you 22 days. I don't know if the notes are going back in order. I don't know if you're reading this first or last. I don't know if I'm already — *
+
+It ended there. Mid-sentence.
+
+I called Hargrove at 6 AM. He told me to come in. I did. I sat across from him in his office and watched him read the note and I thought: *you don't survive the 28th.* I thought it and I couldn't tell him that part because I didn't know if it was real, and if it wasn't real, if it was 7-7 or something else rewriting my perception, then saying it aloud felt like participating in something I didn't understand.
+
+He looked up. He said the logo discrepancy was interesting. He said interesting the way people say interesting when they mean *concerning.*
+
+---
+
+The fourth note came the same day. It was in my own handwriting and it said only:
+
+> *I'm sorry. I tried to be clearer but I'm having trouble remembering what I already sent. The ink is running out. I only have a few more. Don't trust the 5th note. I don't know what happened to me between writing the 4th and the 5th but something did. Don't trust it.*
+
+The fifth note arrived the following morning.
+
+It told me Hargrove was the source of the breach. It told me he had been compromised. It told me I needed to act before the 28th. The handwriting was mine but the pressure was wrong — too hard, like someone gripping the pen in a fist.
+
+I sat with it for a long time.
+
+I had been a researcher for eleven years. I understood that perception was a mechanism, that mechanisms could be interfered with, that the most sophisticated manipulation was the kind that used true things as its scaffolding.
+
+I filed the fifth note separately. I noted the pressure inconsistency. I requested my own psychological evaluation before anyone else could order it.
+
+The 28th came and went without incident.
+
+Hargrove is fine.
+
+I still don't know what that means.

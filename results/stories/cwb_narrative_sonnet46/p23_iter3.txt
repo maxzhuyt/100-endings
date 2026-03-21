@@ -1,0 +1,251 @@
+# SCP-XXXX Incident Log: Researcher Personal Account
+## Dr. E. Voss, Level 3 Clearance, Temporal Anomalies Division
+### Compiled for Internal Review per Directive 7-Gamma
+
+---
+
+I am writing this account at the request of Site Director Calloway, who has asked me to produce a first-person narrative record to accompany the formal incident documentation already submitted under Case File 2291-T. She believes a subjective account will be useful. I have chosen to believe she is right.
+
+I want to be precise. I am a precise person. This is, I think, relevant.
+
+---
+
+**October 14th. A Tuesday.**
+
+The paperwork had backed up during the SCP-1548 review cycle, and I came in early to process it before the morning briefing. This is not unusual. I have Level 3 clearance and a desk in a room that smells of printer toner and the specific anxiety of people who have processed too many anomalous object reports to be startled by anything except normalcy. The desk is gray. The lamp is fluorescent. The form numbers for standard containment log updates run through a series beginning 771-C, and I had forty of them to process before 9 a.m.
+
+I sat down with my coffee.
+
+The note was on the desk.
+
+I want to be very careful about how I describe this, because the order of operations matters. I sat down. I set my coffee to the left of my keyboard, which is where I always set it. I pulled my chair in. I reached for the first 771-C form. And the note was there, under my hand, face up, handwritten on a half-sheet of standard white printer paper, the kind we have in the supply closet off the east corridor, the 90-gram stock, which I know because I order it myself.
+
+The handwriting was mine.
+
+I know my handwriting. I've been producing it for thirty-seven years. I know the way my lowercase E closes too tight at the top, the way my sevens always get a horizontal bar through the middle because I learned to write in Germany where they do that and I never stopped. I know the way I bear down too hard when I'm thinking and lighten up when I'm copying.
+
+This was mine.
+
+---
+
+*Don't open Locker 7 on Thursday.*
+
+*The camera will have missed it. They always miss it. Keep this.*
+
+---
+
+I read it twice. I set it down. I drank my coffee.
+
+Then I did what a researcher does: I reached for a clean evidence bag from the second drawer, slid the note inside without touching it again, sealed it, labeled it with the time (6:47 a.m.), date, and my initials, and placed it in the corner of the desk.
+
+Then I processed all forty 771-C forms.
+
+Then I pulled up the security footage for my office.
+
+The camera covers my desk from the upper-left corner, a wide-angle unit replaced eighteen months ago during the post-Incident-19 security upgrade. The timestamp range I needed was roughly 8 p.m. the previous night—when I'd last been in the office—through 6:47 a.m. when I'd found the note.
+
+The footage ran normally until 2:17 a.m.
+
+At 2:17 a.m., there were four seconds of static.
+
+At 2:17 a.m. and four seconds, the footage resumed. The desk was visible. The note was on it.
+
+I watched the four seconds of static nine times. It was ordinary static: analog grain, the brief nonsense of signal dropout, the kind of thing that happens when a camera hiccups and no one worries about it. There was nothing hidden in it. I made it full-screen and looked for shapes. There were no shapes. It was nothing.
+
+I filed an incident report at 8:12 a.m. I noted the camera anomaly. I noted that Thursday was in two days.
+
+I did not open Locker 7 to check what was inside, because I thought that would be imprudent, and because some part of me, the careful part, the part that has worked in this building for eleven years, thought: *if there's something in there, I don't want to know what it smells like.*
+
+---
+
+**The first set of results came back on Wednesday.**
+
+Dr. Raines in document forensics confirmed the handwriting match at 94.7% confidence. She noted this was high enough to confirm authorship in any legal setting that accepted graphological evidence, but that she couldn't rule out a sufficiently skilled forgery. She phrased this very carefully. She is a careful person, which is why I like her.
+
+The paper matched our standard 90-gram stock. This was unremarkable. There are four reams of it in the east corridor supply closet, and badge records showed that eleven different staff members had accessed the closet in the past two weeks.
+
+What Dr. Raines had also pulled, because she is thorough, was our supply requisition history. The 90-gram stock we currently have was delivered six weeks ago. We are running low. I typically requisition a new batch when we drop under one ream.
+
+There is currently half a ream left.
+
+I had not yet submitted the requisition for the next delivery.
+
+The requisition form was in my drafts folder, half-completed, because I'd been pulled away to the 1548 review and had not gotten back to it.
+
+The paper the note was written on was—is—indistinguishable from paper I currently possess.
+
+I noted this in my log. I moved on.
+
+Colleagues interviewed: nine. Of the eleven people who had accessed the supply closet, two were on leave and could not be reached before Thursday. Of the nine I interviewed, none reported entering my office after hours or leaving anything on my desk. Three of them seemed faintly insulted that I'd asked.
+
+My most recent psychological evaluation, conducted six weeks ago as part of standard annual review, had returned unremarkable results. I had been rated Cognitohazard Exposure Risk Level 1, baseline, with no noted deviations in reality testing or self-perception. I pulled this file and read it with what I can only describe as longing.
+
+---
+
+Thursday passed.
+
+I did not open Locker 7.
+
+Nothing occurred.
+
+Locker 7 did not open itself. No one else opened it. No alarm was triggered.
+
+I noted in my log that the predicted event either had not occurred, had occurred in a form I could not detect, or had been avoided. All three remained possible. I noted this was unsatisfying.
+
+I noted that I had slept four hours in the past two nights and that this was not anomalous. I sleep poorly when I have open cases.
+
+---
+
+**The second note appeared Friday morning.**
+
+I found it the same way: sitting down, reaching forward, my hand landing on it without anticipation. My name was at the top this time. Just my name. *Elisa.* Then:
+
+---
+
+*Dr. Raines will spill her coffee on the east stairwell at 3:15 p.m. today. The cup is the one with the lighthouse on it. She will be fine. This is not important except that it will be true.*
+
+*You need to understand that these are real.*
+
+*Ask them about the Loscaux Event. That's what this is related to. They've been keeping the Loscaux classification from you.*
+
+---
+
+I had not heard of the Loscaux Event.
+
+At 3:15 p.m., I was in the east stairwell. I told myself I was going to the third-floor supply station, which is not where I normally go, which means I was lying to myself, but I was doing it for documentation purposes, so I felt the lie was acceptable.
+
+At 3:16 p.m., Dr. Raines came down the stairs with the lighthouse mug. The ceramic caught the handrail on the middle landing. The coffee went across three stairs and the left thigh of her slacks, and she said something I will not reproduce here, and she was fine.
+
+I went back to my office.
+
+I requested, through the appropriate clearance channels, any file associated with the term "Loscaux Event."
+
+I received a reply from Director Calloway, two hours later, informing me that this clearance request was under review.
+
+---
+
+**The third note appeared Saturday, though I was not supposed to be in that day.**
+
+I came in because I couldn't stop thinking about the stairwell. I told myself I had forms to finish.
+
+The note was on the desk. The handwriting was different: still mine, still recognizably mine, but faster, cramped into the upper half of the page as though the writer hadn't been sure they had enough room.
+
+---
+
+*The Loscaux Event was in 2019. You were involved. You don't remember because the memory was suppressed under Protocol 11-D but it's in your file if you request it under sub-clause 7 of the Ethical Disclosure Act—not through Calloway, she'll deny it, go through Dr. Mehta in ethics and compliance.*
+
+*You are not going crazy. Do not let them make you think you are going crazy. The entity in Bay 4 cannot write. It does not have hands.*
+
+*Room 7 is not a room number. The Locker 7 I meant is the exterior equipment locker on the east side of the facility. Check the serial number on the inside panel. The serial number will tell you what this is.*
+
+*One thing: the requisition*
+
+---
+
+It stopped there. Mid-sentence. As though interrupted.
+
+What struck me—what I need to put on record, because I am committed to precision—was not the information it contained but the last room number. I had already checked the internal building schematic when I got the first note. We have no Room 7. The building jumps from 6 to 8 on every floor because, eleven years ago, a containment failure in what was then Room 7 on the third floor required the space to be sealed and re-designated storage. The room number was removed from all signage.
+
+A new employee might not know this.
+
+I have known it for eleven years.
+
+The note was in my handwriting.
+
+---
+
+**I received the competing memos on Monday.**
+
+They arrived simultaneously, which I suspected was intentional—Dr. Okafor and Dr. Schreiber presenting their hypotheses in parallel, as though to prevent me from reading one without the other. I have reproduced the relevant sections here.
+
+---
+
+*FROM: Dr. J. Okafor, Temporal Displacement Research Unit*
+*TO: E. Voss, Case File 2291-T*
+*RE: Hypothesis A — SCP-XXXX Temporal Bleed Mechanism*
+
+*The documented characteristics of SCP-XXXX are consistent with the anomalous phenomenon currently under investigation. SCP-XXXX is known to produce localized temporal displacement events affecting written material within a radius of approximately 40 meters from its current containment location. The east wing research office occupied by Dr. Voss falls within this radius. Previous bleed events associated with SCP-XXXX have displayed the following properties: (1) apparent transmission of information from a future temporal position to a past one; (2) physical presentation in a medium native to the receiver (handwriting, in documented cases); (3) signal degradation consistent with increasing temporal distance between transmission point and reception point.*
+
+*Recommendation: continued monitoring, restriction of Dr. Voss's proximity to SCP-XXXX during active anomalous periods, ongoing verification of transmitted information for accuracy assessment.*
+
+*The inaccurate room number in the third transmission is consistent with degraded signal. A future-self transmitting under cognitive and physical stress may produce errors.*
+
+---
+
+*FROM: Dr. A. Schreiber, Cognitohazard Containment Division*
+*TO: E. Voss, Case File 2291-T*
+*RE: Hypothesis B — SCP-7744 Exploitation of Psychological Vulnerability*
+
+*SCP-7744, currently contained in Bay 4, has demonstrated in prior incidents a capacity to generate false sensory and documentary experiences in subjects who have been exposed to anomalous materials for extended periods. The mechanism is not fully understood but appears to exploit existing patterns of self-doubt, professional anxiety, and epistemic uncertainty in a targeted individual.*
+
+*It should be noted that SCP-7744 has not, to date, produced physically real objects. The notes described in Dr. Voss's incident report are physically real. This is inconsistent with SCP-7744's documented profile, but not impossible: we do not fully understand the outer parameters of its capability.*
+
+*The most parsimonious explanation for the inaccurate room number (assuming SCP-7744 involvement) is that the entity does not have complete access to the target's knowledge, and filled a gap incorrectly.*
+
+*Recommendation: Dr. Voss should be considered a potential subject, in addition to a researcher, pending further evaluation. Her proximity to both SCP-XXXX and SCP-7744 should be restricted.*
+
+---
+
+I read both memos twice. Then I read them again.
+
+Dr. Okafor's memo told me I might be receiving messages from myself.
+
+Dr. Schreiber's memo told me I might be a vulnerability that something was using.
+
+Neither of them told me the difference would matter, at the end, to whatever I was becoming.
+
+I wrote in the margin of Dr. Schreiber's memo: *the entity in Bay 4 cannot write. It does not have hands.* I stared at what I had written. I had not read that sentence in the memo. I had read it somewhere else. I crossed the margin note out and stared at the room number, which I had put in the wrong place to begin with, and which I had apparently already known about.
+
+I did not request to be removed from the case.
+
+I knew I should. I understood, clinically, that a researcher who cannot trust their own perception is not a researcher anymore. I had written that sentence, or something like it, in at least three prior case notes about other people.
+
+I did not request to be removed.
+
+---
+
+**The fourth note arrived Tuesday night.**
+
+I know when it arrived because I was in my office when it appeared.
+
+I have been trying to write this section for three days. I will simply describe what I observed.
+
+I was at my desk at 11 p.m. The desk lamp was the only light in the room. I had positioned my chair so that the desk was fully visible. I had placed a fresh sheet of blank paper in the center of the desk, the idea being that if a note appeared, I would see the contrast between the blank white sheet and whatever arrived on top of it. I had angled the camera so the desk would be in frame. I had a cup of cold coffee and a legal pad and I was taking timestamped notes.
+
+At 2:17 a.m., the desk lamp flickered.
+
+I did not look away. I am certain I did not look away. I was looking at the desk and the lamp flickered and I was looking at the desk.
+
+When the lamp steadied, there was a note on top of the blank sheet.
+
+I believe I did not look away.
+
+The camera shows four seconds of static beginning at 2:17 a.m. My timestamped observation log, which I was writing by hand on the legal pad, shows a gap between 2:16 a.m. and 2:18 a.m. in which I apparently wrote nothing. The pen rested on the page during this gap, leaving a blot of ink where it sat idle. The blot is dark enough to suggest approximately four seconds of contact.
+
+I do not remember those four seconds. I am recording this precisely. I do not have access to those four seconds of my own experience.
+
+The note:
+
+---
+
+*Elisa—*
+
+*I don't have much of this left. The— [illegible, three words] —is accelerating and I can't tell what's* [illegible] *anymore. They're going to* [illegible] *before you can—*
+
+*The Loscaux file. Mehta. Before* [illegible] *Thursday.*
+
+*[Approximately twelve lines, illegible. A word appears to be crossed out seven times in what may be the fifth line.]*
+
+*What looks like a water stain occupies the lower left quadrant. Or something else. I am not able to determine which.*
+
+---
+
+*DO NOT LET THEM RECLASSIFY YOU AS A SUBJECT.*
+
+*STAY A RESEARCHER. IF YOU ARE THE RESEARCHER YOU CAN STILL—*
+
+---
+
+The block letters were printed in the lower quarter of the page, separated from the illegible handwriting by a clear space, as though whoever had written the rest of the note had gathered themselves, had found the bottom of whatever was left of their precision, and had spent it on those words alone. The ink pressure in the block letters is heavier than anywhere else on the note. They were written last. I know they were written last because the remaining ink in the rest of the note's letters had already begun to lighten by that point—the pen running dry—but the block letters are dark and deliberate. Someone saved something for them.
+
+I stayed at my desk until 6 a.m. No further notes appeared. I drank the cold coffee. At some point I fell asleep in

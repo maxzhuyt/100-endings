@@ -1,0 +1,10 @@
+{
+  "prompt_id": "3",
+  "iteration": 3,
+  "model": "anthropic/claude-sonnet-4-6",
+  "pipeline": "precomputed_warmup + beats (6 templates)",
+  "words": 1431,
+  "chars": 8121,
+  "narrative_source_id": "A2",
+  "has_step1": true
+}

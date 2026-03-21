@@ -1,0 +1,251 @@
+# Hacker Mindset
+
+The WiFi password is taped to the counter.
+
+Not metaphorically exposed—physically, literally, a strip of masking tape on the host stand with *GoldenDragon2019* in blue Sharpie, visible from the street if the door is open, which it is, because it's June, which it is. I'm already inside and I've already read it and I'm already not going to say anything because saying something is not what a person does when they are on a date. They sit down. They look at the menu. They do not scan the room for the POS terminal and clock that the cable routing from the register runs unshielded behind an unlocked service panel that any busperson with bad intentions and five minutes could access without anyone at the host stand having a sightline to it.
+
+I'm looking at the menu.
+
+The POS terminal is a Square reader, probably running an outdated firmware version because restaurants always run outdated firmware versions because the person responsible for updating it is the same person responsible for fourteen other things and firmware doesn't yell at you when it's neglected. The host has seated three parties in the time I've been here. Window table. Corner table. Window table. She's doing it by rotation without accounting for party size or server sections, which means—
+
+Jamie isn't here yet.
+
+I'm looking at the menu.
+
+The thing about menus is that they are also systems. Here is what this restaurant wants to sell you. Here is the item with the highest margin, positioned upper-right because the eye gravitates there, slightly italicized, with a two-adjective descriptor and a price that ends in 9. Here is the *actual* good dish, buried in the middle of page two, no frills, reasonable price, the thing the kitchen can execute without drama. The salmon. Always order the salmon.
+
+I put the menu down.
+
+I pick the menu back up.
+
+Jamie arrives at seven-oh-four, which is either four minutes late or precisely on time depending on the social protocol we've both implicitly agreed to without discussing, and is wearing a jacket that costs more than it looks like it costs and carrying a canvas bag with a faded logo from a security conference I attended two years ago—wait.
+
+I look at the bag.
+
+I look at the bag again.
+
+DEF CON 28. The year everything went virtual, so the bag is merch from a conference neither of us physically attended, which means Jamie bought it secondhand or retroactively, which means—
+
+"Sorry, am I completely late?" Jamie drops into the seat across from me. "The parking on this block is—"
+
+"No," I say. "You're exactly on time. I was early." I smile, and the smile is real, which I note, as evidence.
+
+---
+
+The thing is: people are systems.
+
+I know how this sounds. I'm not saying it approvingly. I'm describing a cognitive problem I have, the way someone might describe tinnitus—not a philosophy, just a noise that's always running. Jamie is sitting across from me and the system-read is already happening, already compiling: the way Jamie's gaze moves when thinking (up-left, probably auditory processing, probably thinks in sound), the conversational opening gambit (question about parking, self-deprecating, designed to establish low-stakes common ground before anything personal), the tells for genuine versus performed interest (chin tilt, direction of the lean, whether the phone goes face-down or face-up).
+
+*Please,* I think at myself, *stop it.*
+
+*People have social APIs,* I think, and then I think: *you are on a date, not a pentest, and Jamie is a person, not an authentication endpoint—*
+
+"Have you been here before?" Jamie asks.
+
+Social engineering vector, *textbook—*
+
+Oh, for the love of—
+
+"Once," I say. "The salmon is good. They're doing something with the pricing on the pasta that I find kind of offensive, but I think that's a me problem."
+
+Jamie laughs. It's a real laugh. I can tell because it's slightly louder than Jamie probably intended and there's a half-second of surprise in it, the involuntary kind, before the performance of *laughing* catches up to the actual laughter.
+
+I clock this as data. I immediately hate that I clocked it as data.
+
+"Okay, pricing offense," Jamie says. "Tell me."
+
+So I tell Jamie about menu engineering. The golden triangle. The decoy item. The way a $28 pasta makes the $32 salmon feel like a bargain when the salmon was always the item they wanted you to order. I'm doing the thing where I explain systems because systems feel safe, where information flows outward in place of anything more load-bearing—
+
+Jamie is nodding.
+
+Not politely. Actually nodding, with an expression I don't have an immediate read on, which is unusual, which is—
+
+"It's the same thing with booster draft," Jamie says. "You know? People think the expensive cards are always the picks but you're actually looking for the hidden interactions. The uncommon that breaks a mechanic no one is paying attention to."
+
+I put down my water glass.
+
+"MTG?" I say.
+
+"Always MTG," Jamie says. "Why, is that—"
+
+"What's your format?"
+
+"Draft, mostly. Some Commander. I had a brief Vintage phase that got expensive fast and I am not going back there."
+
+"Vintage is a threat model with a ten-thousand-dollar minimum," I say, "and the threat is your own wallet."
+
+Jamie points at me. "Exactly. Exactly. Okay—do you build or do you net-deck?"
+
+"I build," I say, "and then I lose, and then I examine the logs to understand why I lost, and then I build something slightly worse for completely defensible structural reasons."
+
+"You examine *the logs,*" Jamie says.
+
+"I have a spreadsheet."
+
+"Of course you have a spreadsheet."
+
+"It's color-coded."
+
+"By what?"
+
+"Loss type."
+
+---
+
+Here is what happens to my internal monologue for the next forty minutes:
+
+.
+
+.
+
+.
+
+I'm aware, distantly, that the restaurant has gotten louder. I'm aware that we've moved from draft formats to the specific misery of drawing your bomb rare on the turn you die, to the cards that look bad and are secretly broken, to a disagreement about a rules interaction that I'm fairly certain I'm right about and Jamie is fairly certain Jamie is right about and neither of us has a definitive ruling handy so we are both speaking faster and leaning forward and the table between us has somehow gotten smaller.
+
+The salmon arrives. I don't remember ordering it.
+
+There's a moment where I realize I've been talking for three minutes uninterrupted and Jamie has not checked a phone, not glanced at the door, not performed the polite facial expression that means *I am waiting for you to finish.* Jamie is just—listening. Asking questions that are responsive to what I actually said, not to a version of it that was easier to answer.
+
+I feel something move in my chest that I refuse to analyze.
+
+"The thing that gets me," Jamie is saying, "is the color pie. Like, the premise that black isn't evil, it's *self-interested,* and white isn't good, it's *authoritarian,* and the whole system just—it models something true about how power actually works—"
+
+"It's an alignment system that admits it's a gradient," I say. "Which is more than most alignment systems do."
+
+"*Yes,*" Jamie says. "Yes, exactly."
+
+---
+
+The phone comes out when the entrees have been cleared and we're waiting on the dessert menu that neither of us will order from but both of us have agreed to look at, which is its own kind of system, the ritual extension of a thing that is going well.
+
+It's face-down to start. Then a notification, and Jamie flips it over, glances at it, and reaches to unlock it.
+
+The pattern is an L-shape. Top-left dot to middle-left to bottom-left to bottom-right. It's—objectively—one of the six most common Android unlock patterns. It's in every public dataset. A script could brute-force the space in minutes, which isn't even the real vulnerability, the real vulnerability is that I watched Jamie enter it from across the table because I'm always watching for patterns, because my brain treats everything as an attack surface, because I cannot stop doing this, because—
+
+"Your unlock pattern," I say, "is really—"
+
+I watch myself say it from about six feet above my own body.
+
+"—it's one of the most common ones. L-shape." I make the gesture in the air. "It's in breach datasets. If anyone—"
+
+The expression on Jamie's face moves through three phases. The first is confusion. The second is the specific discomfort of realizing you've been watched in a way you didn't consent to. The third is something that closes, quietly, like a tab.
+
+"Right," Jamie says.
+
+The phone goes face-down.
+
+I think about the masking tape on the host stand with *GoldenDragon2019* written in blue Sharpie. I didn't say anything about that. I walked in and I read it and I filed it and I didn't say a word, and it was no effort at all, it was completely automatic, to keep that one to myself, and somewhere in the distance between that moment and this one I had apparently failed to apply the same filter.
+
+The words are out.
+
+The glass is on the floor.
+
+---
+
+Jamie is not leaving. I want to mark this down because my initial damage assessment—which begins before the echo of my own voice has finished, which is already running penetration tests on the last thirty seconds—flagged a non-trivial probability of Jamie excusing themselves to the restroom and not returning, which is not what is happening.
+
+What is happening is: silence.
+
+Not hostile. Recalibrating.
+
+I run the post-mortem. Okay. Input: an unrequested security assessment of a personal device during what was, up to this point, a promising social interaction. Tone: technically accurate, probably slightly professorial. Implicit subtext, as received: *I was watching you without your knowledge and categorizing what I saw.* Secondary implication: *I do this automatically. I cannot help it. You are a surface to be scanned.*
+
+All of which is, unfortunately, true.
+
+The output was a data breach in human form—not malicious, not targeted, reflexive—but the impact of a vulnerability doesn't care about the intent behind the exploit.
+
+I need a recovery vector. I could—there's the conversational redirect, circle back to MTG, land on something warm and shared, re-establish the frequency we had twenty minutes ago when we were both leaning forward and I wasn't—
+
+I notice that I am strategy-mapping the silence.
+
+I notice that I am applying penetration-testing logic to a human moment I broke with penetration-testing logic, and the recursion of it lands somewhere behind my sternum like a key turning in a lock, and I think: *this is the part. This is the part where you do something different.*
+
+---
+
+"I have a problem," I say.
+
+Jamie looks at me.
+
+"Not a—I don't mean it like." I stop. I start over. "I worked in offensive security for six years. Red team. The job is to find the weaknesses before someone with bad intentions does. You look at everything as a potential attack surface. The system. The building. The person. You're always looking for the gap."
+
+The dessert menu appears. The server reads our faces and disappears.
+
+"And I was very good at it," I say. "Which I am not saying to sound impressive. I'm saying it because being good at it meant I was doing it constantly. At the grocery store. At family dinners. I once spent an entire Thanksgiving mentally mapping the vulnerabilities in my sister's home network instead of—" I stop. "Anyway. I don't do it professionally anymore. I switched sides. I'm in defense now. Helping organizations close the gaps instead of finding them. Which I thought would turn off the habit."
+
+I look at the table.
+
+"It hasn't entirely turned off the habit."
+
+I don't look up yet because I am, for possibly the first time this evening, genuinely uncertain about what I'll see, and I find that I would like to stay in the uncertainty for one more second rather than resolve it before it's ready.
+
+"I saw the WiFi password," I say, "taped to the counter when I walked in. *GoldenDragon2019.* I didn't say anything. I knew it was irrelevant, I knew it wasn't my place, so I just—filed it away and moved on." I risk the look up. "I don't know why the phone was different. I think it was reflex. I think I got comfortable and the filter slipped and—I'm sorry. That was a weird thing to do to someone."
+
+Jamie is quiet for a moment.
+
+"*GoldenDragon2019,*" Jamie says.
+
+"Yeah."
+
+"That's terrible."
+
+"Objectively terrible."
+
+"What would they run instead?"
+
+"Passphrase minimum twelve characters, special characters, rotated quarterly, not posted on a piece of tape on the physical counter of the restaurant—"
+
+"And my phone pattern."
+
+"You could do a six-digit PIN. Or—honestly, at this point a passphrase lockscreen isn't excessive."
+
+Jamie's expression, which had been doing something careful and difficult to read, shifts. Not all the way to where it was. But in that direction.
+
+"Do you do this with everyone?" Jamie asks. Not unkindly.
+
+"I do it with everything," I say. "People included. I'm working on it."
+
+"What does working on it look like?"
+
+I think about the answer.
+
+"Tonight," I say, "it looked like not mentioning the POS terminal's cable routing. Until just now."
+
+---
+
+Jamie does not laugh. It's not that kind of moment.
+
+But something eases, marginally, in the way Jamie is sitting. I watch the recalibration continue—openly this time, because the watching has been named, because I'm not pretending I'm not doing it, because maybe the difference between surveillance and attention is whether you admit to looking.
+
+"My sister thinks I have a problem too," Jamie says. "Different problem. She says I over-explain everything. That I can't just *have* an opinion, I have to build a case for it."
+
+"That sounds like a feature," I say.
+
+"That's what I keep telling her." Jamie turns the phone over, face-up, between us. The screen is off. The gesture is something—I'm not certain what, exactly, which is not a sensation I'm used to. "I'll change the pattern."
+
+"You don't have to."
+
+"I know I don't have to. I'm choosing to. Is that better?"
+
+I think about choosing. About how few of the things I do this evening have felt like choices and how many have felt like subroutines executing without authorization.
+
+"Yeah," I say. "That's better."
+
+---
+
+We don't order dessert. We stay for another forty minutes anyway, because the conversation goes somewhere I didn't plan for and then somewhere else again, and at some point Jamie tells me about a Commander deck built around an obscure enchantment interaction that three different people told Jamie was nonfunctional before Jamie proved that all three people were wrong, and I feel something I can only describe as recognition—the sensation of encountering a mind that operates in a register similar to your own, which is either connection or threat-identification, and I'm no longer certain those are different things.
+
+At the door, Jamie says something. I'm still turning it over when I get to my car. Still turning it over five minutes later when I'm sitting in the parking lot not driving anywhere yet.
+
+I'm trying to parse it—the specific phrasing, the tone, what the combination of those two variables typically predicts in a social-closure context, whether the subtext should be read as warm or cautious or both simultaneously—
+
+The analytical machinery is engaged. It is looking for the pattern. It is considering the data.
+
+It doesn't have enough.
+
+I sit in the car in the parking lot in the dark and I wait, without conclusions, for information I cannot extract—only receive.
+
+Somewhere in the restaurant behind me, the door is probably still open.
+
+The password is still on the counter.
+
+I don't say anything about it to anyone.

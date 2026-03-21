@@ -1,0 +1,145 @@
+# Polymerase Chain Reaction
+
+---
+
+The buffer solution was wrong by four-tenths of a molar and she knew it before she tested it, knew it the way you know a smell has changed in a room before you can name what's missing. Maren drew it up anyway, ran the pH strip, watched the color stop half a shade east of where it needed to be. She added sodium hydroxide from the dropper she'd labeled with a piece of tape and a notation so old the ink had grayed to suggestion. Tested again. Better. Not right, but better was the standard she'd been applying for fourteen months to everything in this room, and the room still stood, and the cultures on the back shelf still breathed their cold blue-green light into the dark.
+
+The thermal cycler occupied most of the center table. It had once been, in some previous and unrecognizable configuration, a portion of a microwave oven—she could still see the door hinge mounting holes on its left flank—and it had also been a car battery, a salvaged Peltier element from a camping cooler, three separate circuit boards from three separate contexts, and about forty hours of her attention. Now it was this. It hummed with a sound that was not quite right for any of its ancestor machines, a frequency that was its own, that she had come to understand as its particular voice. She knew when it was running true and when it was laboring. Right now it was running true.
+
+She moved around it to check the samples racked in their thin plastic tubes—thin because plastic was rationed and tube walls had gotten thinner with each generation of fabrication, and someday they would be too thin and she would have to find another solution, but not today. Each cap sealed with a press of her thumb. She did this without looking directly at what she was doing; her hands knew the tubes by diameter, by resistance, and she could read container integrity through her fingertips the way the settlement's oldest farmer read soil moisture through his, and she suspected they were practicing the same skill in different media.
+
+Her left hand trembled through the last three caps. A fine, shallow tremor, the kind that registered in glass but not in flesh. She had mapped it over six months: worse in cold, worse in the hour after she ate, better after four hours of sleep which she did not often get. The splice that produced it had been aimed at her immune response, at a particular cytokine loop that kept getting her sick in the wet season. It had worked. She no longer got sick in the wet season. The tremor was the price entered in the ledger, and the ledger was hers to maintain, and she maintained it.
+
+The GenVault canisters stood ranked along the back wall below the culture shelf—seven of them, each the size of a small fire extinguisher, each printed with the company logo in a blue and silver that had been designed to communicate trustworthiness, reliability, the steady institutional hand. *GenVault: Your Legacy, Secured.* She had turned them to face the wall months ago. She was not sure when or why she had done this. The backs of the canisters were flat silver, utilitarian, and held her homemade buffer solutions, her enzyme preps, her primer stocks, and three things she hadn't fully catalogued yet that she'd received in trade. The flat silver caught the bioluminescent light and held it in a way the logos hadn't.
+
+She was checking the temperature ramp on the cycler—denature at ninety-four, drop, anneal at fifty-eight, drop, extend at seventy-two, hold—when she heard the outside door, the corrugated panel she'd weighted with a salvaged barbell to discourage casual entry. Someone had lifted it. She didn't straighten or turn. She finished reading the display, noted the time in the log by the table's edge, and then turned.
+
+---
+
+The boy was maybe eleven. She had seen him before—he ran messages for two or three of the settlement's arrangement-brokers, which meant he was trusted, which meant he was good at seeming to carry nothing of weight. He stood in the doorway with the corrugated panel resting against his back, careful not to let it scrape down, and he waited for her to indicate he should come in.
+
+She nodded.
+
+He came in and stood at the middle distance, not approaching the table.
+
+"Someone outside the southern wire," he said. "Wants something run. Sequenced, amplified, clean copies delivered in a container that can hold cold."
+
+She waited.
+
+"Payment is four units of encapsulated insulin. A rack. Full rack."
+
+She set down the canister she had picked up at some point without deciding to. Set it down carefully, centering it on the shelf, making certain it was stable before she moved her hand away. She was aware that she had done this before she experienced any thought she could have named as a thought. Then she experienced thought: a rack of insulin was forty doses. There was a child in the settlement's east quarter with brittle type one, a girl who was ten and who had been rationed to every other day for the last three weeks, and who would not make it to spring on every other day, and whose mother Maren saw sometimes in the line for water rations and did not speak to because there was nothing useful she could say.
+
+"Sequencing what," she said.
+
+"Didn't say."
+
+"Who's the principal."
+
+"Didn't say."
+
+"What do they need the amplified copies for."
+
+The boy's expression did not change. This was the form of the conversation; these were the questions she was supposed to ask. "Didn't say."
+
+She looked at the cycler. The display ticked through its ramp. Ninety-four degrees, ninety-two, ninety.
+
+"Tell them I'll hear the sample details," she said. "Not a commitment."
+
+The boy nodded and was gone, and she listened to the corrugated panel scrape down behind him, and she stood in the bioluminescent quiet and thought about a girl who was ten years old and whose blood could not manage its own sugar and who had about six weeks left at current ration before the math became unsurvivable.
+
+The thermal cycler said *click* as it transitioned into the anneal phase, and she turned back to the table, and she worked.
+
+---
+
+The agricultural sequence she was supposed to be running was the settlement's winter rotation stock—the second generation of a drought-variant wheat that had come to them as seed from two valleys over, traded for labor, and which was showing signs of what she could not yet call disease but was watching with the attention she would have given disease. The question the settlement's council wanted answered was: was the genetic drift in the second generation enough to affect cold tolerance? Was what they were planting next month the same thing they thought they were planting?
+
+The PCR cycle ran. She watched it without watching it—her attention divided between the cycler display and the preparation of the gel, an agarose pour from a batch she'd made from a seaweed derivative that was not quite right but close enough that close enough was a thing she had learned not to consider at length.
+
+The run finished. She pulled the tubes, loaded the gel, ran the current, and then took the gel to the UV substitute—a salvaged forensic lamp that ran on a UV-adjacent frequency and that she'd modified with a filter made from layered acetate sheets, each sheet doing partial correction of the spectrum. Under its light the gel showed its bands.
+
+She stood for a moment looking at what she had.
+
+The bands were wrong. Not wrong in the way of contamination—she knew contamination's signature, its smear, its diffuse edges. Wrong in the way of fragmentation. The DNA in this sample was degraded at the molecular level: the bands were present but ghosted, double-imaged, the larger fragments showing catastrophic breakage at the points that mattered most. Whatever cold tolerance remained in this variety, it was dissolving generationally, copying error accumulating in the sequence with each planting, each replication. The wheat was losing fidelity with itself. By the third generation it would be a different variety. Whether the different variety would be viable was a question she could not answer from this gel.
+
+She noted the results. Adjusted the primer concentrations—pushed the magnesium chloride up—and ran the sample again.
+
+The second result was slightly better. The ghosting reduced, the bands sharper, but she was now reading the sample's actual state more clearly rather than having produced improvement in the sample, and the state was: marginal. They were planting marginal seed into marginal soil with marginal weather models heading into a winter she could not predict, and the margin between marginal-viable and marginal-not-viable was the work she did in this room.
+
+She wrote the results in the log with the gray-inked notation. Started a fresh log line below it. Noted the adjusted concentrations.
+
+The bioluminescent cultures shifted on their shelf the way they did sometimes for reasons she had never fully characterized—a slight brightening, a change in the colony distribution, as though something in the room's atmosphere had changed. She looked up at them. Her night vision let her see the cultures in more detail than she was meant to see: each individual dot of light, the blooms of brighter growth at the colony edges, the channels of relative dark between populations where competition had established its boundary lines. This was the splice she hadn't aimed for, had received as an unintended consequence of the photoreceptor work she'd done to help her read gels in low light, and which had instead given her something further than that—not just better function in the dark but a different relationship to the dark, a way of being in low-light environments that felt not quite like a human adaptation. She was aware of this wrongness precisely because the vision itself was genuinely useful, and the two facts sat in her skull side by side and did not resolve, and she had made peace with the fact that they were not supposed to resolve.
+
+She looked back at the gel.
+
+She looked at her reflection briefly, caught in the dark glass of the lab's single intact window panel. The bioluminescent tinge to her fingernails—a side effect of working in such close proximity to the cultures for so long, or something more deliberate she was no longer certain she remembered deciding; the log from that period was incomplete. The flat, low-grade fever she'd carried since the cytokine splice: not illness, just warmth. She ran at point-eight degrees above baseline and had for eight months and her body had adapted to its own heat the way it adapted to everything, quietly, without commemoration.
+
+She ate something—hard grain cake, half of one, the current day's allotment. She ate standing at the table the way she always did, her eyes moving between the gel image and the log. She had learned to eat without tasting during her first postgraduate laboratory placement, which had been a different world in the sense that it could not now exist, and the skill persisted.
+
+---
+
+The boy came back in the evening, when the cultures had brightened with whatever triggered their brightest pulse—she had a theory about barometric pressure but had not been able to confirm it—and this time he was carrying something, a folded piece of film plastic wrapped over a small sealed tube.
+
+He stood at the middle distance again.
+
+"Sample," he said. "Agricultural. That's what they said to say. Soybean variant. They want it sequenced and amplified to clean copies and delivered cold."
+
+She took the tube from him without taking the outer wrapping. Let it rest in her palm. "That's all the specification."
+
+"That's what they said to say."
+
+"What changed," she said, "about the payment."
+
+The boy said nothing. Which was itself an answer—she watched his face, which was eleven and careful in the way of someone who had learned that useful things could be extracted from your face if you weren't watchful.
+
+"Tell them I'll run it," she said. "Deliver in five days. Confirm the cold transport container needs."
+
+He left.
+
+She stood with the tube in her palm for a moment. The payment hadn't changed. A rack of insulin, forty doses, which was the same payment they'd offered before she'd heard what the sample was. The price had been set before she'd been told what she was pricing. That was a calculation. She had understood it as warning, felt it as warning before she thought it as warning, and she had said yes anyway and was now holding a small sealed tube in her left hand, which trembled with a fine, shallow motion that was the cost of surviving the wet season.
+
+She set the tube in the sample rack with the others and looked at it there for a moment before she looked away.
+
+---
+
+She ran the prep the next morning—primer design, mastermix formulation, sample loading—moving through each step with the particular focus she kept for work that had to be right rather than work that could be close enough. The PCR cycle loaded and ran: denature, anneal, extend. Ninety-four degrees, drop, fifty-eight, drop, seventy-two. The cycler's hum at its own frequency, which was true this morning, which she registered without registering it.
+
+The gel poured. Set. She loaded the ladder in the far lane, loaded the sample wells, ran the current, and then she did not move to the UV lamp immediately. She made notes in the log. She checked the cultures. She ate the other half of the previous day's grain cake, which was the same as today's, which meant she had miscounted at some point or had not eaten yesterday's morning allotment.
+
+Then she took the gel to the lamp.
+
+She looked at what the gel showed for a long time. Long enough that the lamp's UV-adjacent frequency left a faint afterimage when she straightened and looked away. Long enough to read the result from several angles and find the same result from each angle, which was what she did when she was not yet willing to be certain.
+
+It was not soybean.
+
+She knew what she knew from twelve years of gels—knew sequences by their banding patterns the way she might have known a face by its proportions. This was not a soybean variant. The bands clustered in a region that did not correspond to crop genetics; they corresponded to something that used the same chassis, the same biological architecture, the way two structures built on the same land survey could look nothing like each other. The sequence embedded in this sample was using agricultural DNA as a vehicle, a carrier, a thing designed to look like what it was moving through. And the embedded sequence—she looked at it again, let her eyes rest on the pattern, let the pattern be what it was—might have been therapeutic. There were genomic defense applications, population-level immunity platforms, yield enhancement sequences, that this could have been. It might have been any of those things.
+
+Or it might not.
+
+The line between those possibilities had once been held by the companies whose logos she'd turned to face the wall. Without the companies, the line didn't exist as a line; it existed as a question that she was standing alone in a room answering.
+
+She thought: the sequence had come to her in a sample she'd received as agricultural, from a contact she had trusted, which meant either her contact had not known its contents or had known its contents and had decided not to tell her. She thought both versions of this and held them simultaneously.
+
+She thought about who outside the southern wire would pay forty doses of encapsulated insulin for a sequenced and amplified batch of this, delivered cold, no specification given.
+
+She thought about the girl in the east quarter who was ten years old.
+
+She looked at the gel again. The cycler said *click* as it completed its final hold phase.
+
+---
+
+She began a new run.
+
+She designed the primers herself, working from her primer stock and from memory of sequences she'd spent a year of her postgraduate work characterizing, sequences that were hers in the way that learned things become the property of whoever learned them. She built a mastermix at a volume that was larger than the contract specified. She loaded the tubes with the care she used for work that had a single run's worth of materials behind it.
+
+The thermal cycler accepted the new program. She set it running. Ninety-four degrees, denature—the stable structures opening, the complementary strands separating, the double helix dissolved into its components. Drop. Fifty-eight, anneal—primers finding their binding sites in the chaos, latching to specific sequence among thousands of bases, finding purchase in specificity. Drop. Seventy-two, extend—the polymerase moving along the template, building, reconstructing, adding base to base, making something that had not existed a moment before.
+
+Hold. Begin again.
+
+Each cycle introduced error at a rate of one in ten thousand, which was the polymerase's fidelity limit, which meant that each generation of copies was less faithful than the last by a margin she could measure but could not eliminate. This was the condition. This was always the condition: replication under degradation, fidelity under pressure, each copy a translation of a translation, each generation carrying forward everything it could carry and losing the rest.
+
+She watched the display tick through the cycles. The cultures breathed on their shelf.
+
+The GenVault canisters stood against the back wall with their flat silver faces forward, their logos turned in, facing the wall's concrete. *GenVault: Your Legacy, Secured.* She had turned them months ago and had not turned them back, and she looked at them now—seven of them, ranked like a reference set, each one holding what she'd put in it rather than what had been put in them before—and she thought of nothing in particular. She let them be what they were: containers. Things that held what was placed in them. Things that had survived the dissolution of everything that had given them their name.
+
+The

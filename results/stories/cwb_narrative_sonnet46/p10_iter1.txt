@@ -1,0 +1,249 @@
+# Hacker Mindset
+
+---
+
+The restaurant has three entry points.
+
+I know this because I am early, which I am always, and I have nothing to do while I wait except look at things, which I always do, and looking at things means what it means for me, which is: the front door, the service entrance visible through the kitchen pass-through when the swing door opens, the emergency exit at the back of the room with the pushbar that has a strip of electrical tape over the alarm sensor, which is either a fire code violation or evidence of a staff member who smokes.
+
+The host's monitor faces the entrance. I could read the reservation list from where I'm standing. I don't, because I'm working on *not*, but the information is there the way a word is there when you're trying not to read it—it insists on itself.
+
+I sit down.
+
+The WiFi networks visible from my table: *RistoranteGuest* (open, no password, a gift to anyone who wants to harvest the credit card numbers moving through this room tonight), *RistorantePOS* (WEP, which was deprecated so long ago it's almost nostalgic, like finding a fax machine in a weapons cache), and *DIRECT-88-HP OfficeJet* (someone's phone is tethered to a printer in the kitchen, which seems like someone's personal workaround for something, and I have enormous sympathy for whoever that is).
+
+The POS terminal at the bar is running Windows 7. The support sunset was—
+
+*Stop it.*
+
+I open the menu. The menu has nine appetizers. The menu has—
+
+*The menu has nine appetizers and I don't care about the attack surface of this restaurant because I'm not here to attack this restaurant.*
+
+I focus on the words. Carpaccio. Burrata. Something with porcini that the description makes sound important. I am a person who is going to order food and eat it across from another person, and that is the complete scope of tonight's operation.
+
+The emergency exit has a pushbar alarm sensor with electrical tape over it.
+
+I already said that.
+
+I look at the menu until it stops being a document and starts being a menu.
+
+---
+
+She's seven minutes late, which I know because I've looked at my phone four times, and when she comes through the door she's still wearing the lanyard from whatever sent her to Midtown today—badge flipped inward, thoughtful habit, but the lanyard itself is printed with the company name in that specific sans-serif that tech companies started using after a certain consulting firm told everyone that personality was a competitive advantage. The company name is enough. I know who they are. I could make a reasonable guess at her org level from the conference type, something technical or adjacent to technical, something important enough to badge her but not senior enough to—
+
+*Her name is Alex. You know her name is Alex. Look at her face.*
+
+Her face is—she's scanning for me, that particular expression of someone trying not to look like they're scanning, the self-conscious social receiver, and then she finds me and the expression dissolves into a smile that she earned completely because it's not the smile she was wearing when she was still looking, it changed when she saw me, and that is the kind of data I am actually allowed to have.
+
+She has a keyring looped over two fingers while she puts her phone away. Three loyalty cards. One is the pharmacy chain that's on every corner, which tells me nothing. One is a grocery chain that's regional to the Northeast, which tells me something. One is a grocery chain that's regional to the Mid-Atlantic, which tells me she's from somewhere between those two things, or moved, or someone gave her the card, but statistically—
+
+*She's walking over now. Stand up.*
+
+I stand up.
+
+"Sorry," she says, and she sounds like she means it but not desperately, which is the right amount. "The session ran over and then I couldn't get a cab and then I could, but—hi. I'm here."
+
+"You're here," I say, and I mean it also, and we negotiate the handshake-hug question that defines the first thirty seconds of every first date, and we land on hug, brief, genuine.
+
+The lanyard, up close, has a small coffee stain near the clip.
+
+I sit back down and try to be a person.
+
+---
+
+She is, it turns out, funny.
+
+This is not what I was prepared for. I was prepared for the work of it—the performance of casualness, the management of my own interior noise, the constant low-level effort of seeming like someone who simply exists in a room rather than someone who is building a threat model of the room. I was prepared to labor toward connection.
+
+I was not prepared for her to make a joke in the first three minutes that requires knowing something obscure about Byzantine bureaucratic structure, delivered with the timing of someone who has been workshopping it in their head the whole cab ride over, and land it.
+
+I laugh. Actually laugh.
+
+"Okay," she says. "Good. I wasn't sure if that was going to read."
+
+"It read."
+
+"I have a whole backup bit about the menu, in case."
+
+"Save it," I say. "You might need it."
+
+"Exactly the level of confidence I was hoping for."
+
+She has ordered wine. I have wine. This is good. The things that are happening are good.
+
+She's talking about her mother—a story that starts with the conference and vectors through a complaint about hotel coffee and arrives, somehow, at her mother, who has opinions about hotel coffee that would recalibrate your entire understanding of the stakes involved in hotel coffee—and while she's talking, while I am listening and following and genuinely entertained, the part of my brain that I cannot locate and cannot turn off is doing what it does.
+
+Her mother's maiden name, delivered as the punchline of a story about a passport renewal. Filed.
+
+The high school she attended, mentioned while explaining why she has a permanent association between the smell of chlorine and existential humiliation, something about a swim meet and a very public failure involving a kickboard. Filed.
+
+The street she grew up on, offered almost parenthetically, as texture for a story about learning to drive in a neighborhood where everyone knew everyone so the consequences of hitting a mailbox were social rather than legal. Filed.
+
+Mother's maiden name.
+
+High school attended.
+
+Street grew up on.
+
+I know what those are for. I know exactly what they are for. They are the recovery questions on eighty percent of the account portals I've ever been paid to test, and my brain has indexed them with the automatic, morally neutral efficiency of a process running in the background, a daemon I didn't launch and cannot kill, and I like Alex *more* with each story, that's the part I can't explain to anyone, she's giving me these things because she's trying to be interesting and warm and real with me and I like her more for each one and—
+
+*The punchline. She's at the punchline. Listen.*
+
+I listen. The punchline lands. I'm there for it. I laugh.
+
+"You have a good laugh," she says, with the microscopic vulnerability of someone offering something true.
+
+"Thank you," I say, and mean it, and try to just stay here.
+
+---
+
+She says, "I spent basically the entire weekend in a Commander rabbit hole," and something happens.
+
+The background process quits.
+
+Not gradually. It just—stops.
+
+"What format?" I ask, which is not what you ask if you're performing interest, it's what you ask when you actually need to know.
+
+She looks at me with a new expression. Gauging. "Four-player, all the bad social dynamics."
+
+"Who's your commander?"
+
+"Currently? Marchesa." She pauses. "I'm addicted to the political—"
+
+"The political gameplay, the threat assessment, the—yeah." I stop. "Sorry. Yes. Marchesa is—that makes sense for you, actually."
+
+"You play?"
+
+"I can't *stop* playing. Like, philosophically cannot stop."
+
+She laughs, different than before, a laugh that's letting something out. "What's your current deck?"
+
+"I'm on a Urza artifact build right now that my playgroup has asked me to retire twice, both times reasonably."
+
+"How much do you hate fun?"
+
+"I'm working on it. I've replaced four of the worst pieces."
+
+"With the second-worst pieces?"
+
+"I replaced them with cards that are technically slower but create the same outcome through a more interesting path, which I explained to my playgroup and which they did not find as reassuring as I hoped."
+
+She has both hands around her wine glass and she is completely here, in the way that people are completely here when they've found the thing—the specific thing that opens them up—and I am also completely here, one voice, no parallel transcript, just two people talking about a card game with the intensity it deserves, which is real but which is also a little absurd, and we both know it's a little absurd, and we don't care.
+
+We talk about the metagame. We talk about the social contract of the format, the ethics of combo in a multiplayer context. She has opinions about land base philosophy that I disagree with and I say so and she defends her position with actual evidence and I lose the argument on the merits, which I tell her, and she receives it with appropriate pleasure.
+
+The appetizers arrive and neither of us notices immediately.
+
+---
+
+Her phone buzzes on the table.
+
+She angles it away—politely, the way people do when they want to signal they're prioritizing you over the notification—and unlocks it. She has the screen brightness low. She's angling it. None of this matters because the swipe is the information and the swipe is visible.
+
+Starting corner: bottom left.
+
+First segment: diagonal to center.
+
+Second segment: horizontal to right side.
+
+Third segment: vertical drop.
+
+She's reading something. A text. Something short. She types a response, three words or so, and sets the phone face-down.
+
+Completes in my mind like a circuit closing. The lock pattern has a name, geometrically. An "L," maybe, with a detour, maybe a "Z" with the middle bar dragged right. It doesn't matter what letter it is. It matters that I could draw it with my finger on any Android device, in the dark, from memory, right now, without trying, having watched her do it once.
+
+I did not try.
+
+I was not trying.
+
+I am sitting here across from the first person I have felt genuinely glad to sit across from in a period of time I'd rather not calculate, and my brain has added her phone's lock pattern to a file that she has no idea exists, and the completion-chime wasn't real but I heard it.
+
+She looks up. She smiles. "My sister," she says. "She has opinions about where I am right now."
+
+"Good opinions or worried opinions?"
+
+"She thinks I should text her when I get home." She says it easily, without pressure, just information, which means the date is going well enough that she's already referencing getting home, and I know this, and I'm glad about it, and—
+
+*Don't.*
+
+I'm not going to.
+
+*I know. Don't.*
+
+I reach for my wine. I look at her. She's saying something about her sister's theory of dating, which is apparently elaborate and based on data she's been collecting for over a decade. I listen. I'm listening. I'm here.
+
+*Your unlock pattern is really readable from an angle.*
+
+I'm not going to say it.
+
+*You might want to use a PIN instead.*
+
+I am not going to say that.
+
+There is genuinely no reason to say that. She did not ask. She is not a client. This is not an engagement. This is dinner and she has a lock pattern that she chose for her own reasons and it is none of my business and I am going to let the completed circuit sit in my head wherever completed circuits sit and I am going to stay here.
+
+Her sister's theory involves, apparently, categorizing dates by what they order for dessert.
+
+"What does it mean if you skip dessert?" I ask.
+
+"Chaos agent," she says. "Unclassifiable. She has to recalibrate the whole model."
+
+"Dangerous."
+
+"She'd love you," Alex says, and there's something easy in the way she says it—forward-projecting, comfortable—and the thing I should do is receive that without analysis, let it be what it is.
+
+"Your unlock pattern is really readable from an angle," I say. "You might want to use a PIN instead."
+
+The wind that goes through her face.
+
+It's not large. It's not a blowup. It's the small weather that moves through someone when something unexpected has happened and they're deciding what it means—a quick, involuntary rearrangement, gone almost before it arrives, but not quite.
+
+"Were you watching me unlock my phone?"
+
+"Not watching. I—" The recovery vectors present themselves immediately: *technical language, professionalism, de-escalation, transparency, pivot to humor, pivot to sincerity, lead with the job description.* "I wasn't watching. I was looking at you, which I've been doing all evening for reasons that are—not that, not the unlock pattern, I was just—it's my job. It's why I have my job. Spatial awareness for exactly that kind of—"
+
+"You work in security," she says. She knows this. We established this. Right now she is deciding what that means.
+
+"Penetration testing. Which means I spend my days looking for ways into systems people assume are sealed." This is not improving things. I can see that it is not improving things. "Not people. Systems. Networks. Applications. I don't—I would never—"
+
+"I know," she says, and she does, her tone says she does, that she doesn't think I'm a threat. And I think that's possibly worse. I think she's deciding whether I'm someone she wants to continue sharing a table with, which is different.
+
+The table has shifted. Both of us can feel where it is now versus where it was two minutes ago. The shift is small. It is also precise.
+
+"I'm sorry," I say.
+
+"It's fine," she says, which might be true or might be the social marker for *I'm currently deciding*.
+
+She picks up her wine. She looks at the room for a moment—just a beat, the way people do when they need their face back—and then she looks back at me.
+
+"Can I ask something?"
+
+"Yes."
+
+"Does that—does that happen a lot? Picking up information you weren't trying to pick up?"
+
+The honest answer. The only answer I actually have.
+
+"All the time," I say. "Constantly. The restaurant we're in has an unsecured POS system, three network vulnerabilities, and an emergency exit with a defeated alarm sensor, and I did not need or want to know any of that, and I knew it within four minutes of arriving." I stop. "I know that you're from somewhere between New England and Philadelphia. I know the name of the street where you learned to drive. I know things you told me as stories that my brain—without my permission, I want to be very clear about the without-my-permission part—filed under a different category than the category you were offering them in."
+
+She's very still.
+
+"I have never used any of it," I say. "I have never turned this on you or on anyone I wasn't explicitly hired to—I wouldn't. That's not—" I stop again. The thing I need to say doesn't have a technical frame and every time I reach for a technical frame I'm making it worse. "I spend all day looking for ways into systems. And I genuinely cannot turn it off. And I'm sorry that the first person I've actually wanted to talk to in—a while—got the worst version of that tonight, because you deserved the version where I just let you tell me things and didn't hear them as anything except what they were, which was you being funny and interesting and real with me, and I noticed—both of those things were happening—but one of them I couldn't stop."
+
+The silence has a texture.
+
+Alex looks at me.
+
+She turns the wine glass slowly against the tablecloth. One turn. The kind of gesture that means someone is inside a decision and you cannot reach them and you shouldn't try.
+
+Whatever she concludes, I will not have precalculated it. I have no probability estimate. I have no recovery vector that I can reach for, and I'm aware, in a way that feels both terrible and oddly correct, that reaching for one would be the last wrong thing.
+
+She is considering something.
+
+I am waiting.
+
+The background process does not start up. There is no threat model, no port scan, nothing to catalogue. There is the candle on the table and her face in it and the glass turning, slowly, in her hand.
+
+I wait in the silence like it's the only room I have.
