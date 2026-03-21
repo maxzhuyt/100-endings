@@ -163,7 +163,7 @@ Removing tropes consistently improves no-rate. The effect is largest when primin
 
 A 0.12 gap — the largest effect size in the study. The Screenwriters Taxonomy constrains *how* a story is told (genre, voice, POV, narrative pathway) without specifying *what* happens. Unusual sampled combinations like "Horror + Bromance + Stream of Consciousness + Defeated Underdogs" force the model into genre territory it cannot solve with default patterns. 
 
-This suggests a general principle: **constraints on narrative form increase tension; constraints on narrative content decrease it.** The most effective creative scaffolding specifies *how* to tell a story, not *what* story to tell.
+This suggests a general principle: **constraints on narrative form increase tension; constraints on narrative content decrease it.** Possible interpretation: The effective creative scaffolding specifies *how* to tell a story, not *what* story to tell.
 
 ![Phase 3 results](figures/fig4c_phase3_idea_gen.png)
 *Figure 7: Phase 3 — Idea generation ablations. All configs use LLM-generated ideas with fulltext warmup + full beats (except vanilla configs).*
