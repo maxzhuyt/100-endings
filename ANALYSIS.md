@@ -1,4 +1,4 @@
-# Measuring Narrative Tension in LLM-Generated Fiction: A 100-Ending Evaluation
+# Narrative Tension in LLM-Generated Fiction
 
 ## 1. The Puzzle: What Makes Great Stories Great?
 
