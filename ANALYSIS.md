@@ -68,13 +68,19 @@ We applied this pipeline to Claude Sonnet 4.6 on the standard EQ-Bench 32 story 
 | GPT-5 (2025-08-07) | 83.95 |
 | Claude Sonnet 4.6 (vanilla) | 82.50 |
 
-The pipeline places Sonnet 4.6 at #1 on the rubric leaderboard (84.58), above GPT-5.4 (84.45) — a slight improvement over vanilla Sonnet 4.6 (82.50).
+The pipeline places Sonnet 4.6 at #1 on the rubric leaderboard (84.58), above GPT-5.4 (84.45) and a slight improvement over vanilla Sonnet 4.6 (82.50).
 
 **100-Ending No-Rate (same 32 EQ-Bench prompts):**
 
-Results pending — GPU jobs in progress. This will provide a direct apples-to-apples comparison of pipeline vs. vanilla Sonnet 4.6 on identical story prompts, measuring whether the rubric improvement also corresponds to increased narrative tension.
+| Config | No-Rate | ±95% CI | n |
+|---|---|---|---|
+| Sonnet 4.6 (vanilla, 0-shot) | 0.770 | 0.029 | 95 |
+| Sonnet 4.6 + Pipeline | 0.817 | 0.018 | 96 |
 
-*Figure 4 (pending): Side-by-side comparison — EQ-Bench rubric leaderboard (left) and no-rate on the same 32 prompts (right).*
+On the same 32 EQ-Bench prompts, the pipeline improves no-rate by +0.047 (0.770 → 0.817). This is a moderate effect — the pipeline stories are less predictable than vanilla, though still below New Yorker fiction (0.868). Combined with the rubric improvement (+2.08 points, reaching #1), the pipeline improves both dimensions simultaneously: stories that score better on conventional quality metrics are also harder to predict.
+
+![EQ-Bench side-by-side](figures/fig3_eqbench_sidebyside.png)
+*Figure 4: Left — EQ-Bench rubric leaderboard with our pipeline at #1 (84.58). Right — No-rate on the same 32 prompts. The pipeline improves both rubric quality and narrative tension over vanilla Sonnet 4.6.*
 
 ## 4. Ablation Study: What Creates Narrative Tension?
 
