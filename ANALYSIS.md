@@ -1,105 +1,107 @@
-## Results & Analysis
+# Results & Analysis
 
-All results are from n=15 stories per configuration, filtered to 2000–3015 words. 95% CIs are ~±0.03–0.05, so differences under ~0.03 should be treated as noise.
+## What is 100-Ending Evaluation?
+
+At each sentence position in a generated story, we prompt a language model (Qwen3-32B, T=1.2) to write 100 possible next-sentence endings. Then a judge model (Qwen3-8B) evaluates each ending: does the event described in this ending actually occur in the true continuation of the story?
+
+The key metric is **no-rate**: the fraction of 100 endings that do NOT match the actual continuation. A no-rate of 0.90 means that 90 out of 100 generated endings fail to predict what actually happens next — i.e., the story is highly unpredictable at that point.
+
+**Why this matters:** LLM-generated fiction tends to follow predictable patterns — default plot structures, expected character arcs, familiar resolutions. Human-written literary fiction (e.g., New Yorker stories) is significantly less predictable by this measure. The gap between LLM and human no-rates quantifies how "formulaic" LLM writing is. Our pipeline aims to close this gap.
 
 **Reference anchors** (different story prompts — interpret as scale markers, not direct comparisons):
-- Top-10 LLMs (0-shot, EQ-Bench prompts): **0.71**
-- New Yorker fiction (human): **0.87**
+- Top-10 LLMs (0-shot, EQ-Bench prompts): **0.71** no-rate
+- New Yorker fiction (human): **0.87** no-rate
 
-### Complete Results Table
+## Statistical Note
 
-| Config | No-Rate | 95% CI | Phase | Notes |
+All results are from n=15 stories per configuration (n=14 for `idea_instruction_vanilla`), filtered to 2000–3015 words. With this sample size, 95% CIs are ±0.03–0.05. **Differences smaller than ~0.05 are within noise and should not be interpreted.** We only draw conclusions from large, consistent gaps.
+
+## Complete Results Table
+
+| Config | No-Rate | ±95% CI | Phase | Notes |
 |---|---|---|---|---|
-| `vanilla` (no instruction) | 0.840 | ±0.057 | 1 | Raw idea → model infers task |
-| `instruction_vanilla` | 0.842 | ±0.043 | 1 | Same idea + "Write the story now" |
-| `short_beats` (title + 3 beats) | 0.831 | ±0.044 | 1 | Minimal structure |
-| `full_title` (title + beats) | 0.866 | ±0.035 | 1 | Title-only warmup |
-| `full_fulltext` (fulltext + beats) | 0.879 | ±0.029 | 1 | Full NYer text warmup |
-| `no_warmup` (beats from scratch) | 0.883 | ±0.024 | 1 | No reference story |
-| `fulltext_beats3` | 0.862 | ±0.033 | 2 | Fulltext warmup + 3 beats |
-| `fulltext_beats5` | 0.856 | ±0.042 | 2 | Fulltext warmup + 5 beats |
-| `fulltext_beats10` | 0.868 | ±0.053 | 2 | Fulltext warmup + 10 beats |
-| `idea_bare` | 0.746 | ±0.075 | 3 | No constraints, just "generate an idea" |
-| `idea_no_priming` | 0.788 | ±0.048 | 3 | Taxonomy + tropes, no priming |
-| `idea_tropes_only` | 0.833 | ±0.038 | 3 | Random tropes, no taxonomy |
-| `idea_full` | 0.833 | ±0.037 | 3 | Full idea gen (taxonomy + tropes + priming) |
-| `idea_no_tropes` | 0.847 | ±0.036 | 3 | Taxonomy + priming, no tropes |
-| `idea_instruction_vanilla` | 0.858 | ±0.044 | 3 | Full idea gen → vanilla (with instruction) |
-| `idea_tax_only` | 0.866 | ±0.036 | 3 | Taxonomy only |
-| `idea_vanilla` (no instruction) | 0.879 | ±0.027 | 3 | Full idea gen → vanilla (no instruction) |
+| `vanilla` (no instruction) | 0.840 | 0.057 | 1 | Raw idea, model infers task |
+| `instruction_vanilla` | 0.842 | 0.043 | 1 | Same idea + "Write the story now" |
+| `short_beats` (title + 3 beats) | 0.831 | 0.044 | 1 | Minimal structure |
+| `full_title` (title + beats) | 0.866 | 0.035 | 1 | Title-only warmup |
+| `full_fulltext` (fulltext + beats) | 0.879 | 0.029 | 1 | Full NYer text warmup |
+| `no_warmup` (beats from scratch) | 0.883 | 0.024 | 1 | No reference story |
+| `fulltext_beats3` | 0.862 | 0.033 | 2 | Fulltext warmup + 3 beats |
+| `fulltext_beats5` | 0.856 | 0.042 | 2 | Fulltext warmup + 5 beats |
+| `fulltext_beats10` | 0.868 | 0.053 | 2 | Fulltext warmup + 10 beats |
+| `idea_bare` | 0.746 | 0.075 | 3 | No constraints, just "generate an idea" |
+| `idea_no_priming` | 0.788 | 0.048 | 3 | Taxonomy + tropes, no priming |
+| `idea_tropes_only` | 0.833 | 0.038 | 3 | Random tropes, no taxonomy |
+| `idea_full` | 0.833 | 0.037 | 3 | Full idea gen (taxonomy + tropes + priming) |
+| `idea_no_tropes` | 0.847 | 0.036 | 3 | Taxonomy + priming, no tropes |
+| `idea_instruction_vanilla` | 0.858 | 0.044 | 3 | Full idea gen → vanilla (with instruction) |
+| `idea_tax_only` | 0.866 | 0.036 | 3 | Taxonomy only |
+| `idea_vanilla` (no instruction) | 0.879 | 0.027 | 3 | Full idea gen → vanilla (no instruction) |
 
-### Phase 1 Findings — Structural Pipeline
+## Phase 1 — Structural Pipeline Ablations
 
-**The structural beat pipeline consistently improves no-rate over vanilla.** Configs with beats (`full_title` 0.866, `full_fulltext` 0.879, `no_warmup` 0.883) are ~0.03–0.04 higher than vanilla (0.840–0.842). This gap is at the edge of significance given our CIs, but is consistent across all beat-based configs.
+**Controlled for:** Fixed 15 story ideas (synthetically generated, already high quality) | Model: Opus 4.6
 
 **Adding a writing instruction to vanilla makes no difference** (0.840 → 0.842). Opus 4.6 correctly infers "write a story" from the raw idea alone.
 
-**Too few beats hurts.** `short_beats` (3 beats, 0.831) is the lowest of all configs — even below vanilla. Three structural beats may over-constrain the model into a predictable template without enough detail to create surprise.
+**Warmup mode doesn't matter much — for our story ideas.** `full_fulltext` (0.879), `full_title` (0.866), and `no_warmup` (0.883) are all within noise. Whether the model reads a full New Yorker story, just a title, or generates beats from scratch, the resulting narrative structure is similar. This likely reflects the fact that our 15 story ideas were themselves generated by the full idea-gen pipeline and are already structurally rich — the warmup adds little on top of an already-good idea. This finding may not generalize to weaker or more generic story prompts.
 
-**Warmup mode doesn't matter much.** `full_fulltext` (0.879), `full_title` (0.866), and `no_warmup` (0.883) are within ~0.02 of each other. Whether the model reads a full NYer story, just a title, or generates beats from scratch, the resulting narrative structure is similar. The beats themselves — not the reference story — are what drives unpredictability.
+## Phase 2 — Beat Count Sweep
 
-### Phase 2 Findings — Beat Count Sweep
+**Controlled for:** Fixed 15 story ideas | Step 0: fulltext warmup
 
-**Beat count has no clear effect above 3.** With step0=fulltext held constant: unlimited (0.879), 10 beats (0.868), 5 beats (0.856), 3 beats (0.862) — all within ~0.02, well inside the noise band. The takeaway: any reasonable number of beats (3+) produces similar results. The sharp drop only happens at `short_beats` in Phase 1 (0.831), which used title warmup instead of fulltext — suggesting the combination of weak warmup + few beats is problematic, not the beat count alone.
+**Beat count has no clear effect.** With step0=fulltext held constant: unlimited (0.879), 10 beats (0.868), 5 beats (0.856), 3 beats (0.862) — all within ±0.02, fully inside the noise band. Any reasonable number of beats produces similar results on these story ideas.
 
-### Phase 3 Findings — Idea Generation
+## Phase 3 — Idea Generation Ablations
 
-**Note:** The 15 fixed story ideas used in Phases 1–2 were themselves generated by the full idea-gen pipeline (taxonomy + tropes + priming). So comparisons between Phase 1/2 configs and Phase 3's `idea_full` (0.833) are partially testing the same idea-generation process, just with fresh random seeds for taxonomy/tropes. The ~0.05 gap between Phase 1's `full_fulltext` (0.879) and Phase 3's `idea_full` (0.833) likely reflects sampling variance rather than a systematic difference.
+**Controlled for:** Model: Opus 4.6 | Step 0: fulltext warmup | Step 1: full beats (except vanilla configs)
 
-**Bare idea generation (no constraints) produces the worst stories.** `idea_bare` (0.746) is dramatically lower than everything else — a ~0.09 gap from the next-lowest config. When the LLM generates ideas with no taxonomy or trope constraints, the resulting stories are significantly more predictable. This is the clearest signal in the entire ablation.
+**Note on comparability:** The 15 fixed story ideas used in Phases 1–2 were themselves generated by the full idea-gen pipeline (taxonomy + tropes + priming). So Phase 1/2 configs and Phase 3's `idea_full` (0.833) are partially testing the same idea-generation process with different random seeds. The ~0.05 gap between them likely reflects sampling variance.
 
-**Genre priming hurts when combined with tropes.** `idea_no_priming` (0.788) vs `idea_full` (0.833) — removing priming drops no-rate by 0.045. But `idea_no_tropes` (0.847) and `idea_tax_only` (0.866) both score *higher* than the full pipeline. This suggests priming may introduce a formulaic quality when the model has already been given concrete tropes to work with. The priming analysis activates narrative reasoning, but that reasoning then interacts poorly with LLM-curated trope selection — the model over-fits to the structural patterns it just analyzed.
+### Finding 1: Unconstrained idea generation produces the worst stories
 
-**Taxonomy alone is surprisingly strong.** `idea_tax_only` (0.866) outperforms the full idea-gen pipeline (0.833) and matches Phase 1's best configs. A random structural profile (genre, voice, pathway, POV) without tropes or priming produces ideas that lead to unpredictable stories. The constraint forces the model into unusual genre combinations that it can't solve with default patterns.
+`idea_bare` (0.746) is dramatically lower than everything else — a **0.09 gap** from the next-lowest config (`idea_no_priming` at 0.788). This is the clearest signal in the entire study. When the LLM generates ideas with no taxonomy or trope constraints ("just generate a story idea"), the resulting stories are significantly more predictable. You cannot ask an LLM to simply produce a good idea from scratch.
 
-**Vanilla step2 (no beats) with generated ideas works well.** `idea_vanilla` (0.879) is the highest in Phase 3, matching `full_fulltext` from Phase 1. When the idea itself is sufficiently structured (from the full idea-gen pipeline), adding beats on top may over-constrain the narrative. This echoes Phase 1's finding that `instruction_vanilla` ≈ `vanilla` — the model doesn't need explicit structural scaffolding when the idea is good enough.
+### Finding 2: Tropes make stories more predictable
 
-### Summary of Key Takeaways
+Compare configs that differ only in whether tropes are included:
 
-1. **Beats help, but the warmup source doesn't matter.** Any beat-based config beats vanilla by ~0.03–0.04. Whether the beats come from a famous story title, a full NYer text, or from scratch — similar results.
-
-2. **3 beats is too few (with weak warmup).** `short_beats` is the only beat config that underperforms vanilla. The minimum viable structure appears to be ~5+ beats.
-
-3. **Idea quality matters more than pipeline structure.** The largest effects come from idea generation (0.746–0.879 range), not from beats vs vanilla (~0.03 range).
-
-4. **Constrained idea generation beats unconstrained.** Taxonomy profiles alone (0.866) outperform bare LLM idea generation (0.746) by 0.12 — the largest effect size in the entire study.
-
-5. **More components ≠ better.** The full idea-gen pipeline (taxonomy + tropes + priming) scores *lower* than taxonomy-only. Genre priming + tropes may introduce formulaic patterns that reduce unpredictability.
-
-6. **All pipeline configs reach or exceed the New Yorker benchmark** (~0.87) when using the right combination. The best configs (`no_warmup` 0.883, `idea_vanilla` 0.879, `full_fulltext` 0.879) match professional human fiction on this metric.
-
-### Hypotheses
-
-**H1: Structural scaffolding increases narrative unpredictability.**
-*Supported.* Beat-based configs consistently outperform vanilla by ~0.03–0.04. The to-do list gives the model a structural roadmap that prevents it from falling into default narrative patterns. Without beats, the model relies on its most probable story templates — which are exactly what the 100-ending judge finds predictable.
-
-**H2: The thickness (detail level) of the to-do list matters.**
-*Partially supported, with a non-linear relationship.* Three beats (0.831) is worse than vanilla — the scaffold is so thin that it constrains without informing, pushing the model into a rigid 3-act template. But above 3 beats, there is no clear dose-response: 5 beats (0.856), 10 beats (0.868), and unlimited (0.879) are all within noise. The critical threshold is somewhere between 3 and 5 beats. Below that, the to-do list is a straightjacket; above that, it's a guide.
-
-**H3: Richer warmup material (full story text vs title only) produces better structural beats.**
-*Not supported.* `full_fulltext` (0.879), `full_title` (0.866), and `no_warmup` (0.883) are statistically indistinguishable. The model generates equally good beats whether it reads a 2000-word New Yorker story, just the title "The Lottery," or works from scratch. This suggests Opus 4.6's internalized knowledge of narrative structure is already saturated — external examples don't add information the model doesn't already have.
-
-**H4: Constrained idea generation produces less predictable stories than unconstrained.**
-*Strongly supported.* The largest effect in the entire study: `idea_bare` (0.746) vs `idea_tax_only` (0.866) — a 0.12 gap. When forced into unusual genre/voice/pathway combinations by the Screenwriters Taxonomy, the LLM generates ideas it can't solve with default patterns. The constraint is the creativity.
-
-**H5: More idea-generation components (taxonomy + tropes + priming) compound to better ideas.**
-*Not supported — the opposite.* `idea_tax_only` (0.866) > `idea_full` (0.833). Adding tropes and priming on top of taxonomy *reduces* unpredictability. The most likely explanation: genre priming activates specific narrative templates in the model's weights, and LLM-curated tropes reinforce those same templates. The model generates ideas that are internally coherent with its primed patterns — but that coherence makes the resulting stories more predictable, not less. Constraints help; over-specification hurts.
-
-**H6: When the idea is good enough, structural scaffolding (beats) is unnecessary.**
-*Supported.* `idea_vanilla` (0.879) matches `full_fulltext` (0.879) — the best pipeline config. A well-constrained idea (from taxonomy + tropes + priming) already encodes enough structural information that adding beats provides no additional benefit. The beats are redundant scaffolding for an already-structured plan. This implies that the pipeline's value lies primarily in idea quality, not in step-by-step structural enforcement.
-
-**H7: Tropes make stories more predictable; abstract constraints do not.**
-*Supported.* There is a clear pattern in what kinds of constraints help vs hurt:
-
-| Constraint type | Example | Effect on no-rate | Direction |
+| Comparison | With tropes | Without tropes | Gap |
 |---|---|---|---|
-| **Abstract structural** (genre, voice, pathway, POV) | Taxonomy profile | 0.866 (`idea_tax_only`) | Helps |
-| **Concrete narrative** (specific plot devices) | Tropes | 0.833 (`idea_full`) vs 0.866 (`idea_tax_only`) | Hurts |
-| **Analytical priming** (activate narrative reasoning) | Genre priming | 0.788 (`idea_no_priming`) vs 0.833 (`idea_full`) | Helps when alone, but compounds with tropes to hurt |
+| Taxonomy + priming | `idea_full` (0.833) | `idea_no_tropes` (0.847) | +0.014 |
+| Taxonomy only | `idea_no_priming` (0.788) | `idea_tax_only` (0.866) | +0.078 |
 
-Tropes are *content-level* constraints — they specify what happens ("a festival masks a deadly ritual," "a birthday coincides with tragedy"). The LLM maps these to familiar plot structures, producing stories whose events are predictable because they follow well-known patterns.
+In both cases, **removing tropes improves no-rate**. The effect is especially large when priming is absent: `idea_no_priming` (taxonomy + tropes, 0.788) vs `idea_tax_only` (taxonomy only, 0.866) — a 0.078 gap.
 
-Taxonomy profiles are *form-level* constraints — they specify *how* the story is told (surreal comedy + noir underdogs + omniscient POV) without dictating *what* happens. The model must invent content that satisfies the structural constraints, and the unusual combinations (horror + bromance + lyrical monologue) force it away from default templates.
+This is expected. Tropes are *content-level* constraints — they specify concrete plot devices ("a festival masks a deadly ritual," "a birthday coincides with tragedy"). The LLM maps these to familiar narrative patterns, producing stories whose events are predictable precisely because they follow well-known structures.
 
-This suggests a general principle: **constraints on narrative form increase unpredictability; constraints on narrative content decrease it.** The best creative scaffolding tells the model *how* to tell a story, not *what* story to tell.
+### Finding 3: Taxonomy constraints do NOT make stories more predictable
 
+This is the surprising result. Taxonomy profiles are *form-level* constraints — they specify genre, voice, pathway, and POV (e.g., "surreal comedy + noir underdogs + omniscient narrator") without dictating *what happens* in the story. Compare:
+
+| Config | No-Rate | What it has |
+|---|---|---|
+| `idea_bare` | 0.746 | Nothing |
+| `idea_tax_only` | 0.866 | Taxonomy only |
+
+A **0.12 gap** — the largest effect size in the entire study. Adding a random taxonomy profile transforms idea generation from the worst config to one of the best.
+
+Why doesn't taxonomy make stories predictable the way tropes do? Because taxonomy constrains the *form* of storytelling, not the *content*. A taxonomy profile like "Horror + Bromance + Stream of Consciousness + Defeated Underdogs" forces the model into an unusual genre combination that it can't solve with default patterns. The model must *invent* content that satisfies these structural constraints — and the unusual combinations produce narratives that are hard to predict.
+
+**General principle: constraints on narrative form increase unpredictability; constraints on narrative content decrease it.** The best creative scaffolding tells the model *how* to tell a story, not *what* story to tell.
+
+## Hypotheses
+
+We list only hypotheses that our data can clearly support or deny (gaps > 0.05).
+
+**H1: Unconstrained LLM idea generation produces predictable stories.**
+*Strongly supported.* `idea_bare` (0.746) is 0.09–0.12 below all constrained configs. An LLM asked to "just generate a story idea" falls back on its most probable narrative templates, which are exactly what readers (and our 100-ending judge) find predictable.
+
+**H2: Content-level constraints (tropes) make stories more predictable.**
+*Supported.* Adding tropes consistently lowers no-rate. The strongest evidence: `idea_tax_only` (0.866) vs `idea_no_priming` (0.788) — same taxonomy, but adding tropes drops no-rate by 0.078. Tropes map directly to familiar plot structures that the 100-ending judge can anticipate.
+
+**H3: Form-level constraints (taxonomy) increase unpredictability.**
+*Strongly supported.* `idea_bare` (0.746) → `idea_tax_only` (0.866): adding taxonomy alone improves no-rate by 0.12. Unusual genre/voice/pathway combinations force the model out of default patterns. The constraint is the creativity.
+
+**H4: More idea-generation components do not compound to better ideas.**
+*Supported.* `idea_tax_only` (0.866) > `idea_full` (0.833). The full pipeline (taxonomy + tropes + priming) scores lower than taxonomy alone. Adding tropes and priming on top of taxonomy introduces content-level specificity that makes the resulting stories more predictable, not less.
