@@ -49,9 +49,6 @@ The ordering is consistent with our intuition: professional fiction is the least
 ![No-rate validation](figures/fig2_norate_validation.png)
 *Figure 2: Average no-rate across four story groups. Higher = less predictable. New Yorker fiction is substantially less predictable than both LLM-generated and amateur human stories.*
 
-![No-rate trajectories](figures/fig2_norate_trajectories.png)
-*Figure 3: No-rate trajectories across story progress (% of story revealed). New Yorker stories maintain high unpredictability throughout, while LLM stories become increasingly predictable toward their endings.*
-
 ## 3. Can a Story Pipeline Improve Both Metrics?
 
 We test whether a structured story generation pipeline can improve narrative tension while maintaining or improving rubric quality. The pipeline has three steps:
