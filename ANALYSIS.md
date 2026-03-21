@@ -77,7 +77,7 @@ The pipeline places Sonnet 4.6 at #1 on the rubric leaderboard (84.58), above GP
 | Sonnet 4.6 (vanilla, 0-shot) | 0.770 | 0.029 | 95 |
 | Sonnet 4.6 + Pipeline | 0.817 | 0.018 | 96 |
 
-On the same 32 EQ-Bench prompts, the pipeline improves no-rate by +0.047 (0.770 → 0.817). This is a moderate effect — the pipeline stories are less predictable than vanilla, though still below New Yorker fiction (0.868). Combined with the rubric improvement (+2.08 points, reaching #1), the pipeline improves both dimensions simultaneously: stories that score better on conventional quality metrics are also harder to predict.
+On the same 32 EQ-Bench prompts, the pipeline improves no-rate by +0.047 (0.770 → 0.817). This is a moderate effect — the pipeline stories are less predictable than vanilla, though still below New Yorker fiction (0.868). Combined with the rubric improvement (+2.08 points, reaching #1), the pipeline improves both dimensions simultaneously: stories that maintain EQ-Bench quality metrics are also harder to predict.
 
 ![EQ-Bench side-by-side](figures/fig3_eqbench_sidebyside.png)
 *Figure 4: Left — EQ-Bench rubric leaderboard with our pipeline at #1 (84.58). Right — No-rate on the same 32 prompts. The pipeline improves both rubric quality and narrative tension over vanilla Sonnet 4.6.*
