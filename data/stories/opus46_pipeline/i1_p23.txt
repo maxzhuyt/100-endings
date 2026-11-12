@@ -1,0 +1,99 @@
+# SCP-7291 — Temporal Correspondence (自筆)
+
+**Object Class:** Euclid (Under Review)
+
+**Special Containment Procedures:** All materials related to SCP-7291 are to be stored in Secure Document Locker 7291-A at Site-19. Researcher Dr. Elaine Kobayashi is suspended from active duty pending psychological evaluation. Updates to this file require Level 4 authorization.
+
+**Description:** SCP-7291 designates a series of handwritten notes, currently numbering seven (7), which have appeared in the possession of Dr. Elaine Kobayashi between 09/11/2024 and 09/22/2024. All notes are written on standard Foundation GSA-spec memorandum paper. Forensic graphology confirms the handwriting as Dr. Kobayashi's with 99.7% confidence. All notes are dated between 10/02/2024 and 10/09/2024 — approximately two to three weeks following their respective discovery dates.
+
+Discovery of the first note is documented below.
+
+---
+
+**Discovery Log — SCP-7291-1**
+**Date:** 09/11/2024
+**Documenting Researcher:** Dr. Elaine Kobayashi
+
+During routine annual review of personnel files for Section 4-East, I discovered a folded note inside my own sealed file jacket. The jacket's tamper-evident strip was intact. The note read, in full:
+
+> *10/02/2024 — Cell 4E-0713. BREACH. Not a drill. Not a test.*
+
+I verified: Cell 4E-0713 currently houses SCP-████, a Class-II cognitohazardous entity classified as Neutralized since 2019. Containment is maintained as a formality. The cell's environmental readings are nominal. There is no reason for concern regarding this cell.
+
+I am filing this report for completeness. The note is interesting, primarily as a question of access — how it entered a sealed file — rather than as a credible warning.
+
+---
+
+**Incident Log — SCP-7291-2 through SCP-7291-4**
+**Date Range:** 09/14/2024 – 09/18/2024
+
+Three additional notes recovered across five days. Discovery circumstances as follows:
+
+- **SCP-7291-2** (09/14): Found inside my locked desk. Second drawer. The drawer had not been opened in three days; I'd been using the digital filing system. Note read: *"10/04 — Do not allow Dr. Parekh to run Procedure 8811 on schedule. Delay by any means."*
+- **SCP-7291-3** (09/16): Found in the inner breast pocket of my lab coat while wearing it. I had not removed the coat since 0800. Note read: *"10/06, 14:32 — Corridor 4E will be empty. Go to 0713. The lock code will be 9-0-4-2-1. You need to see what it's doing."*
+- **SCP-7291-4** (09/18): Found between pages 412 and 413 of *Erta & Hong, Applied Temporal Mechanics, 3rd Ed.*, a book I was actively reading at the time of discovery. I had turned past those pages not ninety seconds earlier. Note read: *"They're going to tell you it's the entity. It isn't. Trust the handwriting. Trust your hands."*
+
+I initiated controlled testing. Notes were placed inside sealed, argon-filled acrylic containers under 24-hour video surveillance (Cameras 19-4E-07A and 07B). On 09/19, SCP-7291-5 appeared inside Container 3. Camera footage shows no interruption, no access, no anomaly. One frame the container is empty. The next frame (1/30th of a second later) it is not.
+
+I want to note — this is not the part that disturbs me.
+
+The part that disturbs me is that Dr. Aman Parekh is scheduled to run Procedure 8811 on 10/04. I checked. I had not known this before reading the note.
+
+---
+
+**Addendum 7291-A: Psychological Evaluation Summary**
+**Evaluating Officer:** Dr. Cynthia Voss, Site-19 Psychiatric Division
+**Date:** 09/20/2024
+
+Dr. Kobayashi presents as alert, coherent, and cooperative. No indication of psychotic features, delusional ideation, or dissociative episodes. Cognitive function intact across all standard measures.
+
+However, Dr. Kobayashi's described experiences are consistent with two non-exclusive hypotheses:
+
+**Hypothesis A:** Genuine temporal anomaly. Notes originate from Dr. Kobayashi's future self via an unknown mechanism, possibly related to SCP-████'s reclassification as Neutralized (reclassification may have been premature).
+
+**Hypothesis B:** Ongoing cognitohazardous influence by SCP-████. The entity's file notes its capacity to produce "authored artifacts" — objects that appear to originate from a trusted source, designed to elicit specific behavioral responses in targeted personnel. SCP-████'s Neutralized status has not been independently verified since 2021.
+
+**Recommendation:** Dr. Kobayashi is removed from unsupervised access to Cell 4E-0713 and placed on monitored duty effective immediately. Procedure 8811 will proceed as scheduled.
+
+---
+
+**Personal Log — Dr. E. Kobayashi (Appended Against Advisement)**
+**Date:** 09/22/2024
+
+Three new notes today. Found them together, folded inside my pillowcase in my on-site quarters. The quarters I am now locked into for fourteen hours a day.
+
+SCP-7291-6 references a "Dr. Linden" on the response team. There is no Dr. Linden at Site-19. There is no Dr. Linden in the Foundation directory.
+
+SCP-7291-7 describes the layout of Wing 4E-North, including a sub-basement access corridor. Wing 4E-North's sub-basement was filled with concrete in 2017. I helped pour it.
+
+(The handwriting in these is mine. It is *mine*. But the hand that wrote them was shaking so badly that certain letters — the lowercase *e*, the way I cross my *t*'s from left to right — are barely recognizable. Whoever I become, I become her afraid.)
+
+SCP-7291-8 is one line:
+
+> *You were not born in Sapporo.*
+
+I was born in Sapporo. I have the certificate. I have the memory of my mother telling me about the snow that day, the walk to the hospital, the name she almost chose instead. I know this. This is the thing I know.
+
+Unless the thing in Cell 0713 knows how to build a life so carefully that even the person living it can't find the seam.
+
+---
+
+**FINAL ENTRY — SCP-7291-9**
+**Date Found:** 09/22/2024, 21:47
+**Location:** Taped to the interior of the bathroom mirror. Written in steady, clear handwriting.
+
+> *09/23/2024. 03:00. Go to 0713. Code is 9-0-4-2-1. Open the inner door. You will understand.*
+
+It is currently 22:14.
+
+I have been told that following the notes is precisely the behavioral cascade that SCP-████ was designed to produce — that I would be, in the clinical language Dr. Voss used, "delivering myself." She is not wrong. The logic is sound.
+
+I have also been told, by my own hand, that delay results in breach. That Procedure 8811 is a trigger. That reality is not what I believe. That logic is also sound, or was, until the notes started contradicting the world — or the world started contradicting the notes.
+
+I am aware this document may serve as the last coherent record of my perspective. I am aware that "my perspective" may not be my own. I note the time.
+
+---
+
+**[FILE STATUS: ONGOING]**
+**[NEXT REVIEW SCHEDULED: 10/10/2024]**
+**[NOTE: As of 09/23/2024, 03:00, Dr. Kobayashi's quarters were found empty. Cell 4E-0713 inner door was sealed. No further notes have appeared.]**

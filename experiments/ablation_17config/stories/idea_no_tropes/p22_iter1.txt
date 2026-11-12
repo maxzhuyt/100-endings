@@ -1,0 +1,105 @@
+# Pollen
+
+## I.
+
+The badge reader on the fourth floor of Calyx Technologies requires a tap, a pause, and then a second tap if the first one doesn't register, which it usually doesn't. This has been true since the badge system was installed in 2023 and will remain true until the building lease expires in 2029, at which point it will become someone else's problem, or nobody's. The hallway beyond the badge reader smells of static electricity and a lemon cleaning solution that the janitorial staff applies to the linoleum every Monday and Thursday, though by Tuesday — or Wednesday; these days have the quality of being the same day photocopied — the smell has retreated to a thin citrus ghost that only hits you if you bend down to tie your shoe.
+
+This is the fourth-floor customer support department. Thirty-two cubicles in four rows of eight, arranged like a parking structure for the human body. Each cubicle contains a desk, a monitor, a headset, a swivel chair with adjustable lumbar support that no one has ever adjusted, and a person. The motivational posters on the east wall were mounted by a previous tenant — an insurance adjustment firm — and Calyx never replaced them. One says INTEGRITY IS DOING THE RIGHT THING WHEN NO ONE IS WATCHING above a photograph of a bald eagle. The eagle has been vandalized with a ballpoint mustache. The other poster says TEAMWORK MAKES THE DREAM WORK, and its lower-left corner has come unglued from the wall and curled inward, as if the poster is trying to escape its own sentiment.
+
+At 11:45 on the day in question — which is, let us say, a Tuesday, or possibly the sort of Wednesday that feels like a Tuesday that has been left out overnight — a woman in cubicle 14 opens a Tupperware container of tilapia and wild rice. She does this every weekday, with the methodical certainty of a priest preparing communion. The microwave in the breakroom runs for two minutes and fifteen seconds. The smell arrives at cubicle 9 in forty seconds, cubicle 3 in just over a minute, and the far corner of the floor — where the server closet hums its one hymn — within three. Opinions about this smell vary. Some people have stopped having opinions about it the way one stops having opinions about weather. Others maintain a vigorous, quietly furious interior monologue each day at 11:46 that they will never voice, because the woman in cubicle 14 is kind and brings homemade banana bread on the last Friday of every month and the social calculus of fish smell versus banana bread has been computed and the bread has won.
+
+In cubicle 22, a man named Jerome picks up his headset, taps it twice against his left palm — not hard, just a percussive little ritual, the way you'd knock on wood — and settles it over his ears. He has done this before every call since his first day, seven years ago. He cannot explain why. If you asked him, he would say he doesn't do it, because he has never noticed. His hands know. He doesn't.
+
+The breakroom contains a refrigerator with three POST-IT notes about labeling your food, a laminated schedule for cleaning duties that has not been updated since a previous team lead retired, a round table with four chairs and a wobble that has been "fixed" with a folded napkin since February, and a coffee maker. The coffee maker is a Keurig Meridian, which is to say it is a machine that converts electricity and water into a brown liquid that occupies the same conceptual space as coffee without precisely being it. The liquid is warm. It is wet. It contains caffeine, verifiably. Beyond these facts, opinion diverges.
+
+For six weeks — six weeks as of the Tuesday or Wednesday in question — a debate has persisted on the floor about whether to submit a facilities ticket requesting a new machine or whether to pool money for a French press. The facilities-ticket camp, led nominally by a man named Sanjay in cubicle 19 but spiritually sustained by everyone who believes the company owes them drinkable coffee, argues that the principle matters: the company provides the coffee maker, the coffee maker is broken, the company should fix it. The French-press camp, led by Jerome of the headset taps, argues that the facilities ticket will vanish into the same void that swallowed the ticket about the wobbling chair, the ticket about the thermostat that reads 68 but performs at 64, and the ticket about the east-side bathroom's phantom flush, and that life is short and French-press coffee is good and twelve dollars split eight ways is a dollar-fifty each.
+
+The debate has never been angry. It has been, in fact, one of the more reliable sources of pleasure on the floor — a renewable disagreement, the kind of low-stakes friction that holds a community together the way a frame holds a canvas. People take sides the way they take sides in whether a hot dog is a sandwich: with complete conviction and zero consequences.
+
+The person who holds this argument together — who fuels it by refusing to resolve it, who validates both camps with equal warmth and steers the conversation back to it whenever the floor grows dull — is the team lead, Dara Kimball.
+
+It would be easy, and wrong, to describe Dara. To say she is thirty-seven, or that her hair is pulled back in some fashion or another, or that she wears certain clothes. These facts exist. They are not how anyone on the fourth floor experiences her. They experience her as a *register* — a frequency the room tunes to when she is present. When things are going well, Dara's laugh is the proof that they are going well. It is a short laugh, unperformed, released through the nose as much as the mouth, and it teaches the room that the current mood is safe to enjoy. When things are going badly — an irate caller, a system crash, a quarterly review that translates human effort into the language of throughput metrics — Dara's presence is different but equally structural. She becomes still. She listens. She asks the question that makes the problem a task rather than a crisis. She does not pretend the job is important in the way the INTEGRITY poster means important. She knows it is repetitive, underpaid relative to its emotional demands, and invisible to the rest of the company in the way that load-bearing walls are invisible to people who only look at paint. What she does — what she has chosen to do, and it is a choice, renewed daily — is make the floor a place where people can be bored without being miserable, frustrated without being alone in it. She is, in the vocabulary of organizational behavior, a culture carrier. In the vocabulary of the fourth floor, she is Dara, and things are better when she is here.
+
+On this particular Tuesday or Wednesday, Dara is standing in the breakroom holding a cup of the Keurig's output, and Sanjay is saying that the facilities response time has actually improved this quarter, he saw an email, and Jerome is saying that the email was about HVAC requests not beverage infrastructure, and Dara is laughing — the nose-laugh, the one that makes both of them feel clever — and then she holds up her free hand and says, "I have an announcement that will make you both forget about the coffee."
+
+She tells them. The department has been selected for the initial rollout of a new AI customer support assistant. It is called Pollen. There will be a mandatory training session next Thursday, nine a.m. in Conference Room B. The email went out twenty minutes ago.
+
+"What does it do?" Jerome asks.
+
+"Help," Dara says, in a tone that conveys the full breadth of her familiarity with corporate rollout language.
+
+"Help with what?"
+
+"With everything, apparently. Call routing, FAQs, billing scripts. It's supposed to handle tier-one inquiries so we can focus on tier-two."
+
+"So it takes calls?"
+
+"It takes the easy calls. We take the hard calls. In theory."
+
+Sanjay frowns. "Is it replacing anyone?"
+
+"No," Dara says, and she says it simply, without performance, because she has already asked her manager this question and received an answer she believes. "Headcount stays the same. Same floor, same team. Just a new tool."
+
+"Like the new ticketing system," Jerome says.
+
+"Like the new ticketing system."
+
+"The new ticketing system made everything worse."
+
+"Yes," Dara says. "But this time they used a cake emoji in the announcement, so."
+
+Jerome taps his headset twice against his palm, though he is not about to take a call. Sanjay rinses his mug. The conversation ends the way workplace conversations about change always end: with a brief silence that contains neither excitement nor worry, only the recognition that something new has been added to the list of things to deal with.
+
+The woman in cubicle 14 retrieves her tilapia from the microwave. The whiteboard near the east wall displays the month's ticket-resolution stats in four colors of dry-erase marker — green for on-track, yellow for watch, red for behind, blue for Dara's handwritten notes of encouragement (a "Nice work, team!" with an exclamation point that does not feel corporate because Dara's handwriting is messy and the exclamation point is slightly crooked). The KPI numbers are steady. Not spectacular. Steady. The kind of numbers that keep a department funded without anyone in leadership ever saying its name in a meeting.
+
+The training for Pollen is next Thursday. It will happen in Conference Room B, which is the one with the good projector and the bad chairs. Nine a.m.
+
+Nothing about this will matter in the way the people on this floor understand mattering. Everything about it will matter in a way that the people on this floor do not yet have the language for.
+
+But that is next year's problem. Or, more precisely, it is a problem that belongs to a version of this floor that has not yet come into existence and that, from the vantage of this Tuesday or Wednesday, is as hypothetical as weather in a country you have never visited.
+
+The coffee debate will continue for another eleven days. Jerome will win. The French press will be purchased. It will make very good coffee. It will make very good coffee for a long time, and then it will sit on the breakroom counter with a thin film of dust on its plunger, and no one will be able to say exactly when they stopped using it, only that at some point they did.
+
+---
+
+## II.
+
+Conference Room B has sixteen chairs and a table shaped like a racetrack, and the good projector, which is good only relative to Conference Room A's projector, which once displayed an entire quarterly review in a shade of magenta that made the revenue graphs look like they were blushing. The chairs are the stackable kind with fabric seats that have absorbed, over years, the body heat and fidgeting of a thousand meetings, and they carry this history in a slight permanent warmth that is not uncomfortable but that you would not describe as clean.
+
+It is nine o'clock on a Thursday in October 2026. The team files in. There are muffins. The muffins are from a bakery that the office manager orders from because it is on the vendor-approved list, not because the muffins are good, and everyone knows this, and everyone takes a muffin, and the taking of the muffin is itself a small act of social participation, a way of saying *I am here and I am willing to pretend this is an event.*
+
+The training is led by a man from Product named Theo, who has the energy of someone who has given this presentation four times this week to four different departments. He is cheerful in the way that software demonstrations require: each feature revealed with a slight vocal lift, as if he is showing you a card trick. He wears a lanyard that says POLLINATE THE FUTURE, which is the internal branding for the rollout, and which no one on the fourth floor will ever use unironically.
+
+Pollen appears on the projector screen.
+
+Its interface is a chat window — clean, off-white, with a soft-cornered text box and a small animated icon that resembles a stylized dandelion seed head. When Theo types a prompt, the seed head drifts gently, as though in a breeze, and then Pollen's response appears in a font that is sans-serif and precisely one degree friendlier than default. The design is careful. The design is very, very careful. It communicates approachability without informality, competence without coldness. It looks like what a thoughtful friend would look like if a thoughtful friend were a rectangle on a screen.
+
+"Okay," Theo says. "Let's say a customer calls in about a billing discrepancy. Pollen handles the intake."
+
+He types a sample inquiry. Pollen responds. The response is correct, organized, and slightly warm — it uses the customer's first name, it acknowledges the frustration, it provides the resolution steps in numbered format. It sounds like someone who would be good at this job. It sounds, in fact, like Dara.
+
+"Notice the tone-matching," Theo says, advancing a slide. "If the customer is upset, Pollen adjusts. It doesn't mirror the anger — it meets the emotion, validates it, and redirects. We tested this against human agents across four metrics: resolution time, satisfaction scores, callback rates, and sentiment analysis. Pollen matches or outperforms on all four."
+
+He says this without malice. He says it the way you would report the weather.
+
+Dara raises her hand. "What's the escalation protocol?"
+
+"Great question." Theo clicks to a new slide. "Anything tier-two or above gets handed off to a human agent with a full context summary. Pollen writes the summary in real time, so when the call transfers, you're not starting cold. You get tone notes, issue history, suggested resolution paths. Think of it as a really detailed sticky note from the previous agent, except the previous agent has perfect memory and no ego."
+
+Light laughter. Jerome shifts in his chair. The woman from cubicle 14 — her name is Marguerite, and she has been an agent for eleven years, and she once talked a suicidal caller through forty-five minutes until the EMTs arrived, and she has never told anyone this except her husband, and that was only because she couldn't stop shaking when she got home — Marguerite peels the wrapper from her muffin and does not look at the screen.
+
+From the back row, Sanjay says: "Can it fix the coffee maker?"
+
+The room laughs. Theo laughs. Even Marguerite smiles, though she is looking at her muffin and not at Sanjay. Dara catches Sanjay's eye and gives him a look that means *thank you for that,* because the room needed it — ten minutes of feature demonstration had begun to create a pressure in the air that was not quite anxiety but was adjacent to it, the way 64 degrees is adjacent to cold.
+
+The training continues for another forty minutes. There are slides about data privacy (customer data is anonymized, agent data is anonymized, everything is encrypted, a diagram with arrows and shield icons that means *don't worry*). There are slides about the rollout timeline (phased, starting with tier-one billing inquiries, expanding to scheduling and product support by Q1). There is a slide that says POLLEN + YOU = BETTER OUTCOMES and Dara writes this down in her notebook with a small star next to it, which is what she does with things she intends to translate into human language for her team later.
+
+The rollout happens on a Monday three weeks later. It is unremarkable. Pollen begins taking calls. The calls it takes are the ones that were already easy — password resets, billing-cycle questions, return-policy inquiries — and the humans on the floor notice the difference the way you notice a noise that has stopped: not with relief, exactly, but with a sudden awareness that something was pressing on you that no longer is. Ticket resolution times improve by 18 percent in the first month. Then 23. The KPI whiteboard numbers turn green across every category. Management sends a congratulatory email. The email contains the words "exciting momentum" and a cake emoji, as Dara predicted.
+
+On the floor, the response to Pollen is the same response the floor has always had to new tools: initial skepticism, then grudging utility, then habit. Jerome says it's fine. Sanjay says it's better than the new ticketing system, which is the highest praise Sanjay has ever given a piece of software. Marguerite says nothing about it, because Marguerite does not have opinions about tools; she has opinions about people, and Pollen is not a person.
+
+This is October 2026, and the fourth floor is quietly, unglamorously functional, and no one is grateful for this because no one can see it — the way you cannot see the temperature of the room you are standing in, only the change.
+
+---
+
+The fluorescent lights on the fourth floor of Calyx Technologies operate at 4100 Kelvin, which is the color temperature that lighting engineers describe as "cool white" and that the human nervous system interprets as *office.* In 2026, the narrator did not mention the lights, because in 2026 the lights were not worth mentioning. They were part of the

@@ -1,0 +1,233 @@
+The air filtration unit in the transfer vessel made a sound that was almost, but not quite, a pure note. Arthur had measured it once, out of boredom and a miner’s habit of turning annoyance into data. A hundred and twenty hertz, give or take, with a faint subharmonic when the recycler valve cycled.
+
+It was steady. It did not negotiate. It did not lie.
+
+The cabin was a corporate module retrofitted for “passenger comfort,” which meant the corners had been rounded and a strip of dull aluminum had been screwed over the places where old stenciling had once been scraped away. The bulkheads still carried their rivet-lines like the seams of old armor. A single analog pressure gauge, glass-faced and yellowed at the edges, was bolted near the hatch—redundant to the digital readout on the opposite wall and, therefore, more trustworthy.
+
+Arthur sat with his hands on his knees because it gave the guards less excuse to correct him. The bench was bolted to the deck. The deck was bolted to the frame. Everything had been bolted down as if the designers feared that, without fasteners, the whole situation might float apart.
+
+He took inventory. The door: pressure-rated, manual wheel on the inside, but the wheel had been replaced with a smooth plate. You could not open it without a keyed tool, and the keyed tool would not be in the cabin.
+
+Air: filtered, recycled, owned. If the people outside wished, they could make the cabin uninhabitable with the same ease as they could adjust a thermostat.
+
+Light: steady, cold, and corporate.
+
+Noise: the hum and, occasionally, a soft click from somewhere above the hatch—relay logic, old enough that it still announced itself.
+
+People: two guards, one in the corridor that he could not see, one who had entered twice already to verify he was “comfortable.” Both had worn the same uniform cut: high-collared, formal in a way that suggested it had been designed by committee. Not Martian corporate work-suits. Not Colonial Authority gray. The fabric had a faint sheen, too clean to be practical.
+
+Insignia: that was the first verifiable clue. On the attendant’s lapel, enamel, slightly chipped at one point as though it had been knocked against a bulkhead: a stylized starburst—five long rays and five short, enclosed by a thin circle. Antares, if the half-remembered treaty broadcasts were accurate. Antares “diplomatic corps,” which was the kind of phrase people said quickly, before someone asked how a diplomatic corps acquired sidearms.
+
+Dialect: clipped consonants, the vowels rounded the way off-worlders did when they had grown up with full gravity and full air. They pronounced “leaseholder” as if it were a legal category, not a person.
+
+Phrase overheard: outside the door, a voice had said, “Maintain protective custody pending jurisdictional clarification.” Protective custody. Jurisdictional clarification. That was the language of someone who had never apologized for anything in his life because he could always cite a clause.
+
+Arthur let the hum wash over him and tried to make his thoughts match its steadiness. If he became frantic, he would become easy. If he became easy, he would be moved like a crate.
+
+The hatch plate slid aside with a soft pneumatic sigh. The attendant entered with the measured pace of someone trained never to startle an important animal.
+
+They were not tall, but they carried themselves as if height were irrelevant when you had paperwork. A sidearm sat at the hip, holstered in plain view, not brandished. A small tablet was cradled in one hand.
+
+“Mr. Kline,” the attendant said. “We will be mating with the station in nine minutes. Please remain seated.”
+
+“I’m seated,” Arthur said.
+
+“Good.” The attendant’s eyes flicked, professionally, to Arthur’s hands and back to his face. “Do you require water?”
+
+“I require to know where I’m going.”
+
+The attendant’s smile did not change. “For your safety, you will be escorted to a conference suite upon docking.”
+
+“For my safety,” Arthur repeated, making it a question without changing the words.
+
+“Yes.” The tablet made a faint, analog click as the attendant tapped it—an affectation, perhaps, or simply old equipment made to sound decisive. “You are a leaseholder with an unresolved claim in a restricted zone. Multiple parties have expressed concern.”
+
+“Concern,” Arthur said. “That’s another word like ‘safety.’ It means you’ve decided something already.”
+
+“It means,” the attendant said, “that you will not be harmed. Provided you cooperate.”
+
+There was no threat in the tone. The coercion lay in the premise that harm was a variable they controlled.
+
+Arthur watched the enamel pin as the attendant turned slightly: the starburst caught the light and threw it back without warmth. “Antares,” Arthur said.
+
+The attendant’s smile tightened by a fraction, the way a bolt might seat itself. “Our mission is registered as Antares Diplomatic Liaison, yes.”
+
+“Diplomatic,” Arthur said, and thought of the sidearm.
+
+“Diplomacy requires security,” the attendant replied, as if reciting a maxim. “We will arrive shortly.”
+
+The hatch sealed. The hum continued.
+
+When the transfer vessel mated, Arthur felt it through the deck—a muted vibration, a final alignment, the faintest shift in the pitch of the filtration unit as the external pressure equalized. The hum did not vary by even a hertz. He took comfort in that, and then mistrusted his own comfort.
+
+The hatch opened again. This time there were two guards. They did not grip him. They did not need to. They simply stood close enough that the geometry of the corridor became a funnel.
+
+“Follow, please,” one said.
+
+The corridor beyond was a different world. The transfer vessel’s riveted austerity gave way to polished panels that mimicked woodgrain without committing to the trouble of being wood. Lighting was indirect, flattering. Analog clocks—actual hands sweeping over numbered faces—were mounted at intervals, each one labeled with a different location in neat lettering: ANTARES PRIME, LUNA, MARS COLONY. The hands moved in silence, as if time itself had been disciplined.
+
+Yet beneath the polish, Arthur saw the seams: the scuffed strip along the floor where freight had been dragged; a faded poster partially peeled behind a clear protective sheet—an old recruitment advertisement with cheerful figures in pressure-suits and the slogan, WORK MAKES AIR. Someone had stamped over it with a newer seal: LEASEHOLDER COMPLIANCE PROGRAM.
+
+At a junction, a worker in a gray utility suit paused to let them pass. A plastic tag hung from the worker’s collar: LEASE UNIT 4B—INDENTURE EXTENSION AUTHORIZED. The worker’s eyes did not rise to Arthur’s face. They didn’t have to. They knew what escorted movement meant.
+
+Arthur’s mind, unwilling to stare at the guards, returned to Azra, as minds do to the subject that brought the trap down.
+
+Azra was not like gold. Gold did not halve isotope lifetimes. Gold did not make a warhead’s decay chain behave as if it were on a schedule. Azra did. A few grams, in the right lattice, and you could “scrub” a radioactive byproduct into something stable before it poisoned your crew. Or you could push an unstable isotope over the edge fast enough to turn a containment problem into a weapon.
+
+Treaties mentioned Azra before the scientists finished naming it. That had been one of the jokes on the mining feeds: “We’re still calling it ‘anomalous decay catalyst’ in the journals, but the lawyers already have a definition.”
+
+A kilogram could bankrupt a moon. That was not a joke.
+
+They brought him to a door that looked like any other door until he noticed the seal above it: a starburst, yes, but accompanied by a second emblem—an ouroboros encircling a gavel—and a third, a simple stamped code: TCC-9. Treaty Compliance Commission, Article Nine. He knew that one. Article Nine was the part that allowed people with uniforms to take things “for the preservation of stability.”
+
+Inside, the conference suite was designed to feel informal. That meant a round table, upholstered chairs, and a carafe of water that looked like it belonged on a planet with rivers. A ventilation grille in one corner emitted the same controlled hum, though here it was damped by carpet and soft surfaces until it became a suggestion rather than a note.
+
+A person stood as Arthur entered.
+
+They were older than Arthur by perhaps twenty years, with hair that had gone mostly silver but still lay in precise order. Their suit was cut perfectly, neither corporate utilitarian nor colonial drab; it looked tailored in the old sense, for a human body rather than a uniform template. On the lapel: the enamel starburst, new enough that it had no chips.
+
+“Mr. Kline,” they said, and the voice was calm, cultivated, and unmistakably accustomed to rooms where decisions were made. “I am Envoy Maris Dela. Antares Diplomatic Mission, Commercial Security Liaison Office, and—” a slight inclination of the head toward the stamped code above the door “—acting counsel for the Treaty Compliance Commission, Ninth Article.”
+
+“That’s a lot of titles,” Arthur said, because if he stopped talking, he might start listening too hard.
+
+“Titles are merely handles,” Dela replied, taking a seat without waiting to be invited. “They allow one to lift complex matters without dropping them. Please sit.”
+
+Arthur sat. The guards remained by the door. Not looming. Simply present, like oxygen.
+
+“I want to be clear,” Arthur said. “I’m a leaseholder. My claim is filed with the Martian corporate registry. I haven’t sold anything. I haven’t—”
+
+“You haven’t notified the Colonial Authority beyond the required claim filing,” Dela said, gently, as if correcting a misstatement. “You have not submitted a sample to any assay office certified under the Treaty Compliance Commission. You have, however, extracted a small amount of material for personal verification.”
+
+Arthur stared. “How do you know that?”
+
+Dela’s hands folded on the table. The nails were clean, unremarkable. “Mr. Kline, we are having this conversation because you are not invisible. Tell me: how did you identify the vein as Azra-bearing?”
+
+Arthur’s throat tightened. The hum filled the space between breaths. “It wasn’t labeled,” he said. “It was—strange. The counters read wrong. The decay curve didn’t match the isotope. I thought my equipment was faulty.”
+
+“And then?” Dela prompted.
+
+“And then I did what any engineer does,” Arthur said. “I checked the equipment.”
+
+“How?”
+
+“I used a control sample,” Arthur said. “A thorium pellet. Standard. The pellet’s half-life didn’t change until I brought it close to the rock. Then it… sped up. Not by a little. By orders of magnitude. It’s not normal physics.”
+
+Dela nodded, as if Arthur were describing a gasket problem. “And you removed a sample of the rock.”
+
+“A sliver,” Arthur admitted. “For the lab in my module. Not a certified lab. Just—my own.”
+
+“Who else knows?”
+
+“No one,” Arthur said quickly. “No one. I haven’t told my crew. I haven’t told the company. I haven’t told—”
+
+“You have told no one,” Dela repeated, and there was something in the repetition that sounded like a clause being satisfied. “That is good. That is, in fact, the reason you are still alive and sitting in a pleasant room with water.”
+
+Arthur did not reach for the water.
+
+Dela continued, still polite. “You are in danger, Mr. Kline. Not from us. From the inevitable arithmetic of value. Azra is not merely profitable; it is strategic. It accelerates decay chains, compresses logistical timelines, and renders certain classes of treaty-limited devices… easier to conceal.” The word conceal was said without emphasis, which gave it more weight.
+
+“So you’re taking it,” Arthur said.
+
+“We are preventing it,” Dela corrected. “From becoming an uncontrolled variable.”
+
+“And what am I?”
+
+Dela smiled, as if the question were expected. “You are the discoverer. You are also, in a practical sense, a liability. Your claim is a signal flare. Your presence on Mars makes you accessible to parties who would extract information from you with less civility than we are demonstrating.”
+
+Arthur leaned back, feeling the chair’s soft give. Soft was another kind of restraint.
+
+Dela slid a folder across the table. Paper, not a tablet. Real paper, thick and slightly textured, stamped with seals in ink that smelled faintly metallic. “This is an offer,” Dela said. “It is, in our view, the safest outcome available.”
+
+Arthur did not open it yet. “What are the terms?”
+
+Dela’s voice remained precise. “Clause one: immediate relocation under temporary protective custody to Antares-controlled habitat jurisdiction, duration not to exceed eighteen months, renewable only with your consent or by Treaty Commission order.”
+
+“Consent,” Arthur said.
+
+“Clause two: a buyout of your lease claim in the amount of eight million colonial credits,” Dela said. “Deposited into an account held in trust, accessible to you upon arrival and identity verification.”
+
+Eight million. Arthur’s mind attempted to translate it into air, water, machinery, the debt on his module. It was a number large enough to be unreal and therefore dangerous.
+
+“Clause three: non-disclosure,” Dela said, “with penalties defined under Treaty Article Nine. You will not discuss the location, characteristics, or even the existence of Azra-bearing material with any unauthorized party.”
+
+“And clause four?” Arthur asked, because there was always a clause four.
+
+Dela’s smile did not change. “Technical consultancy. You will advise our extraction engineers on safe methods. You will be compensated additionally at standard Antares rates.”
+
+Arthur let out a breath he hadn’t realized he was holding. “Safe methods,” he repeated.
+
+“Yes,” Dela said. “Azra is… temperamental.”
+
+Arthur’s fingers touched the folder but did not open it. “And if I refuse?”
+
+“Then,” Dela said, as if discussing weather, “we still cannot permit you to return to Mars unsupervised. Your claim has triggered multiple alerts. Others will come. You will be placed in custody by someone. We are simply offering you a version of custody with options.”
+
+The hum went on. Options. In engineering, options meant alternate load paths. Here it meant different kinds of prison.
+
+A chime sounded from a speaker embedded in the wall. It was an old-fashioned chime, like a metal bar struck softly. A light above the door blinked.
+
+One of the guards touched an earpiece, then looked to Dela. “Envoy. The Colonial Authority representative insists on immediate entry. They cite Registry Priority.”
+
+For the first time, Dela’s expression shifted—not to anger, but to a calculation being revised. The smile became fractionally more rigid.
+
+“Of course,” Dela said. “Let them enter.”
+
+The door opened. Another person came in, accompanied by two more guards whose uniforms were unmistakably Martian Colonial Authority: gray, functional, with the red dust insignia at the shoulder. Their boots left faint traces on the polished floor, and no one apologized for it.
+
+The newcomer was a woman with a tablet and the kind of face that had learned to be unreadable in courtrooms. “Arthur Kline,” she said, not asking. “I am Magistrate-Advocate Sato, Colonial Authority Legal. Your lease is filed under our registry. Your person is under our jurisdiction.”
+
+Dela inclined their head. “Magistrate-Advocate. We are acting under Treaty Compliance Commission mandate.”
+
+“Treaty mandate does not erase local registry law,” Sato said. “And Antares does not have authority to remove a registered leaseholder without due process.”
+
+Arthur’s eyes moved between them as if watching two machines attempt to occupy the same space. “So which of you owns me?” he asked, before he could stop himself.
+
+Sato’s gaze flicked to him. “No one owns you, Mr. Kline.”
+
+Dela’s voice was smooth. “Ownership is an inelegant concept. Responsibility is more accurate.”
+
+Sato’s tablet clicked. “Responsibility includes notifying the Authority of any Azra-class discovery under Colonial Safety Statute—”
+
+“—which,” Dela interrupted politely, “was superseded in Azra matters by Treaty Article Nine after the Luna incident.”
+
+“The Luna incident,” Sato said, and there was a sharpness now, “is precisely why we do not permit off-world ‘diplomatic missions’ to operate private extraction on Martian leases.”
+
+Dela’s eyes narrowed by a millimeter. “We have not yet discussed extraction.”
+
+Sato looked at the folder on the table. “And yet you have paperwork ready.”
+
+Arthur watched Dela’s hand hover, momentarily, over the folder as if to reclaim it. The hand did not move. The pause was the micro-reaction Arthur had been waiting for. Antares was not alone in this room’s jurisdiction.
+
+“Mr. Kline,” Sato said, turning her attention to him as if he were a witness who had forgotten he was on the stand. “Have you removed any Azra-bearing material from your site?”
+
+Arthur swallowed. In his mind, the vein lay under Martian regolith, quiet, like a sleeping animal. He heard the filtration hum and imagined it as the sound of a lock engaged.
+
+“I took a sliver,” he said. “For verification.”
+
+Sato’s jaw tightened. “Where is it now?”
+
+“In my module,” Arthur said. “In a lead-lined canister.”
+
+Dela’s head tilted slightly. “Lead-lined.”
+
+Arthur nodded. “It was what I had.”
+
+“And you stored it in your habitat,” Dela said, and now the politeness had an edge, not of anger but of alarm. “How far from your recycler intake?”
+
+Arthur frowned. “Why does that—”
+
+Sato cut in. “Answer.”
+
+Arthur did the engineer’s arithmetic automatically. “Three meters,” he said. “Maybe three and a half.”
+
+For the first time, both officials looked at each other instead of at Arthur.
+
+Arthur felt a coldness crawl up his spine that had nothing to do with temperature. “What?” he demanded. “What’s wrong with three meters?”
+
+Dela leaned forward, the calm voice suddenly more intent. “Mr. Kline. When you brought the control pellet near the rock, the half-life accelerated. Did you consider that the effect might not be limited to the target isotope?”
+
+“It affected thorium,” Arthur said. “That’s what I measured.”
+
+“And what else is in your module?” Sato asked, brisk now. “Power cells. Reactor shielding. Medical isotopes. Waste storage. The recycler filters themselves—”
+
+Arthur’s mouth went dry. He saw, in his mind, the recycler cartridge in his module: a cheap corporate unit, stamped with a leaseholder tag, full of trapped partic

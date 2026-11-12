@@ -1,0 +1,111 @@
+# Sunk Cost
+
+## I.
+
+Watch her hands.
+
+That was what Dara told new analysts during their first week in the monitoring bay, back when there were new analysts, back when the monitoring bay had more than one occupied chair. *Forget the face. Forget the dialogue feed. Watch her hands, and you'll see the architecture of a decision before she knows she's made it.*
+
+On Screen 4, Callista Vrede's left index finger grazed the ceramic rim of a teacup in a night market stall on Dihua Street, and Dara felt the old, particular pleasure bloom behind her sternum — the pleasure of recognition, of pattern confirmed, of watching human cognition perform at a level so refined it looked like stillness.
+
+The teacup touch was a timing mechanism. Callista was counting seconds since the asset's last visual sweep of the intersection while appearing to browse Yixing clay pots with the lethargic curiosity of a jet-lagged tourist. Her cover — Eleanor Park, a Korean-American ceramics buyer sourcing for a Portland gallery — permitted exactly this kind of lingering. The night market smelled of sesame oil and hot rain. The asset, a mid-level procurement official at a Taiwanese semiconductor firm, was buying scallion pancakes forty meters northeast, his back to Callista, his phone in his left jacket pocket with a 32-gigabyte microSD card rubber-cemented inside the case.
+
+The exchange would happen at the intersection of Sections 1 and 2, beside the temple, in a manufactured crowd compression created by a redirected delivery truck Callista had arranged six days earlier through a logistics contact she believed was a retired smuggler but was, in fact, one of forty-seven semi-autonomous behavioral models Dara had seeded into the Taipei operating environment during the build phase.
+
+Dara pulled up the biometric overlay and let her eyes rest on the numbers. Heart rate: 62. Skin conductance: stable within baseline. Cognitive load index: 0.31 — barely above resting, which meant Callista was running the entire operation on something like muscle memory, her higher functions free for the kind of ambient environmental scanning that had, in three consecutive post-mission debriefs, made the assessment psychologists use the word *preternatural* and then cross it out and write *highly attuned*.
+
+"She's going to use the umbrella pivot," Dara murmured.
+
+No one was there to hear her. The monitoring bay's second workstation had been decommissioned nine months ago when Facilities repurposed the power allocation for a cryptocurrency mining pilot that the CFO's nephew had championed at a leadership offsite in Sedona. The third workstation's chair had been borrowed for a conference room and never returned. Dara had taped a small laminated sign to its empty desk that read RESERVED, which was a joke no one would ever see and which she refreshed with new tape every quarter.
+
+On screen, Callista shifted the umbrella from her right hand to her left, opening the approach angle. The umbrella was semi-transparent, the color of weak tea, and it served three functions simultaneously: rain cover (the simulation was generating a light seasonal drizzle consistent with late-October Taipei), a partial visual occluder for the overhead cameras Callista believed were operated by Taiwanese counterintelligence, and a prop that would, in six seconds, force the asset to adjust his walking path by approximately nine inches to avoid collision — enough to bring his jacket pocket within Callista's extraction range.
+
+Six seconds. Dara watched.
+
+At T-minus-four, Callista adjusted her grip on the umbrella shaft. Not a repositioning for the bump — that would come later — but something subtler. She rotated the handle twelve degrees counterclockwise, which angled the canopy to catch a specific reflection in the puddle forming near the storm drain at the temple's northeast corner. The reflection would give her a 1.2-second preview of the asset's trajectory as he rounded the pancake stall. She had improvised this. It was not in the scenario design. Dara had run seventeen thousand variations of this dead-drop exchange during the build phase and had never once modeled the puddle reflection as an operational resource.
+
+*There you are*, Dara thought, and the warmth she felt was unprofessional and she did not suppress it.
+
+The bump was flawless. Callista's right hand extracted the phone, separated the microSD card from the case by touch alone — the rubber cement parted cleanly; Dara had calibrated the adhesive simulation for 23°C and 78% humidity, which matched the environment within 0.3 degrees and 2 percentage points — and the card was in the lining of Callista's jacket before the asset had finished saying *excuse me* in Mandarin that Callista answered with an apologetic nod and a murmured *bù hǎo yìsi* that was pitch-perfect, tonally exact, and delivered with the faintly wrong emphasis of someone who had learned the phrase from a textbook rather than a native speaker, which was precisely what Eleanor Park would have done.
+
+The phone went into a trash can wrapped in a napkin sixty meters later. Callista navigated two countersurveillance routes, took the MRT to Zhongshan, changed at Taipei Main Station, exited at Ximen, walked four blocks in light rain to a hotel that Dara had modeled from 11,000 photographs of the actual Amba Taipei Ximending, and ordered room service — congee, jasmine tea, sliced mango — which she ate sitting cross-legged on the bed while transcribing the microSD data into an encrypted report that would be routed through three dead-mail servers to a handler Callista had never met in person and who did not, in any meaningful sense, exist.
+
+Dara saved the session metrics. She tagged the run with the evaluation codes she had been filing for years — *S-7: Field Extraction, Urban Dense, Solo Operative, Difficulty Tier 4* — and noted in the margins, as she always noted, as she had noted in eleven hundred and forty-three previous session reports that no one had read since the program's classification status had been changed during the first acquisition from ACTIVE/FUNDED to LEGACY/ARCHIVED and then, during the second acquisition, to a category that did not appear in any dropdown menu because the dropdown menus had been rebuilt by a consulting firm that had not been briefed on programs predating the merger:
+
+*Subject performs within expected parameters. No anomalies observed. Recommend continued monitoring.*
+
+She typed the date. October 3rd. She did not type the year, because the year would have required her to acknowledge that the Callista Vrede Cognitive Evaluation Program had been officially decommissioned — budgets zeroed, staff reassigned, project charter marked COMPLETED — fourteen months ago, and that the simulation was still running because no one had sent the termination order to the infrastructure team, because the infrastructure team had been outsourced to a managed services provider in Hyderabad that operated on work orders routed through a ticketing system that required a project code that had been archived, and because the only person who knew the simulation was still running, the only person who still had credentials to access the monitoring feeds, the only person who checked on Callista Vrede every morning with a cup of coffee and a familiar current of quiet awe, was Dara Kess, who had built every street, every safehouse, every raindrop, every NPC, every mission, every lie Callista had lived inside for nine years, and who filed her session reports into a directory on a server that no longer had an owner, where they accrued like letters to the dead.
+
+Dara closed the file. She took off her headset. She looked at the empty monitoring bay — the dead workstation, the missing chair, the RESERVED sign — and she permitted herself, for the duration of one long breath, to feel the thing she could not name, which was not love and not pride and not guilt but some braided alloy of all three that had no word in any language she spoke.
+
+Then she picked up her coffee, confirmed that the simulation's environmental clock was advancing normally, and went to a 10 a.m. all-hands meeting about Q3 OKRs, where she sat in the back row and said nothing.
+
+---
+
+## II.
+
+It was a barometric pressure reading.
+
+That was the absurd thing, the thing that Dara would later reconstruct in so many ways it ceased to have a stable shape in her memory: it was not a wall dissolving into pixel hash, not a corpse standing up in a morgue, not a sun rising in the wrong quadrant of the sky. It was a number on a weather display in the window of a tea shop on a side street in Callista's Taipei, a display that Callista passed during a routine countersurveillance walk and that she could not possibly have been reading because she was, at that moment, navigating crossing traffic and monitoring a potential tail three blocks back.
+
+1013.2 hectopascals.
+
+Then, for approximately four hundred milliseconds, 1 **0** 09.7.
+
+Then 1013.2 again.
+
+Dara almost missed it. The environmental rendering system generated thousands of ambient data points per simulated second — weather, crowd noise, traffic patterns, signage, the particular way light hit wet pavement at 4:47 p.m. in late October — and the monitoring console displayed them in a scrolling sidebar that was, if Dara was being honest, mostly decorative. She had not looked at the ambient data feed with real analytical attention in months. Years, maybe. The simulation's rendering engine, a proprietary system called TIDAL that had been built by a team of nine engineers — seven of whom now worked at other companies, one of whom had died of pancreatic cancer in 2021, and one of whom was Dara — was robust. It did not glitch. It did not hiccup. It certainly did not allow a barometric pressure display in a tea shop window to flicker to a value consistent with a low-pressure system that was not scheduled to arrive in the simulated weather model for another forty-eight hours.
+
+Except it had.
+
+Dara replayed the telemetry. She slowed the feed to frame-by-frame. She confirmed: the display had shown the wrong value for four hundred milliseconds, then corrected. A rendering buffer lag, most likely. A cache conflict between the weather model and the environmental signage generator. The kind of thing that happened once in a billion cycles and was, in any normal context, meaningless.
+
+She switched to Callista's biometric feed.
+
+Heart rate: 64. Skin conductance: stable. Respiratory rate: 14. Everything nominal, everything consistent with a woman walking through light rain thinking about whether the tail three blocks back was real or environmental noise.
+
+Except.
+
+Cognitive load index. Dara stared at the number. It had been 0.29 — low, easy, automatic — and at the exact moment the barometric display flickered, it had spiked to 0.71 and then settled, over twelve seconds, to 0.43, where it remained for the rest of the walk.
+
+0.71 was not alarm. Dara had seen Callista's alarm responses, her genuine fight-or-flight moments, and they presented as paradoxical drops in cognitive load — her system shedding complexity, going clean, going fast. 0.71 was something else. 0.71 was the number Dara associated with Callista encountering a novel problem and deciding not to react to it until she understood its parameters. It was the signature of a woman who had just filed something away. Not dismissed it. Filed it.
+
+Dara sat very still. On screen, Callista continued her walk. She bought a bottle of water from a convenience store. She checked her reflection in a window — a standard surveillance-detection move, looking for the tail. She adjusted her pace. She gave no outward sign that anything had changed.
+
+But her cognitive load index stayed at 0.43 for the rest of the evening. It was still at 0.41 when she fell asleep.
+
+Dara knew what that meant. She had monitored Callista's sleep architecture for nine years. She knew what a resting cognitive load of 0.41 looked like: it looked like a woman running calculations in her sleep. Solving something. Worrying a problem the way a tongue worries a cracked tooth.
+
+Dara opened her report template. In the anomaly field, she typed:
+
+*Minor rendering inconsistency detected in ambient environmental data (barometric pressure display, Dihua Street, Sector 7-NW). Duration: ~400ms. Cause: probable buffer lag in weather-signage integration layer. Subject may have registered anomaly. CL spike to 0.71, resolving to 0.43 within 12 seconds. Sustained elevated CL through sleep cycle.*
+
+She stared at what she had written. She moved her cursor to the ESCALATION RECOMMENDATION dropdown. The options were: NONE, ROUTINE, PRIORITY, CRITICAL.
+
+She thought about what PRIORITY would mean. It would mean the report routing to the project oversight inbox, which was — she knew, because she had checked, because she checked every few months with the compulsive regularity of someone pressing a bruise — a shared mailbox that had last been accessed by a human being in March of the previous year, by a program manager named Tomás who had been laid off in the second round of post-acquisition restructuring and whose access credentials had been deactivated six weeks after his departure, which meant the mailbox was now functionally a crypt, receiving automated system notifications and Dara's reports and nothing else, accumulating data in the patient, indifferent way of all unmaintained digital systems, like a mailbox at a house where no one has lived for years, collecting catalogs and flyers and urgent letters that slowly yellow in the dark.
+
+She selected NONE.
+
+She saved the report. She closed the file.
+
+She went home and lay in her bed and stared at the ceiling and thought about 0.71 — the exact shape and weight of Callista Vrede's attention when it locked onto something it did not yet understand — and she did not sleep well.
+
+---
+
+## III.
+
+It started with the weather.
+
+Eleven days after the barometric flicker, Callista deviated from her operational routine for the first time in fourteen months. The deviation was small — a walk, nothing more, a forty-minute loop through the Da'an District that had no operational purpose Dara could identify. Callista wasn't servicing a dead drop or scouting a meeting site or conducting countersurveillance. She was walking. Looking up.
+
+Looking at the sky.
+
+Dara pulled up Callista's route on the environmental overlay and compared it against the simulation's weather grid. Callista had walked to six locations, each separated by approximately four blocks, and at each location she had paused for between ninety seconds and three minutes. Dara cross-referenced the pause points against the rendering architecture and went cold.
+
+The six locations were the vertices of the weather model's interpolation grid for the Da'an District. The points where the simulation calculated atmospheric conditions and blended them into the seamless continuum that Callista experienced as sky, as wind, as the particular quality of afternoon humidity in a subtropical city in autumn. Callista could not have known this. There was no visible marker at these points, no seam in the rendering. But somehow — through some alchemy of attention and nine years of living beneath a simulated sky — she had intuited the grid. She had felt the weather's joints.
+
+At each vertex, she had stopped. Looked up. And Dara, watching the cognitive load index, saw the same thing six times: the number climbing to 0.6, holding, declining. Callista was measuring something. Comparing something. Building a data set.
+
+Three days later, she revisited the same six points. Different time of day. Different weather conditions — the simulation was running an overcast cycle with intermittent rain. Same pauses. Same duration.
+
+Dara understood. Callista was testing whether the weather was *consistent* — whether the atmospheric conditions at these six points bore the correct mathematical relationship to each other, whether the temperature gradient between them followed the fluid dynamics of actual air rather than the computational shortcuts

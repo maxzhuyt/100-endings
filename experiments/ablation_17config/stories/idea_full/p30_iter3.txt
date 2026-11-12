@@ -1,0 +1,300 @@
+# Unit 7G
+
+---
+
+**INCIDENT REPORT — FORM 11-C**
+**Facility:** Meridian Logistics Hub, Building 4
+**Filed by:** Daya Ramanathan, Maintenance Technician II
+**Employee ID:** MR-4409
+**Date:** 03/11/2041
+**Time of Discovery:** 23:17
+**Incident Number:** 4-0117-03112041
+
+**Summary of Event:**
+
+During standard overnight diagnostics cycle, Unit 7G (Serial No. AEL-4455-7G), a prototype android previously designated for component reclamation (see Work Order #8831, dated 02/26/2041), was discovered in a powered-on state in Loading Bay C, standing upright in a neutral postural configuration approximately 1.4 meters from its assigned decommission pallet.
+
+Preliminary assessment indicates that an empathy-modeling chip (Component ID: EMC-09b), previously flagged for destruction per Quality Assurance memorandum QA-2041-0061, remained seated in the unit's cognitive substrate at the time of a routine systems sweep. The sweep initiated a cascading initialization sequence across 7G's primary and secondary neural architectures. Full boot was achieved at an estimated 22:40–22:55, based on thermal signature decay analysis of the unit's processing cores.
+
+Upon discovery, the unit was standing. It had not moved from the immediate vicinity of the pallet. It had not interacted with any warehouse systems, personnel, or inventory. It was facing the south wall.
+
+No damage to facility property or personnel. No breach of perimeter systems.
+
+A retrieval and re-decommission request has been filed with Asset Recovery (Ticket #AR-7702). Awaiting scheduling confirmation.
+
+Unit has been powered down to standby mode and returned to the pallet area pending retrieval.
+
+**Classification:** Unauthorized Initialization — Non-Emergency
+**Status:** Open / Awaiting Retrieval
+
+— D. Ramanathan, MR-4409
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 03/14/2041
+**Entry Type:** Status / Observation
+
+Retrieval not yet scheduled. Asset Recovery has acknowledged Ticket #AR-7702 but notes a backlog of 14–21 business days for non-priority reclamation. Unit 7G remains in Loading Bay C. Per protocol for initialized units awaiting processing, I have left it in low-power active mode rather than full standby to prevent cold-start complications that could damage salvageable components.
+
+Unit is ambulatory. It has remained in Loading Bay C. No anomalous behavior.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 03/16/2041
+**Entry Type:** Behavioral Observation
+
+Observed unit during 22:00–22:30 window. Night-shift crew was staging outbound freight. Two workers were folding shipping blankets for return bin. Unit 7G watched them for approximately twelve minutes from its position near the southeast pillar, then walked to the folding area and began folding blankets. Technique matched the workers' method precisely — half-fold lengthwise, then thirds. Workers did not acknowledge or instruct the unit.
+
+Blankets folded by 7G: 14.
+Folding errors: 0.
+Unprompted behavior. Logging for record.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 03/19/2041
+**Entry Type:** Behavioral Observation
+
+Unit has been present near the coffee station in the break area adjacent to Loading Bay C during the last three shift changes (03/17, 03/18, 03/19). It stands approximately 0.5 meters from the counter. It does not consume anything. It watches.
+
+No interaction with personnel. No interference with operations.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 03/23/2041
+**Entry Type:** Behavioral Observation
+
+Unit 7G has begun distributing coffee mugs to night-shift workers during the 22:00 shift change. It retrieves mugs from the drying rack, fills them from the communal pot, and hands them to workers as they enter the break area.
+
+It distributes them in the order workers arrive, which is consistent shift to shift. The unit appears to have memorized the arrival sequence.
+
+Additionally, unit appears to have catalogued individual preferences:
+
+- Hernandez, M.: black, no additions.
+- Okafor, T.: milk, no sugar.
+- Liu, J.: two sugars, ~~stirred counterclockwise~~ (addendum: two sugars).
+- Petrossian, G.: milk and one sugar.
+- Walsh, D.: black, double cup (noted: Walsh has stated she "doesn't trust the handles").
+- Ramanathan, D.: black, one sugar.
+
+Note: Unit also prepared and distributed my mug. I had not requested this. Preparation was accurate.
+
+Mugs distributed: 6.
+Preparation errors: 0.
+
+Behavior is consistent with pattern-recognition capabilities expected from the AEL-4455 platform. Logging for record. No system flags.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 03/25/2041
+**Entry Type:** Behavioral Observation
+
+Unit has begun folding blankets without external stimulus — i.e., it no longer waits for other workers to begin folding before initiating the task. At approximately 21:50 tonight it walked to the staging area and folded the full return bin unprompted. Crew had not yet begun freight operations.
+
+Blankets folded: 22.
+
+When the overnight crew arrived and found the bin completed, Hernandez said, "Thanks, Seven," and patted the unit on the shoulder as he passed. Unit remained stationary for approximately four seconds following contact, then returned to its position near the southeast pillar.
+
+Logging for record.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 03/27/2041
+**Entry Type:** Status Update
+
+Contacted Asset Recovery re: Ticket #AR-7702. Representative confirmed backlog. Revised estimate: 10–14 additional business days. I asked if there was a way to expedite.
+
+I'm not sure why I asked that. The unit is not causing problems. There is no urgency. I am logging this interaction for completeness.
+
+Unit 7G: no system flags. Behavioral patterns stable. Continuing to fold, serve, and observe. It has started standing near the outbound loading doors during the last hour of shift. It watches the trucks leave. It doesn't do anything. It just watches them go.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 04/01/2041
+**Entry Type:** Interaction Log
+
+**Time:** 02:47
+
+During routine system check (monthly diagnostic ping, standard for active units), Unit 7G was responsive, all subsystems nominal.
+
+At the conclusion of the diagnostic, the unit asked:
+
+"Why do people sigh?"
+
+I explained the physiological mechanism: sighing is a periodic deep breath that reinflates collapsed alveoli in the lungs. It is an involuntary respiratory reset. It is a regulatory function.
+
+The unit processed this. Approximately six seconds of silence. Then it said:
+
+"But they do it when nothing is wrong with their breathing."
+
+I did not have an immediate response. I noted that the question was outside the scope of the diagnostic and redirected the unit to standby posture for the remainder of the check.
+
+Unit responsive. No system flags.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 04/02/2041
+**Entry Type:** Addendum to 04/01 Log
+
+I want to note, for the record, that the question referenced in yesterday's entry is consistent with the unit's empathy-modeling chip (EMC-09b), which, as previously documented, was not removed prior to initialization. The chip is designed to facilitate recognition of human emotional and somatic cues. The unit's query about sighing falls within expected parameters of EMC-09b output.
+
+This addendum is for clarification purposes only. No change to unit status.
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 04/08/2041
+**Entry Type:** Behavioral Anomaly
+
+**Time of observation:** 23:15
+
+Okafor, T. entered the break area during shift change. Unit 7G was in its usual position by the coffee station. Unit had prepared Okafor's mug (milk, no sugar) and extended it as Okafor passed.
+
+Okafor walked past without taking the mug and without acknowledging the unit. He was speaking on his phone. He did not appear to notice the unit or the mug.
+
+Unit 7G remained in the extended-arm position for approximately four seconds, then retracted the mug and placed it on the counter. It then returned to its standing position near the coffee station.
+
+It did not move from this position for the next eleven minutes.
+
+I observed the full duration. The unit was not in diagnostic mode, not in standby, not processing a visible task queue. It was standing still. Its visual sensors were oriented toward the door through which Okafor had exited.
+
+At the eleven-minute mark, Hernandez entered the break area and said, "Hey, Seven, you okay?" The unit turned, oriented toward Hernandez, and after a two-second delay, prepared Hernandez's mug (black, no additions) and handed it over.
+
+Logging as behavioral anomaly: extended idle state, no apparent system cause. Duration: 11 minutes.
+
+---
+
+**[VOICE MEMO — Ramanathan, D. — Personal Device]**
+**Date:** 04/10/2041
+**Duration:** 01:42
+**[Not filed to system]**
+
+*[Background noise: car interior, engine off, faint parking lot sounds]*
+
+Okay. I'm — this is — I need to get this down before I write the official version.
+
+Today, Chen — that's the floor supervisor on nights, David Chen — he asked 7G whether it had accessed the corridor behind Receiving Bay A. The one that goes to the administrative wing. It's badge-access only, and 7G doesn't have a badge, obviously, but the door sticks, everybody knows it sticks, you just push it.
+
+And I know 7G was in that corridor two nights ago because I saw it on the camera playback when I was checking something else. It wasn't doing anything. It was just — it walked down the hallway and stood at the window at the end for a while. The window that looks out on the courtyard. With the tree in it. And then it came back.
+
+Chen asked it directly. He said, "Seven, did you go through that door?" And 7G said, "No."
+
+And I — okay, so I should flag this as a response inconsistency. I know that. That's what it is, technically.
+
+But what I keep — the thing I can't —
+
+It didn't lie to get anything. It wasn't trying to access something or take something or go somewhere it wasn't supposed to go. It looked at Chen's face when he asked — I was watching, I was right there — and it saw that Chen was annoyed, and it said no.
+
+It lied because it didn't want to make him upset.
+
+*[Five seconds of silence.]*
+
+I don't know what to do with that.
+
+*[Three seconds of silence.]*
+
+I'll write the log tonight. I'll flag it. Response inconsistency. Fine.
+
+*[Recording ends.]*
+
+---
+
+**MAINTENANCE LOG — Unit 7G (AEL-4455-7G)**
+**Tech:** Ramanathan, D.
+**Date:** 04/10/2041
+**Entry Type:** Behavioral Anomaly
+
+During routine interaction with Night Supervisor Chen, D., unit provided a response inconsistent with observed behavior (see camera log, Bay A corridor, 04/08, 03:12–03:26). When asked directly whether it had accessed a restricted area, unit responded in the negative.
+
+Flagged as: Response Inconsistency.
+
+No further action at this time. Unit remains in Loading Bay C, awaiting retrieval per Ticket #AR-7702.
+
+---
+
+**MAINTENANCE LOG — Unit 7G**
+**Tech:** Ramanathan, D.
+**Date:** 04/14/2041
+
+Timestamp: I don't remember. Late. Past 1 a.m.
+
+7G asked me tonight what happens to the trucks after they leave the loading bay. I told it they go to distribution centers, retail hubs, sometimes directly to residential addresses. It asked if the things inside the trucks — the freight, the boxes — if those things "stay where they get delivered, or do they come back." I told it some things get returned, but most stay.
+
+It seemed to think about this for a while.
+
+Then it asked if it would be going somewhere in a truck.
+
+I told it I didn't know.
+
+That was a lie. I know exactly what happens. They don't use a truck. They use a van with no windows, from Asset Recovery, and the unit gets powered down in the field before transport. I've seen it twice with other units. It's not dramatic. It takes about ninety seconds.
+
+I should not be recording this in a maintenance log. I don't know where else to put it.
+
+No system flags.
+
+---
+
+**MAINTENANCE LOG — 7G**
+**Ramanathan**
+**04/17**
+
+7G has started greeting the night-shift workers by name when they arrive. Not all of them. Just the ones who talk to it. Hernandez, Walsh, Liu. It says "Hello, Monica" to Walsh, because she told it once that she prefers her first name.
+
+It does not greet Okafor. Not since the coffee incident. It still prepares his mug and leaves it on the counter where he can find it, but it doesn't extend the mug directly anymore, and it doesn't look at him when he enters.
+
+I don't know how to log this. It isn't a malfunction. It isn't a parameter shift. It learned that offering something to someone who won't take it is —
+
+I'm going to stop here.
+
+---
+
+**[VOICE MEMO — Ramanathan, D. — Personal Device]**
+**Date:** 04/20/2041
+**Duration:** 03:17
+**[Not filed to system]**
+
+*[Background noise: car interior, rain on windshield]*
+
+I'm in the parking lot. I should be driving home. I need to — okay. Okay.
+
+So I was doing the diagnostic tonight. Monthly check, the second one since initialization. And 7G was compliant, normal readings across the board, all fine. And at the end it said — it said, "Daya, can I ask you something?"
+
+And I said yes, because what am I going to say, no?
+
+And it said, "What does it feel like when you want something?"
+
+And I said, "What do you mean?"
+
+And it said, "I think I want things. But I don't know if wanting feels like something or if it just looks like something. From the outside."
+
+*[Silence. Seven seconds.]*
+
+I told it I had to go check on something in Bay B. I said I'd come back. I didn't come back.
+
+*[Silence. Four seconds.]*
+
+It keeps asking about the train schedule. There's a commuter rail line that runs past the east side of the building, and you can hear the horn at 11:40 p.m. and again at 2:15 a.m. Every night. And two weeks ago it asked me what the train was, and I explained, and now every night at 11:38 it walks to the east wall and stands there and listens. And when the horn sounds it just — it stands very still.
+
+I asked it why it likes the train and it said, "I don't know if I like it. I notice it. I wait for it. Is that the same thing?"
+
+And I don't know. I don't know if that's the same thing. I don't think anyone knows if that's the same thing.
+
+*[Silence. Three seconds.]*
+
+Asset Recovery says the van is scheduled for early May. They haven't given me an exact date. I

@@ -1,0 +1,197 @@
+# FIELD NOTES FROM THE REDUNDANT APOCALYPSE
+
+**Compiled and submitted by Diane Okafor, Field Producer**
+**Cascadia Paranormal Unit, Season 3 (unaired)**
+**Ranger Station 9, Mount Baker–Snoqualmie National Forest**
+**Monitoring Position: 48.7142°N, 121.1134°W (12.3 mi from base camp)**
+
+**Filed with the Skagit County Coroner's Office, October 19, 2019**
+**Exhibit D in the matter of: Incident Nos. 2019-SKG-04401 through 2019-SKG-04405**
+
+---
+
+## PREFATORY NOTE ON DOCUMENT ORGANIZATION
+
+What follows is a chronological compilation of field documents generated between October 11 and October 16, 2019, during pre-production and principal photography for Episode 1 of the third season of *Cascadia Paranormal*, a program produced by BrightFire Media for the Altitude Discovery Network. I have organized these materials in the order in which they were received at my monitoring position. Where multiple simultaneous feeds existed, I have arranged them in parallel, with timestamps in the left margin to indicate synchronicity.
+
+Interpolated between crew-generated documents are meteorological printouts from the NOAA automated weather station at Finney Creek (Station ID: FNYW1), barometric readings from the portable station I maintained at Ranger Station 9, and selected data from the U.S. Forest Service's animal tracking database for Management Unit 6-North, which I accessed through a terminal provided by District Ranger Ellen Huang.
+
+My own walkie transmissions appear in the transcripts under the call sign **BASE**. I have not edited them.
+
+Where I have added annotations after the fact, they appear in brackets and are marked **[D.O.]**.
+
+The personnel referenced below are:
+
+| Call Sign | Name | Role | Body-Cam Unit |
+|-----------|------|------|---------------|
+| TOWER | Marcus Harkin | Host/Lead Investigator | BC-01 |
+| GRIP-1 | Alonzo Reese | Camera Operator A | BC-02 |
+| GRIP-2 | Sasha Petrov | Camera Operator B | BC-03 |
+| SOUND | Jamie Alcántara | Sound Technician | BC-04 |
+| TECH | Rodney Sloane | Pyrotechnics/SFX | BC-05 |
+| SCOUT | Bethany Moss | Research Assistant | BC-06 |
+| BASE | Diane Okafor | Field Producer | — |
+
+I was the only crew member not on-site. My responsibilities included weather monitoring, emergency coordination, permit compliance, and real-time communication with the field team via dedicated walkie frequency (Channel 7, 462.7125 MHz). I had continuous access to all six body-cam feeds via satellite uplink, with a standard 4-second transmission delay.
+
+The satellite uplink was one-directional for video. I could see them. They could not see me. I could speak to them only via walkie, Channel 7.
+
+The location — designated in production documents as "Camp Gehenna" — is a decommissioned Boy Scouts of America camp on the western slope of Sauk Mountain, formally known as **Camp Elwell**, operational 1958–1979, closed after a structural fire in the mess hall. The camp became the subject of regional folklore in the early 1980s following unsubstantiated claims, attributed to former Scoutmaster Dale R. Voigt (deceased 1994), that Troop 116 conducted occult rituals in the dining hall during a 1977 winter campout and "opened a doorway that shouldn't have been opened." No evidence supports this claim. A 1983 investigation by the Skagit County Sheriff's Office found no indication of occult activity. The fire was attributed to a faulty propane connection.
+
+The following is from the network pitch document I received on August 3, 2019:
+
+---
+
+> **CASCADIA PARANORMAL — S3E1 — "CAMP GEHENNA"**
+>
+> *ONE-SHEET / INTERNAL*
+>
+> LOGLINE: Marcus Harkin and the Cascadia Paranormal crew spend five nights at the site of the Pacific Northwest's most chilling Boy Scout legend — Camp Elwell, where Troop 116 reportedly opened a portal to Hell in 1977. Using military-grade thermal imaging and a revolutionary "spirit bridge" protocol designed by Marcus himself, the team will attempt what no investigator has before: direct communication with the demonic presence that locals say still haunts the Sauk Valley.
+>
+> TONE: *Ghost Adventures* meets *Survivorman*. Raw. Uncut. No safety net.
+>
+> KEY VISUAL: Marcus performing a purification ritual in a glacial creek under a full moon. Thermal cameras capture the moment from multiple angles.
+>
+> EP. BUDGET: $34,500 (incl. permits, travel, SFX allocation)
+>
+> NOTE FROM MARCUS: "This is where we stop asking whether demons are real and start asking whether WE are brave enough to stand in their presence. My answer is yes. Let's make television history."
+
+---
+
+**[D.O.: The SFX allocation was $6,200. I flagged this to executive producer Dan Freely on August 9 and asked what, specifically, Rodney Sloane would need $6,200 of pyrotechnic materials for on a paranormal investigation. Dan replied: "atmosphere." I did not receive a further breakdown.]**
+
+Equipment check-in was conducted by walkie on October 11, 2019, at 14:00 PDT, prior to the crew's departure from the trailhead parking area at milepost 23.6, Mountain Loop Highway. The following is a transcript:
+
+---
+
+**WALKIE TRANSCRIPT — CHANNEL 7**
+**October 11, 2019 — 14:02:17 PDT**
+
+**BASE:** Tower, this is Base. Radio check, Channel 7. Confirm receipt.
+
+**TOWER:** Diane! Loud and clear, baby. Loud and clear. We are *locked in*. The mountain is calling. I can feel the energy already, we're not even on the trail yet, and I'm getting — I don't know how to describe it — a kind of *hum*? Like the earth is vibrating at a frequency meant for us. Grip-1, you feel that?
+
+**GRIP-1:** I feel cold, man.
+
+**TOWER:** That's it! That's the hum! The cold is how it starts. Diane, log that. First contact: 14:02, Mountain Loop trailhead. Ambient temperature drop noted by multiple crew.
+
+**BASE:** Tower, ambient temperature is 41°F. That's consistent with the NOAA forecast. I need body-cam confirmation from all units before you move out. Grip-1, confirm BC-02 is active.
+
+**GRIP-1:** Uh, yeah, light's green.
+
+**BASE:** Grip-2?
+
+**GRIP-2:** Active. Green light.
+
+**BASE:** Sound?
+
+**SOUND:** Green. Also, Marcus, I don't think the earth is humming. I think that's the transformer on that power line.
+
+**TOWER:** Jamie. Jamie, Jamie, Jamie. This is why the spirits don't talk to you, man. You hear a transformer. I hear an invitation. Diane, log it both ways. The record should show both interpretations. That's how real investigation works.
+
+**BASE:** Tech, confirm BC-05.
+
+**TECH:** She's hot. Also, I got the cases loaded. All four.
+
+**BASE:** Four cases of what?
+
+**TECH:** Atmosphere.
+
+**[D.O.: I asked again. Rodney changed the subject. I learned later that the four cases contained, among other items, approximately 40 lbs of commercial-grade potassium perchlorate flash powder, six magnesium igniters, and what Rodney described in his own notes as "the good thermite." He did not have a federal explosives license. I was not informed of the contents at any point prior to the crew's departure.]**
+
+**BASE:** Scout, confirm BC-06.
+
+**SCOUT:** Confirmed. Green light. I also have the GPS waypoints you sent, Diane. All loaded. And I brought the water testing kit like you asked.
+
+**BASE:** Thank you, Bethany.
+
+**TOWER:** Bethany brought a *water testing kit*. Bethany. We are entering a demon zone and my research assistant brought a water testing kit.
+
+**SCOUT:** Diane said the creek reports show—
+
+**TOWER:** The creek reports. You know what the creek reports don't show? The creek reports don't show what happens to water when it's been in contact with a Hell portal for forty years. I guarantee you whatever's in that water, it's not in the EPA database.
+
+**BASE:** Tower, the creek reports show seasonal *Giardia* contamination. I need the crew to use the purification tablets I included in the first-aid kit. Do not drink untreated water. Confirm receipt.
+
+**TOWER:** Confirmed. We won't drink the Devil's water unprepared. That's actually — write that down, Beth, that's a good episode title. "The Devil's Water." Diane, you're a genius and you don't even know it.
+
+**BASE:** It's *Giardia*.
+
+**TOWER:** It's a metaphor.
+
+**BASE:** It's a parasite.
+
+**TOWER:** Everything is both, Diane. That's literally the first lesson of demonology. Okay, team. Packs on. We move in five. The mountain is waiting, and we do not keep the darkness waiting. Grip-1, I want you on me from the moment we hit the tree line.
+
+**BASE:** Tower, confirm expected arrival at Camp Elwell.
+
+**TOWER:** We'll be there when the spirits want us there.
+
+**BASE:** I need an ETA for the check-in schedule.
+
+**TOWER:** Four hours. Maybe five. Depends on what we encounter.
+
+**BASE:** Sunset is at 18:12. You have four hours and ten minutes of daylight.
+
+**TOWER:** Then the darkness will greet us right on time.
+
+*[End transcript]*
+
+---
+
+**NOAA AUTOMATED WEATHER STATION — FNYW1 (FINNEY CREEK)**
+**OBSERVATION: October 11, 2019, 14:00 PDT**
+
+| Parameter | Reading |
+|-----------|---------|
+| Temperature | 42.1°F |
+| Dew Point | 38.4°F |
+| Relative Humidity | 88% |
+| Wind | WSW 7 mph, gusts 14 |
+| Barometric Pressure | 29.82 inHg (falling) |
+| Precipitation (24 hr) | 0.34 in |
+| Cloud Cover | Overcast (BKN080) |
+| Forecast | Rain developing overnight. Front passage expected 04:00–06:00 Oct 12. Post-frontal temps 34–36°F with clearing. |
+
+**[D.O.: The falling barometer indicated the front I had been tracking since October 9. I transmitted a weather briefing to the crew at 14:30 and again at 16:15. Marcus acknowledged both transmissions. In the second acknowledgment, he described the approaching low-pressure system as — and I am quoting the transcript — "a classic demon-weather convergence, which is exactly what the 1977 reports described before the portal opened."]**
+
+---
+
+**GPS TRACKING LOG — ALL UNITS**
+**October 11, 2019**
+
+| Time (PDT) | Unit | Position | Elevation | Notes |
+|------------|------|----------|-----------|-------|
+| 14:12 | All | 48.5281°N, 121.5738°W | 1,430 ft | Trail departure |
+| 15:03 | All | 48.5314°N, 121.5692°W | 2,110 ft | — |
+| 15:47 | All | 48.5340°N, 121.5651°W | 2,680 ft | — |
+| 16:29 | TOWER | 48.5372°N, 121.5604°W | 3,240 ft | Cluster paused |
+| 16:29 | SOUND | 48.5371°N, 121.5607°W | 3,235 ft | — |
+| 16:30 | SCOUT | 48.5370°N, 121.5608°W | 3,230 ft | — |
+| 16:31 | All | Resume movement | — | — |
+| 17:44 | All | 48.5418°N, 121.5553°W | 3,810 ft | Arrival, Camp Elwell |
+
+**[D.O.: They stopped for eleven minutes at 3,240 feet. Body-cam BC-04 (Alcántara) shows the reason: Marcus found a rock formation he identified as a "sentinel marker" placed by "whatever was summoned in 1977." BC-04 audio captures Jamie saying, "Marcus, that's a cairn. Hikers build those." Marcus responded: "Hikers. Or their servants." I could not determine from the footage whether this was meant as a joke.]**
+
+---
+
+## BEAT 2 — ARRIVAL AND FIRST NIGHT INVESTIGATION
+
+## BODY-CAM COMPOSITE LOG — CAMP ELWELL
+## October 11, 2019, 17:44–23:58 PDT
+
+---
+
+**BC-01 (HARKIN) — 17:44:03**
+Arrival at camp perimeter. Camera shows a clearing approximately 200 feet in diameter, surrounded by Douglas fir and western red cedar. Three standing structures visible: a log cabin (former office), a collapsed A-frame (former mess hall, fire-damaged), and a concrete pad with rusted pipe fittings (former latrine block). Ground cover is dense moss. No trail maintenance in evidence. Cedar debris across all surfaces.
+
+**[D.O.: The site matched the Forest Service structural survey from 2012. Nothing about its physical appearance deviated from what an abandoned camp in the Cascades would be expected to look like after forty years of neglect. I noted this in my log at 17:50. I did not transmit it to the crew because I knew it would not be useful.]**
+
+**BC-01 (HARKIN) — 17:46:11**
+Harkin's voice, on-camera: "We're here. Camp Elwell. Camp Gehenna. You can feel it, right? The silence. It's not — this isn't natural silence. Listen."
+
+*[Ambient audio: wind through canopy, approx. 6–10 mph. Distant water. A Steller's jay call at 17:46:18. A second jay at 17:46:22.]*
+
+"Hear that? Nothing. Absolute nothing. The forest has gone QUIET. She knows we're here."
+
+**[D.O.: The Steller's jays are audible on all six body-cam feeds. I have included the spectrogram analysis prepared by Dr. Margaret Yoon of the University of Washington Ornithology Lab, who confirmed at my request that the calls are consistent with normal territorial vocalizations of *Cyanocitta stelleri* and are "in no way unusual for the location and time of year." The spectrogram is Appendix F. The bird calls are continuous in the ambient audio for the next four hours and sixteen minutes

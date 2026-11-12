@@ -1,0 +1,5 @@
+model,n_unique_nonempty,n_mid_sentence,n_complete,raw_min_words_mid,n_complete_at_or_above_raw_min,p10_words_mid,median_words_mid,max_words_mid,p75_words_complete,max_words_complete,pile_up,ceiling_threshold,n_complete_at_or_above_threshold,lowest_10_mid
+gpt-5,124,28,96,1017,96,1140,1508.0,2563,2705,3080,False,,,1017 1135 1140 1226 1248 1251 1334 1337 1387 1409
+gpt-5.2,128,18,110,2349,35,2755,2948.5,3136,2460,3060,True,2755,9,2349 2755 2814 2852 2892 2894 2896 2921 2925 2972
+opus-4.6,1061,866,195,49,195,2344,2782.0,3185,2703,3155,True,2344,74,49 341 381 973 1013 1016 1111 1126 1137 1219
+sonnet-4.6,223,33,190,2468,26,2755,2924,3179,2159,3020,True,2755,14,2468 2620 2642 2755 2799 2825 2827 2831 2835 2860

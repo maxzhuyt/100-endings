@@ -1,0 +1,62 @@
+# THE PRAMGUARD AFFAIR
+
+---
+
+**CLASSIFICATION: RESTRICTED — GRADE IV (HISTORICAL)**
+**ARCHIVAL REF: RNA/PD-1961/00743**
+**DISTRIBUTION: Ministry of the Royal Household; Ministry of Internal Security; Bureau of Heritage and Structural Preservation; Office of the Coroner-General (ret.); Palace Nursery Protectorate (dissolved)**
+
+---
+
+**ARCHIVAL SUMMARY**
+
+On the weekend of [DATE REDACTED], the Royal Nursery Protection Detail (hereafter RNPD, colloquially "Pramguard") suffered seven casualties¹ during a protective action at the Palácio da Arrábida, Serra da Arrábida, Setúbal District. The action was undertaken in response to a coordinated infiltration by persons whose affiliation remains [REDACTED — SEE APPENDIX F, NOT ATTACHED]. Head Pramguard Beatriz Colares, operating as sole surviving member of the detail, executed an unauthorized extraction of the principal² via the palace's northwest service corridor and pram-accessible harbor route. The infant heir survived. Head Pramguard Colares was subsequently relieved of duty, reinstated, relieved again, and awarded the Order of the Nursery (Third Class, posthumous redesignation pending).
+
+This dossier compiles the primary after-action report filed by Head Pramguard Colares, supporting documentation (personnel records, architectural surveys, radio logs, incident reports), and annotation by the appointed historiographic reviewers.
+
+All persons named herein are deceased or have exercised their right to archival anonymity, with one exception.³
+
+---
+
+¹ The term "casualties" is employed here in its administrative sense, encompassing fatalities, incapacitations, and operational attritions that resulted in permanent removal from the active detail roster. The present reviewer notes that "casualties" carries connotations of passivity — of *suffering* rather than *participating* — that may not accurately characterize the conduct of all seven operatives during the events in question. "Operational attritions" is proposed as a more precise, less exculpatory alternative. — Dr. H. Leitão, First Historiographic Reviewer
+
+² "The principal": the standard protective-detail designation for the primary protectee. In this instance, Infante [NAME REDACTED], age nine months. The reader should note that this document will maintain the operational designation throughout, not out of cold professionalism, but because Head Pramguard Colares's original report does so, and her reasons for doing so are, in the present reviewer's opinion, not coldness but its precise opposite. — Dr. H. Leitão
+
+³ Dr. Leitão's characterization of "operational attritions" as "more precise, less exculpatory" reveals the very bias this dossier should have been constructed to prevent. A casualty is a casualty. An attrition implies a wearing-down, a gradual erosion — in other words, a process to which the institution contributed through sustained neglect. If Dr. Leitão wishes to assign the word "attrition" to these seven, he should be prepared to name what, precisely, was doing the wearing. I was there. He was not. The rest of my objections are appended at the relevant junctures and should not be read as mere professional disagreement but as corrections of *fact* by the only surviving member of the detail other than Head Pramguard Colares herself. — [NAME WITHHELD BY ARCHIVAL ANONYMITY RIGHT], Second Historiographic Reviewer
+
+---
+
+---
+
+## SECTION I: PRE-DEPLOYMENT REPORT
+
+### Filed by Head Pramguard Beatriz Colares
+### [DATE REDACTED — 72 hours prior to deployment]
+
+---
+
+**RE: Protective Detail Assignment — Weekend Residence, Palácio da Arrábida**
+
+**Principal:** Infante [REDACTED], age 9 months, 7.2 kg (weighed at deployment; Nursery Protocol 4.1.c mandates pre-deployment weigh-in to calibrate pram ballast and establish baseline for distress-related weight fluctuation⁴).
+
+**Detail Composition (7 operatives + 1 Head Pramguard):**
+
+1. **Lt. Américo Vasconcelos** — Deputy Head; interior specialist. Twelve years in Nursery Protectorate service. Operational note: Vasconcelos is the only member of the current detail who served under my predecessor, Head Pramguard Saldanha, during the 1957 Lake Incident⁵; his instincts in aquatic-proximity scenarios are superior to my own, and I have assigned him primary coverage of the east wing, which overlooks the ornamental cascade and harbor approach. Additional note for the record: Lt. Vasconcelos has twice submitted formal requests to be reassigned from infant protection to the general Royal Security Bureau. Both requests were denied. He finds pram duty, in his words, "not serious." I find Lt. Vasconcelos not serious. We work well together despite this, or because of it.
+
+2. **Sgt. Duarte Taveira** — Perimeter specialist. Eight years in service. Operational note: Sgt. Taveira has a noted preference for securing egress routes before ingress routes — that is, he establishes where the detail will *leave* before establishing where threats will *enter*. This is technically heterodox per Protocol 2.3.a (Ingress Primacy Doctrine) but I have permitted it because his results are excellent and because a man who always knows where the exits are is a man I want beside the pram. Taveira is assigned to advance-sweep the south ballroom and grand corridor, which constitute the primary ceremonial route between the nursery and the ground-floor reception areas.
+
+3. **Sgt. Rosa Malheiro** — Signals and communications specialist. Six years in service. Operational note: Sgt. Malheiro maintains the detail's encrypted radio net and has, on her own initiative, mapped the Palácio da Arrábida's signal-dead zones (see attached schematic, Fig. 2⁶). Malheiro has reported that the palace's stone construction and [Heritage-Grade] copper roofing create significant radio interference in the west gallery, the chapel, and — most critically — the interior stairwells. I have requested portable signal repeaters. The request is pending.
+
+4. **Cpl. Frederico Mendonça** — Route and transit specialist, certified pram operator (Class II — multi-terrain). Four years in service. Operational note: Cpl. Mendonça is responsible for maintaining the operational pram⁷ and pre-clearing all transit routes for grade, width, and obstacle. He has filed a preliminary route survey of the Palácio da Arrábida (see attached, Fig. 3⁸) and has flagged the following concerns: (a) the main staircase between the second and third floors was renovated in 1947 and the structural report is pending; (b) the northwest service corridor, which constitutes the sole pram-accessible route to the harbor, has a 12% grade in its final sixteen meters — within pram tolerances but requiring firm braking technique on descent; (c) several interior doors are narrower than the standard Heritage Palace pram-clearance width and may require the detail to transition to hand-carry in an emergency, which Mendonça considers "an unacceptable vulnerability" and I consider an accurate description of working in a building older than the concept of hallways.
+
+5. **Cpl. Inês Esteves** — Intelligence and counter-surveillance specialist. Five years in service. Operational note: Cpl. Esteves has conducted a preliminary threat assessment for the deployment weekend (see attached, classified [REDACTED]). Her assessment identifies the primary threat axis as [REDACTED] and recommends an augmented detail of no fewer than eleven operatives. I concur with her assessment. Command has authorized seven. Cpl. Esteves has also noted in a separate memorandum, which I am including in this report against her explicit request, that the detail's institutional knowledge of the Palácio da Arrábida is "inadequate" and that "we are being asked to protect the heir to the throne inside a building we do not understand." I include this memorandum because Cpl. Esteves is correct and I want the record to show that we knew.⁹
+
+6. **Operative Tomás Fonseca** — Junior operative, provisional assignment. Two years in service, first deployment with RNPD. Operational note: Operative Fonseca was transferred from the general Royal Security Bureau seventeen days ago to fill a vacancy created by Sgt. Andrade's medical leave. He has completed the abbreviated Nursery Protection orientation (Protocol 9.2.b, "accelerated familiarization") but has not yet trained with the operational pram. He is, in temperament, what the Protectorate informally calls a "corridor man" — alert, steady, uncreative, reliable in a fixed post. I have assigned him to the west gallery, which is not on any primary transit route and which requires only that he stand still and report anomalies.
+
+7. **Operative Luís Braga** — Junior operative. Three years in service. Operational note: Operative Braga is the detail's medical specialist (Nursery First Aid, Class I; Infant Resuscitation, certified). He has requested that the detail carry a secondary medical kit positioned at the midpoint of the nursery-to-harbor evacuation route. Request approved. Additional note: Braga is the youngest member of the detail and the one I am most concerned about. Not because he is incompetent — he is meticulous to the point of rigidity — but because he has never been in a detail that has come under genuine threat, and I do not know what his meticulous rigidity will do when the architecture starts moving. This is not a criticism. It is a confession that I cannot predict my own people, and that the pre-deployment report's implied promise — *we are prepared* — is, like all such promises, a fiction I am filing with the full knowledge that it is a fiction, because the Protectorate requires fictions in triplicate.
+
+---
+
+⁴ The existence of Protocol 4.1.c ("Pre-Deployment Weigh-In, Infant Principals") is, in the present reviewer's opinion, one of the Nursery Protectorate's more quietly remarkable bureaucratic achievements. That an institution thought to weigh a baby before deployment, and that this weight was entered into the operational record alongside ammunition counts and radio frequencies, tells you everything about the Protectorate's peculiar fusion of tenderness and paranoia. Head Pramguard Colares would reject the word "tenderness." I use it anyway. — Dr. H. Leitão
+
+⁵ The 1957 Lake Incident is not relevant to this d

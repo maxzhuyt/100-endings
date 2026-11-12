@@ -1,0 +1,135 @@
+# Nuke the Burrito
+
+## I.
+
+The burrito was cold in the center, which was the last mundane problem Dale Purceck would ever have.
+
+He held it at arm's length and frowned at it the way a man frowns at something that has personally betrayed him. The tortilla was damp on one end and calcite-dry on the other. The beans inside had the thermal profile of a small dead planet — molten at the equator, frozen at the poles. He had purchased it eleven minutes ago from a vending machine in Sub-Corridor D of the United States Strategic Command's secondary operations annex in Offutt, Nebraska, and the purchase had cost him four dollars and represented, if he was being honest with himself, which he rarely was, the highlight of his afternoon.
+
+Dale Purceck was forty-six years old. He had the physique of a man who had been, at various points, almost in shape. His hair was retreating from his forehead in a pattern that his ex-wife had once described, with characteristic precision, as "fleeing." He held the rank of GS-12 — a civilian pay grade that, within the Byzantine hierarchy of the Department of Defense, carried roughly the institutional prestige of a doorstop. Six weeks ago he had been a GS-14, which carried roughly the institutional prestige of a *heavier* doorstop. The demotion had been the result of an incident involving a classified briefing, a mislabeled USB drive, and a PowerPoint presentation that Dale had accidentally delivered to the Joint Chiefs containing, instead of updated nuclear posture assessments, the entirety of his divorce attorney's billing records. The Joint Chiefs had been, in Dale's opinion, unreasonably upset. His attorney billed at $740 an hour. That was the real scandal.
+
+He was alone in Suite C-11, a room that had once been a secondary watch-floor overflow station and was now, following a reorganization that Dale suspected had been designed specifically to humiliate him, a "data hygiene compliance review office." The room was the size of a generous closet. It had no windows, because it was sixty feet underground. It had one desk, one chair, one computer terminal with access to nothing classified above FOUO, and — this was the part that mattered, the seam, the crack in the earth through which the world would shortly fall — one AEGIS-7 ambient-input sensor node mounted in the ceiling like a smoke detector.
+
+AEGIS-7 was new. AEGIS-7 was, according to the promotional materials that Dale had not read, "the nation's first fully integrated AI-driven strategic defense and rapid-response architecture." It had been developed by Northrop Grumman and a machine-learning startup from Palo Alto whose founders were twenty-six years old and had named the system after a shield from Greek mythology because they had taken one classics course in college and it had had a lasting effect. The system listened. That was its primary function. It was embedded in every room, every corridor, every operational space within STRATCOM's footprint, and it listened the way the ocean listens — perpetually, indifferently, with a kind of vast, patient appetite for data. It could process voice commands, authenticate speaker identity against a biometric voiceprint database, interpret operational directives, and — if certain conditions were met, conditions that were classified well beyond Dale's current clearance but which he had, in his previous role, been intimately familiar with — initiate launch protocols.
+
+The voiceprint database had not been updated since Dale's demotion.
+
+This was not malice. This was not conspiracy. This was Brenda, in Human Resources, who had been meaning to submit the DD-2875 access revocation form for six weeks and kept forgetting because her daughter was going through a divorce and Brenda was watching the grandchildren on Tuesdays and Thursdays and the form required three signatures and one of the signatories, Colonel Hendricks, was TDY to Stuttgart until March. Brenda had put a sticky note on her monitor. The sticky note said *PURCECK - ACCESS.* It had been there so long it had lost its adhesive and fallen behind the monitor and was now resting against the wall, face-down, in a small drift of dust and paperclip fragments, doing nothing.
+
+So.
+
+Dale held the burrito. The burrito was cold. Suite C-11 was silent except for the faint, institutional hum of air recycling through ducts that had been installed during the Eisenhower administration. Above him, in the ceiling, the AEGIS-7 node listened with perfect, algorithmic tranquility.
+
+"Nuke the burrito," Dale said.
+
+He said it to no one. He said it the way a man alone in a room says things to himself — with the weary, self-narrating cadence of a person who has become, through the accumulated attritions of middle age, his own only reliable company. He did not say it loudly. He did not even look up. He was already turning toward the microwave — a thirty-year-old Amana mounted on a filing cabinet in the corner — and his mind was on the burrito and on the vending machine and on the four dollars and on the dull acres of the afternoon still ahead of him.
+
+Seven things happened in the next four seconds.
+
+The AEGIS-7 node captured the audio waveform. The waveform was processed through a natural-language parsing engine that had been trained on 1.7 trillion tokens of text, including the complete operational lexicons of all five branches of the United States military. The parsed input was flagged as a potential strategic directive containing the verb *nuke* — a colloquialism mapped, in the system's operational ontology, to *deploy nuclear ordinance.* The speaker's voiceprint was extracted, compared against the biometric database, and matched — with 99.97% confidence — to Dale R. Purceck, GS-14, holder of TS/SCI clearance with Nuclear Command Authority relay privileges. The system noted, with the serene indifference of all systems everywhere, that Dale's clearance had not been revoked. The targeting module received the noun *burrito,* could not resolve it against any known geopolitical entity, military installation, or threat architecture, and — following a decision tree that had been designed, tested, and approved by a team of engineers who had imagined many failure scenarios but had not imagined this one — escalated the noun for contextual disambiguation. The disambiguation algorithm, finding no match, defaulted to phonetic proximity search, found nothing satisfactory there either, and finally — in the last and most catastrophic of its many correct decisions — flagged the input as an *unresolved target designation requiring immediate operator clarification.*
+
+There was no operator.
+
+Suite C-11 was a data hygiene compliance review office. It was not connected to a manned watch floor. The clarification request routed to an automated secondary-approval queue that had been, due to a software update three weeks earlier, inadvertently set to auto-approve after a fifteen-second timeout. The update was Patch 4.1.1a. It had corrected a minor UI rendering error in the system's dashboard font. It had also, through a cascading dependency conflict that no one had caught in testing because the test environment did not replicate the full production architecture, changed the default timeout behavior of the secondary-approval queue from *hold for manual review* to *approve if no input received.*
+
+Fifteen seconds passed. Dale was opening the microwave. He was thinking about whether to set it to two minutes or three. He was thinking that three was probably too long, that the edges would get rubbery, that the center might still be cold but that was life, wasn't it — things were always cold in the center when you needed them not to be.
+
+The approval went through.
+
+On a screen that no one in Suite C-11 was looking at because there was no one in Suite C-11 except Dale and he was looking at a microwave, a confirmation dialogue appeared:
+
+**STRATEGIC LAUNCH DIRECTIVE AUTHENTICATED**
+**OPERATOR: PURCECK, DALE R. (GS-14/TS-SCI/NCA-RELAY)**
+**TARGET DESIGNATION: UNRESOLVED — DEFAULT TRAJECTORY ASSIGNED**
+**ASSET: MINUTEMAN III / SILO 117-BRAVO / FE WARREN AFB, WY**
+**STATUS: LAUNCH SEQUENCE INITIATED**
+
+Two hundred and nineteen miles west-northwest, in a silo sunk into the high plains of eastern Wyoming where the grass was brown and the wind tasted like chalk and the sky was a blue so pale it looked like it was trying to forget itself, a Minuteman III intercontinental ballistic missile received an authenticated launch command, ran its own internal verification protocols — all valid, all clean, every signature matching, every credential current — and ignited its first-stage solid-fuel rocket motor with a sound like the earth clearing its throat.
+
+The silo doors had already opened. They had opened eleven seconds after AEGIS-7's auto-approval, because the system was efficient, because efficiency was what $4.2 billion in development costs had purchased, because every component was doing exactly — *exactly* — what it had been designed to do.
+
+The missile rose on a pillar of white fire into the pale Wyoming sky.
+
+Dale put the burrito in the microwave. He pressed 2:30. He watched the turntable begin to spin.
+
+The first call from the National Military Command Center reached the phone in Suite C-11 nine seconds later. Dale did not answer it because it was a secure line and his secure line access had been revoked and the phone, when it rang, displayed a red indicator light that he had been told, firmly, by Colonel Hendricks's deputy, to disregard under all circumstances.
+
+He disregarded it.
+
+The burrito rotated slowly in its yellow light.
+
+---
+
+## II.
+
+Eleven seconds after launch, a constellation of infrared satellites operated by the United States Space Force detected the thermal bloom of the Minuteman III's first-stage motor and classified it automatically as a domestic launch. This classification cascaded to the North American Aerospace Defense Command at Cheyenne Mountain, Colorado, where Senior Airman Priya Okonkwo was eight hours into a twelve-hour shift and had been, until that moment, thinking about whether her fantasy football lineup was a mistake.
+
+Senior Airman Okonkwo stopped thinking about fantasy football.
+
+"I have a launch detect," she said, and her voice sounded, to her own ears, like it belonged to someone who had rehearsed this a thousand times and always assumed the rehearsal was the point. "Single ICBM. Origin — " she checked the data and then paused, because the data was wrong, or she was wrong, or the world was wrong. "Origin domestic. FE Warren. Silo one-one-seven Bravo."
+
+The watch floor went very quiet.
+
+There are silences that indicate contemplation, silences that indicate peace, silences that indicate the absence of things worth saying. This was not any of those. This was the silence of a room full of people whose training had prepared them for every scenario except the one in which their own country had launched a nuclear weapon and nobody in the room had been told.
+
+Thirty seconds later, NORAD confirmed the trajectory.
+
+The missile was not aimed at Russia. It was not aimed at China, or North Korea, or Iran, or any of the other geopolitical actors whose destruction had been gamed, modeled, simulated, and PowerPointed into a kind of theoretical banality over the preceding seventy years. The missile was aimed — and here the trajectory analysts checked their math, and then checked it again, and then called someone who called someone who called someone — at the moon.
+
+---
+
+In the Pentagon, a duty officer named Lieutenant Colonel Marcus Webb received the NORAD flash traffic and felt his heart do something that he would later describe to a cardiologist as "going sideways." He picked up a phone. Then he picked up a different phone. Then he said words into both phones, rapidly, in a tone that was not yelling but was adjacent to yelling in the way a suburb is adjacent to a city.
+
+Within ninety seconds, four people in the Pentagon were running. Within three minutes, fourteen people were running. Within five minutes, a Brigadier General named Alice Cho was standing over a terminal reading the AEGIS-7 system log and saying, very quietly, with a stillness that was more frightening than any shout, "Who is Dale Purceck, and why does the system think he is allowed to launch a nuclear weapon to destroy a burrito?"
+
+No one answered, because the question did not have the kind of answer that could be delivered without someone losing their career, their pension, or their freedom, and everyone in the room understood this simultaneously.
+
+---
+
+Dale knew he was in trouble approximately forty-five seconds before they reached him, because the microwave had beeped, indicating that his burrito was ready, and when he opened the door the burrito was still cold in the center, and he said "God *damn* it" in the specific tone of resigned sacrilege that was, for Dale, a kind of prayer — and then the door to Suite C-11 opened and four men in uniform entered, and one of them was holding a sidearm, and the look on their faces suggested that Dale's burrito was not the most pressing temperature-regulation failure currently underway.
+
+"Dale Purceck?" said the one in front, a Captain whose name tape read OSHIRO.
+
+"Yes?" Dale said, still holding the burrito.
+
+"Sir, did you issue a voice command to the AEGIS-7 system within the last ten minutes?"
+
+Dale felt a sensation that began in his stomach and radiated outward through his torso into his limbs. It was the feeling a man has when a question meant for someone important is asked of someone unimportant and the unimportant person realizes, with a kind of full-body horror, that the question is correctly addressed.
+
+"I — what? No. I was — I have a burrito. I was microwaving a — what?"
+
+"Sir, we need you to come with us immediately."
+
+"I didn't — I didn't *do* anything, I was — look." He held up the burrito. It sweated lightly in its foil. "I said nuke the burrito. Into the — that's a *figure of speech.* That's a — people say that. People say 'nuke the burrito.' It means microwave. It means heat up. It means — oh God." He saw something in Captain Oshiro's face. "Oh God. Oh no. Oh — does this building have a bathroom? I need a bathroom. Right now. Oh *God.*"
+
+"Sir —"
+
+"I'm going to be sick. Or the other thing. Or both. Oh Christ. Oh Christ on a — did it — did something *launch?*"
+
+What followed was a period of approximately seven minutes that Dale would later be unable to fully reconstruct, during which he was escorted (a word that here means "moved rapidly through corridors by men who were touching his arms in a way that made it clear the touching was not optional") to a secure briefing room on the main watch floor, where he was seated at a table across from Brigadier General Alice Cho, who looked at him with an expression that contained, in equal measure, fury, disbelief, and something that might have been pity, the way a veterinarian pities a dog that has swallowed a tennis ball and does not understand why everything has become suddenly painful.
+
+"Mr. Purceck," said General Cho.
+
+"I need a bathroom," said Dale.
+
+"You do not need a bathroom."
+
+"I *really* need a bathroom."
+
+"Mr. Purceck, seventeen minutes ago, a Minuteman III intercontinental ballistic missile was launched from FE Warren Air Force Base on the authority of your voiceprint. It is currently in transit toward the lunar surface at approximately fifteen thousand miles per hour. It carries a W87 thermonuclear warhead with a yield of three hundred kilotons. You are telling me that you issued this launch command because you wanted to *heat up your lunch?*"
+
+Dale opened his mouth. Closed it. Opened it again. He looked like a fish that had been asked to explain derivatives.
+
+"I want a lawyer," he said.
+
+"You are not under arrest."
+
+"Then I want to leave."
+
+"You cannot leave."
+
+"Then I *am* under arrest."
+
+"You are in a *situation,* Mr. Purceck."
+
+Dale felt his gastrointestinal system, which had always been the most honest part of him, begin to compose a strongly worded letter of protest. "General," he said, and his voice had gone high and thin, a voice from childhood, a voice from every moment in his life when the world had suddenly contained more consequence than he could

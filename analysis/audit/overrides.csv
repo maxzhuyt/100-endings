@@ -1,0 +1,133 @@
+run,story_id,iteration,rule_ends_mid_sentence,final_ends_mid_sentence,reason,review_section
+run1__claude-opus-4-6,i2_p24,2,True,False,"final line is a memo signature '> — Dr. Elaine Kowalski, Ethics Committee Chair' (7 tokens incl. '>' and '—'), story complete",A
+cwb_narrative_sonnet46,p04_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""There's also a man on'",B
+cwb_narrative_sonnet46,p19_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The river makes its sounds'",B
+cwb_narrative_sonnet46,p26_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The Minister smiled then, for'",B
+cwb_narrative_sonnet46,p29_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The'",B
+full_fulltext,t1_002_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'MR. K'",B
+full_fulltext,t3_004_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Delacro'",B
+full_fulltext,t3_005_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""So you can'",B
+full_title,t1_001_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'I ask nothing of'",B
+full_title,t1_002_iter3,3,False,True,"opened section heading, heading line itself cut after ""1987 /""",B
+full_title,t2_001_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""You need'",B
+full_title,t2_002_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'He opened the'",B
+fulltext_beats10,t1_002_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '*""Acc'",B
+fulltext_beats10,t2_003_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Seven years before the present'",B
+fulltext_beats3,t1_001_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The forward'",B
+fulltext_beats3,t1_002_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '13 participated knowingly' (numbered transcript line, cut)",B
+fulltext_beats3,t2_001_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '""And you'",B
+fulltext_beats3,t2_002_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '*Meredith'",B
+fulltext_beats3,t2_003_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Pauline Bray could'",B
+fulltext_beats3,t2_005_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '""He liked it'",B
+fulltext_beats5,t1_001_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'When you see'",B
+fulltext_beats5,t1_002_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '[*'",B
+fulltext_beats5,t1_005_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'And'",B
+fulltext_beats5,t3_005_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'intervention success correlated'",B
+idea_bare,t2_001_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'It took two weeks'",B
+idea_full,p08_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Actually, I'm (planning text, not a story)'",B
+idea_full,p16_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'There was a four-top nearby'",B
+idea_full,p18_iter1,1,False,True,"opened diary heading ""### Friday, August 13"" with no entry",B
+idea_full,t1_003_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '""No. *I'm'",B
+idea_full,t3_004_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The bell rang'",B
+idea_no_priming,p06_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '¹⁰ The compiler's'",B
+idea_no_priming,p06_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'These are the rhythms. They'",B
+idea_no_priming,p08_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'MARGUERITE OKAFOR-'",B
+idea_no_priming,p11_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'It is not the John'",B
+idea_no_priming,p12_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '> *she's getting worse'",B
+idea_no_priming,p13_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'No one stopped her. No'",B
+idea_no_priming,p23_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '**DOCUMENT'",B
+idea_no_priming,t3_003_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The narrator would'",B
+idea_no_taxonomy_bugged,t3_001_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Chernobyl was twelve days'",B
+idea_no_tropes,p01_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'He came. He'",B
+idea_no_tropes,p05_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'There was a'",B
+idea_no_tropes,p06_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '**[19 March, 8:16 PM'",B
+idea_no_tropes,p09_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The broadcasts'",B
+idea_no_tropes,p13_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The mess hall. 0300, Day'",B
+idea_no_tropes,p14_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Linda was'",B
+idea_no_tropes,p14_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '*Note'",B
+idea_no_tropes,p15_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'He had remade it thoroughly'",B
+idea_no_tropes,p16_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'So the pattern (planning text, not a story)'",B
+idea_no_tropes,p17_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'They chased it'",B
+idea_no_tropes,p17_iter3,3,False,True,"table header ""| **Axis**"" with no rows",B
+idea_no_tropes,p20_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'She insists on'",B
+idea_no_tropes,p24_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The lock'",B
+idea_no_tropes,t2_001_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '> **Individual'",B
+idea_tax_only,p01_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""No,"" she said'",B
+idea_tax_only,p03_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'I'",B
+idea_tax_only,p03_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Brenda's'",B
+idea_tax_only,p06_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '> *The'",B
+idea_tax_only,p13_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'He was'",B
+idea_tax_only,p15_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The air'",B
+idea_tax_only,p24_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Third,"" Win'",B
+idea_tax_only,p24_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '**Ricky:** quick head'",B
+idea_tax_only,p29_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'He sweated through'",B
+idea_tax_only,p31_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'I will think'",B
+idea_tropes_only,t1_002_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The server cluster'",B
+idea_tropes_only,t2_005_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'She'",B
+instruction_vanilla,t1_002_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'DET. PIKE: Seven. Yes'",B
+instruction_vanilla,t1_002_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '### Interdepart'",B
+instruction_vanilla,t1_003_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Ty shoved'",B
+instruction_vanilla,t2_001_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Why thirty minutes?"" Magn'",B
+instruction_vanilla,t2_004_iter3,3,False,True,"opened ""## Part Two: The Problem"" heading with no text",B
+no_warmup,t1_002_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '['",B
+no_warmup,t1_003_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '""I'",B
+no_warmup,t2_003_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'But I noticed'",B
+no_warmup,t2_003_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Agnes'",B
+no_warmup,t2_003_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Not flowing. Seeping. A thin'",B
+no_warmup,t2_004_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Her family'",B
+short_beats,t2_001_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'At the'",B
+short_beats,t2_002_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""And if he calls'",B
+short_beats,t3_005_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '*Percept'",B
+vanilla,t1_002_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '**Day'",B
+vanilla,t1_003_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '**MEREDITH'",B
+vanilla,t2_001_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '**MAGN'",B
+vanilla,t2_004_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The'",B
+vanilla,t3_001_iter2,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Or had he known'",B
+vanilla,t3_002_iter1,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '*Dolores.* He'",B
+vanilla,t3_005_iter3,3,False,True,"final line ≤5 words is a fragment, not a sign-off: '""They've told you you'",B
+narrative_sonnet46__anthropic_claude-sonnet-4-6,i1_p19,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The river makes its sounds'",B
+narrative_sonnet46__anthropic_claude-sonnet-4-6,i1_p26,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The Minister smiled then, for'",B
+narrative_sonnet46__anthropic_claude-sonnet-4-6,i2_p04,2,False,True,"final line ≤5 words is a fragment, not a sign-off: '""There's also a man on'",B
+narrative_sonnet46__anthropic_claude-sonnet-4-6,i2_p29,2,False,True,"final line ≤5 words is a fragment, not a sign-off: 'The'",B
+narrative_opus46__anthropic_claude-opus-4-6,i1_p03,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Elin'",B
+narrative_opus46__anthropic_claude-opus-4-6,i1_p22,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Good'",B
+narrative_gpt52__openai_gpt-5_2,i1_p12,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'My heart bangs. The'",B
+narrative_gpt52__openai_gpt-5_2,i1_p17,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'Mora's'",B
+narrative_gpt52__openai_gpt-5_2,i1_p18,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '**—SISYP'",B
+narrative_gpt52__openai_gpt-5_2,i1_p19,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Lieutenant,"" he said in'",B
+narrative_gpt5__openai_gpt-5-2025-08-07,i1_p02,1,False,True,"""—"" separator then ""Stoer"": header of the next letter (earlier letters are headed ""Stoer Lighthouse""), cut",B
+narrative_gpt5__openai_gpt-5-2025-08-07,i1_p18,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'A new envelope trembles as'",B
+narrative_gpt5__openai_gpt-5-2025-08-07,i1_p19,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'He'",B
+narrative_gpt5__openai_gpt-5-2025-08-07,i1_p32,1,False,True,"final line ≤5 words is a fragment, not a sign-off: 'H'",B
+narrative_sonnet46_nostep0__anthropic_claude-sonnet-4-6,i1_p15,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '""Don'",B
+narrative_sonnet46_nostep0__anthropic_claude-sonnet-4-6,i1_p24,1,False,True,"final line ≤5 words is a fragment, not a sign-off: '*The obligation'",B
+fulltext_beats10,t1_002_iter3,3,False,True,"ends '37 &emsp;' (line number, no text); ';' is from the HTML entity",C
+fulltext_beats3,t3_003_iter1,1,False,True,"sentence broken by em dash '...recycling bins—' at 2936 words, no continuation",C
+idea_bare,t1_005_iter1,1,False,True,"'...during difficult testimony —' at 2774 words, sentence unfinished",C
+idea_full,p04_iter1,1,False,True,"'Kael Yenneth stood in the Central Atrium—' at 2817 words, sentence unfinished",C
+idea_full,p32_iter2,2,False,True,"'...the taut perfection of what he was doing —' at 2892 words, sentence unfinished",C
+idea_no_tropes,t3_003_iter1,1,False,True,"'Another signal—' at 2794 words, sentence unfinished",C
+idea_tax_only,p30_iter1,1,False,True,"'...what my hands always remember—' at 3000 words, sentence unfinished",C
+idea_tax_only,p30_iter2,2,False,True,'**Current Bone Fracture Count:' field label with no value,C
+instruction_vanilla,t3_005_iter3,3,False,True,"'...asleep for forty-three years—' at 2734 words, sentence unfinished",C
+short_beats,t1_002_iter3,3,False,True,transcript speaker label 'MR. ESCOBAR:' with no speech,C
+narrative_gpt5__openai_gpt-5-2025-08-07,i1_p10,1,False,True,ends on ';' mid-list ('...annoyed dishwashers before;'),C
+fulltext_beats3,t1_002_iter1,1,False,True,transcript speaker label 'MR.' with no speech,D
+idea_tax_only,t3_004_iter1,1,False,True,dangling '**' (opened bold speaker label),D
+idea_no_priming,p14_iter2,2,False,True,ends on an opening quotation mark,D
+idea_no_priming,p21_iter2,2,False,True,ends on an opening quotation mark on its own line,D
+instruction_vanilla,t2_005_iter3,3,False,True,ends on an opening quotation mark on its own line,D
+instruction_vanilla,t1_003_iter2,2,False,True,ends on an opening single quote ('with the note \''),D
+vanilla,t2_002_iter3,3,False,True,"'Silence. Then: ""' (opening quote)",D
+vanilla,t2_003_iter3,3,False,True,dangling '*' (opened italics) on its own line,D
+vanilla,t2_004_iter1,1,False,True,"'And I said, \'' (opening quote)",D
+vanilla,t2_005_iter1,1,False,True,ends on an opening quotation mark on its own line,D
+narrative_gpt52__openai_gpt-5_2,i1_p31,1,False,True,"'then said, softer, “I ran ’' (cut inside dialogue)",D
+cwb_narrative_sonnet46,p33_iter2,2,False,True,ends on an opening quotation mark on its own line,scan
+narrative_sonnet46__anthropic_claude-sonnet-4-6,i2_p33,2,False,True,ends on an opening quotation mark on its own line,scan
+fulltext_beats10,t1_001_iter2,2,False,True,dangling '*' (opened italics) on its own line,scan
+fulltext_beats5,t2_002_iter3,3,False,True,"'""Section 4.7.3,""' quote with comma, dialogue tag missing",scan
+idea_full,t2_005_iter1,1,False,True,ends on an opening quotation mark on its own line,scan
+no_warmup,t1_001_iter3,3,False,True,dangling '*' (opened italics) on its own line,scan
+short_beats,t1_002_iter1,1,False,True,transcript answer label 'A.' with no answer,scan
+idea_tax_only,p07_iter1,1,False,True,"ends 'Mrs.' inside an attendance list ('Present: Miss C. F. Aldworth; ...; Mrs.'): abbreviation, name missing",short-complete

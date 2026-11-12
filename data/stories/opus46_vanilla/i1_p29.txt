@@ -1,0 +1,67 @@
+# Polymerase Chain Reaction
+
+---
+
+The thermocycler stuttered on the third denaturing cycle, and Maren slapped the side of the housing—a gutted espresso machine wired to a PID controller she'd pulled from a dead building's HVAC system. The heating element surged. The LCD, cracked and ghosting, showed 94.2°C. Close enough.
+
+She'd been running PCR since before dawn, amplifying a fragment of *RuBisCO* promoter sequence from a rice cultivar that had no business existing anymore. Syngenta-Monsanto-Bayer—the great chimera, the last megacorp standing before the Collapse—had designed it to express for exactly one reproductive cycle. Terminator technology, they'd called it, back when they still used euphemisms. Every engineered crop on Earth carried the same death switch: a recombinase that activated during meiosis, shredding transgenic sequences before they could pass to seed. Buy the season. Buy the next season. Buy forever.
+
+Then forever ended, and the seeds stopped working, and seven billion people learned what "food insecurity" meant when it wasn't a line item in someone's impact report.
+
+The solar rig on the roof—three mismatched panels wired in parallel through a car battery that wept acid—flickered, and the thermocycler's display went dark for one heartbeat, two. Maren held her breath. The voltage regulator she'd built from scavenged zener diodes clicked, compensating. The display returned: 55°C, annealing. Her primers were binding. Probably.
+
+She had nine tubes in the machine. Each contained the last genetic material she'd scraped from a cache of pre-Collapse seed stock that a trader named Dulce had found in a flooded Svalbard overflow facility in Manitoba. The DNA was degraded—fragmented, oxidized, barely holding its phosphodiester backbone together. She was trying to stitch a functional photosynthesis pathway into a wild-type brassica that grew like a weed in irradiated clay but tasted like penance and had the caloric density of cardboard.
+
+If it worked, Settlement 11 would eat through winter.
+
+If it didn't, she'd be out of template DNA, and the settlement would begin the calculus that settlements began: who eats, who doesn't, who walks into the grey.
+
+---
+
+The knock came during extension phase. Three-two-three. Maren pulled the Faraday curtain aside.
+
+It was Greer. Of course it was Greer.
+
+He ducked through the lab door—a repurposed shipping container she'd insulated with mycelium panels that smelled permanently of wet earth and something almost like bread. He was tall, gaunt in the way everyone was gaunt now, but his eyes moved with the restless intelligence of someone who'd survived by knowing things before other people did.
+
+"You look like hell," he said.
+
+She did. She knew. The gene therapy she'd been running on herself—an experimental interleukin modification to fight the antibiotic-resistant *Klebsiella* that had colonized her left lung six months ago—had side effects the original Syngenta-Monsanto-Bayer researchers never documented because they'd never bothered to test it on anyone who mattered. Her fingernails had thickened into something almost like claws, dense and ridged with keratin overgrowth. Her hair was falling out in patches. But her lungs were clear for the first time in months, and—this was the part she hadn't told anyone—her night vision had sharpened to something almost predatory. Some off-target expression in her retinal cells. She'd mapped it, roughly, on a gel electrophoresis rig made from a Tupperware container and stripped copper wire. The band was there, unexpected, a ghost in the ladder.
+
+"You have a job," she said. Not a question.
+
+Greer set a cold-pack on her bench. Inside: four vials, packed in moss. She recognized the labeling convention—alphanumeric, corporate-sterile, the font Helvetica because even at the end of the world the megacorp's graphic design persisted like a cockroach.
+
+"Client in the Eastern Corridor wants a producing wheat line. Hard red winter. Drought-tolerant. They have six hundred people and four months of calories."
+
+"Everyone has four months of calories. What are they paying?"
+
+"Antibiotics. Real ones. Pre-Collapse cephalosporins, sealed, unexpired."
+
+Maren's hands went still. Cephalosporins. She could treat the secondary infections in the settlement's children. She could stop using her own body as a test subject for unlicensed gene therapies that might be turning her into something she couldn't reverse.
+
+"The template DNA in those vials," she said. "How degraded?"
+
+"Bad."
+
+"How bad?"
+
+"They've been in a basement in St. Louis for eleven years."
+
+She closed her eyes. Eleven years of thermal cycling between Missouri summers and winters. The DNA would be confetti. She'd need to reconstruct the entire *TaHKT1;5* salt-tolerance cassette from overlapping fragments, assuming she could even get fragments, assuming the primers she had left would anneal to sequences that hadn't mutated beyond recognition.
+
+She opened the first vial. Drew a microliter with a pipette she'd re-calibrated using a jeweler's scale and prayer. Ran a nanodrop on her spectrophotometer—a gutted smartphone with a custom app she'd written in the settlement's last functional IDE, its camera lens fitted with a diffraction grating cut from a DVD.
+
+260/280 ratio: 1.3. Protein contaminated. Degraded. But there.
+
+"I need three weeks," she said.
+
+"You have nine days. They're sending a runner on the tenth."
+
+"Then I need the settlement's entire ethanol reserve for DNA precipitation, I need someone to sit on this roof and physically stabilize the solar panels during wind events, and I need you to not ask me what I'm doing to my own genome to stay alive long enough to finish."
+
+Greer looked at her hands. The thick, strange nails. The patchy scalp. The eyes that caught light now in a way that human eyes shouldn't.
+
+"Deal," he said.
+
+The thermocycler beeped. Extension complete. Maren opened the lid, pulled her nine precious tubes from the heating block, and began the work of making dead things grow.

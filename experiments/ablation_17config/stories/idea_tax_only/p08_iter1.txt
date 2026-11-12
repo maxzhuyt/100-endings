@@ -1,0 +1,54 @@
+# The Breathing Land
+
+---
+
+**PATAGONIAN INSTITUTE OF BIOLOGICAL SCIENCES**
+**Division of Terrestrial Ecology — Field Operations**
+
+**Incident Reference:** PIBS-FO-2024-00117
+
+**Subject:** Recovery of field materials, Site PV-09 ("Valle Piedra Viva"), Aysén Region, 46°38'12"S, 72°04'51"W, elev. 1,740 m
+
+**Date of Filing:** 14 March 2024
+
+**Prepared by:** J. Montalvo, Operations Administrator
+
+---
+
+The following journal was recovered on 27 February 2024 from the base camp established by Dr. Inés Vidal (Mycology, contract appointment, grant ref. PIBS-EXT-2023-042) during her solo survey of an anomalous fungal mass-fruiting event at Site PV-09. Dr. Vidal was deployed to the site on 3 January 2024 and was scheduled for extraction on 28 February. Satellite check-in transmissions were received on a regular 72-hour cycle through 19 February (last confirmed). No transmissions were received after that date. A Search and Recovery team (Bravo detail, 4 persons) reached the site by helicopter on 27 February and found the camp intact, provisions partially consumed consistent with approximately 50 days of single-occupant use, and all primary scientific equipment (see attached inventory, Appendix C) in functional condition and undisturbed.
+
+Dr. Vidal was not present at the site.
+
+The journal (standard-issue 21 × 15 cm hardcover field notebook, PIBS stock) was recovered from the work table inside the primary tent. It was open to a late entry. A fruiting body, tentatively identified by the recovery team's attached biologist (F. Carrasco, MSc, Botany) as consistent with the genus *Cordyceps* but of unusually large size (approx. 9 cm stipe, 3 cm fertile head), was observed growing through the open pages, its mycelial base having penetrated the paper, binding, and table surface beneath. Carrasco noted the specimen was "not collected" due to the structural integration with the journal itself. The journal was removed by cutting through the table surface and transporting journal, specimen, and associated wood as a single unit. The specimen did not survive transport.
+
+The journal contains sixty-three dated entries spanning 3 January to approximately 2 March 2024. This range presents two discrepancies requiring notation:
+
+1. Eleven entries postdate Dr. Vidal's last confirmed satellite transmission (19 February), suggesting continued field activity after communications failure. As her satellite unit was found in working order, the cause of transmission cessation has not been determined.
+
+2. One entry (the last in the journal by page sequence, though not by date) bears the date 30 December 2023 — four days prior to Dr. Vidal's confirmed arrival at the trailhead and six days prior to her arrival at Site PV-09 as recorded by GPS waypoint log. This entry is written in Dr. Vidal's hand. No satisfactory explanation for this discrepancy has been established. A transcription error or misdating is considered most likely.
+
+The Bravo detail reported no unusual conditions at the site. Team lead (Sgt. R. Fuentes) described the valley as "unremarkable."
+
+A ground search of the surrounding area (2 km radius from camp) was conducted on 27–28 February and produced no trace of Dr. Vidal. Aerial survey on 1 March was similarly negative. The case has been referred to the regional Carabineros office (see ref. CB-AYS-2024-1580) and is classified as an open missing-persons matter. Dr. Vidal's next of kin (sister, Catalina Vidal-Reyes, Santiago) has been notified per protocol.
+
+The journal is reproduced below in page sequence. Where entries are out of chronological order in the original, they are preserved in their original position. Marginal sketches are described but not reproduced (see Appendix D for high-resolution scans). Portions rendered illegible by mycelial penetration of the paper are indicated by [ILLEGIBLE — fungal damage].
+
+The Division notes for the record that Grant PIBS-EXT-2023-042 expired on 28 February 2024 and will not be renewed.
+
+---
+
+## Day 47 — 18 February
+
+I have been coring the Nothofagus at the southern margin for six days and I need to write down what I am seeing before I talk myself out of it again.
+
+There are fourteen southern beeches in the stand closest to the bloom edge. The largest — I have been calling her the Matriarch in my notes, which is not scientific and I do not care — is 1,140 years old by ring count. She is the oldest tree I have ever personally cored. Her heartwood smells like cold iron.
+
+Nine of the fourteen trees are displaying a growth anomaly I have not encountered in the literature and cannot classify. I have now taken forty-one increment cores across the stand and the data is consistent enough that I am no longer able to attribute it to instrument error, my own fatigue, or the altitude headaches I have been managing with ibuprofen since Day 30.
+
+The anomaly is this: within individual ring years — single annual growth increments — the cambium record shows repeated alternation between active growth and necrotic tissue. Not seasonal variation. Not frost damage. Not the signatures of pathogenic dieback and recovery, which I know well and which follow recognizable morphological patterns. What I am seeing in cross-section is this: growth, then death, then growth, then death, then growth — all within the span of what should be one year's wood. In three of the cores (Trees 4, 9, and 11), I count between five and eight complete cycles of living-to-dead-to-living tissue within a single ring that cannot represent more than twelve months of growth. The cell walls in the necrotic zones are fully degraded. This is not dormancy. These trees died. And then they did not.
+
+I keep writing "died" and then stopping and staring at the word. It is the correct word. The cambium produced terminal-stage necrotic tissue consistent with vascular death. And then, in the same ring-year, it resumed radial growth from the same cambium initials. This happened multiple times. In one year.
+
+In Tree 9 this pattern repeats across sixty-three consecutive ring-years.
+
+The Matriarch is the most advanced case. Her heartwood — which in a healthy *Nothofagus betuloides

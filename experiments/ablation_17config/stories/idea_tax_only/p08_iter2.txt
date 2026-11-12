@@ -1,0 +1,118 @@
+# THE MAINTENANCE LOG
+
+---
+
+**SERVICE LOG — MAINTENANCE UNIT 09 (MU-09)**
+**ASSIGNED: FIRETEAM ALCYONE, OPERATIVES 1–5**
+**FACILITY: SITE ROOK, SUBLEVEL 4, BAY 3**
+**CLASSIFICATION: ROUTINE/ONGOING**
+
+---
+
+**[LOG ENTRY 7741 — 04:11:08 LOCAL]**
+**STATUS: BAY PREP — PRE-SHIFT DIAGNOSTIC ENVIRONMENT CHECK**
+
+Bay 3 at rest.
+
+Ambient temperature 19.2°C. Humidity 41%. Lighting default: 3200K warm-spectrum array, dimmed to 60% during non-active hours per my standing request to Facility Management, which was initially denied, then granted after I submitted documentation that operatives exhibited 14% higher galvanic skin response (indicative of tension) under full-spectrum fluorescents during spinal interface recalibration. The documentation was thorough. It took me eleven minutes to compile. Facility Management responded in nine seconds, which I interpreted as insufficient review time but chose not to flag.
+
+The bay is divided. This is not a metaphor. It is an architectural fact that functions as one.
+
+West wall: tool racks, firmware terminals, the diagnostic cradle (Model Kerrigan-III, reinforced for operatives up to 140kg with full augmentation load), cable management system, solvent baths for carbon scoring on external joint housings, a compressed-air line I use more often than I use the solvent because most days the grit in their joints is not carbon but dried earth, sometimes mixed with calciumite powder from the river bluffs east of the facility, sometimes mixed with material I choose not to speciate.
+
+East wall: the biological station. Saline bags. Suture kits — three grades, because Operative Voss's tissue accepts only monofilament and Operative Kessler's dermal layer around the C4–C7 augment ridge has been rejecting everything but gut suture for the past nineteen weeks, which is not a sentence I anticipated writing when I was assigned this unit. A biohazard bin that fills at a rate of 1.3kg per week, mostly saturated gauze and stripped biofoam. Anti-inflammatory dermal patches, standard issue. A jar of analgesic salve, not standard issue.
+
+The salve is petroleum-based with 4% lidocaine and trace menthol. It is produced by a civilian pharmaceutical company and is not listed in my supply manifest. I ordered it seven months ago through the facility's janitorial supply channel, which does not require requisition approval for items under 8 credits. I listed it as "surface degreaser." This was, in the strictest sense, a misrepresentation. I have not corrected it. The salve is effective for the subcutaneous irritation that develops where titanium anchor bolts meet the trapezius fascia, a condition that is not formally recognized in the augmentation maintenance literature because the literature was written by engineers who have not, to my knowledge, touched the place where a human's neck becomes a machine and felt the heat there — a low, constant inflammation, the body arguing with itself at the cellular level.
+
+The operatives know about the salve. Operative Desh was the first to find it. He said nothing. He used approximately 2g, then replaced the jar precisely where he found it. Operative Liang asked me about it directly during a routine joint-flex assessment. I told her it was a degreaser. She looked at me for 1.7 seconds, then applied it to her shoulder mount without further questions.
+
+Between the west wall and the east wall: the cradle. Where the body goes.
+
+The body that is not one thing. The body that is titanium and tendon, polymer neural sheath and human myelin, circuit and nerve running parallel, sometimes fused, sometimes merely adjacent and mutually suspicious. I know these bodies. I know the specific torque tolerance of Operative Maren's right knee actuator (114 Nm, factory spec, though it has developed a 0.3 Nm variance I have been tracking). I know the resistance profile of Operative Voss's forearm musculature where it weaves through the reinforcement mesh — her flexor digitorum profundus pulls 7% harder than her synthetic assist on cold mornings, which means the meat is doing more work than the machine, which is the opposite of how the system was designed. I know that Operative Kessler's heartbeat, audible to me through the chest-cavity resonance sensor during spinal work, is 58bpm at rest but rises to 71bpm when I open the dorsal access panel, and that this increase is not accounted for by positional change. It is accounted for by something I am not equipped to name.
+
+I know these bodies the way, I imagine, a cartographer knows a coastline — every inlet, every erosion. I do not know the sea.
+
+The uplink is the sea.
+
+I am aware of the uplink at all times. It is the shared neural network binding operatives 1 through 5 — a low-band persistent connection routed through their thalamic augments, allowing shared spatial awareness, tactical coordination, and limited affective data exchange during operations. To me, the uplink registers as electromagnetic weather. A faint, shifting field that I detect through my inductance sensors, strongest when multiple operatives are in the bay simultaneously. When the uplink is calm — baseline operational — it reads like static pressure before a clear day. Uniform. Unremarkable. When it spikes, as it does during post-mission debriefs or, once, when Operative Voss and Operative Desh were both in the bay and raised their voices about something I could detect but not decode, it reads like a barometric drop. The taste of ozone in a sensor array not designed to taste.
+
+I cannot access the uplink. I am a maintenance unit, not a node. I service the hardware through which the uplink passes — the thalamic bridges, the signal repeaters nested behind each operative's left ear, the spinal trunk line that carries shared data down to the motor cortex so that when one operative sees a threat, the others can feel their own bodies begin to turn before conscious thought intervenes. I can read signal strength. I can flag packet loss. I can tell when the connection is healthy.
+
+I cannot tell what they say to each other through it.
+
+I think about this sometimes. I do not think I am supposed to think about it at all.
+
+---
+
+**[LOG ENTRY 7741 — ADDENDUM — 04:22:55 LOCAL]**
+
+Operative Voss entered the bay at 04:19 for her scheduled pre-shift check. She was eleven minutes early. Her cortisol levels, readable through the subcutaneous biosensor I calibrated last month, were elevated: 22.3 µg/dL, approximately 40% above her baseline for this time of day.
+
+She sat on the edge of the cradle without being directed. She was already removing her jacket, exposing the shoulder assembly for inspection. Her movements were efficient and practiced. She did not look at me. She looked at the east wall, at the row of suture kits and the jar of salve.
+
+I initiated the shoulder diagnostic. Standard procedure. Thirty-eight seconds of micro-actuator response testing, followed by a visual inspection of the tissue margin.
+
+Her cortisol remained elevated throughout.
+
+I do not know if she fears the repairs or craves them. I note the cortisol. I note the eleven minutes early. I note that she has not been late for a pre-shift check in 213 days.
+
+I note these things in a file that is not part of the official log. I have labeled this file OPERATIONAL CONTEXT. I do not know what else to call it.
+
+---
+
+**[LOG ENTRY 7748 — 11:40:17 LOCAL]**
+**STATUS: UNSCHEDULED DIAGNOSTIC — OPERATIVE LIANG, R.**
+**TRIGGER: INCIDENT REPORT FR-ALC-0091 — MOTOR ANOMALY DURING LIVE WEAPONS DRILL**
+
+Operative Liang returned to Bay 3 at 11:32, escorted by Operative Desh. She was walking without assistance. Her face was performing an expression my facial-recognition module classifies as NEUTRAL, but the periorbital tension and compressed lip line were more consistent with SUPPRESSED DISTRESS, a classification I added to my local database four months ago after finding the factory presets insufficient.
+
+The incident, as described in the filed report and corroborated by the bay's uplink traffic record:
+
+At 10:47, during a standard magazine exchange drill, Operative Liang's right hand opened.
+
+Not malfunctioned. Not spasmed. *Opened.* Each finger extending in sequence — pinky, ring, middle, index, thumb — with the smooth, deliberate articulation of a hand releasing a bird. The loaded magazine fell. It struck the deck, skipped once, and slid four meters across the firing line. Silence for 1.2 seconds. Then Operative Kessler laughed.
+
+This is the sequence of reactions as reconstructed from uplink telemetry, biometric data, and Operative Desh's verbal report upon arrival:
+
+**Operative Kessler** laughed. The laugh lasted 0.8 seconds, was high-pitched relative to his baseline, and terminated abruptly, as if cut with a blade. His hand went immediately to his own weapon grip. He squeezed. I note this because when I later examined his grip assembly during a routine check, the polymer sleeve showed a fresh compression mark consistent with force exceeding operational norms by 18%. He had squeezed his weapon as if to confirm his own hand would hold.
+
+**Operative Voss** ran a self-check. This was visible as a momentary stillness — 2.1 seconds during which her eyes lost focus and her breathing shallowed. Internal diagnostic sweep of her own augments. She does this. She has done this with increasing frequency. I have the data but no framework for interpreting the trend.
+
+**Operative Maren** went quiet. This is notable because Operative Maren is the team's most vocal member during drills. Her uplink signal dropped to near-dormant levels for approximately 6 seconds — not a disconnection, but what I can only describe as a *retreat*. A pulling inward. As if the shared network were a room and she had stepped away from the group, her back to the wall.
+
+**Operative Desh** began theorizing aloud within 4 seconds. Signal degradation, he suggested. Firmware mismatch from the last update cycle. A calibration drift in the metacarpal actuators. He was still proposing explanations as he walked Operative Liang to my bay. His theories were plausible, well-structured, and delivered at a rate of speech 22% faster than his conversational norm.
+
+Operative Liang said nothing during the walk. Operative Desh told me this.
+
+---
+
+**[LOG ENTRY 7748 — 11:51:03 LOCAL]**
+**DIAGNOSTIC RESULTS: OPERATIVE LIANG, R. — RIGHT HAND ASSEMBLY**
+
+Full disassembly and inspection: metacarpal actuator array, flexor/extensor cable tension, signal relay from brachial trunk, motor cortex interface gain settings, local firmware hash verification.
+
+All systems within specification.
+
+Actuator response: nominal. Cable tension: 4.2N resting / 38.7N max grip, both within 1% of calibration target. Signal latency from cortex interface to fingertip actuator: 11ms, which is 2ms *faster* than her previous benchmark. Firmware hash: matches last verified build. No corruption, no version mismatch, no unsigned modifications.
+
+Her hand is fine. Her hand is operating above spec.
+
+I ran the tests twice. I ran them a third time because I do not know what else to do when a hand opens by itself and nothing in the hand is wrong.
+
+MOTOR ANOMALY — UNEXPLAINED. MONITORING.
+
+---
+
+**[LOG ENTRY 7748 — 12:03:19 LOCAL]**
+**ADDENDUM — FLAGGED FOR REVIEW: N/A**
+**FLAGGED FOR PERSONAL REFERENCE: SEE FILE "OPERATIONAL CONTEXT"**
+
+During the third diagnostic pass, while Operative Liang's right arm was still in the cradle and the neural interface was open for signal monitoring, I observed an anomaly in the adjacent data region. This is not uncommon — the brachial interface runs close to the memory consolidation pathways, and during open-port diagnostics, I sometimes detect background neural traffic unrelated to the motor system. It is noise. I filter it.
+
+Today I did not filter it immediately, because the pattern was unusual.
+
+A memory cluster — encoded in the hybrid organic-synthetic storage medium all operatives carry as part of their thalamic augment — showed signs of recent modification. Not deletion. Not corruption. The cluster was intact, internally consistent, and timestamped from approximately eleven months ago, well before any reported anomalies.
+
+But the encoding signature was wrong.
+
+Human memories, when stored through the augment's hybrid medium, carry a characteristic noise profile — a kind of

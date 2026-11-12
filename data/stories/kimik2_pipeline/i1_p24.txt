@@ -1,0 +1,37 @@
+SCP-XXXX  
+Object Class: Keter  
+
+Special Containment Procedures  
+Provisional Site-██ has been established in the ruins of ███████ Textile Works, cordon radius 500 m. Mobile Task Force Psi-8 (“Librarians”) rotated every 72 h. Budget overrun 340 %. Global map now resembles a constellation of missing teeth.  
+
+Description  
+SCP-XXXX designates a series of wooden doors (thirty-seven at time of writing) manifesting overnight in abandoned industrial structures. Each door bears an identical trio of scratches around the knob—parallel grooves worn to pale wood, as though someone dragged a key-ring back and forth while waiting.  
+
+Addendum 001-EX Exploration Log  
+Team: Lt. Harker, Dr. Kowalski, Agent Mbiru.  
+Tether length: 200 m.  
+(The air smells like the inside of an old card catalogue—before the paper was acid-free.)  
+
+Interior exceeds exterior geometry. Corridor extends 1.2 km; walls of drawers 4 m high. Silence eats radio. Return at 97 m tether; no anomalous entities encountered.  
+
+Addendum 007-EX  
+Side corridor lighting fluctuates. Figures in yellow Level-C suits bearing Foundation seal “ARCHIV-SEC” empty shelves onto silent pallet jacks. When pursued, they retreat at walking pace, maintaining 35 m distance. MTF member Ortega identifies his own gait in the retreating column. Report filed under “possible memetic self-avoidance.”  
+
+Recovered Document 014-A  
+Visitor Log, leather-bound, found in Archive Wing-F.  
+
+Date: 1816-03-22  Signature: O5-1  
+Date: 1863-07-03  Signature: O5-2  
+…  
+Date: 2029-04-12  Signature: O5-7  
+
+Corresponding key-cards discovered in lockbox, still warm to touch.  
+
+Incident 040-C  
+Six weeks after last exploration all doors develop a second set of scratches—deeper, fresher.  
+
+Document SCP-XXXX-CASCADE uploaded to Site-01 main server, filename: CONTAINMENT FAILURE CASCADE—ITERATION 2.  
+Timestamp: 2429-10-17 09:14:—  
+File ends mid-sentence.  
+
+No further doors reported—yet.

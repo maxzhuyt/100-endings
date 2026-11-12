@@ -1,0 +1,110 @@
+# Furnace
+
+---
+
+## I.
+
+The first time Cole Sebring contacted Nye County Emergency Dispatch, Channel 4, he could not get through his own badge number.
+
+"This is — this is, uh. Sierra. Echo. Bravo. Zero-three — wait. Zero-three-seven. Niner. Negative, scratch that, zero-three-seven-nine. Suffix Delta-Echo-Alpha. Requesting — I'm requesting local contact protocol. Log me as — as a local contact. Please."
+
+He said *please*. In twenty years of operating the Furnace, Nevada, emergency frequency, I have received calls from men who were on fire, men who had been shot, men who had shot someone and wanted to know if there was a non-emergency number they should have used instead, and one man who had driven his Pontiac Sunfire into an abandoned mercury mine and needed to be talked through reversing on a grade while the chassis scraped against timbers placed during the Coolidge administration. None of them said *please*.
+
+I logged the call.
+
+>**TIME:** 09:47:23 PST
+>**LOCATION:** Furnace, NV — coordinates not provided, caller reported mobile
+>**NATURE:** Administrative — federal contact registration, badge series DEA
+>**OUTCOME:** Logged per protocol. No action required.
+
+That is how the Nye County Dispatch Manual requires entries to be formatted. Four fields. They are adequate for nearly everything. A four-field entry can contain a house fire, a grand mal seizure, the death of an infant. It cannot contain commentary, and commentary is not something Nye County compensates me to provide. I am paid $22.40 per hour, before taxes, to sit in the dispatch room of a repurposed double-wide on Route 160, eighteen miles from the nearest structure that could be called a town, and to log calls. The dispatch room smells of mineral deposits and the vinyl adhesive that holds the ceiling tiles approximately to the ceiling. The air conditioning unit was condemned by county inspection in 2019 and replaced by a portable evaporative cooler that turns itself off at random intervals, which I have also logged, in a separate maintenance-request system that uses three fields instead of four. No one reads those either.
+
+Furnace is not a town in any sense that would survive contact with a census worker inclined toward rigor. It was a town once — a mercury-mining concern in the 1910s, a borax waystation in the 1940s, a place where people who could not afford Pahrump settled in the 1970s. The mines closed. The borax operation relocated. What remains is a gas station that sells food, a food store that sells gas, a post office that operates on Tuesday and Thursday, and the Splashdown Fun Park, which was a water park for three seasons in 1994 through 1996 before the water table dropped below its pump specifications and the county condemned the slides for a reason the paperwork describes as "structural inadequacy compounded by thermal stress." The slides are still there. They curve over the desert like the ribs of something that died in a position of exertion.
+
+Also remaining: two fentanyl distribution operations that between them service the eastern corridor from Pahrump to Tonopah. I know their dispatching signatures the way a birder knows calls. The Molina operation generates incidents primarily on weekends — loss-of-consciousness calls, domestics that correlate with pay cycles, vehicle accidents on the 160 involving drivers who, per the paramedics' notes, were "non-responsive to stimuli at time of contact." The Kreigel operation generates incidents primarily on weekdays, which suggests a more disciplined customer base or a different product cut or both. The two operations have coexisted for approximately four years through a territorial arrangement I have inferred entirely from dispatch patterns and could not testify to in any proceeding because inference is not one of my four fields.
+
+Into this, at 09:47 on a Tuesday morning in March, came Cole Sebring's voice, cracking on the number nine.
+
+I noted at the time — though I did not log, because there is no field for it — that he had the particular diction of a person who has practiced speaking into a radio by speaking into things that are not radios. There was too much air in his consonants. He said "niner" the way an actor in a movie says "niner," which is not the way anyone who uses a radio professionally says it. People who use radios professionally say "nine." The extra syllable is a Hollywood invention, or rather a military invention that Hollywood preserved past the point of its practical life, the way certain amber deposits preserve insects in postures of flight.
+
+He was, I estimated, twenty-six. I was off by one year. He was twenty-five.
+
+---
+
+## II.
+
+The first series of incident calls that I attribute to Cole Sebring's operations came six weeks later, on a Saturday night in April, and lasted eleven minutes.
+
+>**TIME:** 22:14:07 PST
+>**LOCATION:** Junction of Route 160 and Furnace Access Road, east lot of Crossroads Fuel & Dine
+>**NATURE:** Report of gunfire, multiple callers (3), concurrent report of vehicle fire
+>**OUTCOME:** Units dispatched. Two individuals transported to Nye Regional with non-life-threatening injuries (GSW, left forearm; GSW, right thigh). One vehicle (2004 Ford Econoline, white, plates unreadable due to fire damage) total loss. No fatalities. Incident report filed.
+
+>**TIME:** 22:18:33 PST
+>**LOCATION:** Same
+>**NATURE:** Secondary report of altercation, physical, involving four to six individuals in east lot. Caller (identified as shift manager, Crossroads Fuel & Dine) reports participants "screaming about phones."
+>**OUTCOME:** Responding units on scene. Altercation dispersed upon arrival. No additional injuries. No arrests. Incident appended to primary report.
+
+>**TIME:** 22:25:41 PST
+>**LOCATION:** Same
+>**NATURE:** Caller (unidentified male) requests to file report that his "property was tampered with, a phone, someone cloned my shit." Caller became agitated when informed this was not an emergency dispatch matter. Caller disconnected.
+>**OUTCOME:** Referred to non-emergency. No action required.
+
+Three calls. The first was chaos, the second was aftermath, the third was the explanation, though it did not know it was an explanation and I did not log it as one.
+
+What I understood, from the calls and from the radio traffic that followed, was this: someone had intercepted communications between the Molina and Kreigel operations and fed each side information calculated to make the other appear to be encroaching on agreed territory. The information was specific enough to be credible and false enough to produce exactly the level of confrontation that would be frightening without being fatal. Two gunshot wounds, both to extremities. One vehicle fire. The precision of the outcome was conspicuous. Chaos that lands in a controlled range is not chaos. It is choreography.
+
+I had seen this before, or rather, I had dispatched the consequences of this before. Not this specific tactic — the phone cloning, the manufactured paranoia, the precise calibration of violence to produce maximum disruption with minimum mortality — but the *type*. Men in my jurisdiction have, over twenty years, attempted to play criminal factions against each other using methods drawn from a source library that is, if we are being honest about it, remarkably consistent. The library is cinematic. The methods are always somebody else's first. I have dispatched the aftermath of schemes borrowed from *New Jack City*. I have dispatched the aftermath of schemes borrowed from *Miami Vice*, both the series and the film, which produce different dispatch signatures because Michael Mann's sense of operational scale changed between 1986 and 2006. I once dispatched paramedics to a man who had attempted the "Say hello to my little friend" maneuver from *Scarface* with a weapon he was not strong enough to fire from the hip. That call required two fields of "outcome" notation, which the form does not accommodate, so I used the second line of "nature of call" and left "nature" to speak for itself.
+
+The phone-swap tactic was from *The Departed*. I have not seen *The Departed*. I do not need to have seen *The Departed*. I have dispatched the results of *The Departed* four times since 2007, twice before Cole Sebring arrived in Furnace and twice after. The first two were amateur efforts — imprecise, escalatory, resulting in the kind of cascading violence that fills four pages of log entries and ends with a long paragraph in the Nye County coroner's weekly report. Cole's version was clean. Surgical, if you allow the word to apply to an operation conducted in a gas station parking lot by a twenty-five-year-old federal agent who, six weeks earlier, could not say the number nine without his voice breaking.
+
+What I noted — and, again, did not log — was that in the aftermath traffic, both factions' communications contained references to a new associate who had warned them, who had tipped them off, who had, in the local phrase, "had their back." Both factions were referring to the same person. I knew this because both descriptions, relayed through panicked and fragmented radio chatter that I am not technically authorized to monitor but which bleeds into my frequency due to the equipment limitations of a dispatch operation running on a 2011 Motorola base station, matched the same vocal profile.
+
+Cole Sebring had set a fire and then arrived at both doors offering a hose.
+
+It worked.
+
+>**TIME:** 22:25:41 PST — Addendum, personal reference note, non-logged
+>
+>This is not a field in the system. There is no field for this. I am writing it in the margin of my shift log in pencil: *This kid is going to get himself killed, and when it happens, it will generate between four and seven calls, and I will log each of them in the four-field format, and each of them will be adequate and none of them will be true.*
+
+I erased it before end of shift. Pencil marks in the margin of official county documentation are a disciplinary infraction under Section 14.3 of the Nye County Dispatch Manual, subsection (b), "Addenda, Unauthorized."
+
+---
+
+## III.
+
+Over the next three months — May through July — I logged forty-one calls that I attribute directly or indirectly to Cole Sebring's operations. I will not reproduce them all. The form becomes repetitive, which is the form's point, and the point's limitation.
+
+What the forty-one calls describe, if read in sequence, which no one will ever do because they are stored in a filing system that organizes by date rather than by association and because the only person who has read them in sequence is me, is an escalation pattern I have come to think of as *scenic*. Each operation is larger, more elaborate, and more conspicuously derived from a specific cinematic source than the last. I use the word *scenic* because the operations have the quality of scenes — discrete units of action with rising tension, a climactic moment, and a resolution that sets up the next scene. This is not how criminal informant operations are supposed to work. This is how movies work.
+
+In May, Cole took Ricky Molina's nephew — who served as a lieutenant in the Molina operation and whose name, per county records, is Ricardo Molina Jr., though everyone on the frequency called him Pequeno, which means "small" and which he was not — on what I can only describe, based on the dispatch calls it generated, as a recreational excursion involving the condemned slides of the Splashdown Fun Park.
+
+>**TIME:** 15:32:18 PST
+>**LOCATION:** Splashdown Fun Park (CONDEMNED — see County Order 2019-0447), Furnace, NV
+>**NATURE:** Report of trespassing, two males observed on upper platform of Slide Complex C ("The Vortex"), condemned structure. Caller (Ruth-Ann Winstead, 3440 Furnace Access Road) reports individuals appear to be "climbing the thing" and "one of them is whooping."
+>**OUTCOME:** Advisory issued. No units available (both Furnace-assigned units responding to medical call, Route 160 mile marker 14). Caller advised to re-contact if individuals appear in distress.
+
+>**TIME:** 15:51:09 PST
+>**LOCATION:** Same
+>**NATURE:** Same caller. Reports individuals have descended the dry slide on what appears to be a "mattress or a cushion or something." Reports both individuals now on the ground, ambulatory, "laughing like idiots." Caller requests to know if she should still be concerned.
+>**OUTCOME:** No action required. Caller advised to re-contact if situation changes.
+
+Ruth-Ann Winstead, who called in the report, shares my first name but not my hyphen. We are not related. She lives in a manufactured home three hundred yards from Splashdown and she calls my frequency an average of four times per month to report activities at the park, which is condemned and unmonitored and therefore attracts the kind of activity that generates calls. I have logged her reports of teenagers drinking on the platforms, of coyotes denning in the wave pool basin, of a man she described as "naked from a distance but possibly wearing something flesh-colored, I'm not getting closer to find out." She is a reliable caller. When she said one of the men on the slide was whooping, I believed her.
+
+What I understood was happening: Cole Sebring was performing the trust ritual. The specific cinematic source was *Point Break*, Kathryn Bigelow's 1991 film in which an undercover FBI agent bonds with his target through shared adrenaline — surfing, skydiving, the substitution of mortal risk for emotional intimacy. There is no surf in Furnace. There is no sky worth diving from. There is a condemned water park with dry fiberglass slides that curve forty feet over a concrete basin that has not held water since Bill Clinton's first term. Cole had looked at what he had and improvised.
+
+They rode a mattress down The Vortex. In July. In Furnace. Where the average daytime temperature is 112 degrees and the fiberglass surface of a sun-exposed slide reaches temperatures that I once saw a paramedic describe, in his incident notes, as "consistent with a commercial griddle." They rode it, and they survived, and Pequeno — who had, up to that point, been the most cautious and least accessible member of the Molina operation, a man who did not let strangers within arm's reach — began appearing on the frequency in association with Cole. Trusted him. Rode a mattress down a condemned slide for him. Bonded with him the way Keanu Reeves bonded with Patrick Swayze: through shared proximity to a death that did not quite arrive.
+
+It worked.
+
+Concurrently — and the concurrence is what aged my dispatch logs from merely busy to structurally strained — Cole was embedding himself with the Kreigel operation using a different persona entirely.
+
+>**TIME:** 21:07:44 PST
+>**LOCATION:** Kreigel residence, 7780 Furnace Flat Road
+>**NATURE:** Noise complaint. Caller (anonymous, routed through non-emergency, escalated to dispatch per volume of calls — four callers in twelve minutes) reports "party or gathering, very loud, sounds like an argument but maybe not, someone keeps yelling the same thing over and over."
+>**OUTCOME:** Advisory issued. Responding unit reports gathering of approximately fifteen individuals in rear yard, no altercation in progress. One individual (male, mid-20s, unknown to responding officer) was speaking at high volume. Content of speech described by responding officer as "some kind of repeated phrase or catchphrase, like a bit, like he was doing a bit." Gathering dispersed voluntarily. No citations issued.
+
+The phrase, which the responding officer did not transcribe and which I therefore cannot enter into the log but which I heard on the radio traffic because my 2011 Motorola base station has the frequency isolation of a paper cup, was "forget about it." He was saying "forget about it." He said it the way Al Pacino does not actually say it in *Donnie Brasco* — the real line, the real delivery, is quieter, more offhand, a throwaway that signified belonging — but the way people who are remembering the movie rather than rewatching it *think* Al Pacino says it. Loud. Emphatic. A performance of a performance of a performance.
+
+He said it, by my count, eleven times in the portion of the gathering that was audible on bleed-through. He said it to greet people. He said it to dismiss concerns. He said it in response to a question about whether he wanted a beer. "Forget about it" had become, for Cole Sebring, a universal solvent — it dissolved every conversational context into the same borrowed bravado. And the Kreigel people — Travis Kre

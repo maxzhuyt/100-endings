@@ -1,0 +1,161 @@
+# The Gundersen Protocol
+
+## A Partial Reconstruction from the Dossier Compiled by the Saskatchewan Royal Canadian Mounted Police, Tisdale Detachment, File No. 2024-TIS-00783
+
+*Introductory note: The following materials were recovered from a 2019 Ford Transit van (Alberta plate CKR-4417) found idling with its headlights on in the parking lot of the Flett Springs Fertility and Agricultural Research Clinic, 11 km northeast of Gronlid, Saskatchewan, on the morning of November 3, 2024. The van's engine had run out of fuel. Seven personal devices, three professional-grade video cameras, one drone (damaged), and a laptop containing an in-progress documentary edit were recovered from the vehicle and from the clinic interior. Eight persons associated with the vehicle remain missing. What follows is an edited reconstruction of materials from those devices, organized as closely to chronological order as the available metadata allows. Ellipses indicate corrupted or irrecoverable data. Bracketed notes are from Constable Dwight Fenn, RCMP, who compiled the file.*
+
+---
+
+# PART ONE
+
+## 1.
+
+**FROM THE LAPTOP — DOCUMENTARY ROUGH CUT, "THE GUNDERSEN PROTOCOL," EDITED BY MARA SHIN**
+
+**[Title card: white text on black]**
+
+THE GUNDERSEN PROTOCOL
+*A Documentary by Mara Shin*
+
+**[Title card fades. New text:]**
+
+In 2011, a fertility clinic in rural Saskatchewan closed under unremarkable circumstances. Its director, a Norwegian-born reproductive endocrinologist named Arne Gundersen, surrendered his medical license as part of a settlement with Health Canada. The specific complaints were sealed. The clinic was shuttered. The building was not demolished.
+
+Within two years, the residents of Gronlid (pop. 203) and the surrounding rural municipality of Flett Springs had constructed a legend around the clinic and its final experiments. The story, as it appeared in a 2014 Saskatoon StarPhoenix human-interest column, a 2016 thread on r/UnresolvedMysteries, and a 2019 segment of a podcast called *Morbid Adjacencies* (downloaded 311 times before the feed went dead), goes like this:
+
+Dr. Gundersen believed a human embryo could be gestated to viability inside a living cucurbit — a pumpkin — using a proprietary nutrient-transfer protocol that replaced the function of a human placenta with the vascular system of the fruit. He built a greenhouse wing onto the back of his clinic. He ran trials. He was shut down before any trial reached term.
+
+But the grow lights in the greenhouse are still on.
+
+**[Cut to: Mara Shin, mid-thirties, sitting on the edge of a motel bed. The bedspread has a pattern of geese. She is wearing a hoodie that reads WESTERN COLLEGE OF VETERINARY MEDICINE — DENTAL SPECIALIZATION. There is a stain on it that might be coffee or might be older. She speaks directly into a handheld camera, the angle slightly too low, so the viewer sees mostly chin and ceiling.]**
+
+MARA: Okay. Hi. This is — okay, hi. I'm Mara Shin. I am a journalist. Before I was a journalist, I was a veterinary dental technician. Before I was a veterinary dental technician, I was a journalism student who couldn't afford journalism school. Before that, I was a kid who watched a lot of Barbara Walters. None of these things are particularly relevant, except that what I'm about to tell you requires you to know that I am a serious person. I am serious. I went to school. I have a diploma — two diplomas — and I take things seriously.
+
+**[She looks off camera. Looks back.]**
+
+MARA: The pumpkin baby thing. Okay. So.
+
+**[Cut to black. Title card:]**
+
+Mara Shin was fired from the Western College of Veterinary Medicine in 2022 after a disciplinary review found she had been using university film equipment and lab access to produce an unauthorized documentary about bovine fertility fraud in the Alberta feedlot industry. The documentary, titled *Bull*, was 74% complete. It has never been released. She owes the university $11,400 in equipment fees and has been making minimum payments of $50/month.
+
+She first encountered the Gundersen story in March 2024, in a LaQuinta Inn in Swift Current, Saskatchewan, while driving to a freelance gig photographing a canola festival for a regional agriculture magazine that pays $0.12/word.
+
+She has been building a team for seven months.
+
+**[Cut back to Mara on the bed.]**
+
+MARA: I want to be clear about something. I am not a believer. I don't think there are babies in pumpkins. I think there is a *story* about babies in pumpkins, and the story is interesting because of what it reveals about — about rural folklore, and medical mistrust, and the kind of narrative that grows in a community after an institution fails it. That's the documentary. That's what I'm making. It's a documentary about a *story*. Not about a — not about pumpkins.
+
+**[She pauses.]**
+
+MARA: The grow light thing is weird, though.
+
+---
+
+**[Cut to: Mara's narration over a montage of emails and texts, displayed as screen captures with personal identifiers partially redacted — then un-redacted, because, as Mara's voiceover notes, "I tried to be ethical about this but honestly everyone's going to know who everyone is, so."]**
+
+MARA (V.O.): Here's the thing about assembling an investigative team for a story nobody takes seriously: you can't recruit believers, because believers will contaminate your methodology. And you can't recruit skeptics, because skeptics won't show up. What you need are people who are skeptical enough to say yes *ironically* and committed enough to keep showing up once the irony wears off.
+
+What you need, basically, are academics between jobs.
+
+---
+
+## 2.
+
+**EMAIL — SENT APRIL 14, 2024, 2:17 AM**
+
+**From:** mara.shin.films@gmail.com
+**To:** j.kovacs@ucalgary.ca
+**Subject:** Documentary opportunity — reproductive endocrinology expertise needed
+
+Dr. Kovacs,
+
+My name is Mara Shin. I'm an independent documentary filmmaker producing a feature-length investigative piece about the Flett Springs Fertility Clinic and the work of Dr. Arne Gundersen. I'm assembling a small team of scientific consultants to visit the clinic site and evaluate the surviving documentation through a rigorous, evidence-based lens. This is NOT a paranormal investigation. This is a serious examination of fringe reproductive science and its cultural afterlife.
+
+I'm reaching out because your 2019 paper on extrauterine fetal development in animal models ("Ectogenesis Revisited: Toward a Functional Artificial Placenta in Caprine Subjects," *Journal of Reproductive Biotechnology*, vol. 34, no. 2) suggests you have the specific technical background to assess Gundersen's claims. I should mention that the project comes with a modest consulting honorarium of $2,500 — I know that's not much, but it also includes travel, accommodation, and meal expenses, and the planned shoot is only 4 days.
+
+Any interest?
+
+Best,
+Mara Shin
+
+**[Constable Fenn's note: Dr. Jozsef Kovacs, age 47, Associate Professor (contract) in the Department of Reproductive Biology, University of Calgary. His contract was not renewed for the 2024–25 academic year. He is among the eight missing persons.]**
+
+---
+
+MARA (V.O.): Kovacs said yes within six hours. He asked zero questions about the honorarium, the schedule, or Gundersen. He asked one question, by reply email at 8:04 AM: "Will the documentary include on-camera interviews?" I said yes. He replied: "Good. How should I list this on my CV — as a consultancy or a media appearance?" I said either. He replied: "Both, then."
+
+Here's what I knew about Jozsef Kovacs that Jozsef Kovacs did not know I knew: his lab had just lost its last remaining grant. His wife had moved out in February. His goat-uterus paper, which he considered his life's work, had been cited exactly twice — both times in the same review article, both times as an example of "promising but underfunded approaches." He was, at the time I contacted him, teaching two sections of undergraduate Human Biology as a sessional instructor at Mount Royal University for $6,200 per section. He could not have turned down a camera pointed at his face if it had been mounted on a rifle.
+
+He was my first yes, and everyone else's reason for saying yes.
+
+---
+
+## 3.
+
+**EMAIL — SENT APRIL 22, 2024, 11:56 PM**
+
+**From:** mara.shin.films@gmail.com
+**To:** priya.chandrasekaran@usask.ca
+**Subject:** Fwd: Documentary opportunity — botanical/agricultural biology expertise needed
+
+Dr. Chandrasekaran,
+
+[…same pitch, adjusted for recipient's expertise…]
+
+I should mention that Dr. Jozsef Kovacs from U of C has already confirmed his participation.
+
+---
+
+MARA (V.O.): Priya Chandrasekaran. Forty-one. Plant physiologist. University of Saskatchewan, Saskatoon — tenured, comfortable, theoretically immune to a pitch like mine. And she was immune to my pitch. What she was not immune to was Jozsef Kovacs.
+
+They'd been on a CIHR review panel together in 2021. Three days in Ottawa. Nothing happened. Everything almost happened. Priya told her best friend, Dr. Nuala Dixon — I'll get to Nuala — that Kovacs had "a face like a half-collapsed cathedral" and that she had thought about him in the shower "not often but geometrically." I don't know what that means. The point is that when I wrote "Dr. Jozsef Kovacs has already confirmed his participation," I was not making a scientific argument. I was making the only argument that has ever worked reliably in the history of human decision-making.
+
+Priya said yes within two days. Her email was four paragraphs long. Three paragraphs were about the fascinating intersection of cucurbit physiology and mammalian nutrient exchange. One paragraph, the shortest, asked if the accommodation was "single rooms or shared."
+
+---
+
+## 4.
+
+**TEXT CHAIN — "PRIYA / NUALA" — APRIL 25, 2024**
+
+**PRIYA:** So I did something possibly unhinged
+**NUALA:** Scale of 1-10
+**PRIYA:** Signed up for a documentary about a man who grew babies in pumpkins
+**NUALA:** That's not a number
+**PRIYA:** 7?
+**NUALA:** Why
+**PRIYA:** For science
+**NUALA:** Priya
+**PRIYA:** Kovacs is going
+**NUALA:** There it is
+**PRIYA:** It's not ABOUT that. It's tangentially related to my vascular transport work. Cucurbit xylem architecture is genuinely underexplored as a
+**NUALA:** Priya I love you but you just typed "cucurbit xylem architecture" like it was a sentence a person says
+**PRIYA:** It IS a sentence a person says. I say it regularly. In my TENURED POSITION
+**NUALA:** Is his wife still gone
+**PRIYA:** I don't know
+**PRIYA:** I didn't look
+**PRIYA:** February
+**NUALA:** So you looked
+**PRIYA:** The documentary is about FOLKLORE, Nuala
+
+---
+
+## 5.
+
+MARA (V.O.): The rest of the team came together over the following two months, each one pulled into orbit by the gravitational field of the person who'd said yes before them. It's a principle I learned not in journalism school but in veterinary dental practice: you can't get a nervous dog onto the examination table by pulling the dog. You get a calm dog onto the table first. The nervous dog follows.
+
+Here's the team. I'll be brief because, honestly, some of these people were more interesting on paper than on camera, and this is going to be a long documentary.
+
+**[Montage of email replies, acceptance messages, and profile photos, each accompanied by Mara's narration:]**
+
+**Dr. Nuala Dixon.** Forty-three. Bioethicist, joint appointment at the University of Alberta and the Haskayne School of Business. She publishes on informed consent in experimental medicine. She said yes because Priya said yes and because Nuala has spent fifteen years writing about fringe clinics from a distance and has, I think, always wanted to stand inside one. She would deny this. She sent me a nineteen-page informed consent document to sign before agreeing to participate, which I signed without reading, which she then cited as an example of exactly the kind of consent failure her work critiques. I like Nuala.
+
+**Dr. Todd Kemper.** Fifty-one. Agricultural engineer, recently retired from the Saskatchewan Ministry of Agriculture. Specialty: controlled-environment greenhouse systems. He knows grow lights. He knows soil incubators. He knows how long a solar battery lasts and how a timer switch works and every other boring explanation for why a light might be on in an abandoned building. Todd said yes because his wife told him he needed a hobby that wasn't watching the Saskatchewan Roughriders lose, and because I described the project as "a few days in the field, fresh air, easy work." He is the only person on the team who has actually been to Gronlid. He went once, in 2009, to inspect a commercial greenhouse operation for a provincial subsidy application. He described the town as "fine." Todd is a man who describes most things as "fine."
+
+**Wei-Lin Tsao.** Thirty-four. Postdoctoral fellow, developmental biology, McGill. Specialty: mammalian embryonic implantation. The youngest and most qualified person on the team, which means he's also the most desperate and the most overworked. He's on his second postdoc. He was rejected from eight tenure-track positions last cycle. His supervisor recently listed herself as first author on their joint paper for the third time. When I pitched him, he listened silently to the entire Gundersen story, and when I finished, his only question was: "Is the $2,500 honorarium taxable?" It was the question of a man who has done the math on his life and found it short. I said it could be structured as a travel reimbursement. He said yes.
+
+**Dr. Helen Park.** Fifty-seven. Clinical psychologist, University of Manitoba. Specialty: mass suggestion, shared delusion, folie à groupe. She is the team's designated skeptic — the person I recruited specifically to explain, for the camera, why a small town might convince itself that an eccentric doctor grew babies in pumpkins. Helen's first email to me said, and I will quote this because it's the kind of sentence I couldn't invent: "I've built my career on the principle that collective belief tells you everything about the believers and nothing about the believed. I'd be delighted to demonstrate this in the field." Helen's research has not been funded since 2021. She has been writing a book titled *The Credulity Machine* for six years. It is eleven hundred pages and has no publisher. She came because she needs a Chapter 12.
+
+**Ruben Torres.** Twenty-nine. Not a doctor of anything. MFA in documentary filmmaking, Concordia. My cameraman. My only crew member. I couldn't afford anyone else, and Ruben couldn't afford to say no, because his student loans are structured in a way that I think might technically qualify as art. He has no opinion about pumpkins, babies, or Saskatchewan. He has a strong opinion about lens flares. He is here

@@ -1,0 +1,101 @@
+# Form 27-B: Application for Continued Existence
+
+---
+
+## I.
+
+Every year on the anniversary of the Processing, the ship held a small ceremony in the filing room, which was what people called the repurposed cargo bay on Deck Four where the paperwork lived. Seventeen metal shelving units ran floor to ceiling along the port and starboard walls, each unit labeled by fiscal year and subdivided by form type: 27-B (Species Continuity Extension), 27-B Supplemental (Amended Population Counts), 14-R (Proof of Sapience, Renewed), and the elbow-high stack of 52-Cs that nobody could remember the purpose of but that Gloria Alvarez insisted they continue to file because the index listed them under "Recommended" and she did not trust the space between "recommended" and "mandatory" to be as wide as it appeared.
+
+The ceremony was brief. Captain Aaron Leath read the names of the dead — not all of them, because reading nine billion names would have taken longer than the species had left, but a rotating selection: two hundred names per year, drawn by lottery from a list that was itself compiled from passenger manifests, recovered census data, and, in eleven cases, names that children on the ship had invented for people in old photographs whose real names no one could find. He read them in the order they'd been drawn. Then Gloria filed that year's 27-B. She used a date stamp she'd carried off the planet in her coat pocket, the ink replaced six times over seventeen years with a synthetic compound that the ship's chemist formulated from decommissioned medical gel. The stamp read SUFFOLK COUNTY DMV — PROCESSED, and every year someone pointed out that this was not technically an authorized Auditor seal, and every year Gloria said, "The Auditors have not provided an alternative," packed the form into its envelope, loaded the envelope into the transmission array alongside the rest of that fiscal cycle's submissions, and pressed the button.
+
+The ship's population held steady at three thousand and nine, a number that had become talismanic. It appeared in the headers of all official correspondence. It was engraved on the plate above the bridge. When Yumi Sato's baby was born four years in, people quietly revised the number to three thousand and ten, and when Edgar Wells died of a stroke the following year, they revised it back, which prompted an eight-hour argument over whether the 27-B Supplemental needed to be re-filed to reflect both changes or only the net change, which was zero. Gloria ruled that both events needed documentation. "A birth is not the same as a non-death," she said, and nobody argued, because Gloria did not make rulings lightly, and because the filing room smelled like medical gel, and because the only person on the ship who understood Auditor bureaucratic taxonomy well enough to disagree with her was Gloria herself.
+
+She had worked at the Farmingville branch of the Suffolk County Department of Motor Vehicles for twenty-one years. Counter three. She had processed Commercial Driver's License renewals, Real ID applications, the occasional title transfer. She had survived four system-wide software migrations. She had once spent eleven months resolving a clerical error in which a 1987 Oldsmobile Cutlass was classified as a commercial watercraft, which required coordinating with the Coast Guard, the state tax authority, and a marine insurance adjuster in Ronkonkoma who kept calling her "ma'am" in a tone that suggested he did not believe she existed. When the Processing happened — when the Auditors descended, or materialized, or manifested, depending on which of the surviving theologians you consulted, and announced that Earth's Species Continuity Status had lapsed and its dominant sapient population was scheduled for archival — Gloria had been on her lunch break, eating a turkey club in her car in the parking lot behind the Farmingville branch, listening to a segment on NPR about municipal zoning reform. The sky had changed color. The radio had gone dead. And Gloria, who had spent twenty-one years watching people arrive at her counter with the wrong documents — the wrong proof of address, the wrong insurance card, the wrong form entirely — recognized immediately what was happening, not the metaphysical enormity of it, but its *texture,* its administrative shape. She knew what it looked like when a file was being closed.
+
+"Has your 27-B cleared?" was how people said good morning.
+
+They said it in the corridors, in the water reclamation queue, over meals of nutrient paste that the galley staff described with euphemistic names — "risotto," "chowder," "grandmother's cassoulet" — as though language could add a flavor that chemistry could not. They said it not because they expected the answer to have changed since yesterday but because the question was itself a form of presence, a verbal handshake, proof that the asker and the asked both still occupied the same administrative category: *pending.* Not approved, not archived. Pending. The word had weight. It had texture. It was printed at the top of every confirmation receipt Gloria had ever received from the Auditor transmission relay, in a script that rearranged itself depending on the angle from which it was read but that always resolved, eventually, into the same eleven characters: STATUS: PENDING. People wore the word on T-shirts. Someone tattooed it on their forearm. A child born on the ship was named Pending, briefly, before her parents were talked out of it by the ship's counselor, who had limited resources and a waitlist of four hundred but who drew a firm line at nomenclature-based trauma.
+
+Gloria kept a personal index. It lived in a series of ninety-four notebooks, handmade from recycled packing materials, cross-referenced and tabbed, each entry written in the blocky, meticulous hand she'd developed over two decades of filling out forms that would be rejected for stray marks. The index cataloged every form number she'd extracted from the Auditor transmissions, every subsection reference, every regulatory citation. She had organized the Auditor bureaucratic code — or the portion of it that humanity had been able to intercept, decode, and partially translate — into a taxonomy that mirrored the structure she knew best: the New York State Vehicle and Traffic Law, Title 15, annotated. It was the only framework she had. So the Auditor regulatory code became, in Gloria's index, a series of articles, subdivisions, and paragraphs, each one cross-referenced to its closest DMV equivalent. Form 27-B, Species Continuity Extension, was indexed under "Registration Renewal." Form 14-R, Proof of Sapience, was indexed under "Vision Test." Form 52-C, whose function remained unclear, was indexed under "Miscellaneous — See Also: Watercraft." The system was imperfect. Gloria knew it was imperfect. But it was a system, and in seventeen years of filing, no Auditor transmission had ever rejected a form for being indexed incorrectly, which either meant the indexing was acceptable or meant the Auditors did not read the indexes, and Gloria refused to consider the second possibility because it threatened the structural integrity of everything she had built, and structural integrity, in Gloria's experience, was the only thing that kept a filing system from becoming a pile.
+
+It was a Tuesday, or what the ship's clock called a Tuesday — the days had been unmoored from any planet's rotation for seventeen years, but the crew maintained a seven-day week because the 27-B filing deadline fell on a annual cycle that Gloria had subdivided into fifty-two weekly micro-deadlines, each one governing the completion of a specific subsection, and the seven-day week made the math cleaner. It was a Tuesday, and Gloria was in the mess hall, and she was eating nutrient paste that the galley had labeled "frittata," and she had her ninety-fourth notebook open to a new entry, and beside it she had a stack of Auditor index pages that Commander Diane Osei's intelligence team had captured from a corrupted relay buoy six weeks earlier.
+
+The captured index was a partial catalog — a table of contents, essentially, for a regulatory archive that the Auditors maintained somewhere outside the visible universe. Most of it was indecipherable. But a section near what appeared to be the beginning listed form numbers in a sequence that Gloria recognized, because she had been writing those numbers on the headers of every document humanity had submitted since the Processing.
+
+She recognized them the way she would have recognized a transposed digit on a license plate: not with alarm, at first, but with the low, professional irritation of someone who has found an error in a system that should not contain errors.
+
+The form numbers matched. But the index listed them under a header that Gloria's translation protocol rendered as: REGULATORY FRAMEWORK: ANTECEDENT ADMINISTRATIVE AUTHORITY (ARCHIVED) — STEWARDSHIP CODE v.1, SUPERSEDED.
+
+She put her fork down. She paged back through her notebook. She paged forward through the captured index. She did this four times. The frittata cooled into a gray disc. Around her, the mess hall performed its usual Tuesday lunch: two hundred people eating in shifts, the noise of trays and low conversation and the hum of the ship's recyclers. Somebody laughed. Somebody's child shrieked and was hushed. The intercom announced a pressure irregularity in Corridor 7-B that was being addressed.
+
+Gloria closed the notebook. She opened it. She closed it again.
+
+She stood and walked to the captain's table, which was not actually a separate table but the same bolted-down row of seats as everything else, distinguished only by the fact that Captain Leath sat there and people tended to leave the adjacent seats empty, not out of deference but because the captain carried with him a radius of administrative gravity — sit too close and you'd be asked for a status report on something.
+
+"Captain," Gloria said.
+
+Leath looked up from his tray. He was fifty-eight, square-jawed, gray at the temples in a way that looked designed for recruitment posters, and tired in a way that looked designed for nothing. He had been the executive officer of a research vessel before the Processing. He had not been trained for this. He had been trained for Antarctic krill surveys. He carried this knowledge somewhere in his posture at all times.
+
+"Gloria."
+
+"I need you to look at something."
+
+She placed the notebook and the captured index side by side on the table. She pointed to the header on the captured index. She pointed to the corresponding entry in her notebook. She showed him the form number — 27-B — appearing in both documents. She showed him the header under which the Auditor index cataloged it.
+
+Leath looked at the pages. He was not a bureaucratic thinker. He was a krill man. But seventeen years of filing had taught him enough to read one of Gloria's indexes the way a student reads a basic map: slowly, with concentration, missing most of the topography but grasping the general shape of the terrain.
+
+"What am I looking at?" he said.
+
+"Form 27-B," Gloria said. "Species Continuity Extension. The form we've filed every year since the Processing. The form that everything — the micro-deadlines, the supplementals, the 52-Cs, the annual ceremony — the form that all of it is organized around."
+
+"Yes."
+
+"It's from the wrong framework."
+
+Leath looked at her. He had a way of looking at people that combined genuine attention with a deep, mammalian wish to be somewhere else. "What does that mean?"
+
+"It means," Gloria said, "that the 27-B numbering designation — along with 14-R, 52-C, all of our forms — belongs to an obsolete regulatory system. According to this index, it was the administrative code of a precursor civilization. An earlier species. The Auditors archived their framework along with — " She paused, not for drama but because the next word required precision. "Along with them. The civilization that created these forms was processed. The forms were deprecated."
+
+"Deprecated."
+
+"Superseded. Replaced. They belong to an old version of the code. Version one. The current code is version — " She glanced at the index. "The current version number is not an integer. The translation protocol renders it as a symbol that resembles a sideways eight, which may be an infinity sign or may be the number eight rendered sideways. Either way, it is not one."
+
+"So the forms we've been filing — "
+
+"Are not Species Continuity Extensions. They don't exist in the current framework. The form numbers were recycled, apparently. In the current code, the number 27-B is assigned to — " Gloria consulted the captured index. "A Change of Existential Address filing. Used when a sapient entity relocates from one plane of being to another."
+
+The silence began at their table and expanded, the way silence does in a room full of people who have learned to listen for changes in administrative tone. Conversations within earshot dropped to murmurs. The murmurs dropped to nothing. Two tables away, Diane Osei set down her cup.
+
+"We've been filing change-of-address cards," Leath said.
+
+"For a species that no longer has an address," Gloria said. "Yes."
+
+"For seventeen years."
+
+"For seventeen years."
+
+Leath looked at the forms. He looked at Gloria. He looked at the mess hall, three-and-a-half thousand square feet of bolted-down furniture and recycled air and people who had organized their entire social architecture around filing deadlines. The silence had reached the far wall. People were turning.
+
+"What does this mean practically?" he said.
+
+Gloria adjusted her glasses, which were held together at the left temple by a piece of wire she'd salvaged from a defunct intercom panel in Year Three and re-bent in Year Nine and re-re-bent last month. "Practically," she said, "it means we have never filed a valid Species Continuity Extension. Not once. We have submitted seventeen annual change-of-address filings to an inter-cosmic bureaucracy that has no record of our address, our species classification, our continuity status, or our existence as a pending case. In the eyes of the governing administrative system, we are not a species awaiting a decision. We are a forwarding notice for an empty house."
+
+Someone at the next table — later identified as Tomás Reyes, electrical systems, age forty-one, father of two — said, "Does this mean we get a fresh start?"
+
+Gloria looked at him with an expression that people who had worked at the Farmingville DMV would have recognized as the expression she wore when someone arrived at counter three with a boat registration form and asked to renew their driver's license with it.
+
+"No," she said. "It means we owe seventeen years of late fees on the correct forms. Assuming the correct forms exist. Assuming we can identify them. Assuming the late fee structure follows any mathematical model we're capable of computing, which, based on prior interactions with Auditor numerical systems, it may not."
+
+The mess hall held a particular kind of silence, one that Gloria had heard before — not in space, not on the ship, but at the Farmingville branch, on the morning of every system-wide software migration, when the screens went dark and the queue was forty people deep and the new system required a login credential that no one had received. It was the silence of people confronting the possibility that the structure they had entrusted with their problem was not merely slow, or indifferent, or hostile, but *orthogonal* — operating at an angle to their need so severe that the concept of resolution did not translate.
+
+Leath pressed his palms flat on the table. He was quiet for a long time.
+
+"The universe," he said, "does not run on paperwork."
+
+"Captain," Gloria said.
+
+"This is — " He gestured at the notebooks, the index, the filing room that was visible through the mess hall's open corridor, shelves of forms receding into the sodium-colored light, seventeen years deep, each shelf labeled in Gloria's hand, each label aligned to within two millimeters of the shelf edge. "This is a system we invented. To cope. It's how we stayed sane. But the universe does not actually require us to submit a form to continue existing."
+
+Gloria removed her glasses. She cleaned them on her sleeve. She replaced them. It was the most personal gesture anyone on the ship had ever seen her make.
+
+"Captain Leath," she said. "When I was nine years old, my mother brought me to the Suffolk County Clerk's office to get a copy of my birth certificate, because the hospital had misspelled our name on the original, and without a corrected certificate I could not be enrolled in school, and without school enrollment I could not — in the eyes of the state — be classified as a minor resident, which affected my mother's tax filing status, which affected her eligibility for a housing subsidy she needed in order for us to continue living in our apartment. We sat in that office for six hours. The form to request a correction required a form to verify the identity of the requester, which required the original certificate, which contained the

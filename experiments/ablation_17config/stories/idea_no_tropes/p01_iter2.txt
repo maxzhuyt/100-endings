@@ -1,0 +1,200 @@
+# Number of Expected Fatalities: 2
+
+---
+
+**UNITED STATES DEPARTMENT OF LABOR**
+**Occupational Safety and Health Administration**
+**FORM OSHA-91A: SITE HAZARD INTAKE AND PRELIMINARY INSPECTION AUTHORIZATION**
+
+| Field | Entry |
+|---|---|
+| **Case File No.:** | 2024-OSHA-0091174 |
+| **Site Name:** | Delacroix & Son's Traveling Wonderland (d/b/a "Delacroix Amusements") |
+| **Site Address:** | County Rd 7, Lot 14-B, unincorporated Carroll Parish, LA |
+| **Site Type:** | Traveling Carnival (Mobile Amusement Installation) |
+| **Current Operating Status:** | CONDEMNED — Parish Order 2024-441 |
+| **Date of Last Passed Inspection:** | None on file |
+| **Inspection Trigger:** | Multiple fatality reports (see attached) |
+| **Number of Known Hazards:** | See attached hazard register (preliminary) |
+| **Number of Expected Fatalities:** | 2 |
+| **Assigned Inspector(s):** | Linda R. Chavez, CSP (Lead) |
+| | Margaux K. Elling (Secondary) |
+| **Date of Assignment:** | 11/04/2024 |
+| **Dispatch Supervisor:** | D. Hendricks |
+
+**SUPERVISOR'S NOTE (handwritten, bottom margin):** *Linda — I know this isn't ideal. Margaux is the only one available. Just get it done. File by Friday. — DH*
+
+---
+
+**INTER-OFFICE MEMORANDUM — OSHA REGION VI — FIELD DISPATCH**
+
+TO: L. Chavez, M. Elling
+FROM: D. Hendricks, Dispatch Coordinator
+DATE: 11/04/2024
+RE: Assignment — Delacroix Site, Carroll Parish
+
+Linda, Margaux —
+
+You are hereby jointly assigned to conduct a preliminary hazard evaluation of the above-referenced site. The carnival has been condemned since August following the parish coroner's reports (copies enclosed — Margaux, I believe you requested these). Local fire marshal attempted a walkthrough in September and described the site as "structurally inconsistent." He did not elaborate. His report is three sentences long.
+
+Your scope is standard: structural integrity of rides and enclosures, electrical compliance, egress adequacy, chemical/biological hazard identification. Document everything. Photograph everything. Take the department vehicle.
+
+I'll be blunt: nobody else wanted this one. The drive alone is four hours each way. But the fatality count is anomalous for a site this size, and Regional wants it closed out before the new fiscal year.
+
+Be back by dark.
+
+— DH
+
+**ENCLOSURES:**
+- Carroll Parish Coroner's Reports (x4): Decedents Thibeaux, R.; Arceneaux, M.P.; Fontenot, D.L.; Name Withheld (Minor)
+- Parish Condemnation Order 2024-441
+- Site Layout Diagram (Provisional — sourced from carnival operator's insurance filing, 2019)
+
+---
+
+The car was a 2019 Chevrolet Equinox in federal white with 114,000 miles and an air freshener shaped like a pine tree that had stopped smelling like anything in the previous administration. Linda Chavez was driving. She had been driving since Baton Rouge because Margaux Elling drove the way she did everything else — too fast, with an air of moral conviction, as if speed limits were just another system that had failed to protect people.
+
+Linda was on her third reorganization of the clipboard. The forms were nested: 91A on top, then the hazard register template, then the structural assessment matrix, then the egress evaluation sheet, then three blanks for supplementary notes. She had pre-tabbed each section with colored flags. Green for structural. Yellow for electrical. Red for imminent danger. She liked the flags. They made the invisible visible. They said: *this is where you look.*
+
+In the passenger seat, Margaux held the coroner's reports in her lap and read them the way a thoughtful person reads poetry — slowly, with her finger tracing the lines, pausing to reread. She had highlighted the decedents' names in yellow. Not the causes of death. The names. Raymond Thibeaux. Marie-Pearl Arceneaux. Damon Lyle Fontenot. The fourth name was redacted, but the age was listed: nine. Margaux had highlighted the age twice.
+
+"You highlighted the age twice," Linda said.
+
+"I know."
+
+"That's not going to change it."
+
+"I know that too."
+
+They did not particularly like each other. Linda found Margaux's intensity exhausting, the way she carried other people's deaths around with her like luggage she refused to check. Margaux found Linda's precision sterile, a woman who had transmuted compassion into tab colors. They were both, in their own estimation, the only person in the regional office who took the work seriously. This was the source of the friction: they agreed on the premise and diverged on every conclusion.
+
+Louisiana flattened around them. Live oaks trailed moss over the road like torn curtains. The GPS said twenty minutes. Linda checked her flags one more time.
+
+---
+
+**SITE LAYOUT DIAGRAM — DELACROIX & SON'S TRAVELING WONDERLAND**
+*(Source: Operator's insurance filing, Gulf Coast Amusement Underwriters, 2019)*
+
+```
+                         ENTRANCE
+                           ┃
+                    ┏━━━━━━╋━━━━━━┓
+                   ┃   TICKET     ┃
+                   ┃   BOOTH      ┃
+                    ┗━━━━━━━━━━━━━┛
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+         ┌────┴────┐  ┌────┴────┐  ┌────┴────┐
+         │ GAME    │  │ FOOD    │  │ GAME    │
+         │ BOOTH 1 │  │ COURT   │  │ BOOTH 2 │
+         └────┬────┘  └────┬────┘  └────┬────┘
+              │            │            │
+              └────────────┼────────────┘
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+         ┌────┴────┐  ┌────┴────┐  ┌────┴────┐
+         │ TILT-A- │  │CAROUSEL │  │ FERRIS  │
+         │ WHIRL   │  │(Center) │  │ WHEEL   │
+         └────┬────┘  └────┬────┘  └────┬────┘
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                    ┌──────┴──────┐
+                    │  FUNHOUSE   │
+                    │  COMPLEX    │
+                    └──────┬──────┘
+                           │
+                           │
+                           ▼
+                        [    ]
+```
+
+*Note: Diagram reflects operator's filed layout. Exit location not indicated in source document. Assumed to be co-located with entrance per standard carnival egress design (see ASTM F2291-17, §6.2). To be verified on-site.*
+
+---
+
+The lot was gravel and weeds. A chain-link fence surrounded the perimeter in eight-foot panels, the kind you saw at construction sites and Little League diamonds and anywhere that the boundary between *here* and *there* needed to be cheap and obvious. The padlock on the gate had been cut — bolt cutters, clean bite — and the gate stood six inches ajar, as if someone had opened it and then not bothered with the pretense of closing it again.
+
+Linda parked twenty feet back and killed the engine. She sat for a moment with both hands on the wheel, looking at the gap in the gate the way a copy editor looks at a missing period.
+
+"Padlock's been cut," she said.
+
+"Coroner's people, probably. Or the fire marshal." Margaux was already unbuckling. "Or kids."
+
+"I'm noting it."
+
+"Note it."
+
+Linda noted it: *Entry gate padlock severed (pre-arrival). Chain-link perimeter intact. No visible signage re: condemnation status — noncompliant with Parish Order 2024-441, §3(b).*
+
+They gathered their equipment. Linda had the clipboard, a measuring tape, a flashlight, a digital camera, and a bag of colored flags on wire stakes for marking hazards in situ. Margaux had a handheld voice recorder, a printout of the site diagram, the coroner's reports, and a pen she kept clicking. They both wore steel-toed boots, high-visibility vests, and white hardhats. They looked, walking toward the gate, like two women about to have a very ordinary day.
+
+The carnival was still in the way that abandoned places are still — not peaceful but *held*, like a breath someone started and forgot to release. Tarps covered the game booths in blue and silver, mottled with leaf-rot. The Ferris wheel was visible over the fence line, its frame intact but two of its gondolas missing, the empty mounting brackets jutting out like broken fingers. The sky was the color of old dishwater. It was 10:47 a.m.
+
+Margaux stopped just inside the gate and inhaled. "You smell that?"
+
+"I smell rust."
+
+"Under the rust. Machine grease and — " She inhaled again. "Cotton candy."
+
+"There is no cotton candy. This site has been closed for three months."
+
+"I said I smell it, Linda. I didn't say there *is* cotton candy." Margaux clicked her pen and walked ahead.
+
+Linda stood at the gate for three more seconds, cataloging: *Gravel lot, approx. 2.3 acres. Surface condition — poor. Drainage — no visible grading. Weed infiltration consistent with 90+ day vacancy.* She stepped through and followed Margaux into the carnival, her clipboard squared against her ribs like a shield.
+
+---
+
+**OSHA FORM 91-C: STRUCTURAL DEFICIENCY LOG — PRELIMINARY WALKTHROUGH**
+
+| Item No. | Location | Deficiency | Severity | Ref. Code |
+|---|---|---|---|---|
+| 001 | Tilt-a-Whirl, exterior housing | Corrosion on load-bearing joint, NE quadrant. Visible oxidation depth est. 2mm. | HIGH | 29 CFR 1910.22(b) |
+| 002 | Ticket booth, east wall | Exposed wiring (3 conductors), no junction box. Insulation degraded. | CRITICAL | 29 CFR 1910.305(b) |
+| 003 | Game Booth 1 (ring toss) | Structural tilt, approx. 3° off-level. Cause unclear. | MODERATE | 29 CFR 1910.22(a) |
+| 004 | Carousel platform | Deck boards warped; two boards missing (positions 6 and 11). Substructure visible. | HIGH | 29 CFR 1910.23(a) |
+| 005 | Funhouse, Entry Foyer | Flooring grade noncompliant — measured at ~~5°~~ 8° *(see note)* | HIGH | 29 CFR 1910.22(a) |
+
+*Note to Item 005: Initial visual estimate corrected upon entry. Floor appears level from exterior. Grade becomes apparent only under body weight. Recommend reassessment with digital inclinometer (not available on-site — request from Regional).*
+
+---
+
+Linda stepped into the funhouse because the funhouse was next on the diagram, and Linda did things in the order they appeared on the diagram. That was the whole point. You had a plan. You followed the plan. The plan was a leash you kept on the universe to stop it from getting strange.
+
+The foyer was dim — one overhead bulb still worked, somehow, casting a brownish light that made everything look like an old photograph. The walls were painted plywood: clown faces, cartoon ghosts, a fat grinning moon. Standard carnival schlock. Linda swept her flashlight across the floor and noted the surface material (plywood over joists, paint worn to bare grain) and the visible condition (fair, excluding grade issue) and was three steps in when the floor decided to have an opinion.
+
+It tilted. Not dramatically — eight degrees, she would later estimate, though in the moment it felt like the whole building had leaned over to whisper in her ear. Her left foot went out, her right knee buckled, and her body did what bodies do when the ground breaks its contract: it panicked. Her arms went wide. The clipboard flew. She grabbed for the wall with her left hand and caught it — or she caught *a* wall — but it was closer than it should have been, as if the room had narrowed by a foot while she wasn't looking, and her palm slapped painted plywood where a second ago there had been open air.
+
+Her hardhat popped off her head with the lazy inevitability of a champagne cork, bounced once on the tilted floor, rolled in a half-circle, and came to rest at her feet, upside down, like a beggar's cup.
+
+"*Goddammit.*"
+
+She said it the way she said everything: precisely, with full phonetic commitment. She straightened up. She swiped dust off her vest. She picked up the hardhat and the clipboard and examined both for damage with the same degree of concern (the clipboard was fine; the hardhat had a scuff; the clipboard mattered more). On the deficiency log, she wrote, pressing so hard the pen embossed the page beneath:
+
+*Item 005 — CONFIRMED. Floor grade creates immediate slip/fall hazard. Recommend CLOSURE of funhouse pending full structural evaluation.*
+
+She put her hardhat back on. It sat on her head like it was already thinking about leaving again.
+
+---
+
+**AUDIO LOG — ELLING, M.K.**
+**Device: Olympus WS-853 Digital Voice Recorder**
+**Timestamp: 11:03:22 — 11:07:54**
+
+**[11:03:22]** ELLING: Margaux Elling, field notes, November fourth. I'm at the — I'm outside the ride area now, south side of the main loop. The, uh, Ferris wheel is to my right. Two gondolas missing. Mounting brackets are sheared, not unbolted — indicates structural failure, not maintenance removal. I want to get closer but the base perimeter is chained off. Chain looks original. Padlock intact, unlike the front gate.
+
+**[11:03:58]** *(Pause. Ambient sound: wind, faint metallic creak.)*
+
+**[11:04:11]** ELLING: The carousel is ahead of me. Center of the layout. All the animals are still mounted — horses, a lion, something that might be a — a swan? Hard to tell from here. Paint's mostly gone. The platform is the one with the missing deck boards, Linda flagged it already. I can see the substructure from this angle. The joists look — actually, they look fine. The joists look brand new. That's strange. Everything else is rotting but the bones are clean.
+
+**[11:04:42]** *(Pause.)*
+
+**[11:04:48]** ELLING: Raymond Thibeaux died on the Tilt-a-Whirl. Marie-Pearl Arceneaux died in the funhouse. Damon Fontenot died — the report says "adjacent to carousel." The child — the report doesn't specify a location. Just says "on-site." I want to know where the child was. I want —
+
+**[11:05:09]** *(Sound: music. Faint. A carousel organ — a Wurlitzer or similar calliope mechanism — playing a waltz at approximately half its intended tempo. The melody is identifiable as "After the Ball" (Harris, 1891), distended and warping, as if the source mechanism were being hand-cranked by someone losing interest.)*
+
+**[11:05:16]** *(The music accelerates to normal tempo. Plays for approximately three seconds at correct speed.)*
+
+**[11:05:19]** *(Music stops.)*

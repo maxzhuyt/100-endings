@@ -1,0 +1,161 @@
+# The Tuesday Anomaly
+
+## I.
+
+The platform at Voss-Henriksen Temporal Station smelled, as it always did, of recycled ozone and the particular institutional despair of spaces cleaned by contract workers who were paid per-displacement rather than per-hour. Maren Voss stood in her usual spot — third pillar from the eastern chronometer, two tiles left of the drainage grate — and swiped her commuter pass against the reader. It chirped a tone somewhere between acceptance and apology.
+
+**TEMPORAL TRANSIT AUTHORITY — MUNICIPAL LANE 7 (TUESDAY)**
+**Commuter: VOSS, MAREN A.**
+**Destination: Municipal Audit Bureau, 11th Recursive Floor**
+**Paradox Liability Status: CURRENT (renewed 03/Tues/Cycle 881)**
+**Chrono-Carbon Offset: 0.07 standard deviations — SURCHARGE APPLIED**
+**Note: The TTA thanks you for your patience during scheduled calibration maintenance on all Tuesday lanes. Delays of 4–8 seconds may occur. This is normal. This has always been normal.**
+
+The "This has always been normal" was new. Maren noted it the way she noted everything — involuntarily, exhaustively, with the low grinding attention of a woman whose mind was not entirely her own.
+
+Around her, the platform filled. A man in a thermal coat shifted his weight from foot to foot, and Maren received him like a radio signal she could not turn off:
+
+*—marjoram, not oregano, she always said marjoram and I wrote it down once on the back of a receipt he kept in his wallet the leather one the one that smelled like his hands when he came in from the garden his hands his hands I keep losing the word for what his hands*
+
+The man stared at his phone. He was reading a paradox-liability notification about adjustments to his premium. His thoughts had nothing to do with what his eyes were doing. They never did, with anyone. That was the first thing Maren had learned about telepathy: the mind and the life are conducted in different time signatures, and they almost never sync.
+
+A teenager beside her, ear-pointed headphones leaking bass, radiated thought in spiraling fractals:
+
+*—she SELLS sea-SHELLS by the sea-SURE but sure is shore is mother is the smother of invention and if I re-VERSE the polarity of the OEDIPAL i get LAID-ipo which is basically an IPO for getting laid which is basically the ECONOMY Jessica keep up with the ECON—*
+
+And somewhere behind Maren, an elderly woman with a canvas bag of Tuesday groceries, whose interior life arrived in Maren's skull with the stately rolling cadence of oral epic:
+
+*As a wave that has gathered its strength on the wine-dark commuter platform, swelling long under the winds of delay and the automated apologies of systems that understand nothing of the fatigue of those who stand — so too did her patience crest and hold, trembling, vast, unbroken, though the ligaments of her left knee sang their own Iliad of deterioration—*
+
+Maren pressed her fingertips to her temples. The gesture did nothing. It had never done anything. But it was a ritual, and rituals were the only architecture that held when everything else bled through.
+
+The service advisory hologram materialized at the platform's edge — a translucent figure in a TTA uniform that hadn't been updated since Cycle 600, smiling with the warmth of a thermostat.
+
+"Good morning, commuters. The Temporal Transit Authority acknowledges that Tuesday-lane displacements have been arriving approximately six seconds behind standard calibration. This variance is within acceptable parameters. An internal review has been initiated and is expected to conclude within four to seven cycles. We appreciate your understanding. Remember: *your time is our time*."
+
+The hologram flickered and looped seamlessly back to "Good morning, commuters." Several people near Maren groaned. Someone muttered that the Tuesday lane had been "a little funny" for weeks now. Someone else said the offset surcharges were a scam. A child asked why the lady was see-through and was told to stop pointing.
+
+Maren boarded the 8:15 displacement.
+
+The experience of temporal displacement had been described by poets, physicists, and marketing copywriters, and all three groups were wrong in complementary ways. It did not feel like falling, or dissolution, or "stepping through a curtain of liquid starlight" (TTA brochure, Cycle 844). It felt like a paragraph break. One moment you were in one place, and then — without transition, without experience, without even the neurological courtesy of a blackout — you were somewhere else, and the six seconds that had allegedly elapsed were not missing but *had never existed*.
+
+Except lately. Lately the 8:15 had been arriving with a texture it shouldn't have had — a faint doubling, like hearing a word and its echo simultaneously, so that "arrival" became a chord rather than a note. Maren had noticed it. She had mentioned it to no one.
+
+Her cubicle in the Municipal Audit Bureau occupied a space that expressed, in architectural terms, the concept of *not quite enough*: not quite enough light, not quite enough ventilation, not quite enough distance from the break-room microwave, which always smelled of someone else's previous Thursday. On her desk, a stack of variance reports waited with the patience of objects that know they will outlast the people who process them.
+
+She hung her coat. She logged into the Integrated Temporal Accounting System (ITAS), which greeted her with:
+
+**Welcome back, Maren.**
+**You have 47 pending variance reports.**
+**Of these, 46 are classified LOW PRIORITY.**
+**1 is classified LOW PRIORITY (PERSISTENT).**
+**Have a productive displacement!**
+
+The forty-six low-priority files were the usual: minor causal echoes from recreational time-tourism, a pension fund that had accidentally compounded interest across three parallel Wednesdays, a noise complaint from a resident whose neighbor's Thursday-evening argument kept reverberating into his Friday morning. These were the bread and butter of municipal auditing — the metabolic byproducts of a civilization that treated time as infrastructure. Maren processed them with the fluency of long practice, her stylus moving through approval fields like a needle through familiar cloth.
+
+The forty-seventh file was labeled:
+
+**VARIANCE REPORT — TUESDAY LANE (PUBLIC)**
+**Classification: Scheduling Drift — Calibration**
+**Status: LOW PRIORITY (PERSISTENT)**
+**Duration: 19 cycles (ongoing)**
+**Assigned: Auto-review (no human auditor requested)**
+**Flag Reason: Duration exceeds auto-review threshold by 12 cycles**
+
+The file had been auto-flagged simply because it had existed too long without resolution — the bureaucratic equivalent of a library book overdue enough to generate a letter. No one had requested human review. The system had escalated it out of procedural inertia, not concern.
+
+Maren opened it, and for the next forty minutes, the Tuesday Anomaly was exactly as boring as its classification suggested.
+
+---
+
+## II.
+
+The variance data presented itself in columns of displacement timestamps, arrival differentials, and calibration checksums — the dry, granular language of systems telling other systems that everything was fine. And everything *was* fine,  in much the same way that a sentence is fine even when it contains a word that has been misspelled so carefully it takes on a different meaning.
+
+Maren's process was not intuitive. She did not have hunches. What she had was a particular relationship with pattern — the auditor's compulsion to notice when a number behaved unlike itself. A seven that carried the weight of a nine. A decimal that drifted leftward when every procedural logic said it should drift right. She had once described her job, at a party where someone had made the mistake of asking, as "listening to spreadsheets until they get nervous and confess."
+
+The Tuesday lane's six-second delay had been constant for nineteen cycles. Every diagnostic tool classified it as calibration drift — the temporal equivalent of a clock running slow. But calibration drift was entropic: it wavered, self-corrected, occasionally spiked. It behaved like weather. This didn't. The six-second differential was *exactly* six seconds. Not 5.97. Not 6.03. Six. Every displacement, every commuter, every cycle. The precision was so perfect that the automated systems read it as unremarkable, because automated systems were designed to notice deviation, and there was no deviation to notice.
+
+But perfect precision *was* the deviation. Entropy did not produce perfect numbers. Systems in drift did not produce locked constants. A clock running slow was a clock; a clock that was exactly six seconds slow with zero variance across nineteen cycles and tens of thousands of displacements was not a clock at all. It was a *decision*.
+
+Maren pulled the raw displacement logs — before calibration smoothing, before the diagnostic algorithms had interpreted the data into reassurance. The raw data was not, technically, supposed to be accessible to municipal auditors of her clearance level, but ITAS had a permissions architecture that reflected the same design philosophy as the rest of the Bureau: everything was technically restricted and practically unguarded, because no one had ever imagined that anyone would *want* to look at raw Tuesday-lane logs.
+
+What she found in the raw data was not a delay.
+
+It was a *stack*.
+
+The 8:15 displacement — and every other Tuesday-lane displacement she checked — was not arriving six seconds late. It was arriving *on time*. And then arriving again. And again. The arrivals were layered so precisely that the instruments couldn't distinguish between them: they read a single displacement with a six-second tail, when what had actually occurred was multiple displacements occupying almost the same causal space, one on top of another, like pages in a book pressed so tightly they read as a single page.
+
+Maren counted the layers.
+
+She counted them again.
+
+There were seven.
+
+She noted this in the file with the clinical notation: *Displacement overlap ×7, consistent, all sampled Tues-lane transits, Cycles 862–881. Pattern structure suggests recursion, not drift. Recommend reclassification and diagnostic team assignment.*
+
+She carried the file to her supervisor's office. Gregor Palme occupied the corner desk nearest the fire exit, which he had chosen, he explained to everyone at least once a season, because it was "closest to escape." He was a kind man who had been in municipal auditing for thirty-one years and had developed the survival strategy of treating every anomaly as a minor inconvenience that would eventually bore itself out of existence.
+
+"Seven layers," he said, reading her notation the way one reads a receipt one doesn't intend to keep.
+
+"Seven distinct displacements overlapping in the same causal window."
+
+"And the diagnostics say drift."
+
+"The diagnostics can't distinguish stacked displacements from extended arrival signatures. The raw data—"
+
+"You looked at the raw data?"
+
+"It's not restricted."
+
+"It's not un-restricted."
+
+"Gregor."
+
+He rubbed his eyes. Behind him, through the window of his office, the Bureau's open-plan floor hummed with the particular frequency of late-morning bureaucratic metabolism — printers, keystrokes, murmured phone conversations, the microwave.
+
+"Tuesday lanes have always been a little funny," he said. "You know that. Everyone knows that. There was a variance in — when was it — Cycle 700-something? Turned out to be a rounding error in the offset tables. Took three years to diagnose and the fix was changing a single coefficient."
+
+"This isn't a rounding error."
+
+"It might be a rounding error."
+
+"Seven identical displacements stacked in a single arrival window is not a rounding—"
+
+"I'll sign the escalation." He was already pulling the form from the second drawer, the one that required two signatures and a liability stamp. "You'll get your team authorization. Basement conference room is open — the one with the broken thermostat, I'm sorry about that, requisition went in last cycle. Just—" He stamped the form and slid it across his desk. "Maren. Don't turn a scheduling variance into a career."
+
+She picked up the form. His thoughts arrived in her skull as clearly as if he'd spoken them aloud, which, in Maren's experience, was how supervisors' thoughts always arrived — they had so little practice concealing anything from themselves:
+
+*—she's good, she's too good, she's the kind of good that finds things and the things she finds are never things anyone wanted found, and Tuesdays, God, Tuesdays, my mother used to say let sleeping Tuesdays lie but that wasn't the phrase, was it, it was dogs, let sleeping dogs, but Tuesdays are the dogs of the week—*
+
+Maren returned to her cubicle and began drafting recruitment requests.
+
+---
+
+## III.
+
+The Temporal Transit Authority maintained a registry of specialists available for municipal consultation, and the registry, like all institutional registries, was a document of aspiration rather than reality — a list of what the system wished it had access to, rather than what it could actually provide. The paradox linguists were mostly employed by the military. The displacement engineers were in the private sector, designing boutique temporal vacations for the rich. The causal therapists had a six-cycle waiting list.
+
+What remained, at the municipal level, was a particular category of expert: the person who had been broken by the thing they understood.
+
+---
+
+Orin Sadik met Maren in the lobby of the Audit Bureau three days after her request was filed, wearing a coat that appeared to have been purchased in a tense that had not yet resolved — its cut suggesting a fashion that was simultaneously outdated and premature, as though the garment existed in a future that had changed its mind about itself. He was sixty-three, slender, with the apologetic posture of a very tall man who had spent decades folding himself into spaces designed for shorter certainties. His hands, when he shook Maren's, trembled with the particular rhythm of someone whose neurology had been rewritten by prolonged causal exposure.
+
+"Ms. Voss," he said. "I will-have-been delighted by this collaboration, in the tense that assumes the delight has already occurred in a timeline adjacent to the one where we are currently failing to have met."
+
+His personnel file described the condition as "paradox aphasia — irreversible linguistic displacement resulting from acute causal grammar research." Before his breakdown, Orin Sadik had been the author of *The Syntactic Structure of Causality*, a work of such dense theoretical ambition that it had been classified as both a masterpiece and a public health risk. He had spent eleven years mapping the grammatical structures that underlay temporal displacement — the argument being that time travel was not a physical phenomenon but a *linguistic* one, that moving through time was a form of conjugation, and that the tenses available to a civilization determined the temporal movements it could perform. His breakthrough, and his undoing, had been the discovery of tenses that existed in no known language — verb forms for events that had not decided whether to happen, gerunds of foreclosed possibility, past-pluperfect constructions for memories that belonged to no one. He had tried to speak these tenses, and they had colonized his syntax. He could no longer reach the present tense. Every sentence he produced was an approach to meaning — circling, spiraling, arriving adjacent to his intention but never quite landing.
+
+Maren, hearing the thoughts beneath his fractured speech, understood him perfectly:
+
+*I am frightened. I have always been frightened. The fear will have been the only thing that doesn't conjugate.*
+
+"Thank you for coming," she said.
+
+"The coming will-have-been inevitable, in retrospect, which is the only spect I have left."
+
+---
+
+Luelle Kaspar arrived next, and the quality of the air changed.
+
+She stood in the lobby with the absolute stillness of a woman for whom

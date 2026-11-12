@@ -1,0 +1,192 @@
+# ВЕРНИСЬ
+
+---
+
+## I.
+
+**NOVOLAZAREVSKAYA STATION — PERSONNEL ROSTER, WINTER EXPEDITION 1961**
+
+*Sixth Soviet Antarctic Expedition, Queen Maud Land*
+*70°46′S, 11°50′E*
+
+Vlasov, V.G. — Station Leader
+Rogozov, L.I. — Physician / Surgeon
+Gerbovich, R.S. — Meteorologist
+Teliatnikov, A.M. — Mechanical Engineer
+Artemev, S.N. — Driver / Heavy Machinery Operator
+[…eight others: radio operator, geophysicist, aerologist, magnetologist, cook, diesel mechanic, two general workers…]
+
+*Total personnel wintering: 12*
+*Nearest staffed settlement: Mirny Station, approx. 3,600 km*
+*Nearest surgical facility: Cape Town, Republic of South Africa, approx. 4,800 km*
+*Evacuation corridor status (April–October): CLOSED. Blizzard conditions and sea ice preclude aircraft, ship, or overland traverse.*
+
+---
+
+**METEOROLOGICAL LOG — 29 APRIL 1961**
+
+Wind SSW sustained 27 m/s, gusting 40. Visibility nil. Ambient temperature –31.4°C. Barometric pressure falling. Drift accumulation against west wall of main quarters measured at 1.9 m as of 0600. All exterior work suspended. Satellite window: none.
+
+---
+
+He had been cold for forty-three days, which was every day since the last ship vanished north through the pack ice and the horizon sealed shut behind it like a mouth swallowing the only word it knew. Not cold the way Leningrad was cold, which was a cold you could set your life against, a cold that had edges — the edge of the Neva, the edge of a stone building, the edge of a woman's voice calling from an upper window. This cold had no edges. It began at the hem of the sky and went inward, and inward, and did not stop at the skin.
+
+He first noticed the pain on the morning of the twenty-ninth.
+
+**MEDICAL LOG — L.I. ROGOZOV — 29 APRIL 1961**
+
+*29.IV.61. Noted general malaise since approximately 0700. Dull ache in epigastric region, subsequently localizing to right iliac fossa. Body temperature 37.2°C. Nausea without emesis. Loss of appetite (missed breakfast — noted by Artemev). Palpation reveals moderate tenderness at McBurney's point. Blumberg's sign: weakly positive.*
+
+*Preliminary assessment: acute appendicitis.*
+
+He wrote it in his own hand, in the logbook he kept in the drawer beside his bunk. Third-person clinical syntax, as though the patient were someone else, as though the body listed in the report belonged to a man down the hall whom the doctor might visit after tea. But the hand that held the pen was attached to the abdomen that contained the organ that was, at that moment, beginning to swell with its own poisoned blood, and the neat Cyrillic characters were a net thrown over something that could not be netted.
+
+Acute appendicitis.
+
+He knew what the words meant the way a chess player knows what the board means fifteen moves before the end. The inflammation would progress. The organ would swell, distend, and — within a day, perhaps two — perforate. The infected contents would spill into the peritoneal cavity. Peritonitis. Sepsis. A fever that would climb past language. Then death, which would be slow and smell like nothing because his nose would stop working before the rest of him did, and the last thing he would be aware of would be the sound of wind outside the station walls, which was a sound, he had decided weeks ago, that was not really a sound at all but merely the world reminding itself it was empty.
+
+The treatment was surgery. Appendectomy. A routine procedure in any hospital — twenty minutes, a junior resident's training exercise, the kind of operation medical students joked about because it was so simple it was boring.
+
+But there was no hospital.
+
+And there was no other surgeon.
+
+The arithmetic:
+
+Twelve men. One doctor. One appendix. Zero alternatives.
+
+**RADIO TELEGRAM — NOVOLAZAREVSKAYA TO MIRNY STATION — 29 APRIL 1961, 14:32 UTC**
+
+*TO: EXPEDITION COMMAND, MIRNY*
+*FROM: VLASOV, NOVOLAZAREVSKAYA*
+*STATION PHYSICIAN ROGOZOV PRESENTS SYMPTOMS CONSISTENT WITH ACUTE APPENDICITIS. REQUEST IMMEDIATE GUIDANCE. EVACUATION FEASIBILITY ASSESSMENT REQUESTED URGENTLY.*
+
+**RADIO TELEGRAM — MIRNY STATION TO NOVOLAZAREVSKAYA — 29 APRIL 1961, 16:05 UTC**
+
+*TO: VLASOV, NOVOLAZAREVSKAYA*
+*FROM: EXPEDITION COMMAND, MIRNY*
+*EVACUATION IMPOSSIBLE REPEAT IMPOSSIBLE. WEATHER AND ICE CONDITIONS PRECLUDE ANY TRANSPORT. CONSULT WITH ROGOZOV REGARDING CONSERVATIVE TREATMENT OPTIONS. CONVEY OUR FULL CONFIDENCE IN DR. ROGOZOV'S JUDGMENT. REPORT CONDITION EVERY SIX HOURS.*
+
+*Full confidence in Dr. Rogozov's judgment.* As if judgment were the issue. As if judgment could reach inside a body and extract a dying organ with its bare conceptual hands.
+
+He did not sleep the night of the twenty-ninth. The pain migrated, settled, sharpened — a progression he could narrate to himself in textbook language even as his body narrated it in the other language, the one that had no words, only heat and pressure and the slow animal certainty that something inside him was wrong.
+
+He lay on his bunk in the dark and the dark was absolute.
+
+Somewhere in the dark — though not truly *in* it, not here, not in this hemisphere — there was a different kind of dark, the blue-black dark of a Leningrad evening in November, and in that dark a window, and behind the window a light the color of —
+
+No.
+
+**MEDICAL LOG — L.I. ROGOZOV — 30 APRIL 1961**
+
+*30.IV.61. 0200. Temperature 37.4°C. Pain increased. Tenderness at McBurney's point now pronounced. Blumberg's sign: clearly positive. Rebound tenderness confirms peritoneal irritation.*
+
+*Assessment: Condition progressing. Conservative treatment (antibiotics, ice application, bed rest) attempted since yesterday — no improvement. Clinical indicators suggest appendicitis transitioning toward gangrenous stage. Risk of perforation within 12–24 hours.*
+
+*Decision: Self-appendectomy. No alternative exists.*
+
+He wrote the last line and the pen stopped and his hand stayed where it was, on the page, and he was aware of the pen as an object, its particular weight, the bareness of it between his fingers, and he thought, not for the first time and not as a metaphor, that a pen and a scalpel are held the same way.
+
+And from somewhere below thought, below decision — from the place where the body stores what the mind has filed away — came a scent. Brief. Warm. Gone before he could name it.
+
+Like a kitchen. Like bread. Like a life that smelled like bread.
+
+He closed the logbook.
+
+---
+
+## II.
+
+Gerbovich was the meteorologist. He was from Omsk. He had large hands that were accustomed to the small precise work of calibrating barometers and reading anemometer dials, and when Rogozov told him what he needed — *You will hold the mirror, you will hold it steady, you will adjust the desk lamp when I tell you* — his large hands did not tremble, though the rest of him wanted to.
+
+Teliatnikov was the mechanical engineer. He was from Sverdlovsk. He could disassemble a CAT-D8 tractor in a blizzard by touch alone, and when Rogozov told him what he needed — *You will hand me instruments when I call for them, in the order I will show you, and you will not look at what I am doing unless I tell you to look* — he nodded the way he nodded when receiving instructions about diesel fuel pressures, as if the body on the table were an engine and the organs inside it were components that could be catalogued and serviced according to a manual.
+
+There was no manual.
+
+Rogozov assembled the instruments himself. This was important. No one else would know how to arrange them, would understand the grammar of a surgical tray — the way each tool implied the next, the way the sequence was itself a kind of sentence that, once begun, must be carried through to its period.
+
+On the mess hall table, cleared and scrubbed with alcohol and covered in a sterile sheet:
+
+**INSTRUMENT TRAY — AS RECONSTRUCTED FROM ROGOZOV'S NOTES AND STATION INVENTORY:**
+
+- Scalpel, #4 handle, #22 blade
+- Scalpel, #3 handle, #10 blade (backup)
+- Hemostatic clamps, curved (×4)
+- Kocher clamps (×2)
+- Farabœuf retractors (×2)
+- Needle holder
+- Surgical needles, assorted, catgut and silk suture
+- Scissors, Metzenbaum, curved
+- Surgical scissors, straight
+- Toothed forceps
+- Syringe, 20 mL, with 0.5% novocaine solution (×3)
+- Gauze sponges, sterile
+- Iodine solution
+- Alcohol, 70%
+- Kidney basin
+
+He arranged them with his left hand. He would operate with his left hand. Right-handed, he would operate left-handed, because the appendix was on his right side and his left hand was the hand that could reach it.
+
+He remembered his anatomy professor saying, *A surgeon's hands must know the body better than the body knows itself.*
+
+The novocaine in the syringe was the temperature of the room, which was the temperature of survival — the station kept at 15°C, enough to prevent frostbite indoors — and as he drew the solution into the barrel, checking for air bubbles with the same attention he had given to every injection he had ever prepared, the syringe was cold in his hand, not bitterly cold, not Antarctic cold, but cold the way metal is cold when you have been holding warm things and you stop —
+
+And his hand remembered.
+
+Not a thought. Not a decision to remember. His hand remembered.
+
+The iron bench outside the anatomy building on Kirochnaia Street, second winter, the bench where students gathered between lectures to smoke and argue about histology, and on a Tuesday in November — and he knew it was a Tuesday because on Tuesdays the anatomy hall dismissed at four and the light was already failing and the streetlamps along the canal had come on with their brownish pre-war filaments — on a Tuesday in November he was sitting on the iron bench with his textbook open on his knees and his fingers so cold the pages were difficult to turn, and she sat down beside him.
+
+He did not look up immediately. He was reading about the vermiform appendix — and this was not, he understood even now, even here, a coincidence that fiction would permit but life had provided anyway, because life is not worried about being believed — he was reading about the embryological development of the cecum, and her coat sleeve touched his coat sleeve.
+
+Ninety-three pages into Andreyev's *Topographic Anatomy*, a diagram of the ileocecal junction, and a sleeve made of gray wool.
+
+She said, *You're the one who asks too many questions in Volkov's seminar.* She said it as a fact, not a complaint, the way the meteorological log said *Wind SSW sustained 27 m/s* — a measurement of a condition.
+
+*And you're the one who knows the answers,* he said, and she laughed, and the laugh made a specific cloud in the air, a cloud the size and shape of the word *yes*, and then her gloved hand — gray wool, same material as the coat, darned at the right index fingertip so a small circle of red thread stood out like a planet — her gloved hand came down on top of his hand, which was bare and which was resting on the diagram of the cecum, and stayed.
+
+Not long. Perhaps four seconds. Perhaps five. Long enough for the cold of the bench's iron armrest to transfer through the wool into his skin and for the warmth of her palm to transfer through the wool into his skin simultaneously, so that he felt, in the same hand, winter and its opposite.
+
+He did not close the textbook. She took her hand away. They sat. The streetlamp nearest to them buzzed with the particular intermittent electrical frequency of Leningrad's postwar grid — a sound he would later describe to her as the city clearing its throat — and the light fell on the page and on the bench and on the gray wool of her glove and on the darned red circle at the fingertip, and the red was the exact color of —
+
+"Leonid Ivanovich. The mirror."
+
+Gerbovich. Holding the round shaving mirror, the largest mirror in the station, positioned above and to the left of the operating field.
+
+Rogozov blinked. He was lying on his back on the mess hall table, propped at an angle on rolled blankets. His shirt was off. His right iliac region was painted orange with iodine. In the mirror he could see his own abdomen: inverted, reversed, the right side appearing on the left, the left on the right.
+
+He would navigate himself backward.
+
+He picked up the syringe. Drew a breath. Inserted the needle into the skin of his own lower right abdomen, adjacent to the planned incision line. The novocaine entered the tissue with a pressure he could feel and then, almost immediately, could not feel — the drug chasing sensation out of the flesh, replacing it with a numbness that was not the absence of feeling but the presence of nothing, which was different.
+
+He injected at four points along the twelve-centimeter line.
+
+He set down the syringe. Picked up the scalpel.
+
+In the mirror, the scalpel was in his right hand. But the scalpel was in his left hand. The mirror lied and told the truth at the same time, like memory, like every letter he had ever written to her that said *I am fine, the work is important, I do not regret coming* —
+
+"Ready," he said.
+
+His voice was steady. His voice was an instrument he had arranged on the tray along with the others.
+
+---
+
+## III.
+
+He cut.
+
+The blade opened a twelve-centimeter incision through the skin along the right iliac region, following a line he had drawn on himself in iodine, a line he had drawn on cadavers thirty times in training and on living patients another forty and which his hand knew the way a cellist's hand knows the neck of the instrument — but the cello had never before been his own body, and the music that came out was not music but a dark welling of blood that bloomed across the iodine-orange skin, and the blood was warmer than anything he had touched in forty-four days.
+
+**JOURNAL — L.I. ROGOZOV, RECONSTRUCTED:**
+
+*"I worked without gloves. It was hard to see. The mirror showed things in reverse and that made it hard to orient."*
+
+Without gloves because gloves reduced tactile feedback and tactile feedback was all he had — his eyes could see the mirror's lie but his fingers could feel the truth, the layers of himself opening in the correct order: skin, then subcutaneous fat (thin; he had lost weight; the Antarctic diet was calories against cold and the cold was winning), then the glistening white fascia of the external oblique muscle.
+
+He incised the fascia.
+
+Beneath it, the muscle fibers ran in their parallel courses, and he separated them along their grain — not cutting, spreading — and the muscle parted the way —
+
+— the ice on the Moyka Canal parted where someone had thrown a stone, a black circle in the white surface, the evening he walked with her along the embankment for the first time, a Saturday in December, and the ice was not white but the gray-black of a thing that has been frozen in the middle of trying to move, and beneath the surface you could see, if you looked, the water still running, dark and purposeful, still going about its work of being a river no matter what the air above it did —
+
+He spread the internal oblique. The transversus abdominis. The layers of himself, one after another, like the layers of clothing they wore that evening, coat over jacket over sweater over

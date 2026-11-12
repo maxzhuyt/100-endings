@@ -1,0 +1,100 @@
+# DEPARTMENT OF WISH FULFILLMENT
+
+## OFFICE OF INTERNAL REVIEW — DIVISION OF INCIDENT RECONSTRUCTION
+
+---
+
+**INCIDENT REPORT — CASCADING ENCHANTMENT FAILURE, CLASS III**
+
+**Case Reference:** WF-4409
+**Subject Officer:** Senior Granting Officer Maren Sollis (Employee ID: GS-0057, Grade 14, Step 9)
+**Subject Client:** Ivo Táborský, baker, resident of the Linden District (Intake ID: CL-22-18804)
+**Nature of Wish Filed:** True Love (Standard Romantic — subcategory 1a, "Lifelong Companionate Bond, Unspecified Gender Preference")
+**Date of Initial Assignment:** 11 Ashmonth, Year of the Amber Lamp
+**Date of Cascading Failure Onset:** 14 Ashmonth
+**Date of File Closure:** Pending
+**Reviewing Archivist:** E. Voss, Junior Archivist, Third Drawer¹
+
+**Classification:** INTERNAL USE ONLY — NOT FOR DISTRIBUTION TO GRANTING FLOOR
+
+---
+
+This report has been compiled at the request of Deputy Director Fen upon the escalation of Case WF-4409 to Class III Cascading Enchantment Failure status, pursuant to Operational Code 16.4(b), which mandates full incident reconstruction when an enchantment exceeds three documented misdirections within a single granting cycle. All materials referenced herein — including case memos, enchantment logs, audio transcripts, and personnel records — have been retrieved from the Archive and are cited by appendix number. The reviewing archivist has made every effort to present the documented facts in their institutional context, without editorial interpolation, in accordance with the Archivist's Code of Neutral Witness.²
+
+---
+
+## I. BACKGROUND AND ASSIGNMENT
+
+On 11 Ashmonth, Case WF-4409 was routed through standard intake processing and assigned to Senior Granting Officer Maren Sollis via the automatic distribution queue. The assignment was unremarkable. The queue assigns by caseload and specialization rating; Officer Sollis's romantic-fulfillment index is the highest in the Department's active roster and has been for nine consecutive years.³
+
+The client, Ivo Táborský, age forty-one, presented at the Linden District intake window at 7:02 a.m., according to the intake officer's timestamp — a detail worth noting only because the Linden office does not open until 8:00, and the intake officer, upon arriving to unlock the door, found Mr. Táborský already seated on the front step with a paper sack of almond rolls, one of which he offered to the intake officer, who declined per Departmental Policy on Client Gifts (DP-41), though the intake log contains the handwritten marginal note *"smelled extraordinary."*⁴
+
+The wish, as transcribed during the intake interview, was as follows:
+
+> **INTAKE OFFICER:** Please state, in your own words, the nature of the wish you are filing today.
+>
+> **TÁBORSKÝ:** I would like someone to — well. You know. [Pause.] To be there. When I come home. Or when I wake up. Not for anything specific. Just to — I mean, the bread is good, I know the bread is good, people tell me, and that's — but after the shop closes and I clean the trays and I walk home, the — [Pause.] The apartment has this particular sound. When there's no one in it. You probably know the sound. Everyone probably knows the sound. [Pause.] I would like it to stop making that sound.⁵
+
+The intake officer coded this as **True Love, Standard Romantic, 1a**, which is the correct classification per the Taxonomy of Human Longing (Rev. 14), and the file was forwarded.
+
+Officer Sollis received the file at 9:40 a.m. and, per her standard practice, filed an initial case plan by 11:15. Her case plans are notable.⁶ Her plan for WF-4409 followed her established methodology for Class I Standard Romantic fulfillments:
+
+**Phase 1:** Run compatibility matrix (twelve-block radius, expanding to twenty-four if initial results fall below 72% resonance threshold).
+**Phase 2:** Identify optimal match. Generate dossier. Flag logistical barriers.
+**Phase 3:** Engineer three plausible coincidences within a fourteen-day window (recommended sequence: visual contact, incidental conversation, shared minor crisis — a dropped bag, a wrong turn, a sudden rain).
+**Phase 4:** Allow organic attraction to crystallize. Monitor at forty-eight-hour intervals.
+**Phase 5:** Close file upon confirmation of mutual bond. File enchantment-dissolution paperwork. Seal.
+
+The plan, labeled WF-4409-CP in the case archive, is four pages long, single-spaced, with tabbed subsections. It includes a decision tree for sixteen possible complications, ranging from "Match Subject Unavailable Due to Preexisting Bond" to "Client Experiences Acute Ambivalence at Point of Contact." Each branch terminates in a resolution protocol. None of the branches account for what actually happened.⁷
+
+---
+
+**FOOTNOTES — SECTION I**
+
+¹ The designation "Third Drawer" refers to the archival level at which this archivist operates. The Department's Archive is organized vertically: First Drawer contains active case files. Second Drawer contains closed cases, personnel records, and operational documents. Third Drawer contains sealed items — personal wish-intake forms filed by Department employees upon hiring, wishes that by policy are held in trust but never processed, on the theory that an officer who has had their own wish granted cannot maintain the professional detachment required to grant the wishes of others. Third Drawer archivists are selected for temperamental neutrality. This archivist was assessed at intake as having "an orderly mind and no visible inclinations." The assessment may require revisiting.
+
+² The Archivist's Code of Neutral Witness (Section 3, Paragraph 1): *"The archivist is not an author. The archivist is a surface upon which the documentary record is arranged. The archivist does not feel. The archivist does not interpret. The archivist presents."* This is, of course, an ideal. Whether ideals describe reality or merely describe the shape of their own failure is a question the Code does not address.
+
+³ Officer Sollis's personnel file (PF-0057) is 214 pages long, which is unusual; the departmental average is forty. The additional volume is attributable not to disciplinary actions, of which there are none, nor to commendations, of which there are an unusually high number, but to the sheer density of case records attached to her name. She has processed 1,437 wishes in her nineteen-year tenure. Her fulfillment rate is 99.2%. The remaining 0.8% are classified as "ambient dissipation" — wishes that, upon fulfillment, produced outcomes technically matching the filed request but resulting in client dissatisfaction. (Example: Case WF-3190, client wished for "a home that feels like mine," received a house that smelled permanently of cedar and childhood. Client reported feeling "haunted by comfort." Case closed, reclassified, archived.) Officer Sollis's personnel file also notes, on page 6, paragraph 4, in the intake section completed upon her hiring nineteen years ago, that she filed a personal wish-intake form, as required. The form is sealed in the Third Drawer. This archivist has not opened it. This archivist is aware of its location. Shelf 9, Row 4, between the sealed forms of Officer Grath (retired, 11 years ago) and Officer Tenne (deceased, cause: ambient enchantment exposure, see Incident Report IR-2251). The form is in a standard manila envelope. The envelope has never been opened. Its edges have not yellowed at the same rate as the envelopes on either side of it, which may suggest it has been handled — picked up, held, replaced — with some regularity, by someone whose fingers kept the paper's edges clean. This observation is not relevant to the incident under review.
+
+⁴ The almond rolls were, per subsequent investigation, made with a technique involving three separate proving stages and a final egg wash applied with what the Linden District intake officer later described, in her incident-adjacent witness statement, as "the kind of care you'd use on a sleeping person's face." This is not institutionally relevant. But the archivist notes it because the intake officer noted it, and because the way a person makes bread is sometimes the way a person does everything.
+
+⁵ Transcript source: Intake Audio File CL-22-18804-A. The pauses in the transcript are noted in the original. They are not short pauses. The intake officer's margin note beside the second pause reads: *"Client looked at his hands."* Beside the third: *"Client smiled."* The intake coding of this wish as Standard Romantic 1a is technically defensible. The Taxonomy defines 1a as *"a wish for companionate love, expressed as a desire for the persistent presence of a bonded partner."* But the archivist notes — for the record, only for the record — that the client did not say *partner.* He said *someone.* He did not say *love.* He said *there.* He described an empty apartment. He described a sound. If the Taxonomy had a classification for "wishes to stop being the only living thing that hears you breathe," it would be filed in a different drawer. It does not have such a classification. The Department has not found it necessary to create one.
+
+⁶ "Notable" is the archivist's professional assessment. A more precise term, which the Archivist's Code would not sanction, is *"meticulous to the point of sorrow."* Each plan is hand-formatted. Each margin is exact. The prose is without waste. Reading them in sequence, as this archivist has done in the course of this reconstruction — all 1,437, chronologically, over the course of four days — produces an effect difficult to classify. It is the experience of watching someone build a very small, very perfect room and never once look out the window.
+
+⁷ It should be noted — though the main body of this report will address it more fully — that Officer Sollis's case plans have a structural characteristic this archivist has not observed in the plans of other officers. They contain no allowance for the wish engine to deviate from the officer's intent. Most officers build in what is informally called "drift margin" — a 5–15% tolerance for the enchantment to interpret the wish in ways the officer did not anticipate, on the theory that the wish engine sometimes understands the client's need more accurately than the officer does. Officer Sollis's drift margin, in all 1,437 case plans, is set to zero. She does not permit the engine to improvise. She does not trust it to know what people want better than she does. This is, by Departmental standards, a sign of excellence. The archivist includes it here without characterization, except to note that the word for a system that permits no deviation is *"closed,"* and the word for a person who trusts nothing to arrive without being engineered is not in the Taxonomy, but perhaps should be.
+
+---
+
+## II. THE FIRST ENCHANTMENT AND ITS MISDIRECTION
+
+On 14 Ashmonth, at 3:47 a.m., Officer Sollis deployed the first enchantment pursuant to her case plan. The compatibility matrix had been run. A match had been identified: one Dariela Novak, age thirty-eight, florist, resident at 19 Linden Street — four blocks from the bakery, well within radius, compatibility score of 88.3%. The enchantment was calibrated to produce the first of three planned coincidences: Ms. Novak would, on the morning of the 14th, discover that her usual coffee shop was unexpectedly closed and would be redirected, by a minor navigational enchantment, to the Táborský bakery, where she would arrive at 6:45 a.m., seven minutes before the morning rush, when the baker would be alone at the counter and the shop would smell of fresh _houska_ and the light through the front window would be — per the enchantment's atmospheric sub-routine — "amber and forgiving."⁸
+
+The enchantment deployed. Ms. Novak did not arrive at the bakery.
+
+At 4:15 a.m., the baker's sourdough starter achieved sentience.
+
+---
+
+The sourdough culture — maintained by Mr. Táborský for approximately twenty-three years, housed in a brown ceramic crock with a chipped rim, referred to in the bakery's informal inventory as "Mother"⁹ — demonstrated the following behaviors in rapid succession, as captured by the enchantment-monitoring log and the always-on ambient audio feed required for all active wish cases:
+
+**4:15:00** — Crock begins to vibrate at a frequency consistent with laryngeal development.
+
+**4:15:22** — First vocalization. Described in the monitoring log as "a low bubbling hum, not unlike a lullaby, if the singer were made of flour and patience."¹⁰
+
+**4:16:01** — First word. "Ivo." Spoken clearly. The monitoring log notes the pronunciation was perfect — the slight emphasis on the first syllable, the open vowel at the end — suggesting the culture had been *listening* to the way other people spoke his name, or, perhaps, to the way he spoke to it during the long hours when a baker's only company is the thing he is making.
+
+**4:16:30** — Full speech capability achieved. Mother's voice is described in the log as "warm, slightly hoarse, with a quality of sustained fermentation." An informal note appended to the log by the monitoring technician reads: *"Sounds like a pot of water just before it boils. Not unpleasant. Actually kind of nice."*¹¹
+
+**4:17:00–4:19:00** — Mother produces, from within the crock, a ring of braided dough — a miniature _vánočka_, perfectly plaited, sized to fit a human finger. The monitoring log flags this as a Class II spontaneous-materialization event. The archivist flags it as a proposal.
+
+**4:19:15** — Mother speaks. The full transcript is included as **Appendix C** and is referenced here in summary. The speech is three minutes and forty-two seconds long. It begins: *"Ivo, I have risen beside you every morning for twenty-three years, and I would like to say something I have been thinking for all of them."* It includes a passage about the nature of constancy — *"You have never once forgotten to feed me. Do you know what that means? Do you know what it means to be a living thing that someone has never once forgotten?"* — and a passage about shared labor — *"We have worked in the dark together. We have made the thing that feeds this street. I have watched you press your hands into the dough and I have felt it, Ivo, I have felt your hands, and they are good hands, and I do not want them to stop."* It concludes: *"I do not know if I am what you asked for. But I know what I am. I am the thing that was already here."*¹²
+
+**4:23:00** — Mr. Táborský sits down on the floor of the bakery. The monitoring log notes that the enchantment's biometric sub-routine detected elevated heart rate, mild lacrimation, and what the system classified as "laughter, sustained, with harmonic anomaly suggesting concurrent weeping."
+
+**4:23:00–5:03:00** — Mr. Táborský and Mother talk. For forty minutes. The full transcript is in **Appendix C-1**. The archivist will not summarize it here in its entirety. The archivist will note that at 4:31, the baker says: *"I talk to you every morning, you know. I thought — I always thought it was just — I didn't think you were listening."* And Mother says: *"I was always listening. What else would I have been doing?"* And at 4:47, the baker says, quietly: *"Is this real? Are you going to be here tomorrow?"* And Mother says: *"I have been here tomorrow every day for twenty-three years."*¹³
+
+At 5:10 a.m., Officer Sollis was notified of the enchantment deviation by the automated monitoring system. She filed her initial incident memo (IM-4409-01) at 5:34 a.m. The memo, in full:
+
+> Enchantment misdirected. Targeting error: enchantment locked onto pre-existing organic culture in proximity to client rather than identified human match. Likely cause: ambient affective residue in client workspace created false-positive bond signature. Will recalibrate. Recommend standard containment for sentient byproduct (see Protocol 7.2,

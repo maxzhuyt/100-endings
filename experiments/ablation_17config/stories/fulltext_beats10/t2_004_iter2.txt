@@ -1,0 +1,120 @@
+# The Hateful Immortals: A Documentary History of the Greenbriar-Chen Marriage (1847–2024)
+
+**Dr. Amelia Thornton**
+*Hawthorne Chair of Anomalous Studies, Radcliffe Institute for Advanced Study*
+
+*Published in the* Journal of Longitudinal Anomalous Sociology, *Vol. 114, No. 2 (Spring 2024)*
+
+---
+
+## I. Preliminary Remarks on the Daguerreotype
+
+The image is a sixth-plate daguerreotype, silver on copper, housed since 1987 in the permanent collection of the Smithsonian's National Museum of American History under accession number 1987.0623.01. It depicts a wedding party of two, posed before a painted backdrop of Ionic columns and improbable drapery in the studio of Josiah Hawes, 21 Tremont Row, Boston, Massachusetts. The date is June 14, 1847.
+
+The bride is seated. She is twenty-three years old, small-boned, dark-haired, and composed with the kind of posture that suggests either finishing school or deep personal anger—qualities that, in the Boston of 1847, were not always distinguishable. Her hands are folded precisely in her lap. Her gaze meets the lens with an unsettling directness. Nothing about her is blurred.
+
+The groom is standing to her left, one hand resting on the back of her chair. Or rather, one hand *was* resting on the back of her chair at the beginning of the exposure, and had migrated to his trouser pocket by the end of it. The exposure time for a Hawes daguerreotype in adequate light was between fifteen and twenty-five seconds. James Chen could not hold still for fifteen seconds on his wedding day. His hand is a pale smear, a small ghost at the edge of the frame. The rest of him—the dark suit, the high collar, the expression that contemporaries consistently described as "cheerful" or "amiable" or, in one ungenerous account, "stupidly optimistic"—is clear enough.[^1]
+
+[^1]: The ungenerous account belongs to Margaret's sister, Prudence Greenbriar Hartwell, whose letters are discussed at length in Section II. Prudence called James "a golden retriever who has somehow acquired a waistcoat and an opinion about tariffs." This description, though cruel, has proven remarkably durable. It appears, lightly paraphrased, in at least three subsequent centuries of commentary on James Chen.
+
+I present the daguerreotype first because it is the oldest surviving artifact of the Greenbriar-Chen marriage and because, in the manner of all good primary sources, it tells the truth while appearing to tell us almost nothing. A young woman, perfectly still. A young man, slightly blurred. A backdrop that is a fiction. A technology that demands you not move.
+
+Some context is necessary.
+
+The phenomenon now classified under the International Anomalous Persons Registry (IAPR) framework as *expressed genetic divergence*—and known colloquially, depending on one's era, as witchcraft, divine favor, mutation, or simply *the thing*—manifests in roughly one of every nine thousand live human births. The divergence expresses at puberty, is non-transmissible, is not reliably heritable, and ranges in its effects from the trivial (IAPR Class I: e.g., the ability to perceive ultraviolet light) to the catastrophic (IAPR Class V: e.g., involuntary gravitational displacement). The literature is vast.[^2] I will confine myself to two cases.
+
+[^2]: For a comprehensive overview, see Park & Okello, *The Divergent Genome: A Survey* (Cambridge UP, 2019), or, for the lay reader, the less rigorous but more readable Kwon, *One in Nine Thousand* (Penguin, 2021).
+
+**Margaret Greenbriar** (b. March 3, 1824, Boston, Massachusetts) manifested at age thirteen a form of total eidetic retention that has, in subsequent testing, proven to be absolute. She does not *remember* in the way that you or I remember. She *retains:* every sensory experience, every spoken word, every peripheral detail, every scent and texture and degree of ambient light, filed without decay and retrievable with the fidelity of a playback device that has not yet been invented as of this writing. Her memory is not a faculty. It is a condition. She cannot choose not to have it any more than James can choose not to have his.
+
+**James Chen** (b. September 9, 1823, Guangzhou; arrived Boston, 1839) manifested at age fourteen a form of biological indestructibility that has been tested—rigorously, independently, and on at least four occasions by Margaret herself—across a span of one hundred and seventy-seven years.[^3] He has survived the Mexican-American War, the Civil War, both World Wars, seventeen separate incidents catalogued by the Centers for Anomalous Event Response as "major structural trauma," four confirmed poisonings, two hangings (one juridical, later overturned; one extrajudicial, not), six cancers that progressed to Stage IV and then, baffled, retreated, and aeli of a car accident on I-93 in 2003 that the responding paramedic described in her incident report as "physically impossible to have walked away from, and yet the driver was standing on the median strip arguing with his wife on a cell phone."[^4]
+
+[^3]: The four documented direct attempts by Margaret on James's life are discussed in Sections VII, XII, XVIII, and XXII. In the interest of scholarly transparency, I note that Margaret, in her 2019 interview with this author, disputed the number. "Four is what you can *prove,*" she said. She then changed the subject.
+
+[^4]: Massachusetts State Police Incident Report #03-7291, filed by Paramedic First Class Diana Muñoz. The full report is reproduced in Appendix C. Muñoz's concluding note—"Patient refused transport. Patient's wife, reached by phone, said, and I am quoting here, 'Let him walk home. It'll do him good.'"—has become perhaps the single most widely cited primary source in the field of anomalous-domestic studies.
+
+They were married on June 14, 1847. The marriage certificate, filed with the Suffolk County Registry of Deeds and still technically active, contains the standard vow language of the period, including the clause "till death do us part."
+
+The clause remains, as of this writing, unfulfilled.
+
+This paper does not attempt a comprehensive narrative of the Greenbriar-Chen marriage. Such a project would require several volumes, and indeed, Margaret Greenbriar could produce them extemporaneously, which is part of the problem. What I offer instead is a documentary history: a curated sequence of primary sources—letters, interviews, legal filings, medical records, one hand-annotated recipe for pot roast—that together describe the architecture of the longest and, by several empirical measures, most miserable active marriage in recorded human history.
+
+I should note, for the sake of the disclosure that academic integrity requires, that by the end of my research I had come to care for both of my subjects more than is professionally advisable. I should also note that they would each, independently, tell you that this is because I have not spent enough time with the other one.
+
+---
+
+## II. The Courtship Letters (1846–1847)
+
+The principal primary sources for the courtship period are two sets of correspondence: Margaret's letters to her elder sister Prudence, archived at the Boston Athenaeum (Greenbriar-Hartwell Papers, MS Am 1142), and James's letters to his friend and fellow immigrant, the merchant Lin Weijun, three of which survive in a private collection and are reproduced here with permission.[^5]
+
+[^5]: I am grateful to Lin Weijun's great-great-granddaughter, Professor Cynthia Lin-Beaumont of MIT, for granting access to the letters, and for the extraordinary pot of oolong tea she brewed during my visit, which she identified as a blend James Chen had brought to her ancestor in 1846. "He keeps bringing it," she said. "Every few years. He has no idea how bad it is. Nobody has had the heart to tell him for a century and a half."
+
+The couple met on October 15, 1846, at a public lecture on phrenology held at the Tremont Temple. Margaret had attended at Prudence's insistence. James, by his own account, had wandered in because it was raining.
+
+I present the relevant passages with minimal commentary, as the letters speak for themselves—and speak, specifically, in a dramatic irony so thick that editorial intervention would be redundant.
+
+Margaret to Prudence, October 17, 1846:
+
+> Dear Pru,
+>
+> You will tell me I have gone mad, and I will tell you that madness would be a mercy, since at least the mad are permitted to forget what has made them so, whereas I am not permitted to forget anything at all, as you well know, including every tedious word of Dr. Alcott's phrenology lecture, including the parts where he said "*capaciousness*" eleven times in four minutes and the woman beside me ate a peppermint she had been keeping in a glove that smelled of lanolin and old cat.
+>
+> But I did not write to tell you about the lecture. I wrote to tell you about the man who was hit by a horse.
+>
+> We were leaving by the Tremont Street door, and a drayman's cart had lost its hitch, and the horse came through at a full canter, and it struck a man—a young man, Chinese, well-dressed, who had been standing on the curbstone reading a pamphlet about, I think, drainage reform—and it struck him squarely and he went down and the sound, Pru, was exactly the sound of aeli walnut splitting on a hearth-stone, and I heard his femur break, I am *certain* I heard it break, and several women screamed, and several men stood about being useless, which is what men do in the vicinity of a crisis, as we have discussed—
+>
+> And then he stood up.
+>
+> He stood up the way a man stands up from an armchair after a nap. He looked down at his leg—and I was close enough to see this, Pru, close enough to see the *shape of it change under the cloth*—and the bone re-set. I could hear it. It sounded like a knuckle cracking.
+>
+> And he looked at the horse, which had stopped a few yards on and was breathing very hard, and he walked over to it and put his hand on its neck and said, "Easy, now. Not your fault. Not your fault at all."
+>
+> He apologized to the horse.
+>
+> Pru, I think I should like to see him again.
+
+James to Lin Weijun, undated but estimated late November 1846:[^6]
+
+[^6]: The original is in a mixture of Cantonese and English. The translation is my own, with assistance from Professor Lin-Beaumont. James's English-language passages are presented as written.
+
+> Weijun,
+>
+> I have met a woman, and I am writing to you because you are the only person I know who will not immediately tell me I am an idiot. (You will wait at least a full paragraph.)
+>
+> Her name is Margaret Greenbriar. She is from one of the *old* Boston families, the kind who speak of the Revolution as if they were personally inconvenienced by it. She is small and extremely precise and when she is thinking she presses her lips together in a way that I find, Weijun, I should be honest, I find it difficult to breathe when she does this.
+>
+> But that is not why I am writing.
+>
+> I am writing because last Thursday we walked together for a second time, in the Common, and she said something that I have not been able to stop thinking about. We had been talking—I don't remember what about—something about—[^7]
+>
+> [^7]: The letter is damaged here. Approximately two lines are illegible. The text resumes mid-sentence.
+>
+> —and then she recited it back to me. The whole conversation. Not just the substance, not a summary, but the *exact words,* in order, including the places where I had paused, including the places where I had started to say something and stopped. She told me where I had been looking. She told me the rhythm of my breathing. She said it the way one might read aloud from a transcript, except no transcript existed. No one had written anything down.
+>
+> I asked her how she had done it. She said: "I didn't do it. It simply didn't leave."
+>
+> And then she looked at me with something I recognized. You will know the look I mean, Weijun, because you have seen it on my face often enough. It is the look of a person who has a *condition,* and who is waiting to see if the other person will step backward.
+>
+> I didn't step backward.
+>
+> I wept. I am not ashamed to tell you I wept, though of course I am, but I am telling you anyway. I wept because no one has ever listened to me so completely.
+>
+> 我觉得她能看见我。真正的我。[^8]
+>
+> [^8]: "I feel as though she can see me. The real me."
+
+Margaret to Prudence, December 3, 1846:
+
+> I have tried, Pru, to identify the moment, because of course I can, because I always can. And I think it was this: he did not flinch.
+>
+> I have told three suitors and one friend about my memory, about the *fullness* of it, and in each case I have watched the same thing happen behind their eyes. It is a small contraction, a kind of retreat, as if they have suddenly realized they are standing in a room with no curtains. The friend stopped calling. The suitors discovered urgent business elsewhere. I don't blame them. Who would willingly live alongside a woman who cannot lose a single moment? Who would sign up to be *observed* at that resolution, for a whole life?
+>
+> James did not flinch. James *wept.*
+>
+> Do you know what he said? He said: "Then you will remember me exactly as I am, and not as I will be misremembered after I am gone."
+>
+> I said: "You say that as if you expect to be gone."
+>
+> He gave me a very strange look and said: "Everyone is gone eventually."
+>
+> I don't think he believes this, Pru. I think he knows what he is. I think he has known for a long time. But I think he

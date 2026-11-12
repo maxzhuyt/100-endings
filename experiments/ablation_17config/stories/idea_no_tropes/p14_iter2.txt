@@ -1,0 +1,57 @@
+# The Love Affair Between New Prague and Vela
+
+## Being the Corrected and Annotated Account, Compiled from the Complete Cartographic, Seismological, and Sentimental Record of the Royal Cartographic Society, Central Archive, by Its Chief Archivist
+
+---
+
+You have heard it wrong.
+
+I do not say this with malice. I say it the way a surveyor says *your fence is nine centimeters past the property line* — not to punish but because the record matters, and the record has been, at every level of popular reproduction, parsing, and performance, distorted past the point of responsible citation.
+
+Let me list what you think you know.
+
+The first version, and the most persistent, is the romantic tragedy. In this telling, New Prague perceived that the settlement of Vela was dying — which is partially correct — and undertook extraordinary measures to save it — which is almost entirely incorrect. The tragedy, in this version, lies in the failure: a great city brought low by the hubris of love, reaching across seven hundred kilometers to hold a crumbling town together and finding, at the end, that holding is not the same as saving. This is the version favored by opera companies and by people who have never read a survey report. It is beautiful. It is wrong in every detail that matters.
+
+The second version is the cautionary tale, preferred by municipal governance committees and by cities who pride themselves on what they call "structural self-discipline." In this telling, New Prague was a prosperous settlement of extraordinary architectural coherence that destroyed its own infrastructure, bankrupted its own systems, and disoriented its own population of 1.6 million human residents — all for an attachment that was, in the language of the formal protest lodged by the Free Cities Consortium, "urbanistically unjustifiable." This version has the advantage of being supported by economic data. It has the disadvantage of understanding nothing.
+
+The third version is the folk parable, common in the rural cantons and among settlements under five hundred residents: the small are always consumed by the large. Vela was devoured by New Prague's attention, the way a sparrow is devoured by a cat's love for sparrows. This is the most cynical version and the one I find most forgivable, because it comes from genuine fear. Small settlements have reason to fear the attention of large ones. But consumption is not what happened here, and to say so is to deny Vela the one thing the cartographic record makes irrefutably clear it possessed: agency.
+
+The fourth version is the one they tell children, and I confess it is the one that comes closest to a truth, albeit by accident, in the way that a child drawing the sun as a yellow circle is not wrong, exactly, but has said nothing about fusion. In this version, two cities loved each other so much they became a garden. Children accept this without question. It is adults who need the details.
+
+There is a fifth version, one that circulates among archivists and senior cartographers, spoken of in the oblique way professionals reference cases that disturbed them personally. We do not call it a version. We call it the file. The file is what follows.
+
+What follows is the documented account. It is worse than all the versions, and more beautiful, which is the same thing.
+
+---
+
+The following data are drawn from the Royal Cartographic Society's Quinquennial Settlement Survey, Vela Entry, spanning the final four survey periods prior to terminal event.
+
+Settlement designation: Vela. Classification: Third-order township, coal-industrial (historical), residential (residual). Canton: Eastern Lesiak. Coordinates: 54°11′N, 29°47′E, river basin of the Vesna. Established: Year of Settlement 308. Peak population (YS de:587): 6,204 human residents, plus associated livestock, structures, and municipal organisms. Population at time of most recent complete survey (YS 622): forty-three.
+
+I will write that again, because the number tends to pass through the eye the way water passes through a sieve, something the brain registers as quantity without translating into persons: forty-three.
+
+Among the forty-three: Maren Holdt, postmistress, who continued to sort and deliver mail for the settlement despite the closure of the regional postal route eleven years prior. She has been documented walking her rounds each morning with an empty satchel that she pats as though it contains letters. Survey team notes from YS 620 describe her as "cheerful and undiminished," which is the language surveyors use when they cannot explain why someone has not left.
+
+Among the forty-three: the Ruszak family — Petr, Dagna, and their three children, whose names the survey does not record because the survey does not record the names of minors, a policy I have argued against for twenty years and will continue to argue against until I am dead or the policy changes, neither of which is imminent. The Ruszaks maintained the Kalník Bridge, which spans the Vesna at the settlement's southern boundary. The bridge had not carried external traffic in six years. The Ruszaks repaired it anyway, replacing timbers, re-tarring the joists in autumn, sweeping it clear of the pale mineral scale that formed on every surface near the river. When asked by the survey team why they continued, Petr Ruszak reportedly said, "She likes the sound of footsteps on it." The survey team noted this without comment. *She* was understood.
+
+Among the forty-three: Elžbieta Stross, whom the survey identifies as "self-described municipal interlocutor." Elžbieta claimed to speak with Vela — with the settlement itself — and to receive answers. The survey notes this under the category of "resident eccentricity" and flags it for cross-reference with the settlement's own sentience index, which had been declining for three consecutive survey periods but which, the record shows, had a late and unexplained spike in YS 621 that no one at the Society could account for. The spike was noted. It was not investigated. This was, in retrospect, a significant omission, but I will come to that.
+
+The Vesna River: contaminated by coal processing discharge beginning in YS 571, when the Lesiak Canton Mineral Authority authorized deep-bore extraction along the river's upper tributaries without consultation with downstream settlements. By YS 610, the river's water had assumed a persistent coloration between deep amber and violet, which the Society's hydrological consultant described as "consistent with sustained iodine-oxide saturation" and which Elžbieta Stross described as "the color of a bruise that won't heal." The hydrological consultant's description is in the official record. Elžbieta's is in the margin, in the handwriting of the survey team's junior cartographer, who was twenty-three years old and should not have editorialized. I have left it in.
+
+The settlement's structural condition at the time of the YS 622 survey is what concerns us, because it is what was later misread — by the public, by the Consortium, by the opera companies — as *collapse*.
+
+I need to be precise.
+
+Building 7 on the survey grid, formerly the Vela District School, had been closed since YS 618. The survey team documented the following: the front door had separated from its upper hinge. The lower hinge remained intact but had opened to its fullest extension, such that the door stood perpendicular to the frame, neither closed nor fallen. The team's structural engineer noted that the hinge had not rusted, corroded, or been subject to mechanical failure. It had *released*. The metallurgical report uses this word. The pin had not sheared; the knuckle joints had simply opened, the way a hand opens when it lets something go.
+
+The survey team photographed it. I have the photograph in the file before me as I write this. A small door, standing open at a right angle to the frame, in a building that has no students and no teacher and no reason to let anyone in, and the hinge is open the way a palm is open, and I am an archivist, and I am telling you what the record shows.
+
+Building 12: the former coal exchange, a stone structure of typical Vela construction — low, load-bearing walls, slate roof, deep-set windows. The survey team noted that the window casements on the eastern face had widened by four to six centimeters. Not cracked. The stone had *moved*. The mortar was intact. The wall had simply — and I am quoting the structural report — "redistributed its mass to allow greater aperture." The windows were opening themselves.
+
+Across the settlement, roof shingles had loosened in patterns that the survey team initially attributed to wind damage. When the junior cartographer mapped the loosened shingles from above — which was not part of her duties, was not requested, and resulted in a formal reprimand that I have since had struck from her personnel file — the pattern was not random. The shingles had opened along the eastern and southwestern faces of every roofed structure. The settlement was loosening itself in two directions. One faced the morning sun. The other faced New Prague.
+
+The walls of several residential structures, particularly along the older terraced rows near the river, had developed a pronounced lean — outward, between two and seven degrees off vertical. Not uniform. Not consistent with foundation failure, subsidence, or any documented mode of structural compromise. The lean was, according to the engineering report, "gentle and deliberatened" — the engineer crossed out *deliberatened*, which is not a word, and wrote *deliberate*, but I prefer the original error because it carries in its clumsiness something that the correction does not: the sense that the engineer was reaching for a term that did not exist.
+
+The walls were leaning outward the way a ribcage expands on an exhale.
+
+I have reviewed these documents many times. I have approved the survey team's findings, certified the cartographic overlays, countersigned the structural assessments. I have done this in my professional capacity of thirty-one years. And each time I read the phrase *released its own hinges*, I have to set the file down for a moment, because the file is very heavy

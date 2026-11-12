@@ -1,0 +1,113 @@
+# The Deviation Report
+
+## I.
+
+I want to say right off that I had nothing against the outer colonies. I want to make that clear. Some auditors—Petrov, for instance, or Danziger before she transferred to Aquatic Forms—would openly gripe about the assignments, the station food, the recycled air that always tasted like someone else's Tuesday. Not me. I had my preferences, sure. Everyone has preferences. But I kept them off the forms. The forms were sacred. That was the whole point.
+
+My name is Semyon Krakauer and for fourteen years I served as a Level 3 Compliance Auditor for the Pan-Galactic Martial Arts Certification Bureau, which people either called the Bureau or called nothing because most people had never heard of it. My territory was the Cygnus-Vela corridor, stations 4100 through 4700, with occasional overflows into the Kepler margin when Petrov called in sick, which was often. Petrov had problems with his back. He had problems with lots of things. But the back was the one he put on the forms.
+
+The job was this: I traveled to registered dojos, observed practitioners performing standardized kata sequences, and evaluated their compliance with Bureau Form 77-K, the Universal Movement Certification Rubric. Forty-seven movements in the Crane Sequence. Thirty-one in the Plow. Twenty-two in the Bridge, which people always underestimated because of the count, but which had more micro-transitions per movement than any other sanctioned form. I had documented eleven thousand, three hundred and nine performances of the Crane Sequence's 47th movement alone. That's the terminal strike—the one where the left arm extends at full rotation while the right foot completes its inward arc to rest position. The elbow must reach, upon full extension, an angle of one hundred seventy-four degrees relative to the upper arm. Not one-eighty. People assumed one-eighty. One-eighty is a locked joint. One-seventy-four permits the micro-flexion that distinguishes a living strike from a mechanical one. I had measured this. I had documented this. Eleven thousand, three hundred and nine times.
+
+Nobody asked me to memorize the number. But I kept a log. I kept a log of my logs. This was not Bureau policy. This was initiative.
+
+The dojos themselves were what you'd expect. Strip-mall spaces on the commercial levels of mid-range stations, sandwiched between hydroponic grocery outlets and the places that filled your atmospheric scrubbers for you. Some had windows looking out at the docking arrays. Most didn't. Fluorescent lighting, ninety percent of them. The Bureau's Facilities Compliance division—separate from my division, though we shared a floor on Station 4412 before they moved us—had issued a recommendation in the 4060s about full-spectrum lighting for practice spaces, something about circadian alignment, but it was a recommendation, not a mandate, and nobody followed recommendations. I barely followed mandates.
+
+The practitioners were another thing I had opinions about but kept off the forms. Most of them were hobbyists. Station workers looking for exercise, or something to do between shifts that wasn't drinking or staring at a wall. They signed up for eight-week sessions, bought gis that still had the fold marks in them, and performed the movements with the enthusiasm of people renewing a parking permit. Which was fine. The Bureau didn't require enthusiasm. The Bureau required compliance. Angle of the elbow. Arc of the foot. Breath count on the transitions. There was a box for each on Form 77-K and I filled them in with the mechanical pencil I brought from home, not the Bureau-issued ones which smeared.
+
+The instructors were marginally better, though the certification requirements for instructors in the outer colonies had been quietly lowered in the 4040s, a policy decision I had formally objected to in a memo that was acknowledged but not responded to. On Station 4400, which I visited with dependable regularity, there was an instructor named Yeong-Su who had once, during a compliance review, actually smirked at me. Not at anything I'd said. At the form itself. At Form 77-K. He'd glanced at it while I was marking the Crane Sequence evaluations for his intermediate class and he'd looked at the little boxes—the ones for elbow angle, wrist rotation, hip alignment—and the corner of his mouth had gone up, just slightly, the way you'd smile at a child who showed you a drawing of gravity.
+
+I documented the smirk. Not on 77-K. On 77-K Supplemental, Section 14: Instructor Disposition and Professional Bearing. There was a box for that, too.
+
+What I'm trying to say is that I was thorough. That was my function. I traveled the corridor, I observed the movements, I noted the deviations, and I filed the deviations with the Bureau's Central Compliance Office on Station 4001, which I had visited once and which was smaller than I'd expected. Beige walls. The coffee was bad. Yoon, the intake officer, had a plant on her desk that was either dying or a species I didn't recognize. She processed my reports without reading them. I know she didn't read them because I once, as an experiment, included a note on page four of a deviation filing that said, *If you are reading this, please contact me at extension 4412-90. I have a question about the Crane Sequence that I think is important.* She never called. Nobody ever called.
+
+It didn't bother me. I want to be clear about that. I had my route, my forms, my schedule. The stations came and went through the shuttle windows like beads on a wire, one fluorescent box after another. I ate at the same cafeteria on each station. I slept in Bureau-rate lodgings, always interior rooms, always with the same hum of atmospheric processors that was just different enough from station to station that I could never quite get used to it. I could never quite sleep. I would lie there in the half-dark and think about the Crane Sequence, running through it in my head, each angle and arc, checking my mental model against the standard the way you'd check a watch against a clock that was itself set against some larger, more authoritative clock somewhere, the original clock, the one all the others were trying to be.
+
+I never asked who set the original clock. That wasn't my department.
+
+---
+
+## II.
+
+The elbow was on Station 4413. I remember the station because it was one stop past my home station and I almost never took assignments there—it felt like mowing your neighbor's lawn when your own was overgrown, which mine was, figuratively. But Petrov was out again, back problems, and the dojo on 4413 was overdue for its triennial review, and so on a Tuesday in the second quarter of the 4077th year I walked into the Keening Crane Dojo on Level 14, Commercial Block C, between a scrubber repair shop and a place that sold rice.
+
+It was a nothing dojo. Twenty students, four classes a week, an instructor named Dahl whose certification I'd spot-checked three years prior and found adequate. The lighting was fluorescent, naturally. The mats were regulation gray with two small tears I made a note of. Seven students were present for the evaluation, which was above the minimum of five, so I didn't need to reschedule. They stood in two rows, barefoot, in gis of varying whiteness. One of the gis had a stain near the collar that might have been soy sauce. I made a note of this too.
+
+They began the Crane Sequence. I sat on the folding chair Dahl had placed for me near the wall, Form 77-K on my clipboard, mechanical pencil in hand. The first forty-six movements were unremarkable. I checked boxes. Breath count on the opening transition was slightly rushed for the student in the back-left corner—a heavyset woman with short hair who seemed to be thinking about something else—but within tolerance. Hip alignment was acceptable across the group. Wrist rotation was sloppy but certifiable.
+
+Movement 47.
+
+The students extended their left arms. Their right feet completed the inward arc. And the elbow of the man in the front row—young, medium build, unremarkable in every dimension I had a box for—bent at approximately one hundred eighty-nine degrees.
+
+I looked at my protractor. I looked at his arm. I looked at my protractor again.
+
+One hundred eighty-nine degrees is not possible. An elbow does not bend past one hundred eighty degrees because one hundred eighty degrees is the structural limit of the hinge joint. At one-eighty, the arm is straight. At one-eighty-nine, the arm is—I didn't have a word for what the arm was. It was going the wrong direction. Just slightly. Just a few degrees past the place where the arm should stop and the arm had not stopped. It wasn't grotesque. That's what unnerved me. If his arm had twisted backward like something from a horror feed, I could have categorized it: injury, deformity, prank. But this was quiet. This was a few degrees. This was an arm that simply did not acknowledge the boundary I had been measuring against for fourteen years.
+
+I put my pencil down. I picked it up. I wrote on the form: *47th movement. Left elbow. Exceeds anatomical range. Approximately 189°. Recommend follow-up.*
+
+Then I looked at the other students. The heavyset woman in the back. The teenager beside her. The three in the second row. All of them had their arms extended. All of them were at approximately the same angle.
+
+"Excuse me," I said.
+
+Dahl looked over. He'd been adjusting a student's foot placement.
+
+"The 47th movement," I said. "The terminal extension."
+
+"Yes?"
+
+"The elbow angle. In the standard, the left elbow reaches one hundred seventy-four degrees on full extension."
+
+Dahl looked at me. Not blankly, exactly. More the way someone looks at you when you've said something in a language they used to speak but haven't thought about in years.
+
+"Can you have them repeat the movement?" I said.
+
+He could. He did. They repeated it. The elbows bent the same way. Past one-eighty. Past the place where elbows end. Just slightly past, like a sentence that goes on one word longer than grammar permits and somehow you understand it anyway but you know—you *know*—there was no room for that word.
+
+"Could you demonstrate the correct form for me?" I said to Dahl.
+
+He performed the 47th movement. His elbow did the same thing. One-eighty-nine, or close to it. He held the position and looked at me as if asking whether I'd gotten what I needed.
+
+"That's not—" I said. "The elbow doesn't go there."
+
+"Go where?"
+
+"Past straight."
+
+Dahl looked at his own arm. He flexed it slightly. The arm moved the way arms move if you've never thought too carefully about how arms move.
+
+"Show me," he said. Not hostile. Just patient, the way instructors are patient with slow students.
+
+I stood up from the folding chair. I placed the clipboard on the seat. I stood next to Dahl, in front of the two rows of students who watched me with polite, mild curiosity—the same curiosity they might have had for a plumber explaining why a pipe wasn't up to code.
+
+I performed the 47th movement.
+
+I extended my left arm. My right foot completed its inward arc. I focused on the elbow, on reaching precisely one hundred seventy-four degrees, on stopping at the exact point where the standard said stop.
+
+My arm extended. And it felt—normal. It felt like it always had. One-seventy-four. I was almost certain.
+
+But I couldn't see my own elbow. Not the way I could see theirs.  I turned my wrist slightly to get a better angle of view, and something in the rotation felt a degree off, or two degrees, and then I wasn't sure if the degree I was feeling was the deviation or if the deviation was the thing I was correcting *for*, and for a moment—just a moment—I did not know where my arm was in space.
+
+"Looks fine to me," Dahl said.
+
+I sat back down. I picked up the clipboard. In the box for the 47th movement, I had already written my note. I looked at it. Neat handwriting, mechanical pencil, no smears. *Exceeds anatomical range.* The words were precise. They were correct. They described a thing that I had seen. And no one in the room—not Dahl, not the seven students, not the heavyset woman who was now stretching her calves—found the thing I had described to be in any way remarkable.
+
+I completed the form. I rated the dojo adequate. I walked back to the station's transit corridor and stood at the window for a while, watching a freighter move slowly across the docking array, and I thought about the fact that in fourteen years and eleven thousand documented performances of the 47th movement, I had never once seen an elbow do what those elbows had done, and the only possible conclusions were that every elbow before today had been correct and today's were wrong, or that today's elbows were always like this and I had never noticed, or that the elbows had changed.
+
+None of these conclusions had a box on the form.
+
+I filed the deviation report that evening. I attached my protractor readings. I sent it to Central Compliance on Station 4001, to Yoon's desk, to the place where deviation reports went to become part of the record that no one read.
+
+Then I went to bed and did not sleep.
+
+---
+
+## III.
+
+Over the next five weeks, I visited nineteen dojos across the outer run of my territory—Stations 4500 through 4688, the stretch of the corridor where it tapers toward the Kepler margin and the stations get smaller and further apart and the air starts to taste more honestly of recycled sweat. I was, technically, ahead of schedule. I had moved up six triennial reviews and requested three spot inspections that were within my discretionary authority but that I had never previously invoked. If anyone at the Bureau noticed the acceleration, they didn't mention it. No one at the Bureau mentioned much.
+
+I will describe what I found. I will describe it the way I recorded it, which is to say precisely, because precision was the only tool I had and I was holding onto it the way a man in a current holds onto a rope that may or may not be tied to something.
+
+Station 4501, the Falling Leaf Dojo. Crane Sequence, movement 12: the open-palm guard. The standard specifies that the right hand rises to temple height with fingers spread at fifteen-degree intervals. In this dojo, two of the six practitioners produced an open-palm guard where the space between the fingers was not measurable. Not because the fingers were closed—they were visibly apart—but because my protractor, when placed against the hand, returned no reading. The needle didn't move. I tried three times. The fingers were spread and the angle between them was not a number. The instructor, a quiet woman named Vasquez, asked if I needed water.
+
+Station 4523, the Iron Root Dojo. Plow Sequence, movement 8: the descending block. The standard specifies that the forearm descends at forty-five degrees to intercept an incoming strike from above. In this dojo, the forearm of the lead student descended and intercepted a strike that was not occurring. There was no partner. There was no incoming attack. The student was performing solo kata, and yet his block met resistance—I could see his forearm compress against something, the muscles engage, the trajectory redirect—and when I asked what he was blocking, he said, "Thursday's class." I wrote this down and asked him to repeat it. He said it again. He was blocking a strike that a classmate would throw in three days. The block would be ready when the strike arrived. I asked if this didn't present a causality problem. He looked at me the way Dahl had looked at me. Patient. Linguistic. As if "causality" were a dialect he'd heard of but didn't use in daily speech.
+
+Station 4555, an unregistered dojo operating out of a storage rental, which I should have flagged for immediate decertification but did not, because I was beginning to suspect that the concept of certification was what you might call *under review.* Bridge Sequence, movement 14: the rooted pivot. The standard specifies that the practitioner's left foot remains planted while the torso rotates one hundred eighty degrees. In this space, a teenage girl with braids and a gi that was two sizes too big performed the rooted pivot. Her left foot remained planted. Her torso rotated one hundred eighty degrees. Then her torso kept rotating. Two-seventy. Three-sixty. Her foot had not moved. Her foot was on the mat. I confirmed this visually. Her foot was on the mat and it was also not on the mat. It was grounded and it was somewhere above, and both of these were true at the same time, and my scorecard—the one I filled out automatically, because after fourteen years the hand knows the form even when the mind has

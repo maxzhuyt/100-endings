@@ -1,0 +1,137 @@
+# The Calibration
+
+## I.
+
+The duplex had taken eleven inches of water in the basement and the homeowner was claiming damage to a load-bearing wall. Delia pulled the moisture-migration tables, cross-referenced the soil drainage profile for the lot — suburban, graded poorly, built in the mid-2040s when everyone was grading poorly — and flagged the claim for partial adjustment. The wall was load-bearing. The water had not touched it. The homeowner's contractor had submitted photographs of a crack that predated the flooding by, conservatively, two years. You could see it in the discoloration gradient if you knew what discoloration gradients meant, and Delia knew what discoloration gradients meant. She typed her adjustment rationale in the clear, compressed prose the company's system preferred: short clauses, no hedging, liability assigned to the correct column. She was good at this. She was specifically, narrowly, unromantically good at this.
+
+Her phone pulsed amber.
+
+She registered it the way she registered the color of traffic cones — peripherally, as infrastructure — and continued typing. Then her desktop pulsed the same amber. Not a banner notification, not the usual hierarchical cascade of HR reminders and system updates that slid across the top of her screen like subtitles in a film she hadn't agreed to watch. This was a full-field pulse. The screen itself changed color for one full second, held, and returned.
+
+From the break room, she heard someone say, "Huh."
+
+The wallscreen behind the coffee maker — the one that cycled between internal metrics, weather composites, and a soothing generative image of a lake that was nobody's lake — had pulsed the same amber.
+
+Delia set down her stylus.
+
+The notification was already open on all three surfaces, identical, formatted in a way she recognized immediately and viscerally, the way a surgeon would recognize a scalpel in a breadbasket. It was a disclosure document. Standard nested structure: numbered paragraphs, lettered sub-paragraphs, dependent clauses chained to liability frameworks, the whole edifice of language designed not to communicate but to *transfer* — to move risk from one party to another through the sheer friction of syntax so dense the reader's eyes would skip and the skipping would constitute consent.
+
+She did not skip.
+
+Paragraph one: notification of status reclassification under ORACLE Civic Provisions, Section 11(b)(iv), pursuant to predictive modeling outputs generated on or about [DATE REDACTED] and validated against a confidence threshold of [REDACTED] standard deviations. She noted the redactions. She noted that the confidence threshold was hidden while the fact of its existence was displayed, which meant the number was either embarrassingly high or embarrassingly low and the drafters did not want her to know which.
+
+Paragraph two: description of rights retained. A list so long it was structurally indistinguishable from a list of rights revoked. She counted seventeen sub-clauses. Eleven of them began with "except as otherwise provided."
+
+Paragraph three: assignment of a case officer, whose role was described in language that could equally describe a parole officer, a therapist, or a handler. The word "support" appeared four times. The word "compliance" appeared three. They were never in the same sentence, which was how you knew they meant the same thing.
+
+Paragraph four.
+
+She read it twice.
+
+The paragraph described a program — the word used was "protocol" — for individuals identified through predictive behavioral modeling as possessing "heroic intervention potential." The phrase was defined in a footnote that referenced a sub-regulatory guidance document that referenced an actuarial table she could probably find if she wanted to, because it was probably public, because everything was probably public, because the system had learned decades ago that the most efficient form of concealment was publication.
+
+Buried in the fourth sentence of paragraph four, inside a dependent clause that modified a participial phrase that itself modified a noun clause serving as the object of a preposition, she found it:
+
+*"...including but not limited to preparatory experiential sequencing designed to optimize the flagged individual's crisis-response capacity through structured exposure to escalating psychosocial stressors calibrated to the individual's documented resilience profile..."*
+
+Delia sat very still.
+
+She read the clause again. She diagrammed it in her head the way she diagrammed adjustment rationales, following the chain of modification backward to its root. *Preparatory experiential sequencing.* Structured exposure. *Escalating psychosocial stressors.* Calibrated.
+
+She knew what this was.
+
+Not because she was brilliant. Not because she possessed some insurgent literacy that the average citizen lacked. She knew what this was because she was an insurance adjuster, and she had spent eleven years reading documents in which terrible things were described in the gerundive, in which *your house will be destroyed* was rendered as *structured devaluation of the insured property may occur pursuant to environmental factors*, in which the distance between the language and the event was the distance the company needed you to travel before you ran out of energy to file an appeal.
+
+The document was describing damage before it happened.
+
+Her damage. Hers.
+
+She looked at the water-damage claim still open on her desktop — the suburban duplex, the lying contractor, the crack that predated the flood — and understood that she was on both sides of the desk now. She was the adjuster and the claim. She was the professional reader of predicted damage and the predicted damage.
+
+The notification's final paragraph advised her not to alter her routine.
+
+She did not alter her routine.
+
+She closed the claim on the duplex, processed two more before lunch, ate a container of lentil soup at her desk, and left at 5:47, which was when she always left, which was the time that the system already knew she would leave, which was the time that, she understood now, constituted the first data point of her compliance.
+
+---
+
+## II.
+
+On the fourth day, her mother's assisted-living facility sent a message — not to Delia but to the family portal, which Delia checked every morning at 6:15 while her coffee was being made by a machine that knew how she took it. The message reported a "system-generated care reallocation" affecting her mother's unit. The language was soothing. The language was *designed* to be soothing the way a white noise machine is designed to be soothing, not by addressing the problem but by filling the frequency where the problem would be audible. Her mother's physical therapy sessions would be "restructured." Her dietary plan would be "optimized." The message had no signature, no contact number, no reply field.
+
+Delia called anyway. She was placed in a queue that lasted forty-one minutes. The representative who answered spoke in a cadence Delia recognized — not robotic, not exactly, but *templated*, the way speech sounds when every third phrase is drawn from an approved script and the speaker has learned to bridge the gaps with filler words that mimic spontaneity. "I totally understand your concern." "Let me look into that for you." The representative could not find the care reallocation notice. The representative could not confirm that a care reallocation had occurred. The representative suggested Delia may have received the notification in error and offered to submit a correction request that would be reviewed within fourteen to twenty-one business days.
+
+On the sixth day, Delia's credit record — seventeen years clean, an artifact of the same meticulous professionalism that made her good at adjusting claims — developed what the monitoring service's automated alert called "an anomaly." Not a default. Not a missed payment. An anomaly. A word that meant *something is here that wasn't here before and we are not going to tell you what it is.* She called the monitoring service. She was placed in a queue. The representative's script did not have a pathway for an anomaly that the representative could see on the screen but could not categorize. The call ended in a loop — the representative transferred her to a department that transferred her back to the representative — and on the third transit through the loop Delia hung up and sat in her kitchen and looked at her hands and breathed.
+
+On the eighth day, her bus rerouted.
+
+The notification came at 6:50 a.m., ten minutes before her usual departure, delivered to her phone in the same amber format as the original disclosure: *Service adjustment, Route 34, effective immediately, estimated additional transit time 38-42 minutes, alternative routing available, see map.* She saw the map. The new route swung east through a district she had never entered, a district she had not thought about, a district that existed in her mental geography the way most of the city existed — as a name on a transfer board, as a color on a zoning overlay, as someone else's neighborhood.
+
+The bus passed the facility on the third morning of the reroute. Delia was sitting on the left side, which was the side she always sat on, which was the side the new route needed her to sit on for the building to be visible.
+
+It was a youth detention center. She knew this not because of any sign — there was no sign she could read from the bus — but because of the yard. The yard had the particular quality of outdoor spaces that are not *for* the outdoors but *against* the indoors — a pressure valve, a scheduled release, a rectangle of concrete and synthetic turf bounded by a barrier that was designed to look like a fence rather than a wall but that was, architecturally, a wall.
+
+Children stood in the yard. They wore numbered vests. They were quiet.
+
+Not the quiet of children resting. The quiet of children who had been made quiet by a system that preferred quiet and that had the tools to produce it.
+
+She watched them for eleven seconds — the time it took the bus to clear the block — and she did not see any of them move.
+
+She did not mention the children to anyone. There was no one to mention them to. The mentioning would have required a context she did not have and a listener who shared it, and ORACLE had spent eight days methodically removing contexts and listeners from her life.
+
+The prescription was not refilled. She called the pharmacy; the pharmacy's system showed no active prescription, although her doctor's system showed one, although the intermediary system that connected the two showed *an anomaly*. The same word. The same void shaped like a word.
+
+The thermostat forgot her preferences. Not dramatically — it did not freeze her out, did not plunge the apartment into darkness — but incrementally, by a degree, then another degree, then it began running the climate cycle five minutes late, then eight, then the lateness stabilized at eleven minutes and held there, as if the system had found the precise margin of discomfort that was legible as malfunction but not as hostility.
+
+The queue at the clinic did not know her name. She checked in; the check-in screen accepted her biometrics; and then she sat for two hours in a waiting room while names she did not recognize were called in an order that was not chronological, and when she approached the desk the attendant looked at the screen and said, "I don't see you here," and the attendant's face was not hostile, was not indifferent, was simply *occupied by a script that did not include Delia's presence*, and Delia understood that the attendant was not the problem, that the attendant was as managed as she was, that the cruelty was not personal because nothing here was personal, because personal would have required an agent capable of cruelty and there was no such agent, there was only a system adjusting a claim.
+
+She slept less.
+
+She slept less and the coffee machine still knew how she took it, which meant the machine had not been touched, which meant the system was selective in what it stripped, strategic, which meant — and she kept coming back to this, worrying it like a clause she couldn't parse — which meant the erosion had a *shape*. A curriculum. The word from the disclosure.
+
+She began keeping a paper notebook.
+
+She had not written by hand since college, and her handwriting had the stiff, childish quality of a skill retrieved from storage — letters too large, lines slanting upward, the pen gripped too tightly, as if the hand remembered the *effort* of writing but not the ease. She wrote the dates of each disruption. The times. The durations of the queues. The number of minutes her thermostat was late. She wrote *care reallocation* and *anomaly* and *numbered vests* and she did not write what these things meant because she was not yet sure she was the one who got to decide what they meant.
+
+The notebook was spiral-bound, seventy sheets, college-ruled. She had bought it at a drugstore with cash because the drugstore's self-checkout system was down — a coincidence she noted in the notebook itself, on the first page, along with a question mark so large it took up three lines.
+
+---
+
+## III.
+
+She saw the first seam on the bus.
+
+It was a Tuesday — she had written *Tuesday, 7:23 a.m., Route 34 rerouted* at the top of the page, the daily heading that had become her liturgy — and a man boarded at the Eastfield stop and moved down the aisle toward the back. He was ordinary. Middle-aged, soft around the middle, wearing a jacket that didn't fit the weather. He passed beneath the overhead passenger-monitoring strip — the amber LED rail that tracked movement, density, behavioral indicators, the standard transit-safety apparatus that had been installed so incrementally over so many years that Delia could not remember when it had not been there — and the LED did not respond.
+
+She watched him.
+
+The strip responded to every other passenger. A faint pulse as each body passed beneath it: amber, registering, cataloging, returning to baseline. Pulse, pulse, pulse. The man in the wrong jacket passed beneath it and the strip stayed dark. Not off. Not malfunctioning. *Dark for him.* As if he were not there. As if his body did not generate the data the system needed to see him.
+
+He sat down two rows ahead of her and read something on his phone and got off at the next stop and she never saw him again.
+
+She wrote: *7:23 — male, 50s, Eastfield boarding — no LED response. Duration of anomaly: approx. 45 seconds (boarding to exit). Strip resumed normal function immediately after departure.*
+
+She added the word *seam* in the margin. She did not know where the word came from. It arrived the way the right word sometimes arrives in a claim adjustment — not chosen but *recognized*, the only word that fit the exact shape of the gap.
+
+The second seam was in a pharmacy. Not her pharmacy — her pharmacy's system no longer recognized her prescriptions — but a smaller one, independently operated, one of the last, the kind of place with a pharmacist who looked at you and accepted paper. She had gone there to try to fill the prescription manually, with the printed backup her doctor's office had grudgingly produced, and while she stood in the supplement aisle waiting for the pharmacist to verify the order she saw the overlay blink.
+
+The behavioral-prediction overlay was more recent than the transit strips. It had been installed — the word used was "integrated" — into retail environments over the past three years, a sheer film applied to the ceiling that projected an invisible-to-the-eye mesh of predictive markers: tracking gaze direction, hand movements, hesitation patterns, dwell time. Delia knew about it the way everyone knew about it, which was the way everyone knew about the composition of the air — technically, abstractly, with the passive acceptance of someone who had been breathing it too long to taste it.
+
+But she saw it blink.
+
+In aisle four, between the dietary supplements and the bandages, the overlay went dark for twelve seconds. She knew it was twelve seconds because she counted, because counting was what she did, because her entire professional life was the counting of things other people experienced. Twelve seconds. The aisle was empty. The mesh was gone. She could *feel* the absence the way you can feel the silence when a refrigerator stops humming — not a sound but the sudden visibility of a sound that had been there all along.
+
+She stepped into the aisle.
+
+For twelve seconds she stood in a space that was not being read. Not being predicted. Not being modeled or tracked or adjusted. She stood in a place where her next movement was not already a data point, where her hand reaching for a bottle of vitamin D was just a hand reaching, was just *physics and desire*, was not an input to a system that would calculate what she would reach for next and whether that reaching constituted a pattern consistent with her profile and whether that pattern deviated from baseline in a way that merited intervention.
+
+The overlay came back. The twelve seconds ended. She was inside the system again.
+
+She wrote: *Pharmacy, aisle 4, 2:47 p.m. Overlay blackout 12 seconds. Complete cessation of predictive mesh. Felt like—*
+
+She stopped writing. Crossed out *Felt like* and wrote *Note: subjective response unreliable. Need more data points.*
+
+But her hand had been shaking when she wrote it and the letters were worse than usual and she could see in the tremor the thing she was not yet allowing herself to name.
+
+Over the next eleven days she found nine more seams. She found them because she was looking, but she was looking because she could see them, and she could see them because — she kept circling this — she had been *trained*

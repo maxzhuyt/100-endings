@@ -1,0 +1,167 @@
+# The Infinite Playoff
+
+## I.
+
+The office smelled like toner and something underneath toner — mildew, maybe, or the particular staleness of a room whose window had been painted shut during the Clinton administration. Phil Harken sat behind a desk that was too large for the room in the way that minor league furniture was always too large or too small, never correct, as if the Southern Ohio Independent Baseball League existed in a dimension where spatial proportions were only approximate.
+
+"We got a situation," Harken said.
+
+Ray Dolezal set his briefcase on his knees and opened it just enough to extract a legal pad. He closed it quickly. Inside the briefcase was a racing form from Mountaineer Park — Saturday's card, two of the races circled in blue ink, one in red — and a phone that had died sometime Tuesday. Nothing else.
+
+"The integrity commission got a letter," Harken continued. "Anonymous. Claims there's been point-shaving across multiple series. Maybe going back two, three years."
+
+"In the SOIBL," Ray said.
+
+"Right."
+
+"Independent minor league ball."
+
+"Right."
+
+"Where the average game attendance is — what? Eight hundred?"
+
+"On a good night. Listen, I know how it sounds. But we got gambling lines on these games now. Internet's made everything a market. Vegas doesn't carry us, but the offshore books — they'll take action on anything. Point is, somebody wrote a very specific letter. Named dates, named games, named a player."
+
+Ray uncapped his pen. The pen was good — a Waterman, left over from a previous life. He could feel the fine tremor in his right hand as he held it, a vibration so slight it was visible only in the ink line, which wavered like a seismograph recording a far-off disturbance. Too much coffee. He'd had four cups since six a.m. and it was now nine-fifteen, which was irresponsible but not diagnostic of anything.
+
+"Start with your universe of games," Ray said. "How many are we talking about?"
+
+"Two and a half seasons. Call it three hundred forty regular-season games, plus playoffs."
+
+"And your accuser identifies how many as suspect?"
+
+"Maybe a dozen."
+
+"Twelve out of three-forty isn't pattern. That's noise. Your base rate for scoring anomalies in any independent league over that span — games where the run distribution falls outside two standard deviations from the seasonal mean — you're going to find eight, ten games like that just from weather, injuries, random variation. Twelve is barely signal."
+
+Harken stared at him. The words had landed on the man's face like rain on glass — touching every part of the surface, penetrating nothing.
+
+"So you'll take the job," Harken said.
+
+Ray realized he had already been talking as though he'd taken it. The vocabulary had come out of him the way a reflex comes out of a nerve — bypass the brain, fire the muscle. Two years since his last real contract, since the consultancy with the Iowa league that had ended in a phone call he could mostly reconstruct if he tried, which he didn't. Before that, the regional analytics firm that had let him go in the way firms let people go: not all at once but in a slow rescindment of tasks and invitations until he was a man sitting at a desk with no assignments who understood, one Monday, that the desk was the assignment. That sitting there was what they were paying him for while the lawyers finished whatever the lawyers were finishing.
+
+"My rate is four hundred a day plus expenses," Ray said. "I'll need access to all official scorebooks, game logs, and any original documentation the league office maintains. Digital and physical."
+
+"That's fine. League's covering it. They want this clean."
+
+"I'll need a workspace. Not here — somewhere I can spread out."
+
+"There's a Comfort Inn on Route 23. I'll set up a tab."
+
+Ray wrote nothing on the legal pad. The Waterman made a small dot on the first line where he'd pressed the nib — a period beginning a sentence he hadn't composed.
+
+"One more thing," Harken said. "The player named in the letter. Denny Galvez. Utility guy, been bouncing around the independents since — I don't know, forever. He's not what you'd call a star."
+
+"What's his line?"
+
+"Last year? Hit about .230. Plays short, plays third. Maybe sees some time at second when we're short. Good glove, no stick."
+
+"And the letter says he's involved in the shaving."
+
+"The letter says he's the key to the whole thing. That if you pull his game logs, the whole operation unravels."
+
+Ray capped the Waterman. He placed the legal pad, still blank except for its single accidental period, inside the briefcase, on top of the racing form. The briefcase latched with a sound like a small bone breaking.
+
+"Then that's where I'll start," he said.
+
+---
+
+## II.
+
+The scorebooks arrived in three batches, from three sources: the league office's digitized records, kept in a FileMaker database that appeared to have been designed by someone who had once heard a description of a database; the home teams' official books, handwritten and photocopied, stuffed in manila envelopes with the disorganization of tax returns prepared under duress; and a third set from the regional sports bureau, a quasi-governmental body that archived independent league statistics for reasons no one Ray spoke to could satisfactorily explain.
+
+He spread them across the Comfort Inn's double bed.
+
+He began with Galvez. Game logs, at-bat results, fielding records. He built a spreadsheet — the real work, the skeleton on which everything else would hang — entering each plate appearance by date, opponent, pitcher faced, count, and outcome. Cross-referencing as he went: league office record against home book against bureau archive.
+
+Game 1 through Game 67 of the season: clean. Minor discrepancies — a walk recorded as a strikeout in one book, clearly a transcription error, the kind of noise you find everywhere in records kept by volunteers with bifocals and beer. He flagged them, noted the pattern (most errors clustered in late innings, when the scorekeepers were tired or drunk or both), and moved on.
+
+Game 68, a July 9th contest against the Portsmouth River Rats. He found it.
+
+In the league office database, Galvez's third at-bat of the game was recorded as a called third strike. Pitch count: 1-2. Galvez struck out looking on a fastball away.
+
+In the home team's scorebook — the Chillicothe Foundry's own record — that same at-bat was a groundout to shortstop. 6-3. One pitch. The batter hit the first offering on the ground to the left side and was thrown out.
+
+In the bureau archive, Galvez did not appear in the lineup for the July 9th game at all. The lineup card showed eight names, with a blank in the seventh spot where Galvez should have been. The game was played, somehow, with eight batters. No one had flagged this. No one had asked how a team bats around with a phantom slot in the order. The box score showed twenty-seven Portsmouth outs over nine innings, which was correct, and twenty-six Chillicothe plate appearances, which was not.
+
+Ray entered the data. He flagged the discrepancy. He wrote in the margin of his legal pad: *Clerical. Cross-ref w/ umpire report if available.*
+
+Then he found the next one. Game 71. July 12th. Galvez listed in the bureau's records as playing both shortstop and designated hitter for Chillicothe, which was impossible in a league that didn't use the DH. The league office showed him at short only. The home book showed him at third.
+
+Then six more games, each with its own impossible Galvez. In one, he appeared in two different lineup slots — batting third and batting seventh, two different plate appearances in the same inning, one resulting in a single and the other in a sacrifice bunt, both attributed to the same player, as if Galvez had somehow bifurcated at the plate and played out two parallel destinies simultaneously.
+
+But it was Game 79, July 22nd, that made Ray push back from the bed and stand up.
+
+In the league office's records, the top of the fourth inning of a game between Chillicothe and the Ironton Forge showed Galvez batting. The pitcher was also Galvez. Dennis R. Galvez, batting left, facing Dennis R. Galvez, pitching right. The result was recorded with clerical precision: fly ball to center field, caught by the center fielder (Muñoz), one out.
+
+The box score for the same game showed no outs recorded in the top of the fourth. Zero. The inning, according to the box score, consisted of four walks and a hit-by-pitch, at which point the pitching change was made. No outs. No fly ball. No Galvez-versus-Galvez. But the at-bat was there, entered in the game log with the same formatting, the same typeface, the same matter-of-fact notation as every other entry. As if the game log and the box score had been composed in adjacent rooms by authors who never spoke.
+
+Ray went to the hotel vending machine and bought a package of index cards and a roll of the only tape they had, which was electrical tape. He used the tape as string, running black lines between the cards on the wall above the bed. Each card: a game number, a date, a contradiction. He stood on the mattress in his socks to reach the upper portions of the wall.
+
+By two a.m., the wall held thirty-one cards. By four a.m., forty-eight. The lines of black tape formed a web that was — he could see it now — not random. The contradictions clustered. They orbited Galvez but they weren't exclusive to him. Once Galvez became impossible in a given game, the impossibility bled outward: other players' statistics shifted, attendance figures warped, the game's duration expanded or contracted depending on which source you trusted. It was as if Galvez were a crack in a windshield, and each game he infected spread the fracture lines outward through the entire record.
+
+Ray stepped back. He was standing at the foot of the bed, the stripped comforter bunched at his feet, the room smelling of electrical tape adhesive and the particular humid nothing of central Ohio in summer.
+
+The wall looked like the work of a man who had lost his mind.
+
+It also looked like the most beautiful thing he'd seen in years.
+
+The pattern was real. He could feel it the way you feel a proof before you complete it — the structural inevitability, the sense that the data was trying to tell him something that had a shape, that if he could only find the right axis of rotation the whole mess would resolve into a form as clean as an equation. A helix. A spiral. Something with an internal logic so elegant it justified its own impossibility.
+
+He sat on the edge of the bed and looked at what he'd built. His hands were steady. The tremor was gone — chased out by the adrenaline or by whatever it was that happened to his body when the work was good, when the numbers were speaking.
+
+He was happy.
+
+It arrived in him like a weather system, without announcement or permission — a vast, clean joy, the joy of the problem itself, of being inside a system that was broken in ways that could be mapped. He hadn't felt it in — how long? Two years at least. Maybe longer. Maybe not since the early days, the dissertation years, when he'd spent whole nights in the university library with census data and felt the numbers moving underneath his hands like a living thing, an animal that would let you stroke it if you were patient enough, if you were willing to stay up long enough, if you were willing to let it become the only thing in the world.
+
+He lay back on the bed, beneath the web of cards and tape, and looked up at it the way a child looks at a mobile, and the last thing he thought before he slept was: *This is mine.*
+
+---
+
+## III.
+
+He called the league office Thursday morning and requested the originals.
+
+"The actual scoresheets," he said. "The handwritten game logs. Not the database entries — the physical documents."
+
+"That's going to be a process," Harken said.
+
+"I need to see the paper."
+
+"You think somebody's been altering the digital records?"
+
+"I think the digital records have multiple points of failure and I need an independent physical baseline. Handwriting can be dated. Ink can be tested. Paper degrades in predictable ways."
+
+The box arrived Friday afternoon by courier. It was a banker's box, the standard kind, white with a blue lid, the words SOUTHERN OHIO INDEPENDENT BASEBALL LEAGUE — OFFICIAL RECORDS — SEASON 2 + 3 written on the side in Sharpie. Ray signed for it. He set it on the hotel desk. He looked at it for a while.
+
+Then he laid the sheets out on the bed.
+
+They were standard scoresheets — the kind used by official scorers at every level of baseball, a grid of squares and diamonds, each plate appearance recorded in the shorthand that hadn't changed in a century. K for strikeout. 6-3 for a groundout, short to first. F8 for a flyout to center. The notations were in pencil and ink both, in varying hands — some neat and blocky, printed carefully; others in loose cursive that jumped the lines; a few in the near-illegible scrawl of someone writing fast in bad light, probably in a press box with a sun glare, probably with a beer between their knees.
+
+He went first to Game 68. July 9th. The Galvez at-bat.
+
+The original scoresheet showed the at-bat recorded in pencil: K. Strikeout looking. This matched the league office's digital record. But there was an amendment. Someone had drawn a single line through the K — not erasing it but crossing it out, formally, the way you cross out an error in a legal document — and written beside it, in ink: 6-3. Groundout to short.
+
+The amendment was in a different hand than the original.
+
+He pulled the next sheet. Game 71. The original showed Galvez at shortstop. An amendment, again in ink over pencil, had added a second position: DH. The amendment was in yet another hand — or the same hand in a different mood, it was hard to tell. Handwriting analysis was not his field.
+
+He worked through the box methodically, sheet by sheet, photograph by photograph (he was photographing each one with the dead phone's replacement, a prepaid Samsung he'd bought at a gas station). Forty-one sheets contained amendments. Of these, twenty-six involved Galvez directly. The remaining fifteen involved players whose statistics had been distorted in games where Galvez's records were also altered — the bleed pattern he'd identified on the wall.
+
+The amendments were in several hands. At least four, he thought. Maybe five. The pencil-to-ink pattern was consistent: the original entry was always in pencil, the correction always in ink, as if the original scorers' work was being audited after the fact by someone — or several someones — with the authority to revise.
+
+It was the twenty-second sheet that stopped him.
+
+Game 83. July 26th. A home game. The original scoresheet was in pencil, in a hand he didn't recognize — blocky, careful, the handwriting of a diligent amateur. The amendment was in ink. It crossed out Galvez's fifth-inning at-bat (a walk, BB) and replaced it with a hit-by-pitch (HBP). A minor change. Nearly meaningless — both results put the batter on first. But the amendment changed the pitch count, which changed the pitcher's total pitches for the inning, which nudged the game's statistical texture in a direction so subtle that only someone tracking pitch-count patterns across multiple games would ever notice.
+
+The handwriting of the amendment.
+
+Ray's hand cramped. Not the tremor — something different. A clenching, the fingers curling inward as if the hand were trying to make a fist around the pen it wasn't holding. He put the sheet down on the bedspread. He picked it up again.
+
+The handwriting was small, left-leaning, with a distinctive capital H — the crossbar extended too far to the right, a habit he'd been told about in grade school by a teacher whose name he could almost but not quite remember. The B in HBP was closed at the bottom with a small loop rather than a straight line. The way he closed his B's. The way he had always closed his B's.
+
+He put the sheet down again.
+
+He picked up the next one. Game 84. Another amendment. The same hand. His hand.
+
+And the next. And the next. He stopped counting when he reached nine. Then he went back to the beginning of the box — Game 1, the season opener — and found it there, too. BB crossed out, replaced with a K. His handwriting, his ink, his small-looping B and overextended crossbar. The first game of the first season under audit. A game that had been played two and a half years ago, when Ray Dolezal had no

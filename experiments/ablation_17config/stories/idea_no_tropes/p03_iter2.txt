@@ -1,0 +1,115 @@
+# THE PROUSE FILE
+
+**BUREAU OF SOCIETAL TEMPERANCE**
+**UNITED STATES DEPARTMENT OF JUSTICE**
+
+---
+
+**CASE FILE BST-2019-0041**
+**Classification: RESTRICTED — reclassified OPEN per Executive Mandate draft 11/14/1934**
+**Subject: American Liquor Syndicate, Chicago Chapter — Infiltration and Dismantlement**
+**Senior Agent of Record: Leonard R. Prouse, Chicago Field Office**
+**Administrative Attaché and Deputy Clerk of Record: Maureen E. Sable**
+
+---
+
+## SECTION I
+### PRELIMINARY CASE ARCHITECTURE AND OPERATIONAL OVERVIEW
+
+I, Maureen Eleanor Sable, Deputy Clerk, Administrative Attaché to Senior Agent Leonard R. Prouse, Chicago Field Office, Bureau of Societal Temperance, do hereby submit the following annotated case summary in accordance with Bureau Documentation Standard 14(c), subsection ii, which requires "a complete, chronological, and dispassionate account of all investigative activities, field operations, and material developments associated with the case file in question, prepared by the designated clerical officer and suitable for supervisory review, archival preservation, and, where applicable, evidentiary submission."
+
+The scope of this document encompasses the period from March 3, 1932, through September 19, 1933, during which time Senior Agent Prouse directed the Bureau's primary Chicago-area operation targeting the American Liquor Syndicate (hereafter ALS), an organization responsible, per Bureau estimates, for the coordination of approximately sixty-two percent of illicit liquor distribution across Cook County and adjacent jurisdictions.
+
+I have served as Deputy Clerk to Agent Prouse since his assignment to the Chicago Field Office in January 1930. In that capacity I have been present for, or have had documentary access to, all meetings, briefings, field reports, and inter-office communications pertaining to this case. Where my account relies on secondhand documentation — field notes, telephonic transcripts, or the reports of other agents — I have indicated as much. Where I have supplemented the record with direct personal observation, I have confined myself, as Bureau Standard 14(c) requires, to "material facts bearing on the operational question."
+
+[Annotation, M.E.S.: The reader of this file should understand at the outset that Agent Prouse's operation against the ALS was not conceived in haste. He spent the better part of eighteen months in preparatory work before a single field action was authorized. I note this because the events that follow may create an impression of wasted effort, and it is not my intention — nor within my clerical authority — to create such an impression. I only state for the record that the preparation was considerable, and that I was in a position to observe its full extent.]
+
+Agent Prouse's operational design, as detailed in BST Planning Document 0041-A through 0041-M, encompassed thirteen discrete phases of infiltration, each building upon the intelligence yield of the prior phase. The plan was architecturally precise. He maintained, on the east wall of his office, a chart measuring approximately four feet by six feet, on which the ALS's organizational structure was rendered in a system of connecting lines, colored nodes, and dated annotations. Blue nodes represented confirmed members. Red nodes represented suspected members awaiting evidentiary confirmation. Yellow nodes — of which, by March 1932, there were thirty-seven — represented informants at various stages of cultivation. Each informant was cross-referenced to a corresponding entry in Agent Prouse's informant registry (a separate binder, brown leather, kept in the second drawer of his desk, left side), which cataloged the terms of each arrangement: what the informant had been promised, what the informant had delivered, what the informant's known vulnerabilities were, and what Agent Prouse assessed, in his own handwriting, as the informant's "reliability quotient" — a metric of his own devising, scaled from one to ten, for which he had developed a private rubric that I was not able to locate in any Bureau manual.
+
+[Annotation, M.E.S.: He also maintained a color-coded timeline on a separate, smaller board, propped on the filing cabinet behind his chair. The timeline used green for completed milestones and orange for pending actions. He updated it with a fine-tipped pen each Monday morning after his first coffee, which he took black, half a sugar, in a white ceramic mug with a chip on the handle that he never replaced. I mention the coffee not as an operational detail but because the Monday-morning ritual was, as far as I could determine, the fixed point around which his entire weekly schedule was organized, and its regularity may be relevant to understanding the disruptions that followed. He also sharpened his pencils before every briefing — all of them, including those he had no intention of using, rotating each one in the hand-crank sharpener on the west shelf with a deliberateness that I initially took for conscientiousness and later came to understand as something closer to a private ceremony. But I will not speculate on Agent Prouse's interior states. That is not my function.]
+
+The plan, in summary, called for a progressive tightening of the Bureau's intelligence grip on ALS operations through a phased network of informants, surveillance posts, and controlled transactions, culminating in the identification and apprehension of the ALS's regional comptroller — the individual believed to control the consolidated financial ledger for all Chicago-area liquor revenue. Agent Prouse's operational thesis, defended in writing before Section Chief Wainwright on two occasions, held that the comptroller was the "structural keystone" of the ALS's Chicago operations, and that his removal, accompanied by seizure of the primary financial records, would precipitate an organizational collapse.
+
+The plan was thorough. The plan was patient. The plan accounted for contingencies that, in my assessment, most agents would not have thought to anticipate.
+
+The plan did not account for Agent Dina Kovacs.
+
+---
+
+## SECTION II
+### REASSIGNMENT OF FIELD PERSONNEL — AGENT DINA M. KOVACS
+
+On April 11, 1932, the Chicago Field Office received Bureau Transfer Order 7714, directing the reassignment of Agent Dina M. Kovacs from the Detroit Field Office to the Chicago Field Office, effective immediately, with attachment to Senior Agent Prouse's ALS operation as secondary field operative.
+
+Agent Prouse had not requested a secondary field operative. His operational plan, as submitted, was designed for execution by a single lead agent supported by clerical and surveillance staff. Upon receiving the transfer order, he drafted a formal objection (copy appended, Exhibit C-1) addressed to Section Chief Wainwright, citing concerns about "operational compartmentalization" and "the risks inherent in introducing unvetted personnel to an intelligence architecture of this complexity at an advanced stage of development." The memo was eleven paragraphs. I typed it. He submitted it within ninety minutes of receiving the transfer order.
+
+Section Chief Wainwright denied the objection the following morning. His written response was two sentences.
+
+Agent Kovacs arrived at the Chicago Field Office on April 14, 1932, at approximately 9:40 a.m., which was forty minutes after her scheduled reporting time.
+
+I was at my desk in the outer administrative area when she entered. Standard Bureau intake protocol requires that transferring agents present themselves to the administrative attaché of their receiving unit with the following documentation: Bureau identity credential, transfer authorization (original and duplicate), prior-office fitness evaluation, and current field certification. Agent Kovacs presented her Bureau identity credential. When I inquired about the remaining documents, she said — and I transcribe here per Bureau Standard 14(c)'s requirement that "statements made in an official setting shall be recorded in their original form" — she said, "They're in my bag. Somewhere. Can I set this down first? Where's Prouse?"
+
+"This" referred to a leather field jacket she was carrying over one arm, which she placed on the corner of my desk before I could indicate a more appropriate location.
+
+[Annotation, M.E.S.: I want to state for the record that the jacket was damp, either from rain or from prolonged proximity to — I will simply note that it carried a distinct odor. Rye. Not faint. Not the ghost of a smell you might attribute to imagination or a nearby establishment. Rye, as specifically and unmistakably as if someone had used the jacket as a napkin in a distillery. I am aware that agents of the Bureau of Societal Temperance are held to Section 9 sobriety standards at all times while on duty and that the presence of such an odor on the personal effects of an active agent might constitute grounds for a formal inquiry. I did not file such an inquiry. I am documenting the observation here because the documentation standards require it. I also note that Agent Kovacs's hair was uncombed.]
+
+I directed Agent Kovacs to Agent Prouse's office. I did not accompany her. However, Agent Prouse's office shares a wall with the administrative area, and the construction of the Chicago Field Office is such that sound carries with a clarity that the building's architects perhaps did not intend. I was therefore able to hear the following exchange, which I reconstruct from memory, as I did not have recording equipment and was not, at that moment, taking dictation:
+
+AGENT PROUSE: You're Kovacs.
+
+AGENT KOVACS: And you've got a hell of a wall chart.
+
+AGENT PROUSE: Your reporting time was nine o'clock.
+
+AGENT KOVACS: My train was late.
+
+AGENT PROUSE: The 7:15 from Detroit arrives at 8:22.
+
+AGENT KOVACS: Wasn't on the 7:15.
+
+[There followed a silence of approximately five seconds.]
+
+AGENT PROUSE: Your intake paperwork is incomplete. You'll need to coordinate with Deputy Clerk Sable to —
+
+AGENT KOVACS: I'll get to it. Listen, what's the status on your Syndicate investigation? I've read the summary brief, but summaries are — well, they're goddamn summaries.
+
+[Annotation, M.E.S.: I transcribe the profanity as spoken. Bureau Standard 14(c) does not permit sanitization of direct quotations in official proceedings. I will note that this was the first of many occasions on which Agent Kovacs's language required me to transcribe words I would not customarily commit to a government document. I will also note, because I believe it is material, that Agent Prouse's response to the profanity was not verbal. I heard his chair shift — a particular creak in the hinge mechanism that I had come to know well — and then nothing. Silence of the kind that communicates. His formal objection to Section Chief Wainwright, requesting Agent Kovacs's reassignment, was drafted before noon that day (copy appended, Exhibit C-2). It was his second such objection in three days. It was denied.]
+
+Agent Kovacs's personnel file (BST-PF-Kovacs, D.M., excerpts appended as Exhibit D) presented what I can only describe, within the bounds of my clerical authority, as a contradictory record. In her four years with the Detroit Field Office, she had received three commendations for field work — including one for the single-handed disruption of a Syndicate supply line operating across the Michigan-Ontario border — and two formal disciplinary actions, one for "insubordination in the conduct of a supervised operation" and one for "unauthorized disclosure of case-sensitive information to a non-Bureau individual." The non-Bureau individual, according to the disciplinary file, was a Detroit Free Press reporter named Halloran. The disclosure, according to Agent Kovacs's written defense (which I obtained and read, though it was not, strictly speaking, required for my documentation of the Chicago case), was "telling him things he already knew, because he grew up three blocks from the same warehouse I did."
+
+[Annotation, M.E.S.: The personnel file also contains a background entry that I initially overlooked and later found significant. Agent Kovacs's father, Martin Kovacs, was employed from 1917 to 1924 by the Czapski Brewery in Hamtramck, Michigan, and from 1925 until his death in 1929 by — I do not know how to phrase this in proper Bureau language, so I will say it plainly — by whoever would pay him to move liquor. He was not Syndicate. He was below the Syndicate. He was the kind of man the Syndicate used and did not know by name. He died of tuberculosis in the back room of a boarding house on Joseph Campau Avenue. Dina Kovacs was nineteen. She enrolled in the Bureau's agent training program five months later. These facts are in the file. I am not adding interpretation. I am noting that they exist and that I read them and that they were, to me, clarifying.]
+
+---
+
+## SECTION III
+### ACCELERATION OF INTELLIGENCE ACQUISITION — THE COMPTROLLER IDENTIFICATION
+
+The events of May 2, 1932, require careful documentation, as they constitute a material turning point in the operational trajectory of Case BST-2019-0041.
+
+For context: Agent Prouse had spent, by that date, fourteen months of active investigative work attempting to identify the ALS's regional comptroller. His methodology was as follows. Beginning with known low-level Syndicate operatives, he cultivated informants who could identify their immediate supervisors. From those supervisors, he cultivated further informants who could identify *their* superiors, and so on, ascending the organizational hierarchy node by node. It was painstaking work. It was sound work. Each informant required weeks of approach, negotiation, and vetting. Each piece of intelligence was cross-checked against at least two independent sources before it was entered onto the wall chart. By April 1932, Agent Prouse had mapped the ALS's hierarchy to a depth of four organizational layers — an achievement that, I believe, no other agent in the Bureau had matched for the Chicago territory.
+
+He was, by his own estimation, two to three months from identifying the comptroller.
+
+Agent Kovacs identified the comptroller on a Tuesday.
+
+She had been assigned to the Chicago Field Office for eighteen days.
+
+The circumstances, as I have reconstructed them from Agent Kovacs's field notes (Exhibit E-1; I note that her handwriting is, by any objective measure, nearly illegible, and that certain words in the following reconstruction represent my best interpretive effort), were as follows:
+
+At approximately 2:15 p.m. on May 2, Agent Kovacs entered a drinking establishment on West Grand Avenue known colloquially as Phelan's, which was listed in Bureau surveillance files as a "Syndicate-adjacent social venue" — meaning it was frequented by ALS-affiliated individuals but was not itself an operational site. She was not authorized to conduct solo field work. She was not on assignment. Her stated reason for being at Phelan's, as recorded in her field notes, was that she was "thirsty and it was the closest place."
+
+[Annotation, M.E.S.: I do not believe this was the entirety of her reasoning, but it is what the documentation contains, and I am bound by it.]
+
+At Phelan's, per her field notes, she engaged in conversation with an individual she identified only as "M." — later determined to be Michael Cerný, a known ALS transport coordinator. The content of their conversation is not recorded in detail. Agent Kovacs's notes characterize it, in its entirety, as follows: "Talked to M. about his mother's prior residence on Cermak. Discussed the neighborhood. He mentioned Alderman Hubka's nephew handles the money and keeps a second book at the grain warehouse on Laflin. Got the schedule."
+
+That is the complete content of the field note.
+
+"Got the schedule" referred to a weekly distribution timetable for the ALS's South Side operation, which Agent Kovacs had written on the back of a receipt from a drugstore on Milwaukee Avenue. The receipt was for a pack of Sen-Sen and a bottle of aspirin.
+
+Agent Kovacs returned to the Chicago Field Office at approximately 3:40 p.m. I was at my desk. She walked past me without stopping, though she did nod, which was more acknowledgment than she typically offered. She entered Agent Prouse's office. The door remained open.
+
+What followed was not, in the strictest sense, a briefing. Agent Kovacs placed her field notes — a single sheet of paper, folded twice — on Agent Prouse's desk, beside what I could see from my vantage was the remains of his lunch, which he had not finished. She also placed the drugstore receipt beside it. She said, and I quote from memory:
+
+"Comptroller's name is Alderman Hubka's nephew. Real name's probably in your files somewhere — Hubka, H-U-B-K-A. He keeps a secondary ledger at the grain warehouse on South Laflin, unlocked Tuesday through Thursday because that's when the distribution trucks run and they need access. I wrote down the schedule."
+
+She then sat down in the chair opposite his desk, which I note

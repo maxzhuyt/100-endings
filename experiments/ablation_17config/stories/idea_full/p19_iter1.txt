@@ -1,0 +1,203 @@
+# TRANSCRIPT SERIES 7
+
+## Declassified Under Executive Order 13526, §3.3(b)
+## National Security Archive, George Washington University
+## Collection: NORTHWELL ABSENCES (1992–1994)
+## Finding Aid Reference: NSA/EBBTIDE/TS7
+
+---
+
+**EDITORIAL NOTE**
+
+The following materials were compiled from three source documents recovered during the 1996 Norwegian-American review of Cold War–era signals intelligence operations in the Barents Sea region:
+
+**(1)** Radio-relay transcripts, VHF Channel 7 (NATO tactical), logged 14–16 March 1993 at Signals Station Hammerfest, Norway. Speaker designations reconstructed from voice-pattern analysis conducted by NSA Fort Meade, July 1994;
+
+**(2)** A cloth-bound personal journal, water-damaged but largely legible, recovered 9 April 1993 from a survival cache at 73°21′N, 55°08′E (southern Novaya Zemlya archipelago, Russian Federation), positively attributed through handwriting analysis to the journal's author;
+
+**(3)** Partial field-recorder audio (micro-cassette, Type II CrO₂) recovered from the same cache, separately attributed.
+
+The expedition referenced in these materials was a joint DARPA–Norwegian Defence Research Establishment operation conducted under the provisional codename GLASS SARCOPHAGUS. Its stated objective was the investigation and assessment of Installation K-19, a Soviet-era research facility embedded in the permafrost shelf of southern Novaya Zemlya, which had been identified via LANDSAT-7 thermal-band imaging as exhibiting anomalous subsurface heat signatures inconsistent with its 1974 decommission date.
+
+The three-person field team consisted of:
+
+— **Dr. Allen R. Harrod**, DARPA Program Manager, Advanced Physics Division. Acoustic and electromagnetic sensing specialist. U.S. citizen, civilian. (Speaker designation in transcripts: HARROD or H.)
+
+— **Dr. Raya Maksimovna Volkonska**, consulting structural engineer, formerly of the Kurchatov Institute of Atomic Energy, Moscow. Recruited under the Cooperative Threat Reduction umbrella. Russian citizen. (Speaker designation: VOLKONSKA or V.)
+
+— **Specialist Fourth Class Peter "Lucks" Luczynski**, U.S. Army Signal Corps, attached to DARPA field operations as communications and radio-relay technician. U.S. citizen, enlisted. (Speaker designation: LUCKS or L.)
+
+Contact with the field team was lost at 02:17 local time on 16 March 1993. The final transmission logged at Hammerfest is reproduced in this series. A Norwegian Search and Rescue helicopter dispatched to the staging coordinates on 18 March found the surface camp intact but unmanned. The survival cache containing documents (2) and (3) was located seven weeks later by a follow-up survey team approximately 1.4 kilometers east of Installation K-19's mapped surface-access point. No human remains were recovered.
+
+The circumstances of the team's disappearance remain formally unresolved. GLASS SARCOPHAGUS was terminated by DARPA memorandum on 22 March 1993 and its records sealed under a National Security classification that was partially lifted in 2009.
+
+Transcript segments are presented in chronological order. Journal entries are interpolated at the points in the timeline where internal evidence (date headers, contextual references) suggests they were written. Gaps in the transcript are marked **[SIGNAL LOSS]** or **[UNINTELLIGIBLE]**. Translator's notes for Volkonska's occasional Russian-language remarks appear in brackets.
+
+The editors have made no alterations to content.
+
+—*Dr. Eleanor Voss, Series Editor*
+*National Security Archive, December 2009*
+
+---
+
+---
+
+# SEGMENT 1
+
+## Transcript — VHF Channel 7 — 14 March 1993, 08:42 Local
+
+---
+
+**LUCKS:** Hammerfest, Hammerfest, this is Relay One, radio check, how copy. Over.
+
+**HAMMERFEST:** Relay One, Hammerfest reads you five by five. Standing by for duration. Over.
+
+**LUCKS:** Copy five by five. Appreciate the company. I know you guys pulled the short straw on this one. Nothing says career highlight like monitoring an ice shelf for three days while a couple of doctors argue about batteries. Over.
+
+**HAMMERFEST:** [No response.]
+
+**LUCKS:** Tough crowd. Relay One standing by, will advise on team movement. Over and out.
+
+---
+
+**[TRANSCRIPT PAUSE — 6 MINUTES]**
+
+---
+
+**LUCKS:** Hammerfest, Relay One, advisory. Full team is now on station at the staging point. Confirming three souls. Dr. Harrod arrived 0830 via the second helo rotation with three — count three — equipment cases, each one labeled with little color-coded tags like he's shipping himself to summer camp. He jumped off the skid and looked around at the ice and I swear to God he smiled like a man who has just walked onto the set of his own documentary. Big coat, good boots, already talking into his field recorder before his feet hit the ground. Dr. Volkonska arrived 0815 on the first rotation. One case. Olive drab. If the case had a face it would not be smiling. She walked the perimeter of the staging area before she sat down, checked the sight-lines — I don't know to what, there's nothing out here but ice and more ice and some ice behind that — and then sat on her case and waited. She has the look of a woman who was told she'd be here two hours ago and has spent every minute since then deciding how little she intends to enjoy it.
+
+First impressions: Harrod's the kind of officer who tells you to call him by his first name and then remembers your name wrong for the entire deployment. Volkonska is — I don't know yet. She looked at my radio rig for about four seconds and I felt like I'd been audited by the IRS.
+
+I'm the only enlisted on this op, which is how I know I'm the one who'll end up carrying things. Relay One, standing by. Over.
+
+---
+
+**[TRANSCRIPT PAUSE — 22 MINUTES]**
+
+---
+
+**LUCKS:** Hammerfest, advisory, we are packing out from staging toward the access point. GPS reads approximately 1.6 klicks east-northeast over stable shelf. Dr. Harrod has assumed point, which is a generous way of saying he walked ahead before anyone agreed on a march order. Dr. Volkonska is on my six. She has not spoken to me yet. She has not spoken to Dr. Harrod either, except to confirm that her radio is functional, which she did in the way you confirm that a fire extinguisher is functional: you check it because the regulations say so, not because you expect to need it in a place where everything is already burned down.
+
+I am carrying two of Dr. Harrod's cases in addition to my own relay equipment, because — and I want this on the record, Hammerfest — I volunteered. I volunteered because Specialist Luczynski is a professional and a team player and absolutely not because Dr. Harrod set his cases down next to my rig and said "Lucks, you look like a man who doesn't mind a workout" and then walked away before I could answer.
+
+Wind is maybe fifteen knots, gusting. Visibility good. Temperature: cold. Specific temperature: the kind of cold that makes you understand the word "temperature" is a euphemism.
+
+Moving out. Relay One, over.
+
+---
+
+---
+
+## Journal Entry — 14 March, Undated (Contextual Placement: Afternoon/Evening, Pre-Breach)
+
+---
+
+Writing this in the staging tent before lights out. Harrod is asleep in his bag or pretending to be. Volkonska is outside. I can smell her cigarette through the tent seam.
+
+We reached the access point around 1300 hours. It's — well, it's a door set into rock and ice, is what it is. Soviet-industrial. The frame is concrete, poured into a cut in the permafrost shelf, and the door itself is steel, maybe 8cm thick, and it's been welded shut. Not locked. Not bolted. Welded. Full-perimeter seam, bead on bead, the kind of work you do when you're not planning to come back with a key.
+
+Harrod didn't dwell on it. He looked at the weld, checked his briefing packet, made a note in his recorder about "legacy decommission protocols" and moved on to discussing the breaching sequence. He wants to start at 0600 tomorrow. He has a thermal lance in one of the cases I carried — which, for the record, is why it was so heavy, and not because I am, as he suggested, "due for a PT test."
+
+Volkonska dwelled on it.
+
+Not during the approach. Not in front of Harrod. She waited. After the briefing — which was really just Harrod reading aloud from the DARPA packet for an hour while Volkonska stared at the middle distance and I tried to keep my feet from going numb — she was outside the tent smoking and I went out to check my antenna alignment and she said something. First real thing she's said to me that wasn't operational.
+
+She said the original K-19 researchers welded the doors shut from the outside.
+
+I said how do you know that.
+
+She said she recognized the weld pattern. Kurchatov standard for permanent containment closure. She used to do inspections.
+
+I asked her what that meant.
+
+She smoked and didn't answer, which I guess was the answer.
+
+Going to try to sleep. Wind's picking up. The tent fabric sounds like someone crumpling paper very fast and never stopping. I keep thinking about the word "permanent." You don't weld something permanently shut because you're done with it. You weld something permanently shut because you've decided the door should stop being a door.
+
+---
+
+---
+
+# SEGMENT 2
+
+## Transcript — VHF Channel 7 — 15 March 1993, 06:22 Local
+
+---
+
+**LUCKS:** Hammerfest, Relay One. Morning report. Team is on station at the K-19 surface access point, preparing for breach. Dr. Harrod is heating the thermal lance. Dr. Volkonska is inspecting the door frame. I am establishing relay position approximately twelve meters from the access point, good line of sight to the entry and to the antenna I staked last night. Signal is clean. Over.
+
+**HAMMERFEST:** Copy, Relay One. Be advised, weather window is holding. Satellite pass confirms no surface activity within twenty klicks of your position. You are alone out there. Over.
+
+**LUCKS:** Hammerfest, that is either reassuring or the opposite of reassuring and I haven't decided which. Relay One standing by. Over.
+
+---
+
+**[TRANSCRIPT PAUSE — 14 MINUTES]**
+
+---
+
+**LUCKS:** Hammerfest, Relay One. The lance is through the first weld bead. Harrod's cutting the perimeter seam — good pace, steady hand, I'll give him that. Sparks on ice. Volkonska is standing back. She has her hard hat on, which is correct procedure, but also she's standing back in a way that doesn't look like procedure. She's standing back the way you stand back from a thing that might move.
+
+**[PAUSE — 3 seconds]**
+
+Smells like hot metal and something else. Something under the metal. Harrod says it's outgassing — trapped air escaping from the pressure differential as the seal breaks. Says it's normal.
+
+It doesn't smell normal. It smells like — I don't know. Old pennies and static electricity. The smell you get right before lightning except there's no storm.
+
+Harrod's halfway around the door.
+
+Over.
+
+---
+
+**[TRANSCRIPT PAUSE — 38 MINUTES]**
+
+---
+
+**LUCKS:** Hammerfest, Relay One. Access door is breached. Full perimeter weld cut. Harrod and Volkonska pried the door out of the frame using a come-along — it fell forward onto the ice and it was heavy enough to crack the surface layer. Behind it: a corridor. Concrete walls, ceiling, floor. Soviet-standard construction, overhead cable runs, the works. Emergency lighting fixtures on the walls — dead, obviously. No power for eighteen years.
+
+Initial environmental observation that I am putting on the record because I want someone smarter than me to explain it later: it is warmer inside than outside. That's the wrong direction. We are standing at the mouth of a tunnel bored into permafrost. Permafrost is by definition permanently frozen. The air coming out of this corridor is not cold. It's — I'd call it cool. Maybe 5 Celsius. Maybe warmer. It should be minus 15 at minimum. Harrod has his thermometer out and he's already on his recorder calling this "a thermal anomaly consistent with subsurface radioisotope dispersal," which is a very fancy way of saying he thinks something down there is warm that shouldn't be.
+
+Volkonska said nothing. She put her hand on the corridor wall and held it there. Then she pulled it back and looked at her palm like she was checking for a pulse.
+
+**[PAUSE — 2 seconds]**
+
+Team is preparing to enter. I'm moving my relay rig to the access point threshold. I'll set up here — right at the door frame. Hard wire runs twenty meters inside, antenna feeds my signal to surface. This is my station. I'm the door. Everything that goes in or comes out goes through me.
+
+Hammerfest, Relay One. We are entering K-19. Over.
+
+---
+
+**[TRANSCRIPT PAUSE — 11 MINUTES]**
+
+---
+
+**LUCKS:** Hammerfest, Relay One. Upper level. Team is approximately thirty meters inside. Corridor opens into what appears to be an administrative area — reception counter, document cubbies, a wall-mounted board that still has personnel badges hanging on hooks. The badges have photographs. Faces. Young people, mostly. One woman and about a dozen men. The photographs have that Soviet look — you know the one — where everybody is formal and slightly terrified as if the camera might report them to someone.
+
+Harrod is photographing everything. Volkonska is ahead of him, checking the structural integrity of the ceiling joists. She moves through a space differently than he does. He goes to the objects — the desks, the badges, the equipment. She goes to the joins. The seams where one material meets another. Where the concrete meets the rock. Where the cable runs enter the walls. She reads a building the way you'd read an X-ray — she's not looking at the surface, she's looking at the bones.
+
+I'm at my station. Twenty meters of hard-wire between me and the team, and the corridor carries sound well enough that I can hear Harrod talking about isotope batteries. He's been talking about isotope batteries since breakfast. I think he needs it to be an isotope battery the way some men need it to be a ten-point buck and not a noise in the bushes.
+
+Over.
+
+---
+
+**[TRANSCRIPT PAUSE — 7 MINUTES]**
+
+---
+
+**HARROD:** [Faint, relayed through Lucks' hard-wire feed.] Lucks, you getting this? There's a breaker panel at the junction ahead of us. Soviet-standard PB-60 series, industrial three-phase.
+
+**LUCKS:** Copy, Dr. Harrod, I hear you. What about it?
+
+**HARROD:** [Faint.] Volkonska's looking at it. The switch housings are intact. I want to see if there's residual charge in the system — it would help me trace the original power grid.
+
+**VOLKONSKA:** [Faint, accented.] The panel is live.
+
+**HARROD:** [Faint.] It's not live. There's no power source. It's been decommissioned for two decades—
+
+**VOLKONSKA:** [Faint.] The indicator light is on.
+
+**[PAUSE — 4 seconds]**
+
+**HARROD:** [Faint.] That's — that's a residual charge effect. Phosphorescent dial coating.

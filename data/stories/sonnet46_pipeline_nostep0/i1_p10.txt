@@ -1,0 +1,263 @@
+# Hacker Mindset
+
+The restaurant was called Oleander, which told you something about the owner's relationship with liability, and the host stand was unattended, which told you something about the staffing situation, and the POS system mounted to the bar was a Toast Gen 2 running what looked like a firmware version that hadn't been current since 2021, which told you something about the IT budget, and Maya was already at the table, which told you she was either nervous or punctual, and her bag was a canvas tote with something printed on it that he couldn't read from here, and her hair was shorter than her photos, which people did when they felt like a different person than they'd been six months ago, and—
+
+*Stop.*
+
+Daniel set his jacket on the back of the chair and sat down.
+
+*Just be a person tonight.*
+
+He had said this to himself in the Uber. He had said it while washing his hands in the bathroom of his apartment before leaving. He had said it once on the sidewalk outside, watching his breath in the November air, and it had felt almost convincing. The instruction was simple. It shouldn't require repetition. "Just be a person" was the kind of direction that actual people never had to give themselves, which was the entire problem, but fine. He was here. She was here. The candle between them was one of those fake LED ones, which meant the fire marshal had visited recently or the owner had been burned before, figuratively or otherwise.
+
+"Hi," she said. "I was starting to think I'd gotten the address wrong."
+
+"No, I—" He had been standing outside for four minutes, completing the environmental scan. "Traffic."
+
+She smiled. Her teeth were slightly crooked on the bottom, the kind that happened when someone's parents had stopped monitoring the retainer situation around fourteen, and that was a real and specific thing he had noticed and she would find unsettling if she knew he'd noticed it, so he looked at the candle instead.
+
+Her name was Maya. The tote bag on the back of her chair had a dragon on it.
+
+He'd look at that later.
+
+---
+
+The Wi-Fi network was called OLEANDER_GUEST and it was unsecured and the router was a Netgear Nighthawk zip-tied to a shelf behind the bottles of Aperol, visible if you were sitting at the right angle to the bar, which he was.
+
+"So," Maya said. "What do you actually do? Your profile said 'information security' but that's like saying you work 'with computers.'"
+
+"Penetration testing, mostly. Companies hire me to try to break into their systems before someone else does."
+
+"So you're a hacker."
+
+"A consultant."
+
+"A hacker who charges more."
+
+He almost smiled. "That's more accurate, yeah."
+
+The server came. Her name was Britt, and she entered the PIN for the payment tablet as 4-4-4-4, switched screens, then entered it again when the table next to them flagged her down mid-transaction: 4-4-4-4 again. The same. He filed it. He did not want to file it. It filed itself.
+
+Maya was watching him watch the server leave.
+
+"You just clocked something," she said.
+
+"No."
+
+"Your face did a thing."
+
+"I have a resting assessment face. I'm working on it."
+
+She laughed, and the laugh was genuine — he knew genuine laughs versus social laughs, the difference in the timing, the way genuine ones caught people slightly off guard, even themselves — and he thought: *okay, this is survivable.*
+
+"Where are you from originally?" he asked, because the app had told him to ask open-ended questions and he was, tonight, going to follow instructions designed for human beings.
+
+"Ohio," she said. "Little town outside Columbus you've never heard of. Westerville."
+
+He had now heard of it. He stored it in a place he was pretending didn't exist.
+
+---
+
+The small talk was going badly in the specific way that small talk went badly for him, which was that his answers were too complete. She asked what he did on weekends and he said he did threat modeling and read about social engineering techniques, which was true, and also he ran, which was also true, and she said "those seem like very different hobbies" and he said "there's more overlap than you'd think" and then could not explain the overlap in a way that didn't make him sound like he spent his weekends building models of how to manipulate people, which he did, professionally, but the framing was the whole problem.
+
+She told a story about her dog. The dog's name was Biscuit.
+
+*Childhood pet: Biscuit.*
+
+He hated himself a little.
+
+She mentioned she'd grown up going to her grandpa's house for holidays, her mom's dad, her mom who was a Patterson before she married, which was one of those details that people dropped without thinking because it was a warm detail, grandpa's house, holidays, and it was not her fault that it was also the kind of detail that lived in the "mother's maiden name" field of every password recovery form he had ever seen.
+
+*Patterson.*
+
+The imaginary form was filling out.
+
+*Stop it.*
+
+He picked up his water glass and looked at the dragon on her tote bag and said, because he needed a new direction, "Is that a Shivan Dragon?"
+
+She stopped mid-sentence.
+
+"Is that a Shivan Dragon on your bag."
+
+She looked at him. She looked at the bag. She looked back at him.
+
+"It's a Shivan Dragon," she said.
+
+"Revised Edition art or—"
+
+"Revised, yeah, I have a print of the Easley original at home—"
+
+"The Easley is — okay the Easley is iconic but the Revised border—"
+
+"The Revised border is ugly—"
+
+"Objectively ugly—"
+
+"But there's something about it—"
+
+"You know exactly what you're saying."
+
+"I know exactly what I'm saying." She was leaning forward now. "Do you still play?"
+
+And here is the thing about finding the person at the table who plays Magic: The Gathering — not *played*, past tense, childhood thing, not anymore — but *plays*: the finding of them rearranges something in the chest, something structural, a load-bearing wall you hadn't known was under stress.
+
+"Commander, mostly," he said. "I have a Mizzix deck that should probably be illegal."
+
+"Mizzix." She said it like a verdict. "Combo or storm?"
+
+"Is there a difference?"
+
+"Oh, we're having a different conversation now," she said. She pushed the bread basket to the side to make room for the conversation.
+
+They were having the different conversation. He had a Mizzix storm deck that he had spent eleven months tuning and three people at his LGS had quietly stopped inviting him to play after an incident with Bonus Round and a full grip of cantrips that he was not technically sorry about. She played a Yargle and Multani deck that was, she explained, 98 lands and 2 non-lands, and the non-lands were Command Tower and Cultivate, and the entire thing was a philosophical statement about the nature of commander damage.
+
+"That's not a deck," he said. "That's a threat."
+
+"It wins," she said pleasantly.
+
+"It *can't*—"
+
+"It has won," she said, "twice," and the way she said it, the little private smile, he understood that she was someone who had once been told she couldn't do a thing and had simply done it twice to make the point and then moved on.
+
+He noticed this. He noticed it the way he noticed system architecture, the underlying design, and it was nothing like the way he'd been noticing everything else tonight because this was not information he was storing against her, this was information he wanted, just wanted, the way you wanted to know how something worked because it was interesting and you were glad it existed.
+
+"I started playing because of my sister," he said. This was not something he planned to say. "She was — she died when I was sixteen. She'd been playing since Mirage and I picked it up after, and I told myself I was just learning the system, the mechanics, whatever. But I had her whole collection and I just—" He stopped. "I kept drafting her archetypes. That was probably the thing."
+
+He had not told anyone that. He had told people he started playing in high school because a friend got him into it, which was also true, the sequence was just different.
+
+Maya looked at him.
+
+"I'm sorry about your sister," she said.
+
+Not *I'm so sorry.* Not the escalated performance version. Just the plain one.
+
+"Thank you," he said. Also plain.
+
+The candle flickered on whatever internal timer the restaurant had set for ambiance, and Britt came to take their orders, and the conversation moved, and the conversation was fine, it was more than fine, it was the kind of conversation where you forgot to track what you'd said because you were too busy listening.
+
+---
+
+She had laughed four times in the last twenty minutes. He knew because he'd noticed, and he had also noticed that he was noticing differently now — not cataloguing, just aware, the way you were aware of good weather.
+
+Her phone buzzed on the table. She glanced at it, picked it up, angled the screen toward herself in the automatic way people did in public, the reflex you developed not from paranoia but from living among other people who might glance at your screen on a train, nothing personal.
+
+And he saw it.
+
+Not the screen. The motion. The lock pattern: a Z-shape, left to right, upper rail to lower, three points. Greasy trail already worn into the glass from repetition, visible in the candlelight the way smudge patterns always were if you were looking, and he was always looking, and the Z pattern was one of the five most common Android unlock patterns, number two or number three depending on the dataset, trivial to replicate, trivial.
+
+She put the phone down. She was reading a text from — he hadn't seen the preview, he had specifically not read the preview.
+
+She was reading a text.
+
+*Say nothing. Say nothing. Say nothing.*
+
+"Your lock pattern," he said.
+
+She looked up.
+
+"The Z?" He traced it in the air, too specifically, and watched her face understand what he'd just done. "It's — that's one of the most commonly used patterns. You should use a PIN. Or at least a less geometric—"
+
+"Were you watching my screen?"
+
+"No, the smudge — on the glass, you can see the wear path from repeated use, the oil from your finger builds up on the contact points and it's — this is a thing that security researchers study, it's called a smudge attack, it's documented—"
+
+"You analyzed my phone from across the table."
+
+"Passively. I wasn't—" He stopped. "I was trying to say you should use a better lock."
+
+She looked at him. She was not angry. She was doing something more careful than angry, which was more dangerous than angry, which was trying to figure out who he was.
+
+"Okay," she said, slowly.
+
+---
+
+The silence had a texture. He was reading it like a system returning status codes: not 200, not 404, somewhere in the 4xx range, client error, something he'd done, unclear if fatal.
+
+"Do you do this with everyone?" she asked.
+
+There it was. Clean and pointed and genuine, the question that actually wanted an answer.
+
+"Yes," he said.
+
+He watched her process that.
+
+"Not — like. Not deliberately. It's not that I'm trying to build a profile on you, it's that my brain does the building and I'm — I've been trying to stop it, tonight, I've been actively trying to stop it all night, and I probably should have mentioned that, actually, as a thing to mention."
+
+"What do you mean you've been building a profile."
+
+"I know your hometown. I know your dog's name. I know your mother's maiden name from the story about your grandfather's house. I know—"
+
+He stopped. He stopped because she was looking at him with an expression he could now identify clearly, which was not anger and was not fear but was the specific face of someone watching something unexpected happen, suspended between reactions, waiting to see where it landed.
+
+"That's what the form asks," he said. "Password recovery. The security questions. Hometown, first pet, mother's maiden name. And I can't listen to a person talk without — those are the fields that populate. I don't use them. I would never use them. But I also can't — I can't unhear them when I hear them. That's not an excuse. That's just — it's what it is. I used to do this professionally. Not penetration testing, before that. I did the actual—" He exhaled. "I was pretty good at it and then I was in a situation where I understood what it actually cost and I got out, and I retrained, and I have been a legitimate professional for eight years, but the part of my brain that trained first is still — it's still there. It still runs. And I hate that I'm telling you this on a first date because this is objectively the worst possible—"
+
+"You used to be an actual hacker."
+
+"Yes."
+
+"And now you're a consultant who charges more."
+
+The corner of his mouth moved.
+
+She looked at him for a long moment. She looked at the tote bag on the back of her chair. She looked at the table.
+
+Then she picked up her phone and placed it face-down.
+
+Screen down. He could not tell, and he would not allow himself to try to determine, whether that was for privacy or for him.
+
+"Biscuit," she said finally, "was actually my second dog. My first dog was named Rook. He was a German Shepherd."
+
+He stared at her.
+
+"I don't actually care that my mother was a Patterson," she said. "Patterson's a pretty common name. And Westerville, Ohio is not a secret. You can see it from space, basically."
+
+"I wasn't—"
+
+"I know," she said. "I think I know." She was quiet for a moment. "The sister thing. The drafting her archetypes thing. That wasn't tactical, was it."
+
+"No."
+
+"Okay."
+
+Britt materialized with dessert menus neither of them had requested. They both looked at the menus. Daniel ordered the olive oil cake because it was the first item, which was not how he usually made decisions. Maya ordered the chocolate thing without reading the description.
+
+They did not talk about the phone again. They did not talk about password recovery forms or smudge attacks or what he used to be before he was a consultant who charged more.
+
+She told him that Rook had been afraid of ceiling fans, specifically, not fans in general, just the ceiling kind, for reasons that could not be identified, and she had lived in an apartment for three years with ceiling fans in every room because she'd forgotten to think about it before signing the lease, and the dog had simply decided that every room was a threat and had adapted, had lived his full life moving cheerfully through a world of hostile ceilings, and she said this like it was just a story about a dog.
+
+He laughed. He heard himself laugh and it sounded like a person.
+
+---
+
+Outside, on the sidewalk, November had sharpened while they were inside. Her Uber was four minutes out. His was seven. They stood slightly closer than the cold required.
+
+"Same LGS?" she said. "Or is that weird."
+
+"That's not weird."
+
+"It might be weird."
+
+"I'll bring the Mizzix deck," he said, "and you can tell me whether it should be illegal."
+
+"I already know the answer," she said. "I just want to see it."
+
+Her Uber arrived first. She picked up the tote bag from where she'd set it on the stoop and pulled it onto her shoulder, the Shivan Dragon facing outward, red scales in the streetlight.
+
+"Hey," she said. She was half-turning toward the car. "The password recovery thing. The form in your head."
+
+"Yeah."
+
+"For the record," she said, "Rook. Westerville. Patterson." She said it like filling in fields, deliberate and almost gentle. "Now it's not surveillance, it's just something you know."
+
+He had no metaphor for that. He had no security equivalent for what she had just done, which was hand him the map and thereby make the map useless, which was a thing he understood intellectually but could not encode properly, could not route into any familiar framework.
+
+He had a thing happen in his chest instead.
+
+He watched her car pull away and didn't know if she'd meant it as kindness or as something more complicated, didn't know if tonight had been salvaged or if she was simply being gracious on the way to a clean exit, couldn't assess the odds, couldn't read the return code from where he was standing.
+
+He stood on the sidewalk and didn't know.
+
+Seven minutes until his Uber. The cold settling in. A city proceeding around him in its illegible way.
+
+He didn't know, and it was the most he'd felt all night.

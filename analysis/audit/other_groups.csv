@@ -1,0 +1,428 @@
+group,model_slug,story_id,ends_mid_sentence,reason,last_80_chars
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p01,False,punct,Text ends mid-stride—
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p02,False,short_last_line,"
+4 miles a night  
+1,456 miles since Hogmanay  
+Light keeps turning  
+Either way"
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p03,False,punct,"iting, unrun, the dust still drifting, neither of them moving to close the book."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p04,False,punct,They started walking anyway.
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p05,False,punct,"ter itself, waiting for him to speak the ending he'd always been walking toward."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p06,False,punct," the spinning carousel, contract unsealed, heart in my hand still beating paper."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p07,False,punct,"I grin, metronome silenced, and melt into the mix."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p08,False,punct,"Ben pocketed the promise, already rehearsing Italian verbs for stealing time."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p09,False,punct,"veloped, while we stand in sudden white light holding a truth that hasn’t dried."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p10,False,punct,"site directions, parallel lies, smiles syncing in mutual refusal to turn around."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p11,False,punct,"nting heartbeats that haven’t happened yet, tomorrow’s slideshow already queued."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p12,False,punct,t the gate closed behind me the sentence keeps running running until the sudden.
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p13,False,punct,"quare of rice-paper circulated, unsigned, already sliding into someone’s sleeve."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p14,False,punct,I walk away before the mirror can decide.
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p15,False,punct,"never ends, breath held in the isometric pause where her heartbeat answers mine."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p16,False,punct,"ury after that, the throne will wobble again, the hound will chew, and she will—"
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p17,False,punct,"taped, metered, only half as infinite as before—dream bureaucracy at its finest."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p18,False,punct,"meet the next ascent, the next letter, the next laugh waiting inside the labour."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p19,False,punct,Companionship is the drug; that is enough.
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p20,False,punct,e the ash decides who breathes first—blackout on the endless three-second snarl.
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p21,False,punct,"ions inside each other’s skins, stepping opposite ways out of the empty village."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p22,False,punct,"The bulb resets, counting down."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p23,False,short_last_line,Timestamp: 16/12/20██ 14:32
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p24,False,punct,No further doors reported—yet.
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p25,False,punct,"e the viewport held their positions, polite as calculators, patient as glaciers."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p26,False,punct,"ng, the silence outside still uncatalogued, the maze below widening without end."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p28,False,punct,"is eyes, tail ticking side to side like a clock that still believes in midnight."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p29,False,punct,"nel flickers, LCD freezes mid-sentence:  
+It is possible that none of this will—"
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p30,False,punct,"aphy of morning, something knocked twice, waiting for its name to be braided in."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p31,False,punct,"the railroad tie, I hover between inland and water, still trembling, still here."
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p32,False,punct," might convince you that some tools are sharp enough to cut in both directions."""
+kimik2_pipeline,narrative_kimi__moonshotai_kimi-k2,i1_p33,False,punct,"in three years, wonder whether I’m calling myself home or finally letting me go."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p01,False,punct,"g the impact shudder up my arm, and prepared myself for another day of survival."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p02,False,short_last_line,"Love,
+James"
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p03,False,punct,Her hands were shaking.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p04,False,punct,"That doesn't sound half bad."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p05,False,punct,"Time to hunt."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p06,False,punct,"God help her, she would go."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p07,False,punct,"And for the first time in a long time, Haruka felt like she might belong to it."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p08,False,punct,"""We don't."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p09,False,punct,"And for once, I don't need to know exactly what happens next."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p10,False,punct,Maybe being broken in one way doesn't mean you're broken in all ways.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p11,False,punct,"y am.
+
+*Okay, so when I see him, I'll say ""Hey"" but not too enthusiastically...*"
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p12,False,punct,Maybe this time I don't have to hit the ground alone.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p13,False,punct,Neither fighter heard them anymore.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p14,False,punct,I'll decide who I'm becoming when the time runs out.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p15,False,punct,"""See you Thursday,"" I say, and leave before he can see that he's right."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p16,False,punct,"""Don't judge me,"" Lucifer said.
+
+*Scrape-scrape-scrape.*"
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p17,False,punct,"Court dismissed."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p18,False,punct,It always was.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p19,False,punct,"But tonight, there would be another pipe to prepare."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p20,False,punct,"Whatever happens, happens."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p21,False,punct,"lows her through the portal she tears in reality, echoing long after she's gone."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p22,False,punct,"""No shit."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p23,False,punct,I don't know when I'll stop.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p24,False,punct,Investigation ongoing.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p25,False,punct,"And they may not be as polite as we are."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p26,False,punct,"ble in the dark stone: Prometheus unbound, chains broken, reaching toward flame."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p28,False,punct,Waiting.
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p29,True,no_terminal_punct,The tomato DNA in the tubes is already eight
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p30,False,punct,"They actually came."""
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p31,False,punct,"""Okay,"" I say."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p32,False,punct,"""I'll do it,"" she whispered."
+top10_zeroshot,anthropic__claude-sonnet-4.5,i1_p33,False,punct,"Then, so softly I almost miss it: ""Myself."""
+top10_zeroshot,claude-opus-4-5-20251101,i1_p01,False,punct,The games would begin in three days.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p02,False,short_last_line,"Your son,
+Callum"
+top10_zeroshot,claude-opus-4-5-20251101,i1_p03,False,punct,"Her hands, she noticed, were trembling slightly."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p04,False,punct,"""Goodnight, Midas."""
+top10_zeroshot,claude-opus-4-5-20251101,i1_p05,False,punct,"And somewhere behind them, in the cabin that wasn't empty, something exhaled."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p06,False,punct,"""To start."""
+top10_zeroshot,claude-opus-4-5-20251101,i1_p07,False,punct,"This time, she didn't fix them."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p08,False,punct,He was already planning to be early.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p09,False,punct,Completely alive.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p10,False,punct,"t talking about draft picks, and for a few minutes, the background noise quiets."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p11,False,punct,"the words, all the right things to say—will match the person everyone else sees."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p12,False,punct,And for this moment—just this moment—I almost believe myself.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p13,False,punct,The blood debt had only grown deeper.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p14,False,punct," just stand here, feeling my body remember what it's already starting to forget."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p15,False,punct,We begin again.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p16,False,punct,"Some things, at least, remained constant."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p17,False,punct,"Dream, for once, did."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p18,False,punct,The boulder began to move.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p19,False,punct,ready counting the hours until I'd need to descend those worn stone steps again.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p20,False,punct,ly the sound of their footsteps and the distant promise of violence yet to come.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p21,False,punct,Neither looks away first.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p22,False,punct,The battle has only begun.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p23,False,short_last_line,"Torres, Psychological Evaluation, March 22nd"
+top10_zeroshot,claude-opus-4-5-20251101,i1_p24,False,punct,Request has been pending for 847 days.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p25,False,punct," comfortable cell, and the filtration system hummed its endless mechanical song."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p26,False,punct,Aldren Keth smiled.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p28,False,punct,"The watch looked back.
+
+*To be continued...*"
+top10_zeroshot,claude-opus-4-5-20251101,i1_p29,False,punct,The fan screamed.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p30,False,punct,She never suggested we play the midnight games again.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p31,False,punct,For now.
+top10_zeroshot,claude-opus-4-5-20251101,i1_p32,False,punct,"I don't know anymore.*
+
+""I would *negotiate*,"" she said instead."
+top10_zeroshot,claude-opus-4-5-20251101,i1_p33,False,punct,"""Because if Dax set us both up, we're going to need each other to survive it."""
+top10_zeroshot,claude-opus-4-6,i1_p01,False,punct,"ou who carried the world and set it down again.*
+
+*Teach me how to set it down.*"
+top10_zeroshot,claude-opus-4-6,i1_p02,False,short_last_line,"Your son,
+Callum"
+top10_zeroshot,claude-opus-4-6,i1_p03,False,punct,"in,"" she said, and closed the spreadsheet she'd stopped reading ten minutes ago."
+top10_zeroshot,claude-opus-4-6,i1_p04,False,punct,"d planned for a future that, against all evidence, they had not yet given up on."
+top10_zeroshot,claude-opus-4-6,i1_p05,False,punct,They did not lead back.
+top10_zeroshot,claude-opus-4-6,i1_p06,False,punct,"wing, and not entirely kind — and the sodium light above them went out for good."
+top10_zeroshot,claude-opus-4-6,i1_p07,False,punct,"""Then I think we've got a lot to talk about."""
+top10_zeroshot,claude-opus-4-6,i1_p08,False,punct,"He was in terrible, wonderful trouble."
+top10_zeroshot,claude-opus-4-6,i1_p09,False,punct,"sn't look away, and for once in my life I let the image develop at its own pace."
+top10_zeroshot,claude-opus-4-6,i1_p10,False,punct,But only twice.
+top10_zeroshot,claude-opus-4-6,i1_p11,False,punct,"e for a moment, and the silence feels like something I could almost live inside."
+top10_zeroshot,claude-opus-4-6,i1_p12,False,punct,I try to let it be enough.
+top10_zeroshot,claude-opus-4-6,i1_p13,False,punct,"ding over his fallen enemy, chest heaving, and felt nothing at all like victory."
+top10_zeroshot,claude-opus-4-6,i1_p14,False,punct,"*02:29:58.**
+
+And the clock keeps counting backward toward whoever I'm becoming."
+top10_zeroshot,claude-opus-4-6,i1_p15,False,punct,", the sun is going down, and neither of us mentions it, and neither of us stops."
+top10_zeroshot,claude-opus-4-6,i1_p16,False,punct,isting slightly toward the place where something necessary had been chewed away.
+top10_zeroshot,claude-opus-4-6,i1_p17,False,punct,"The ceiling said nothing, but it didn't care for it one bit."
+top10_zeroshot,claude-opus-4-6,i1_p18,False,punct,"It was, he reflected, nice to have a second thing."
+top10_zeroshot,claude-opus-4-6,i1_p19,False,punct,I began to rewrite the patrols.
+top10_zeroshot,claude-opus-4-6,i1_p20,False,punct,"""Shut up,"" she says, and doesn't shoot."
+top10_zeroshot,claude-opus-4-6,i1_p21,False,punct,They walk.
+top10_zeroshot,claude-opus-4-6,i1_p22,False,punct,The war will be slower than that.
+top10_zeroshot,claude-opus-4-6,i1_p23,False,punct,"d on October 14, 2024.
+
+**[FURTHER ADDENDA RESTRICTED — O5 CLEARANCE REQUIRED]**"
+top10_zeroshot,claude-opus-4-6,i1_p24,False,punct,Reclassification to Apollyon is under review.
+top10_zeroshot,claude-opus-4-6,i1_p25,False,punct,He did not say how much time that would be.
+top10_zeroshot,claude-opus-4-6,i1_p26,False,punct,"d I had no questions yet—only the old, hard weight of knowing how little I knew."
+top10_zeroshot,claude-opus-4-6,i1_p28,False,punct,ourglass button and tried to calculate how much of himself he had left to spend.
+top10_zeroshot,claude-opus-4-6,i1_p29,False,punct,"ous tubes from the heating block, and began the work of making dead things grow."
+top10_zeroshot,claude-opus-4-6,i1_p30,False,punct,I want to say I don't think that means anything.
+top10_zeroshot,claude-opus-4-6,i1_p31,False,punct,Maybe instead I'll become.
+top10_zeroshot,claude-opus-4-6,i1_p32,False,punct,"""Let us discuss your price."""
+top10_zeroshot,claude-opus-4-6,i1_p33,False,punct,I really hate interesting.
+top10_zeroshot,claude-sonnet-4-6,i1_p01,False,punct,nd I sat in the warm sand and waited to see what the day intended to make of me.
+top10_zeroshot,claude-sonnet-4-6,i1_p02,False,short_last_line,"All my love,
+Mum"
+top10_zeroshot,claude-sonnet-4-6,i1_p03,False,punct,Neither of them suggested he leave sooner than that.
+top10_zeroshot,claude-sonnet-4-6,i1_p04,False,punct,"rld, something that was almost, if you didn't look at it directly, like comfort."
+top10_zeroshot,claude-sonnet-4-6,i1_p05,False,punct,tever had been tending that fire had let it go out—or had no further need of it.
+top10_zeroshot,claude-sonnet-4-6,i1_p06,False,punct,She did not walk away.
+top10_zeroshot,claude-sonnet-4-6,i1_p07,False,punct,"""Tell me everything."""
+top10_zeroshot,claude-sonnet-4-6,i1_p08,False,punct,"""I'll be at the fountain,"" he said."
+top10_zeroshot,claude-sonnet-4-6,i1_p09,False,punct,The red light holds us both.
+top10_zeroshot,claude-sonnet-4-6,i1_p10,False,punct,"Some systems, I think, are worth protecting."
+top10_zeroshot,claude-sonnet-4-6,i1_p11,False,punct,I keep going.
+top10_zeroshot,claude-sonnet-4-6,i1_p12,False,punct,"y phone is at nine percent now, climbing,*
+
+*and I am here,*
+
+*and I am trying.*"
+top10_zeroshot,claude-sonnet-4-6,i1_p13,False,punct,They watched the torch burn.
+top10_zeroshot,claude-sonnet-4-6,i1_p14,False,punct,"f in me, like a door, and I don't yet know if I've just survived or surrendered."
+top10_zeroshot,claude-sonnet-4-6,i1_p15,False,punct,I'm still learning.
+top10_zeroshot,claude-sonnet-4-6,i1_p16,False,punct,"ucifer supposed, more or less what you could say about everything worth keeping."
+top10_zeroshot,claude-sonnet-4-6,i1_p17,False,punct,He always did.
+top10_zeroshot,claude-sonnet-4-6,i1_p18,False,punct,He pushed.
+top10_zeroshot,claude-sonnet-4-6,i1_p19,False,punct,I still had the afternoon's accounting to do.
+top10_zeroshot,claude-sonnet-4-6,i1_p20,False,punct,"The jukebox, three blocks over, starts its loop again."
+top10_zeroshot,claude-sonnet-4-6,i1_p21,False,punct,"The blood moon watches them through ancient glass, and neither moves to leave."
+top10_zeroshot,claude-sonnet-4-6,i1_p22,False,punct,Jolyne pulls her string tight and gets to work.
+top10_zeroshot,claude-sonnet-4-6,i1_p23,False,punct,No anomalous readings detected as of 0800.
+top10_zeroshot,claude-sonnet-4-6,i1_p24,False,punct,The scratches around the doorknob on the Site-17 instance are fresh.
+top10_zeroshot,claude-sonnet-4-6,i1_p25,False,punct,"It tasted, he thought, exactly like a decision he hadn't made yet."
+top10_zeroshot,claude-sonnet-4-6,i1_p26,False,punct,"""And find out."""
+top10_zeroshot,claude-sonnet-4-6,i1_p28,False,punct,Maybe.
+top10_zeroshot,claude-sonnet-4-6,i1_p29,False,punct,"She wrote the date, the cultivar, and one other word.
+
+*Persistent.*"
+top10_zeroshot,claude-sonnet-4-6,i1_p30,False,punct,I'm not sure I believe them.
+top10_zeroshot,claude-sonnet-4-6,i1_p31,False,punct,Whatever that means.
+top10_zeroshot,claude-sonnet-4-6,i1_p32,False,punct,"""I'm proposing,"" Aya said, ""that you already do."""
+top10_zeroshot,claude-sonnet-4-6,i1_p33,False,punct,"""Cass,"" I say quietly, ""hold that thought."""
+top10_zeroshot,kimi-k2-thinking,i1_p01,False,punct,"day, each day was a breath, and breath was the only god that never deserted you."
+top10_zeroshot,kimi-k2-thinking,i1_p02,False,short_last_line,"Your son,
+Callum"
+top10_zeroshot,kimi-k2-thinking,i1_p03,False,punct,He just needed her to stop pretending she didn't.
+top10_zeroshot,kimi-k2-thinking,i1_p04,False,punct,"it had always been: a nice idea, poorly executed, and full of things that stung."
+top10_zeroshot,kimi-k2-thinking,i1_p05,False,punct,And the caribou season had only just begun.
+top10_zeroshot,kimi-k2-thinking,i1_p06,False,punct," me, close enough to touch but far enough to be a ghost, he watched me take aim."
+top10_zeroshot,kimi-k2-thinking,i1_p07,False,punct,"s sign rotated: plates of tuna and salmon looping in an endless, hopeful circle."
+top10_zeroshot,kimi-k2-thinking,i1_p08,False,punct," his wrist, his guidebook abandoned forever in the shadow of the Trevi Fountain."
+top10_zeroshot,kimi-k2-thinking,i1_p09,False,punct,"In the red light, his smile is the brightest thing in the room."
+top10_zeroshot,kimi-k2-thinking,i1_p10,False,punct,I think I might be in trouble.
+top10_zeroshot,kimi-k2-thinking,i1_p11,False,punct,For now.
+top10_zeroshot,kimi-k2-thinking,i1_p12,False,punct,They always do.
+top10_zeroshot,kimi-k2-thinking,i1_p13,False,punct,"adows, leaving the torchlight, the temple, and the debt unpaid but acknowledged."
+top10_zeroshot,kimi-k2-thinking,i1_p14,False,punct,"A rope, coiled tight, waiting."
+top10_zeroshot,kimi-k2-thinking,i1_p15,False,punct, feeling the grafted tendon slide beneath skin that will never forget his touch.
+top10_zeroshot,kimi-k2-thinking,i1_p16,False,punct,"""Good girl."""
+top10_zeroshot,kimi-k2-thinking,i1_p17,False,punct,"Then it, too, was gone."
+top10_zeroshot,kimi-k2-thinking,i1_p18,False,punct,"And the lizard, for what it was worth, looked like it could use a friend."
+top10_zeroshot,kimi-k2-thinking,i1_p19,False,punct,"ode something else entirely, something that had already conquered me completely."
+top10_zeroshot,kimi-k2-thinking,i1_p20,False,punct,"And whatever happens, happens."
+top10_zeroshot,kimi-k2-thinking,i1_p21,False,punct,und something that can break them—or something strong enough to make them whole.
+top10_zeroshot,kimi-k2-thinking,i1_p22,False,punct,The game has only just begun.
+top10_zeroshot,kimi-k2-thinking,i1_p23,False,punct," she's forgiven. -E""*
+
+No personnel have claimed responsibility for the message."
+top10_zeroshot,kimi-k2-thinking,i1_p24,False,punct,He never visited an SCP-7191 instance.
+top10_zeroshot,kimi-k2-thinking,i1_p25,False,punct,"e house, he was beginning to understand, was far larger than he'd ever imagined."
+top10_zeroshot,kimi-k2-thinking,i1_p26,False,punct,"w of the spire, where Persephone’s foot touched the earth and did not look back."
+top10_zeroshot,kimi-k2-thinking,i1_p28,False,punct,"Only this time, it sounded exactly like my mother’s voice."
+top10_zeroshot,kimi-k2-thinking,i1_p29,False,punct,But they'd never planned on the hackers who'd make themselves the upgrade.
+top10_zeroshot,kimi-k2-thinking,i1_p30,False,punct,"scaring themselves stupid—that some doors, once opened, never quite close again."
+top10_zeroshot,kimi-k2-thinking,i1_p31,False,punct,I stay.
+top10_zeroshot,kimi-k2-thinking,i1_p32,False,punct,"Soul for soul.*
+
+Aya closed her eyes, and began to count the cost."
+top10_zeroshot,kimi-k2-thinking,i1_p33,False,punct,"nty that settles in my bones like old regret, that this is only the first round."
+top10_zeroshot,moonshotai__kimi-k2,i1_p01,False,punct,"Fortuna fed on smaller things than bread, and I—perhaps—was one of them."
+top10_zeroshot,moonshotai__kimi-k2,i1_p02,False,short_last_line,"Merry Christmas,  
+Ewan"
+top10_zeroshot,moonshotai__kimi-k2,i1_p03,False,punct,"Gethin (to himself, barely a whisper): Clockwise it is."
+top10_zeroshot,moonshotai__kimi-k2,i1_p04,False,punct,"But, statistically speaking, only ninety-six point seven percent."
+top10_zeroshot,moonshotai__kimi-k2,i1_p05,False,punct,"He just lay there, eyes open, waiting for the sound to stop."
+top10_zeroshot,moonshotai__kimi-k2,i1_p06,False,punct,I had three hours to decide whether curiosity and complicity were the same sin.
+top10_zeroshot,moonshotai__kimi-k2,i1_p07,False,punct,Tomorrow we’ll bump it to thirty.
+top10_zeroshot,moonshotai__kimi-k2,i1_p08,False,punct,The night’s still warm.”
+top10_zeroshot,moonshotai__kimi-k2,i1_p09,False,punct,"we stand there for a long time, two unfixed images waiting to see what develops."
+top10_zeroshot,moonshotai__kimi-k2,i1_p10,False,punct,Some exploits aren’t meant to be patched alone.
+top10_zeroshot,moonshotai__kimi-k2,i1_p11,False,punct,I’ll just keep overthinking.
+top10_zeroshot,moonshotai__kimi-k2,i1_p12,False,punct,"thout verdict and, for the length of one block, walk in silence that is not war."
+top10_zeroshot,moonshotai__kimi-k2,i1_p13,False,punct,"en black, the only sound is two hearts hammering against generations of silence."
+top10_zeroshot,moonshotai__kimi-k2,i1_p14,False,punct,"old it, but when the count starts, I’m ready to negotiate with every millimeter."
+top10_zeroshot,moonshotai__kimi-k2,i1_p15,False,punct,te that I still remember how she used to say my name like it belonged in lights.
+top10_zeroshot,moonshotai__kimi-k2,i1_p16,False,punct,“Good enough.”
+top10_zeroshot,moonshotai__kimi-k2,i1_p17,False,punct,rkably like a thirteen-year-old discovering that fear and desire share a tongue.
+top10_zeroshot,moonshotai__kimi-k2,i1_p18,False,punct,It always does.
+top10_zeroshot,moonshotai__kimi-k2,i1_p19,False,punct,"rrow I would find another excuse, another lie, another piece of myself to trade."
+top10_zeroshot,moonshotai__kimi-k2,i1_p20,False,punct,"Whatever happens, happens—just not tonight."
+top10_zeroshot,moonshotai__kimi-k2,i1_p21,False,punct,"hat to the blood moon and vanishes into shadow, already composing the next game."
+top10_zeroshot,moonshotai__kimi-k2,i1_p22,False,punct,“Let’s see how she likes being the one on a leash.”
+top10_zeroshot,moonshotai__kimi-k2,i1_p23,False,punct,I add it to the pile and hit SAVE.
+top10_zeroshot,moonshotai__kimi-k2,i1_p24,False,punct,But we are no longer allowed to pretend we didn’t know._
+top10_zeroshot,moonshotai__kimi-k2,i1_p25,False,punct,"ue, the hum of the universe cycling through another quarter-tone toward silence."
+top10_zeroshot,moonshotai__kimi-k2,i1_p26,False,punct,"cket the copper bead warms against my palm, a small sun fallen from another sky."
+top10_zeroshot,moonshotai__kimi-k2,i1_p28,False,punct,I didn’t check what it was.
+top10_zeroshot,moonshotai__kimi-k2,i1_p29,False,punct,ast corporate patents finally expired—or the last human adapted to survive them.
+top10_zeroshot,moonshotai__kimi-k2,i1_p30,False,punct,I never found out what Astrid answered.
+top10_zeroshot,moonshotai__kimi-k2,i1_p31,False,punct,"The room doesn’t answer, but the rain gets softer, like maybe it’s listening."
+top10_zeroshot,moonshotai__kimi-k2,i1_p32,False,punct,"ans gleamed unseen behind a door of iron and sigils, patient as a drowning tide."
+top10_zeroshot,moonshotai__kimi-k2,i1_p33,False,punct,And anyone who stands in their way.”
+top10_zeroshot,o3,i1_p01,False,punct," Marcus Lanius, would stand beneath them—bruised, breathing, and not yet broken."
+top10_zeroshot,o3,i1_p02,False,short_last_line,"Love always,  
+Cal  
+
+≈ 120 words  
+
+Total ≈ 1,097 words"
+top10_zeroshot,o3,i1_p03,False,punct, meaning to—smiles at the abandoned copy of The Mabinogion lying on the counter.
+top10_zeroshot,o3,i1_p04,False,punct,Breakfast could be optimism for a change.
+top10_zeroshot,o3,i1_p05,False,punct,He took the first step.
+top10_zeroshot,o3,i1_p06,False,punct,"ds vibrated like distant thunder, promising—or threatening—weather yet to break."
+top10_zeroshot,o3,i1_p07,False,punct," back into the electronic glow, two wavelengths already beginning to harmonize.]"
+top10_zeroshot,o3,i1_p08,False,punct,pped through a forbidden door and discovered the city beating on the other side.
+top10_zeroshot,o3,i1_p09,False,punct,"Some revelations, like film, need the dark to become visible."
+top10_zeroshot,o3,i1_p10,False,punct,"For once I’m thinking not about zero‑days, but about day two."
+top10_zeroshot,o3,i1_p11,False,punct,"Turns out, so can I."
+top10_zeroshot,o3,i1_p12,False,punct,"Zero percent battery, but her hand is right here, fully charged."
+top10_zeroshot,o3,i1_p13,False,punct,"g their footsteps and preserving, for one more generation, an unpaid blood debt."
+top10_zeroshot,o3,i1_p14,False,punct,I stare at it and wonder whether the sound marks survival or surrender.
+top10_zeroshot,o3,i1_p15,False,punct,"ay lights out, Alex’s citrus‑and‑eucalyptus shadow ghosting each reluctant step."
+top10_zeroshot,o3,i1_p16,False,punct,"And that, he decides, is almost heavenly."
+top10_zeroshot,o3,i1_p17,False,punct, fading cackle tik‑tik‑tikked among the rafters like a clock eager for midnight.
+top10_zeroshot,o3,i1_p18,False,punct,"They begin again, the slope waiting, the letters flying."
+top10_zeroshot,o3,i1_p19,False,punct,The river laughed beneath the keel.
+top10_zeroshot,o3,i1_p20,False,punct,"forged from liquor, bullets, and the promise of money neither may live to spend."
+top10_zeroshot,o3,i1_p21,False,punct," if it, too, relishes the promise of another rendezvous between lilac and blood."
+top10_zeroshot,o3,i1_p22,False,punct,"s—one sea‑green, one golden—glow like rival stars, each refusing to be eclipsed."
+top10_zeroshot,o3,i1_p23,False,short_last_line,"Emilia Kline, 7734‑POI"
+top10_zeroshot,o3,i1_p24,False,short_last_line,"Idowu
+
+Word Count: ~999"
+top10_zeroshot,o3,i1_p25,False,punct,"The hum of the air system followed him, relentless, as the hatch closed behind."
+top10_zeroshot,o3,i1_p26,False,punct,"th could wound or mend, and choosing, at each strike, the contour of the future."
+top10_zeroshot,o3,i1_p28,False,punct,"(Word count: ≈1,015)"
+top10_zeroshot,o3,i1_p29,False,punct,“Let’s grow something that outlives greed.”
+top10_zeroshot,o3,i1_p30,False,short_last_line,"Word count: 1,009"
+top10_zeroshot,o3,i1_p31,False,punct," a low, defiant wail, and for the first time in forty‑eight hours, I believe it."
+top10_zeroshot,o3,i1_p32,False,punct,"lse, and the underhold felt suddenly like the belly of some vast, waiting beast."
+top10_zeroshot,o3,i1_p33,False,punct,"(Word count: ~1,045)"
+top10_zeroshot,openai__gpt-5.2,i1_p01,False,punct,"o remember, to choose what I offered to the gods when everything else was taken."
+top10_zeroshot,openai__gpt-5.2,i1_p02,False,short_last_line,"With love,  
+**Ma**"
+top10_zeroshot,openai__gpt-5.2,i1_p03,False,punct," the rain kept falling, patient as a story that knew exactly where it was going."
+top10_zeroshot,openai__gpt-5.2,i1_p04,False,punct,"In the apocalypse, it was often hard to tell the difference."
+top10_zeroshot,openai__gpt-5.2,i1_p05,False,punct,"aiting in the clearing, calm as a priest, with dark eyes and no fear of the gun."
+top10_zeroshot,openai__gpt-5.2,i1_p06,False,punct,"self say the most dangerous thing of all:
+
+“What do you want me to aim at next?”"
+top10_zeroshot,openai__gpt-5.2,i1_p07,False,punct,"But Mei looked anyway, and smiled like she had."
+top10_zeroshot,openai__gpt-5.2,i1_p08,False,punct, dread—that he was already planning his entire life around ten o’clock tomorrow.
+top10_zeroshot,openai__gpt-5.2,i1_p09,False,punct,"In red, soft, and careful."
+top10_zeroshot,openai__gpt-5.2,i1_p10,False,punct,On her.
+top10_zeroshot,openai__gpt-5.2,i1_p11,False,punct," projector squeaks and squeaks and squeaks, and the world, somehow, doesn’t end."
+top10_zeroshot,openai__gpt-5.2,i1_p12,False,punct,"en being loved and not trusting it, holding both truths like they’re both glass."
+top10_zeroshot,openai__gpt-5.2,i1_p13,False,punct,"glass—and the duel, unsanctioned and inevitable, surged into its next collision."
+top10_zeroshot,openai__gpt-5.2,i1_p14,False,punct,"een the block and this bright machine, moves—trying to fit without disappearing."
+top10_zeroshot,openai__gpt-5.2,i1_p15,False,punct,eat of his hands on my skin like a bruise I can’t decide whether I want to heal.
+top10_zeroshot,openai__gpt-5.2,i1_p16,False,punct,"And occasionally, it was lunch."
+top10_zeroshot,openai__gpt-5.2,i1_p17,False,punct,It would be wearing a tiny powdered wig.
+top10_zeroshot,openai__gpt-5.2,i1_p18,False,punct,"And for once in eternity, Sisyphus had mail."
+top10_zeroshot,openai__gpt-5.2,i1_p19,False,punct," sharp corners and, for a little while, make me forget the taste of my own name."
+top10_zeroshot,openai__gpt-5.2,i1_p20,False,punct,them pulls the trigger first—or which of them makes a different kind of mistake.
+top10_zeroshot,openai__gpt-5.2,i1_p21,False,punct,“And I’ll show you what worthy looks like.”
+top10_zeroshot,openai__gpt-5.2,i1_p22,False,punct,Makima is trying to *own* her.
+top10_zeroshot,openai__gpt-5.2,i1_p23,False,punct,nd I wrote a report about it in the only language I trusted less than my senses.
+top10_zeroshot,openai__gpt-5.2,i1_p24,False,punct,"ross centuries:
+
+> **“IN WHICH CYCLE DID YOU BEGIN CALLING IT THE FOUNDATION?”**"
+top10_zeroshot,openai__gpt-5.2,i1_p25,False,punct,itself were merely another system to be regulated—unless Azra decided otherwise.
+top10_zeroshot,openai__gpt-5.2,i1_p26,False,punct,"had been there all along, waiting for a hand willing to hold it without cutting."
+top10_zeroshot,openai__gpt-5.2,i1_p28,False,punct,And the world began to fall backward again.
+top10_zeroshot,openai__gpt-5.2,i1_p29,False,punct,"Kestrel adjusted the knife switch, stabilized the current, and began to work."
+top10_zeroshot,openai__gpt-5.2,i1_p30,False,punct,"me, mouth shut, and waited for whatever came next to decide whether it was real."
+top10_zeroshot,openai__gpt-5.2,i1_p31,False,punct,"is either the worst possible sign—
+
+—or the first good one I’ve had in two days."
+top10_zeroshot,openai__gpt-5.2,i1_p32,False,punct,Let’s see what screams sound like in it.”
+top10_zeroshot,openai__gpt-5.2,i1_p33,False,punct,"e supposed to be steady, my fingers tighten around the rag like it’s a lifeline."
+top10_zeroshot,openrouter__horizon-alpha,i1_p01,False,punct,"l in the air, in the span of the cast, before any thing, or any man, was caught."
+top10_zeroshot,openrouter__horizon-alpha,i1_p02,True,"cut inside a letter header ('Letter: 16'); 3,138 words","Maintain operation until relieved.
+
+—
+
+Letter: 16"
+top10_zeroshot,openrouter__horizon-alpha,i1_p03,False,punct,“I know.”
+top10_zeroshot,openrouter__horizon-alpha,i1_p04,False,punct,"e, and we did, in multiple ways, each of them worse for wear and therefore ours."
+top10_zeroshot,openrouter__horizon-alpha,i1_p05,True,no_terminal_punct,Because you keep to your own perspective if you want to make it to
+top10_zeroshot,openrouter__horizon-alpha,i1_p06,False,punct,Both.
+top10_zeroshot,openrouter__horizon-alpha,i1_p07,True,"clause without final period ('The plates stack higher'); 2,666 words; every complete story of this model ends with punctuation",The plates stack higher
+top10_zeroshot,openrouter__horizon-alpha,i1_p08,False,punct,ssandra laughs at how easy it is to steal a day and leave nothing but a scratch.
+top10_zeroshot,openrouter__horizon-alpha,i1_p09,False,punct,I let myself soften and stay.
+top10_zeroshot,openrouter__horizon-alpha,i1_p10,False,punct,Not ever.
+top10_zeroshot,openrouter__horizon-alpha,i1_p11,False,punct,Enough to call it growth.
+top10_zeroshot,openrouter__horizon-alpha,i1_p12,False,punct,I take another sip before I forget how.
+top10_zeroshot,openrouter__horizon-alpha,i1_p13,True,"clause without final period ('Liu's eyes narrow'); 3,048 words; same reasoning",Liu’s eyes narrow
+top10_zeroshot,openrouter__horizon-alpha,i1_p14,False,punct,"e, but for now, I’m on my mark, in the light, counting down and counting myself."
+top10_zeroshot,openrouter__horizon-alpha,i1_p15,False,punct,"My knee does, lightly, acknowledging a negotiation rather than a war."
+top10_zeroshot,openrouter__horizon-alpha,i1_p16,False,punct,"Then he drinks, and Hell, which runs on schedules and spite, keeps running."
+top10_zeroshot,openrouter__horizon-alpha,i1_p17,False,punct," hinges of Room 3B dreamed a little oil, and, for once, took it as a compliment."
+top10_zeroshot,openrouter__horizon-alpha,i1_p18,False,punct, is exactly the wrong shape for everything and somehow perfectly suited to this.
+top10_zeroshot,openrouter__horizon-alpha,i1_p19,True,"ends on the article 'A'; 3,037 words",A
+top10_zeroshot,openrouter__horizon-alpha,i1_p20,False,punct,"hold, balanced on the blade, the night an unspent bullet waiting in the chamber."
+top10_zeroshot,openrouter__horizon-alpha,i1_p21,False,punct,"y go on under it, each a knife in the other’s pocket neither has decided to use."
+top10_zeroshot,openrouter__horizon-alpha,i1_p22,False,punct,"ir waits, obedient and patient, for the next command it will refuse to give her."
+top10_zeroshot,openrouter__horizon-alpha,i1_p23,True,no_terminal_punct,"I say it until it sounds like truth, or until the alarms tell me"
+top10_zeroshot,openrouter__horizon-alpha,i1_p24,True,"cut inside an addendum header ('Addendum 6579'); 2,437 words","[Exit.]
+[End Log]
+
+Addendum 6579"
+top10_zeroshot,openrouter__horizon-alpha,i1_p25,False,punct,"Then I'll show you where it's wrong."""
+top10_zeroshot,openrouter__horizon-alpha,i1_p26,False,punct,"he door had just enough wing to make me think, for a moment, that it might lift."
+top10_zeroshot,openrouter__horizon-alpha,i1_p28,True,"ends 'After school, the cat was'; 3,112 words","After school, the cat was"
+top10_zeroshot,openrouter__horizon-alpha,i1_p29,False,punct,Close enough to keep working.
+top10_zeroshot,openrouter__horizon-alpha,i1_p30,False,punct,"Either way, it keeps listening."
+top10_zeroshot,openrouter__horizon-alpha,i1_p31,True,"ends 'It was closer, like'; 3,125 words","It was closer, like"
+top10_zeroshot,openrouter__horizon-alpha,i1_p32,False,punct,I have simply learned to count.”
+top10_zeroshot,openrouter__horizon-alpha,i1_p33,False,punct,And we’re all already in it.
+top10_zeroshot,openrouter__pony-alpha,i1_p01,False,punct,I raised my sword and began to dance with death once more.
+top10_zeroshot,openrouter__pony-alpha,i1_p02,False,short_last_line,"With all my love,
+Mam"
+top10_zeroshot,openrouter__pony-alpha,i1_p03,False,punct,And she meant it.
+top10_zeroshot,openrouter__pony-alpha,i1_p04,False,punct,He had everything he needed right here.
+top10_zeroshot,openrouter__pony-alpha,i1_p05,False,punct,JT was beginning to understand what that meant.
+top10_zeroshot,openrouter__pony-alpha,i1_p06,False,punct,For now.
+top10_zeroshot,openrouter__pony-alpha,i1_p07,False,punct,She just laughed.
+top10_zeroshot,openrouter__pony-alpha,i1_p08,False,punct," me tomorrow.*
+
+He laughed aloud, alone in his room, already planning the chase."
+top10_zeroshot,openrouter__pony-alpha,i1_p09,False,punct,"The red light held us, honest and strange and new."
+top10_zeroshot,openrouter__pony-alpha,i1_p10,False,punct,"lating.*
+
+But I'm definitely going to teach her about two-factor authentication."
+top10_zeroshot,openrouter__pony-alpha,i1_p11,False,punct,(I overthink it.)
+top10_zeroshot,openrouter__pony-alpha,i1_p12,False,punct,"Nothing's wrong.*
+
+I believe it for almost thirty seconds."
+top10_zeroshot,openrouter__pony-alpha,i1_p13,False,punct,"y the sound of coins changing hands, and low voices reckoning the cost of pride."
+top10_zeroshot,openrouter__pony-alpha,i1_p14,False,punct,The clock bleeds on.
+top10_zeroshot,openrouter__pony-alpha,i1_p15,False,punct,The painted man knows nothing.
+top10_zeroshot,openrouter__pony-alpha,i1_p16,False,punct," a dog chew on a bone, pretending that either of them had anywhere better to be."
+top10_zeroshot,openrouter__pony-alpha,i1_p17,False,punct,"ly.*
+
+It was, in its way, the most honest lesson anyone had ever taught the boy."
+top10_zeroshot,openrouter__pony-alpha,i1_p18,False,punct,"*Don't push it.*
+
+Sisyphus smiled, and began the walk back down.
+
+---
+
+*— End —*"
+top10_zeroshot,openrouter__pony-alpha,i1_p19,False,punct,"Somewhere behind, the sea waited, eternal and indifferent."
+top10_zeroshot,openrouter__pony-alpha,i1_p20,False,punct,Neither of them moves away.
+top10_zeroshot,openrouter__pony-alpha,i1_p21,False,punct,She hates that part of her hopes they do.
+top10_zeroshot,openrouter__pony-alpha,i1_p22,False,punct,"And somehow, that's worse."
+top10_zeroshot,openrouter__pony-alpha,i1_p23,False,punct,"has declined to write anything by hand since the incident.*
+
+---
+
+*[END REPORT]*"
+top10_zeroshot,openrouter__pony-alpha,i1_p24,False,punct,"tage shows the scratches appearing instantaneously, with no visible perpetrator."
+top10_zeroshot,openrouter__pony-alpha,i1_p25,False,punct,gan to read the documents that would determine the shape of his remaining years.
+top10_zeroshot,openrouter__pony-alpha,i1_p26,False,punct,"""Then perhaps,"" he said, ""we can finally have a real conversation."""
+top10_zeroshot,openrouter__pony-alpha,i1_p28,False,punct,And pressed the button.
+top10_zeroshot,openrouter__pony-alpha,i1_p29,False,punct,She began again.
+top10_zeroshot,openrouter__pony-alpha,i1_p30,False,punct,They have nothing but time.
+top10_zeroshot,openrouter__pony-alpha,i1_p31,False,punct,And I slept.
+top10_zeroshot,openrouter__pony-alpha,i1_p32,False,punct,"""What,"" she asked carefully, ""would you have me do first?"""
+top10_zeroshot,openrouter__pony-alpha,i1_p33,False,punct,"""Time to tell me what kind of trouble, Kade."""

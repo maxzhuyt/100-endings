@@ -1,0 +1,109 @@
+# PCR / Black Market Contract
+
+---
+
+The thermocycler clicked into its denaturation phase and Senna pressed two fingers against the side of the housing to check the temperature through the casing. Ninety-four degrees. Near enough. The modified skin on her fingertips had stopped registering heat damage somewhere around sixty, which made her a useful instrument when the calibration display was lying, which it was doing now, the readout stuttering between numbers that didn't correspond to anything real. She held her fingers there for three seconds, lifted them, decided it was fine. It was probably fine.
+
+The lab was a converted storage unit at the edge of the settlement's agricultural block, sheet metal walls and a poured-floor that had cracked along the eastern seam and been patched with a mixture of resin and crushed tile that Senna had made herself and was quietly proud of. The air inside smelled of ethanol and hot circuitry and something underneath both of those things, a faint sweetness that came from the samples themselves, from the plant material in the cold block that was not as cold as it needed to be. She was aware of the smell the way she was aware of her heartbeat — as information, continuous and mostly ignorable.
+
+Outside, the solar panel rig hummed. Then stuttered. Then hummed again at a different pitch.
+
+Senna looked up at the single overhead fixture, which dimmed, held, and came back. She looked at the thermocycler. The display had reset to idle. She hit the restart sequence and watched the count begin again from zero, losing four minutes of the denaturation phase, which meant the primers might not separate cleanly, which meant this cycle might give her noise instead of signal, which she couldn't afford because the reaction mix had come from a partially degraded stock and she was already working at the edge of what the material could do before it stopped doing anything at all.
+
+She restarted it. What else was there.
+
+---
+
+The thermocycler was the heart of the operation and she'd built it from a sous vide circulator, a Peltier cooler salvaged from a broken refrigeration unit, and a programmable relay board that she'd reprogrammed herself with help from a manual she'd memorised and then burned because paper was a liability. The original commercial unit had died two years ago. She didn't mourn it. The replacement understood her better — or she understood it, which was the same thing.
+
+On the bench beside it, twelve sample tubes in a foam rack, each one holding a small piece of a large problem.
+
+The crops from the eastern plots were failing. Not suddenly, not dramatically, in the way crops had failed in the early years when the collapse was new and everything fell apart at once and people were still surprised by it. They were failing quietly, the way things failed now — the seed yield dropping a fraction each season, the germination rates softening at the edges, the plants that did come up a little shorter, a little paler, reaching less confidently toward the light.
+
+She knew why. Most of the settlement's agriculturalists thought they knew why, but they were thinking about soil and water and light and those things mattered but they were not the core of it. The core of it was that the genetic material inside those crops had been designed — engineered with precision and intent, she had to give them that, they'd been good at it — to be terminal. One generation of full expression. The next generation, the traits drifted. Not randomly. Systematically. By design. A slow unravelling built into the sequence itself, elegant in the way that a trap is elegant, the mechanism only visible once you're already inside it.
+
+She'd confirmed it herself eighteen months ago, running comparisons on successive seed generations until the pattern was undeniable. She had not told anyone the full technical picture. The emotional picture everyone already knew. You could see it in how the farmers touched the plants now, a careful touch, the touch you give something you've been told is sick.
+
+The samples in front of her were from this season's harvest backup. She was trying to isolate what was left. What was still viable, still expressible, still inheritable without another generation of drift. There wasn't much. Each cycle narrowed the window.
+
+In the cold block: two more seasons. Maybe.
+
+After that, the genetic diversity in the eastern plots would be low enough that any stress event — drought, blight, unusual cold — could collapse the whole system. And the settlement would have to source from outside. From the corporations that had engineered the problem in the first place. Or from the networks that moved around the outside of all that, careful and expensive and unreliable, which was where Senna lived and worked.
+
+She turned her attention to the thermocycler and let it run.
+
+---
+
+The annealing phase. Temperature dropping. Primers finding their targets in the dark, or trying to.
+
+Senna moved to the cold block and checked the seals, which were intact, and the temperature, which was holding at a shaky four degrees, and the sample she'd flagged last week as the most likely candidate for a stable sequence. It looked the same. Of course it looked the same. That was the cruelty of molecular work — you could have the answer or the disaster right in front of you and it would look like a tube of clear liquid either way.
+
+She straightened up and became aware of the ache in her lower spine, which was new, which had started six weeks ago and which she was not yet ready to classify as anything. The modifications that had altered her pain threshold in her hands had altered it unevenly in the rest of her body. That was the thing about self-modification, even careful, researched, sequential self-modification — the body's systems were not separate. She'd wanted better hands for lab work and temperature tolerance and faster healing in the small wounds that lab work made. She'd gotten all of that. She'd also gotten a cardiovascular adaptation she hadn't anticipated, something to do with capillary response, and the ache in her spine might be related or might not. She pressed her thumb into the muscle beside her vertebrae and felt it, filed it, moved on.
+
+What she hadn't anticipated, and what she still sometimes caught herself being grateful for, was the vision.
+
+At night the lab was different. Not bright — she didn't see in the dark the way predators in old stories did, making everything blue-lit and dramatic. It was more that the darkness had texture. She could distinguish the bench from the wall. The equipment had outlines. The samples in the cold block, when she opened it, had a faint differentiation between them that she'd learned over time to read as a kind of low-light colour, something below ordinary colour, information without a name. She'd been running samples at two in the morning for the last month, after the settlement had quietened and the power draw was lowest and her cycles were least likely to be interrupted by someone else's needs. It was the most productive time she'd worked in years. She moved through the lab efficiently, by instinct, without the overhead light, and saved the power for the equipment that needed it.
+
+Strange, and quietly useful, and hers.
+
+---
+
+The striker on the door, three times, even intervals. Not a knock. A code.
+
+Senna looked at the thermocycler — ten minutes into the annealing phase, temperature stable at fifty-two degrees, display holding — and crossed to the door and opened it.
+
+The woman outside was from the northern cluster, older, with the specific kind of stillness that people developed when they'd been carrying information for a long time. She held out a sealed strip of aluminium foil, the kind used for sample preservation, folded twice. Then she left. She was already gone by the time Senna looked up from the foil.
+
+She closed the door. Stood for a moment with the foil in her hand. Then she set it on the bench and went to check the thermocycler first, because the order of priorities was the order of priorities and whoever had sent this had sent it to the right person, who would not abandon a cycle mid-run because of a piece of unexpected aluminium foil.
+
+Eight minutes. She waited.
+
+Then she opened it.
+
+Inside: a slip of substrate paper, which was no longer made and so was expensive, which told her something. The text was in the abbreviated notation she recognised from the network she'd been peripherally part of for three years. It was a contract. The nature of it was this: somewhere in the surviving research infrastructure, two days' travel from the settlement, there was a repository. The repository held a library of pre-collapse seed genetics — not the engineered, terminally expiring commercial strains, but the varieties from before, from the wild-type preservation projects that the corporations had lobbied to defund and that some people had run anyway, in secret, until they couldn't. The library existed. It was inaccessible because of access controls that were biological, not digital. The person who held the relevant biological key was dead. The contract asked for a synthetic reconstruction of that key from partial sequence data, which was included on the slip in compressed notation.
+
+Senna looked at the sequence data for a long time.
+
+The reconstruction was possible. It was technically possible. She would need reagents she didn't have, equipment time she didn't have, and she would need to set down the work that was already running — or run them in parallel, which would strain the power supply to a point she couldn't predict.
+
+The payment was written at the bottom. Three months' supply of Taq polymerase, pharmaceutical grade. A functioning cold chain unit, portable. And — written in a different hand, smaller, like an afterthought that was not an afterthought — a full reagent kit for probe-based sequencing, the kind she hadn't been able to source in two years, the kind that would let her do more precisely what she was already trying to do.
+
+She could finish the work on the eastern plot genetics. She could actually finish it.
+
+She stood with the slip of paper and thought about the eastern plots and the two seasons in the cold block and the plants touching gently.
+
+The overhead light dimmed. Came back. Dimmed again and stayed dimmer.
+
+She looked at the thermocycler. The display was not reading what it should be reading.
+
+She crossed to it in three steps and checked. The temperature inside the cycling chamber had dropped six degrees during the last sequence. The extension phase had begun early or the thermistor was misreporting. Either way this cycle was compromised. She'd get data, but it would be ambiguous data, and she would have to repeat it, and she wasn't sure she had enough reaction mix to repeat it cleanly.
+
+She stood with her hands on the edge of the bench.
+
+The ache in her spine had moved, or she'd only just noticed that it was larger than she'd thought. Under the lab's dim light her hands were faintly luminous from whatever the modification had done to her superficial circulation. She was running warm, she could tell, which usually happened under stress, the metabolism adjusting to something. And her vision in the corners of the room was sharpening, the outlines of things clarifying, the way they did in dim conditions, automatic and odd.
+
+She looked at the foil. The paper. The sequence data. The two seasons in the cold block. She thought about what it would mean to have that repository accessible, not just to her settlement but downstream, to whoever came after, the problem that had been engineered into the food supply worked around at its root while she was still alive to see it.
+
+She thought about the current samples. What she could do tonight, with what she had. What would be left if she divided her time. She'd have to slow the current work. Maybe significantly. She'd have to ration the reaction mix across both projects until the payment came through, and the payment would only come through if she delivered, and delivery required equipment time she was currently using.
+
+The PCR machine clicked into its final extension phase. Seventy-two degrees. The display held.
+
+She picked up the paper. Set it down. Mentally drafted a counter-offer — a timeline, a resource allocation, a set of conditions. She was not going to accept this as written. She was going to accept it as rewritten, inside her own head, right now, into something she could actually execute.
+
+She'd need to freeze some of the current samples and slow the sequencing protocol on the eastern plots. She'd need to run the synthesis work overnight in the low-draw window. She'd need to be careful, more careful than she'd been, about the power monitoring, which meant waking twice in the night to check the rig, which meant less sleep, which meant the spine thing would probably get worse before she had time to address it.
+
+She folded the paper and put it in the breast pocket of her work jacket.
+
+Small, the moment was. Not large. She noticed it in passing — she was doing something she might come to regret, or she was doing the only logical thing, or there was no clean line between those — and then she let it be what it was.
+
+---
+
+The thermocycler beeped. Cycle complete.
+
+She pulled on her gloves and opened the chamber and removed the twelve sample tubes and held them briefly in the near-dark, the outlines of the liquid inside them distinct to her, the slight variation she had no name for moving across them like a low current. She put them in the cold block. She wrote the cycle record in her notebook — time, temperature deviations, estimated reliability of output.
+
+Outside, the solar rig's hum shifted. Stabilised. The overhead light came back to full brightness and hummed steadily at that brightness for about forty seconds before it dropped again, just slightly, just enough.
+
+She uncapped a new reaction tube. Set it in the rack. Reached for the reagent that was almost gone.
+
+Already she was somewhere else in her thinking, two problems forward, working out the sequence.

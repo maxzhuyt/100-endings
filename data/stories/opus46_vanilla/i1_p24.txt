@@ -1,0 +1,69 @@
+**Item #:** SCP-7431
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** Foundation webcrawlers are to monitor global law enforcement databases, urban exploration forums, and demolition company reports for references to unmarked doors appearing in condemned or abandoned structures. Mobile Task Force Theta-9 ("Dead Letters") is to be dispatched for confirmation and subsequent sealing of all SCP-7431-A instances using Protocol PALIMPSEST (reinforced steel welding, Scranton Reality Anchor placement, and amnestic treatment of witnesses).
+
+No Foundation personnel below Level 4 clearance may enter SCP-7431-B without written authorization from two O5 Council members.
+
+**UPDATE (see Addendum 7431-4):** All access to SCP-7431-B is suspended indefinitely. No exceptions.
+
+**Description:** SCP-7431-A designates a series of identical, unmarked wooden doors that spontaneously manifest in abandoned buildings worldwide. As of this writing, 217 instances have been catalogued across 43 countries. The doors appear exclusively in structures unoccupied for a minimum of three years. Each instance is constructed from Eastern white pine, bears no markings or hardware serial numbers, and features a brass doorknob exhibiting a pattern of identical scratches — seven parallel grooves curving counterclockwise around the knob's base, consistent across every instance regardless of geographic location.
+
+When opened, each SCP-7431-A instance provides access to SCP-7431-B: a singular, contiguous interior space of indeterminate size. Laser-rangefinding, GPS, and sonar mapping have all returned contradictory data. The space presents as an enormous archive or library, containing rows of metal shelving units extending beyond visible range under fluorescent lighting with no identifiable power source. Architecture within SCP-7431-B is spatially non-Euclidean; hallways intersect at impossible angles, staircases connect floors that cartographic analysis places in the same horizontal plane, and certain corridors loop infinitely while others terminate in walls that were not present during prior expeditions.
+
+Documents recovered from SCP-7431-B are written in a script superficially resembling a hybrid of Sumerian cuneiform and modern Cyrillic. Foundation linguists have achieved approximately 72% translation fidelity.
+
+---
+
+**Addendum 7431-1: Recovered Document Excerpts**
+
+The following are translated selections from documents retrieved during authorized expeditions.
+
+> **Document 7431-R-009** (recovered from Section 12-East, Shelf 7744):
+>
+> *"…the Ninth Accord of Containment, ratified in the 4,012th year of the Collective Administration, formally acknowledges that Object-Class VIRIDIAN entities cannot be housed within standard spatial boundaries. The Engineering Caste is directed to expand sub-lithospheric vaulting beneath the [UNTRANSLATABLE — possibly 'Pacific'] basin…"*
+
+> **Document 7431-R-041** (recovered from Section 19-North, Shelf 12,003):
+>
+> *"…total systemic failure cascading from Vault 0. The breach is not mechanical. It is philosophical. The containment paradigm itself has been falsified. What we imprisoned did not want freedom. It wanted us to build the walls. Every wall. Every protocol. Every amendment. We have constructed, across four thousand years, the architecture of our own [UNTRANSLATABLE — contextually: 'unmaking']. The Collective Administration is issuing final notice. All personnel are to…"*
+>
+> The document ends mid-sentence. The remaining pages are blank.
+
+> **Document 7431-R-114** (recovered from Section 31-West, Shelf 22,891, filed under a header translated as "SUCCESSOR ORGANIZATIONS"):
+>
+> *"Projected re-emergence of containment infrastructure: [date range corresponding approximately to 1870–1905 CE]. Anticipated structural designation: 'The Foundation.' Anticipated leadership caste: 'The Overseers.' Note: All nomenclature is cosmetic. The function is identical. The function has always been identical."*
+
+---
+
+**Addendum 7431-2: Personnel File Anomaly**
+
+During Expedition 7431-E-7, Researcher Elaine Morozov discovered a subsection containing files organized in a format structurally identical to Foundation personnel dossiers. Translation revealed entries matching the names, physical descriptions, and psychological profiles of 31 current Foundation employees — including Dr. Morozov herself. Each file was dated to approximately 4,200 years before present and listed assignments within the "Collective Administration." Dr. Morozov's file contained a handwritten annotation in modern English:
+
+> *"She'll find this one again. She always does."*
+
+---
+
+**Addendum 7431-3: Exploration Log 7431-E-12 (Abridged)**
+
+MTF Theta-9 entered SCP-7431-B through an instance in Pripyat, Ukraine. The team proceeded into previously unmapped sections designated Section 40-Deep.
+
+At 02:14:30 mission time, the team encountered a group of approximately fifteen humanoid entities wearing sealed suits resembling modern hazardous materials equipment, though of no identifiable manufacture. The entities were systematically removing documents from shelves and feeding them into a device that appeared to incinerate the materials without producing heat, smoke, or ash. The documents simply ceased to exist upon contact.
+
+When Theta-9 lead Captain Vasquez called out to the entities, all fifteen turned simultaneously. Their face shields were opaque. None spoke. After approximately four seconds of motionless observation, they collected their equipment with precise, unhurried coordination and retreated down a corridor that the team's rear cartographer confirmed had not existed thirty seconds prior. Pursuit was attempted. The corridor extended for exactly 200 meters before terminating at a blank wall. No trace of the entities was recovered.
+
+Forensic analysis of the shelves they had been clearing revealed residual indexing markers. Translated headers included: "VAULT 0 — CAUSAL ARCHITECTURE," "TRUE NATURE OF CONTAINMENT FAILURE," and "OVERSEER COMPLICITY RECORDS."
+
+---
+
+**Addendum 7431-4: O5 Council Involvement**
+
+During Expedition 7431-E-15, Theta-9 discovered a logbook near an SCP-7431-A instance in São Paulo, Brazil. The logbook was written in English and contained dated entries spanning eighteen months. Handwriting analysis matched three current O5 Council members — O5-3, O5-7, and O5-11 — none of whom had filed access requests.
+
+The final entry, in O5-3's hand, read:
+
+> *"They're right to erase it. We've read enough to understand. The containment failure wasn't an accident. It was the intended outcome — the entire system designed from inception to produce it. Every wall, every cell, every skip we lock away brings the architecture closer to completion. We are not the jailers. We are the mechanism. And now we know what Vault 0 held, and why it wanted to be contained, and what happens when the structure is finished. God help us, we can't stop building. We've tried. We can't stop."*
+
+All three O5 members denied visiting SCP-7431-B. Polygraph and cognitive screening were inconclusive.
+
+SCP-7431-B access has been suspended indefinitely. Reclassification to Apollyon is under review.

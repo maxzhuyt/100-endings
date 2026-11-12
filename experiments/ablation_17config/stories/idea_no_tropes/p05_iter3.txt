@@ -1,0 +1,35 @@
+Let me carefully study these structural beats and write the story "Frequency" following them closely. I need to:
+
+1. Beat 1: Open mid-document with an AAR. Professional, clipped, formatted. Document loss of first soldier. Mention "concussive event" in passing. End with unanswered request for medevac/resupply.
+
+2. Beat 2: Second AAR that starts correctly then ruptures mid-document. Format breach with sensory details, run-on sentences. Then snaps back. Dariela doesn't acknowledge the breach.
+
+3. Beat 3: Obsessive lists - ammo inventories, watch rotations, water purification tablets. Compulsive precision. 
+
+4. Beat 4: The lists will start to fracture with subtle inconsistencies—soldier names shifting, counts that don't add up—as her grip on documentation loosens. Then the longest sustained breakdown: AARs and lists collapse into a continuous, unbroken stream of consciousness spanning a page or two. Trauma floods through, pronouns slip between past and present, and the frequency itself becomes a character targeting her directly.
+
+5. Beat 5: Down to two survivors—Dariela and a teenage conscript who becomes her witness, embodying the unbridgeable distance between her fractured reality and what's actually happening.
+
+6. Beat 6: The tactical response—her attempt to plan an escape or confrontation with whatever she believes is hunting them.
+
+7. Beat 7: The final recontextualization—the revelation that the frequency was never external, that the concussive blast caused deafness, and everything she's been experiencing is the psychosis that deafness induced.
+
+I'm structuring this as a military document that disintegrates on the page, working as supernatural horror on first reading but neurological horror on the second. The style draws from that breathless, torrential quality of instruction and confession, adapted to official military forms that gradually lose their authority and coherence.
+
+I need to track the key details carefully: the blast on the first night as the buried detonator, the creature or frequency pulling soldiers into the marsh and tunnels, the revelation that it's self-generated—a symptom of blast-induced deafness and psychosis. Dariela's rank is Sergeant, the FOB is isolated with unanswered medevac requests, and the marsh setting with tunnels is where the horror unfolds.
+
+I'm going to write this with clear AAR formatting for the opening, then let the structure deteriorate through each beat. The lists will fragment and interweave with longer hallucinatory passages. For Beat 5, I'm introducing a conscript who notices something wrong about Dariela herself—something that will seed the final twist.
+
+Beat 6 will be a tactical plan, maybe to descend into the tunnels or push out from the FOB, framed as taking the fight to the creature. Then Beat 7 brings the collapse: the conscript's perspective breaks through, the AAR format returns but now inverted, revealing that the blast caused deafness, the frequency is tinnitus and psychosis, the soldiers were lost to infrastructure collapse, not a creature. The creature is Dariela's mind filling the silence.
+
+I'm aiming for substantial length here—4000 to 6000 words—so I need to build the atmosphere carefully and let each beat breathe before the deterioration accelerates.
+
+For the lost soldiers, I'll use PFC Varela, SPC Quintero, and PFC N. The conscript probably hears normally or at least differently, doesn't experience the frequency at all, which is the core of the unbridgeable gap between them. Now I'm ready to draft this properly, keeping the concussive event casual in Beat 1, letting the format breaches feel genuinely unsettling in Beat 2, seeding subtle errors into the lists in Beat 3, and making sure the central passage in Beat 4 lands with real weight.
+
+For the unit and location details, I'm settling on PVT Luan as the conscript, FOB Casement as the base, and keeping the setting deliberately ambiguous—could be near-future, could be alternate present, somewhere with marshland and tunnel systems beneath the FOB. I'll leave the geography vague enough to feel timeless.
+
+Now I'm ready to write the full piece. I'll structure it around the five beats: the first AAR documenting the loss, a second report that fractures, then the inventory lists showing obsessive counting, the central narrative moment where the truth emerges, and then extrapolate the final beats from there based on where the setup naturally leads. Now I'm shifting into the formal military documentation—an after-action report detailing the incident itself. The structure moves from narrative beats into official record: the unit designation, timestamp, grid coordinates, and then the clinical breakdown of what happened. PFC Varela disappeared into a subsidence feature during perimeter work, the ground gave way beneath him, and recovery wasn't possible. The report catalogs the contributing factors—the FOB built on compromised foundations, the water table rising, the tunnel network underneath that swallowed him. An 82mm mortar round detonated subsurface on DTG 080347Z, likely triggered by water displacement in the tunnel network—it caused overpressure in the bunker but no casualties or significant structural damage, and was already reported through the runner and logged. The unit is now requesting immediate medical evacuation and supply resupply, plus engineer assessment of the tunnel infrastructure and guidance on whether to hold or withdraw the position, though previous requests over the past five days have gone unanswered.
+
+Now I'm reviewing a supplemental after-action report documenting a missing soldier—SPC Quintero left her guard post at OP-2 without authorization around 170430Z and was discovered absent during the 170500Z relief rotation, with a search already underway. Quintero's tracks led straight into the marsh without hesitation or deviation, as if she were following some predetermined path. The environmental data shows the water table has risen significantly, with standing water now breaching the FOB perimeter, and the personnel roster confirms three missing—including Quintero herself.
+
+Now I'm documenting the ammunition inventory for the platoon, tracking what rounds remain across the different calibers and munition types. I'm catching a critical inconsistency—PFC Varela is listed as missing/presumed casualty but appears on the guard rotation for 0000–0300 hours. That's exactly the kind of error that signals something's wrong with the record. Now I'm doing a recount of ammunition that shows different numbers from the initial inventory, which should help establish the discrepancies mentioned earlier. I'm tracking the roster across the beats—started with 11 soldiers, down to 8 by Beat 2, then accelerating losses through Beat 3

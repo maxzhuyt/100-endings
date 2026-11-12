@@ -1,0 +1,111 @@
+# The Jade Story
+
+## I.
+
+The cave's mouth was fourteen meters wide and nine meters tall at its highest point, which was not its center but a quarter-span to the east where a limestone fold had resisted the last glaciation with the dumb stubbornness of all things that do not know they are temporary. Mara Espinoza had memorized these measurements from satellite surveys, from the geological assessments of two prior expeditions, and from the coroner's reports of a third, which had described the entrance dimensions in the course of explaining how a body could be recovered by river current and deposited at the mouth like something the earth had tasted and spat out. She stood at the entrance now with a clipboard and a rain jacket that had stopped being waterproof on the second day of what had so far been eleven consecutive days of rain, and she watched the road below for headlights.
+
+The base camp was four tents and a tarp kitchen on a mudflat sixty meters from the entrance, close enough to run cable for the comm rig but far enough that the drainage channels — three visible, an estimated two more beneath the topsoil — would not wash them into the gorge in the night. The gorge was ninety meters deep and contained a river that had no name on any map Mara had consulted, though the loggers who had worked this section of the coast in the 1980s had called it the Bastard, either for its parentage among the glacial melt-offs or for what it did to anything that fell in. The camp's latrine was a trench behind the supply tent. The camp's medical station was a Pelican case with six dosages of epinephrine, a SAM splint, four tourniquets, a bag-valve mask, and enough Percocet to suggest that whoever had packed it understood that the most likely injuries would be the kind you managed, not the kind you fixed.
+
+She had arrived three days before anyone else to set the anchors and run the initial cable. In that time she had walked to the cave mouth eleven times. She had not entered. She had stood at the threshold where the mud turned to stone and the rain noise changed from the soft static of water on earth to the harder clatter of water on rock, and she had looked into the dark the way you look at an X-ray of something you will have to open but not today, and she had turned around each time with one more measurement logged, one more photograph taken, one more annotation in the margins of the survey map that the previous expedition leader — currently in a long-term care facility in Tacoma with a spinal injury that had not been caused by the cave but had been, by his own account, the reason he had entered the cave, because a man who has already lost the feeling in his left foot has a different actuarial relationship with danger — had marked with the notation *NOT AS DRAWN, GOD HELP YOU*.
+
+The crew arrived over four days in three trucks and one sedan with a cracked windshield and Oregon plates.
+
+Luis Ferraro came first, because he had the farthest to drive and the most to lose by hesitation. He was fifty-one. He had been a mining engineer for Coeur d'Alene Mines for nineteen years before a combination of whistleblowing and counter-whistleblowing had left him unemployable in any operation that required insurance, which was all of them except this one. He owed $340,000 to a creditor he referred to only as "my situation." He was missing the last joint of his left ring finger from an incident he described as "not interesting." When Mara walked him to the cave mouth on his first evening, he stood in the rain and looked at the dark for a long time and then asked, with the flat tone of a man performing due diligence on a deal he has already signed, how she planned to run extraction from outside.
+
+Mara told him the comm rig could sustain voice contact to an estimated depth of four hundred meters, depending on passage geometry. She told him the telemetry from the headlamp units would give her continuous positional data with a margin of error of two meters in open chambers and six to ten in constricted passages. She told him the emergency protocol was a three-pull signal on the guide rope, at which point the surface team would begin retrieval within ninety seconds regardless of what the underground team reported, because the underground team, in an emergency, would report whatever they needed to believe to keep moving forward, and she was not interested in what they needed to believe. She told him the flood history: three events in the last eighteen months, the most recent of which had filled the main passage to the ceiling in under four minutes, which was less time than it took to retreat from the second chamber. She told him about the CO₂ pockets, which occurred in the lower passages without warning and presented not as the gradual dimming that most people imagined but as an off-switch — you were mid-sentence, and then you were on the floor, and if you were lucky the floor was not underwater.
+
+She told him all of this standing at the exact line where mud became stone, and she did not cross it, and when she was finished she turned back toward camp with her clipboard and Luis followed.
+
+He did not ask again how she planned to run extraction from outside. He had been in mining long enough to recognize the particular authority of a person who has decided where they will stand, which is different from the authority of a person who has decided where they will go.
+
+The others arrived in configurations that suggested prior entanglement. Nina Reyes and Tom Oshiro pulled up in the same truck but with the seat spacing of people who had agreed not to discuss the drive. Nina was a hydrologist, thirty-eight, who had been fired from the USGS for falsifying data on a dam study, though the falsification had consisted of reporting the actual flood risk, which her supervisors had determined was "unnecessarily alarmist" three months before the actual flood. Tom was a rope technician and vertical caver who had worked search and rescue in Sequoia until a recovery operation went wrong in a way he would not specify and two families received settlements he was still paying off. They had worked together once before, on an expedition in Belize that no one mentioned.
+
+Derek Smalley arrived alone in the sedan with the cracked windshield. He was twenty-nine, the youngest, a structural geologist who had left a PhD program at Colorado School of Mines after his advisor was indicted for fraud and every student who had worked in the lab became, by institutional association, unemployable in academia. He carried two duffel bags, one of which was entirely filled with core sample kits, and he spoke with the cheerful precision of a man who had replaced his social instincts with technical vocabulary.
+
+Jackie Calloway came last, twelve hours late, in a truck she had borrowed from someone in Aberdeen. She was forty-four, a blaster and demolitions specialist who had worked hard-rock mines in Nevada and Montana. She had a scar across her left forearm that was too straight to be accidental and too old to be recent, and she greeted Luis with the weary familiarity of people who have shared an employer but not a friendship. She had been on a crew with Luis eight years ago. Something had happened. They did not discuss it, but they did not pretend it hadn't happened either; they simply allocated their proximity in camp as though managing a shared resource they both knew was finite.
+
+Mara walked each of them to the cave mouth on the evening of their arrival. She delivered the same briefing in the same tonal register, adjusting only the technical specifics to match each person's expertise — for Nina, she emphasized the hydrology; for Jackie, the limestone's calcium carbonate content and fracture behavior under percussive stress; for Derek, the stratigraphy of the deposit itself, the nephrite vein that three separate assays had valued at somewhere between $15 million and $40 million depending on quality and recovery volume, a spread so wide it was essentially a confession that no one who had assayed it had been able to stay in the deposit long enough to do the work properly.
+
+Each time, she stopped at the line. Each time, the cave exhaled onto her face a breath of air that was six degrees colder than the rain and smelled like water that had never seen the sky.
+
+On the second night, with everyone arrived and the gear inventoried — four hundred meters of static rope, two Petzl harnesses per person, the comm rig with its jury-rigged repeater, thirty-six hours of carbide lamp fuel, a Dräger gas monitor they all understood would tell them about the CO₂ only after it had already told their nervous systems first — they sat under the tarp kitchen and ate canned soup and looked up the hill toward the cave mouth, which was not visible in the dark but was present the way a sound source is present when you can't see it, identifiable by the absence it created in the rain noise, a pocket of silence in the shape of an open mouth.
+
+Derek said, "You know what the old-timers in Colorado called a mine that fought back?"
+
+Nobody answered. The rain hit the tarp.
+
+"A *bitch with patience*," Derek said, and grinned at the dark, and Jackie snorted into her soup, and Luis shook his head the way you shake your head at a child who is correct about something they shouldn't know yet.
+
+Mara recorded the serial numbers of the gas monitor in her log. The cave breathed. The mountain was eleven hundred meters of basalt and limestone and the compressed remains of sea creatures that had lived and died in a world without lungs, and it did not laugh, and the rain did not stop.
+
+---
+
+## II.
+
+The first team went in at 6:40 A.M. on a Tuesday, which was not significant except that Nina Reyes would later tell the story as though it were — *a goddamn Tuesday, not even a Monday, not even a day with the decency to feel like a beginning* — and the detail would stick.
+
+Nina and Tom. Mara's choice. The hydrologist and the rope man, because the first incursion was a mapping run, not extraction, and the two things she needed mapped first were the water and the vertical.
+
+She watched them walk up the mudslope to the entrance, two headlamps bobbing in the grey morning light, packs heavy with the survey kit and the two-way and thirty meters of rope. Tom clipped into the first anchor — a bolt Mara had set three days earlier, six inches inside the threshold, which was the only piece of metal she had placed in the cave and which she had placed by reaching her arm past the line without moving her feet, a distinction that she recognized was absurd and that she maintained anyway. Nina checked the gas monitor. They looked back at Mara, who was standing at the comm rig under the tarp with her clipboard and her headset and the posture of a woman who intended to be the last thing they saw before the dark.
+
+"Comm check," Mara said.
+
+"Loud and clear," Nina said.
+
+"Copy," Tom said. "We'll send postcards."
+
+They went in.
+
+Mara listened.
+
+The first eighty meters were the entrance passage, wide enough to walk upright, the ceiling corrugated with flowstone that Tom's helmet scraped exactly twice — she noted each scrape as a data point, ceiling height decreasing — and then the passage necked down at what the survey map called the First Squeeze, though it was not a squeeze for anyone under six feet. Tom was six-one. He went sideways. The radio caught the sound of nylon on rock, the particular friction-whisper of a pack being hauled through a space that was not interested in accommodation.
+
+"Through," Tom said. "Passage opens again. Maybe four meters wide here. Ceiling's — hold on." A pause. "Ceiling's higher than the map says. Call it six meters."
+
+Nina's voice, slightly behind: "Water on the left wall. There shouldn't be water on the left wall."
+
+"Say again," Mara said.
+
+"The drainage," Nina said. "The survey map shows the primary channel running along the base of the right wall, fed by the upper gallery." A pause. Mara could hear Nina touching the rock, which made a sound like running your hand across a face that was wet for the wrong reasons. "This wall is wet from above. There's a channel here that's not on the map. Which means either the hydrology shifted since the last survey, which was fourteen months ago and a thing limestone absolutely does in fourteen months, or the original team didn't get far enough into this section to notice. Either way, the flood pathways aren't what we planned for."
+
+Mara wrote: *Left wall active drainage. Unmapped channel. Revise flood model before second incursion.* She wrote it in the same hand she used for supply inventories.
+
+"Continue to the second chamber," Mara said. "Stay right."
+
+They continued. The passage descended at what Tom estimated was a twelve-degree grade, the floor alternating between dry limestone and a thin mud slick that Nina identified, by taste — she touched it, touched her tongue, spat — as calcium-enriched runoff from the upper galleries, meaning the ceiling above them was not solid but laminated, meaning what seemed like a roof was actually a series of plates held together by mineral deposits and the memory of pressure, and if the water volume between those plates increased meaningfully — say, by eleven consecutive days of rain — the plates would begin delaminating, which was the geological term for a ceiling that had decided to become a floor.
+
+"Fun," Tom said.
+
+"Stay right," Mara said.
+
+They reached the second chamber. Tom's headlamp swept a space the telemetry measured at roughly twenty meters across, though the shape was irregular — a kidney, Nina said, or a stomach, which was the kind of metaphor you arrived at when you were inside something. The walls were banded. The air was different here. Tom described it as thicker, which was not a technical term but was the right one. Nina checked the gas monitor. Oxygen at 20.1 percent, CO₂ at 0.7 percent. Elevated but within tolerance. She said so.
+
+Tom found the formation. A shelf of pale green stone along the far wall, visible in the headlamp beam the way a vein is visible through skin — not on the surface but *implied* by it, the color rising from within the rock as though the mountain had bruised from the inside. "I see it," he said, and his voice did something that voices do in the presence of the thing they came for — it didn't get louder or softer; it got *specific*, the way a lens focuses.
+
+"Describe it," Mara said.
+
+"Runs horizontal. Maybe three meters visible. Green. Really, genuinely, objectively—"
+
+He stopped.
+
+The sentence did not trail off. It did not fade. It was a sentence, and then it was not. Like a tape cut.
+
+"Tom," Mara said.
+
+Nina's breathing on the radio. Fast. The sound of movement — pack sliding, knees on rock.
+
+"He's down," Nina said. "He's — shit, he's down, he dropped mid-word, I'm at point-seven on the monitor but it must be pooling lower, he was crouched, I'm—"
+
+"Get him up," Mara said. "Get his head above yours."
+
+Nina did not respond with words. The radio transmitted effort — grunting, the sound of a body being hauled by its harness straps, the wet drag of a person who had become weight. Then Tom's voice, which was not a voice yet but a sound, the sound of a man who had been switched off and switched back on and did not yet know which state was real.
+
+"—green," Tom said. And then: "What."
+
+"You went down," Nina said.
+
+"I didn't go anywhere," Tom said, which was correct. He had not gone anywhere. He had been *here*, in a sentence, and then he had not been *anywhere*, and then he had been here again, and the distance between those three states was not spatial but categorical, and the cave had demonstrated this in the most offhand way possible, the way you demonstrate gravity to a child by dropping a spoon.
+
+They came out. It took them forty minutes. They emerged into the rain muddy to the sternum and shaking, Tom from the residual confusion of a brain that had been deprived of its primary input, Nina from the effort of hauling him through the First Squeeze, which was not a squeeze on the way in but was very much a squeeze when you were pulling a hundred-and-eighty-pound man who could not reliably control his legs.
+
+Mara met them at the entrance. She did not cross the line. She did not ask if they were okay, because they were not okay and all three of them were in professions where the answer to that question was understood to be a social contract rather than a medical assessment. She took the gas monitor, checked its

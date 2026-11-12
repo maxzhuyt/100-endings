@@ -1,0 +1,243 @@
+The relay bank chattered like teeth.
+
+Kestrel’s solar rig—eight mismatched panels bolted to scavenged rebar on the roof—caught a gust of cloud-shadow and dipped. In the lab below, the LED strip over the bench shivered from white to jaundiced amber. The thermocycler’s hacked display—an old e-ink reader wired to a microcontroller and a pair of coffee-can heating jackets—blinked *94.0* then *91.6* then *ERROR*.
+
+“Don’t you dare,” Kestrel muttered, already under the bench.
+
+Hot plastic and dust. The inverter whined up an octave. A wire bundle, taped and zip-tied into submission, twitched with the load. The centrifuge on the shelf—an orphaned motor inside a 3D‑printed drum—stuttered to a stop, then tried to spin again on the next pulse of current, like a heart skipping beats.
+
+Kestrel jammed two fingers onto the voltage regulator heat sink. Too hot. The aluminum bit back through callus. The salvage-capacitor array—three bulging cans taken from a dead server rack—wasn’t smoothing the dips fast enough.
+
+A PCR run was already underway. On the bench, eight tiny tubes sat in a foam rack, each holding a few microliters of hope that couldn’t be replaced. The polymerase was pre-collapse stock, lyophilized in a foil sachet that had cost the settlement a month of barter; the dNTPs were measured like jewels; the primers were custom, copied from a faded datasheet Kestrel had stolen in another life.
+
+Two degrees off at denaturation and the template would stay knotted. Two degrees off at annealing and the primers would misbind. Every cycle was a coin flip made honest by physics.
+
+Kestrel slapped the bypass switch. The lab lights dimmed further, but the thermocycler’s heaters steadied. *93.8… 94.0… 94.1.*
+
+“Good,” Kestrel whispered, as if the machine could be soothed.
+
+Upstairs the wind shifted again. Down here the world had narrowed to the rise and fall of temperature, the clicking relay, the smell of overheating insulation. The settlement outside—Forty-Mile, a scatter of sheet-metal roofs and garden plots inside a chain-link perimeter—could wait ten minutes. The cycle could not.
+
+The thermocycler’s fan coughed. Kestrel killed the centrifuge entirely and rerouted the load with a jumper wire scavenged from a car stereo harness. The relay chatter softened. The e-ink numbers held.
+
+Only then did Kestrel let breath out through clenched teeth and reach for the sample tube marked in corporate ink that hadn’t faded even after twenty years.
+
+**OneGen™**  
+**Terminator-compliant.**  
+A little icon of a seed with a slash through it. Another icon: a padlock.
+
+Kestrel’s thumb rubbed over the branding until the letters blurred with skin oil. “Recurring revenue,” they said, voice thin in the quiet between relay clicks. “Licensed fertility. Eat once, buy forever.”
+
+On the shelf by the window sat a tray of second-generation seedlings. They were the color of weak tea—thin stems, translucent leaves, a kind of sickly ambition. The first-generation seeds, stamped with OneGen’s code, always germinated like propaganda: vigorous, uniform, obedient. It was the children that failed. Sterile pollen. Twisted pods. Embryos that browned and collapsed before they could split their shells.
+
+Not a plague, not a bomb. A business model scaled until it became a weapon by accident—or by profit calculus that didn’t count the far edge of time.
+
+Kestrel snapped on a headlamp. The light made the old tamper seal on the sample glow faintly. Proprietary primers listed on a sticker: **OG‑FERT‑LOCK / OG‑SAFE‑TAG**. A warning: **DO NOT AMPLIFY UNAUTHORIZED.**
+
+They laughed once, without humor, and set the tube into the ice block—an aluminum heat sink plate kept cold by a hacked thermoelectric cooler and a fan that Kestrel prayed the solar rig wouldn’t starve.
+
+Hands moved automatically. Ritual. Improvised sanctity.
+
+They wiped the bench with alcohol distilled in a pressure cooker and filtered through charcoal, sharp enough to sting the nose. They flamed a pair of metal tweezers over a blue stove burner, the flame fed by scavenged propane and prayer. They peeled tape off a glove fingertip where the nitrile had torn and pressed fresh tape down, sealing skin from contamination by cheap adhesive and stubbornness.
+
+Every pipette tip had been washed and autoclaved in a modified canner until the plastic warped slightly; Kestrel could feel the difference in the fit, the faint grit as the plunger moved. They compensated by touch, by muscle memory, by the way the droplet clung to the tip’s interior wall.
+
+Beside the thermocycler, a bike dynamo sat clamped to the edge of the bench, its wheel ready. If the solar rig dropped too low, Kestrel could pedal in place and keep the heaters fed. The settlement joked about it—*our wizard on their exercise bike*—but the dynamo had saved more runs than any joke deserved.
+
+They rehydrated the enzyme with chilled buffer from a vial that had been refilled and relabeled so many times the original text was ghosts under fresh marker. They tapped the tube against the rack, gentle, coaxing a transparent bead of liquid to gather at the bottom without splashing up the sides. Centrifuge would be nice. Centrifuge was a luxury for people who had stable grids and pharmacies.
+
+On the far end of the bench, the gel box waited: a Tupperware container with platinum wire scavenged from catalytic converters, a 9V battery clip soldered to a DC jack. The imaging system was a phone with a cracked screen mounted over a sheet of orange acrylic. Kestrel had made a dark hood out of a cardboard box lined with black cloth from an old coat.
+
+The lab was a collage of other people’s refuse arranged into order.
+
+The door curtain rustled. Warm air with the smell of smoke and soil flowed in.
+
+“Kest?” Mara’s voice, low. “You alive?”
+
+“Define alive,” Kestrel said. They didn’t look up. The thermocycler displayed *58.0* for annealing. The number was a small miracle.
+
+Mara stepped into view, her boots leaving muddy prints on the concrete. She was Forty-Mile’s runner—wiry, scarred, eyes always tracking exits. Today she carried a small cooler like it was a bomb.
+
+“You’re shaking,” Mara said.
+
+Kestrel realized their left hand tremored faintly, the pipette tip a needle dancing over a tube. They tightened grip until tendons ached.
+
+“I’m fine.”
+
+Mara set the cooler down. “You’re not. You’re doing it again, aren’t you?”
+
+Kestrel’s gaze flicked to the corner where a syringe lay capped beside a strip of transdermal patches cut from medical adhesive. The label on the vial was Kestrel’s handwriting: **AAV‑RBC‑FIX / batch 3**.
+
+The last storm had torn radiation shielding off the old clinic. Kestrel had cleaned the debris without enough lead between bone and dust. Afterward came the ulcers that wouldn’t heal, the bruises that bloomed with a touch, the fatigue that made stairs feel like mountains.
+
+So Kestrel had gone into the pre-collapse freezer—what remained of it. Viral vectors in frost-white vials. CRISPR cassettes with names like spells. Tools that had once been regulated by committees and patents, now governed by scarcity and pain.
+
+They slid the syringe into their palm like a secret. “It’s… maintenance.”
+
+“Maintenance makes you sweat like a fever dream,” Mara said.
+
+Kestrel pressed the needle into the soft skin below their rib, where bruises had faded to yellow. The injection burned cold, then bloomed into heat. Their tongue tasted metal.
+
+For a breath the world sharpened. The hum of the inverter became a clear note. The relay clicks separated into distinct voices. Even the faint hiss of the stove burner resolved into texture.
+
+Then the tremor worsened.
+
+Kestrel’s heart kicked hard against their sternum. Their skin flushed as if the lab had heated by ten degrees. A craving rose sudden and ugly: salt. Red meat. Iron.
+
+“Benefit,” Kestrel murmured, and hated themselves for the thrill that ran through it. “I stop bleeding. I clot faster. I can work.”
+
+“Cost?” Mara asked.
+
+Kestrel’s fingers fumbled the pipette for a moment; a droplet clung stubbornly, refusing to fall. “Maybe I turn into a walking thrombosis.”
+
+Mara didn’t smile. She just opened the cooler.
+
+Inside, nestled in melting ice and wrapped in foil, were three sealed tubes with corporate barcodes still intact. A paper envelope sat on top, its corner stamped with a black-market sigil: a circle of thorns around a seed.
+
+“They sent you?” Kestrel asked.
+
+“Radio. Then a kid on the west road handed me the cooler like it was nothing.” Mara’s jaw tightened. “Contract. For you.”
+
+Kestrel wiped their hands, then reached for the envelope with fingers that still shook.
+
+The letter was typed, old-style, and smelled faintly of ozone like it had been stored near electronics.
+
+**DELIVERABLE:** Viable line, germination ≥ 85%, harvestable in one season.  
+**DEADLINE:** Ten days.  
+**PAYMENT:** Two new solar cells, sealed; one case antibiotics; one enzyme pack cold-chain; plus three liters of diesel.  
+**CONDITION:** Exclusive distribution rights to the line for one year.  
+**SOURCE MATERIAL:** Provided; time-sensitive.
+
+At the bottom: **NO QUESTIONS.**
+
+Kestrel’s mouth went dry. Antibiotics would keep the cough from taking Old Sima. Solar cells would stop the lab from browning out every time clouds passed. Enzyme pack meant months of work instead of rationing microliters.
+
+Exclusivity meant someone wanted control.
+
+“Who?” Kestrel asked.
+
+Mara shrugged. “They didn’t say. They said if we don’t, they’ll take it to Ridgegate. Ridgegate will say yes.”
+
+Ridgegate was a day’s walk south and had guns where Forty-Mile had fences.
+
+Kestrel lifted one of the provided tubes. The label read: **OG‑CORN‑DROUGHT / Lot 44B.** Under that, in small print: **PROPERTY OF ONEGEN AGRI.**
+
+The ice in the cooler was already slush. Cold chain broken. DNA didn’t like heat; enzymes didn’t like time.
+
+Kestrel held the tube up to the bench light. In the clear liquid, a faint filament drifted—sheared genomic material, a ghost of information unraveling.
+
+“Time-sensitive,” Kestrel echoed. “They brought me rot and want bread.”
+
+Mara leaned closer. “Can you do it?”
+
+Kestrel looked at the thermocycler. The run was on cycle 19 of 35. The numbers marched like a prayer: denature, anneal, extend. Denature, anneal, extend. Copying imperfect templates until quantity became a kind of truth.
+
+“I can try,” Kestrel said.
+
+They cracked the corporate tube and took a microliter—an absurdly tiny volume to carry a settlement’s hunger—into a PCR mix already chilled and waiting. They added primers designed to flank the drought-resistance locus, primers Kestrel had designed months ago from an old patent file and tested on dead seed.
+
+Then the power dipped again.
+
+The thermocycler display flickered; the heaters lagged. A relay snapped twice in quick succession. The lab lights went amber. The inverter screamed.
+
+“No,” Kestrel said, and in one motion shoved the bike dynamo pedal toward their foot and began to pump.
+
+The dynamo whirred. Resistance bit into their leg. Sweat sprang up on their scalp. The e-ink display steadied at *94.0*.
+
+Mara watched, eyes wide. “You’re pedaling the PCR.”
+
+“Everything’s a cycle,” Kestrel panted. “Even me.”
+
+They loaded the new tubes into the thermocycler mid-run, using an empty block in the heater that would match timing if they synchronized at the next denaturation. It was risky. It was all risk now.
+
+On the bench, Kestrel set up a second reaction as backup with higher magnesium to forgive degraded template. They added BSA scavenged from old lab stock to stabilize the polymerase. They wrapped the thermocycler in a towel to increase thermal mass against power flicker.
+
+Denature. Anneal. Extend.
+
+Their hands tremored as they capped tubes. The injection’s heat made their vision pulse at the edges. But the upside—clarity, stubborn stamina—kept their thoughts sharp enough to chase numbers.
+
+At cycle 27 the thermocycler beeped, a high, anxious chirp. *LID TEMP LOW.*
+
+Kestrel swore and slapped a hand on the lid. The towel had insulated too well; the lid heater couldn’t keep up. Condensation would form, diluting reactions.
+
+“Aha,” Kestrel said, voice hoarse. They tore off the towel, then taped a thin sheet of aluminum—cut from a food can—to the lid as a heat spreader. The lid temperature climbed back into range.
+
+Mara shifted near the door curtain. “I don’t like this. Whoever sent that—”
+
+“Yeah,” Kestrel said. “Me neither.”
+
+When the run finished, Kestrel’s shirt was stuck to their back. Their leg burned from pedaling. The inverter’s whine softened as the cloud passed and the solar output rose again. The lab lights returned to steady white, almost smug in their stability.
+
+Kestrel poured agarose into the gel tray, the warm syrup smelling faintly of seaweed and chemicals. They set the comb, waited, then loaded the PCR products with dye.
+
+The gel ran. A faint blue line crept forward. Ten minutes felt like an hour. Kestrel’s heartbeat thudded too hard, too fast—either fever or the vector pushing blood cell production, either way not sustainable.
+
+They slid the gel under the phone camera in the cardboard hood. The UV LED—salvaged from a counterfeit bill checker—clicked on.
+
+Bands appeared: bright lines like tiny bars of music.
+
+Kestrel exhaled. The locus had amplified. Information rescued from rot.
+
+Then their eyes narrowed.
+
+There were extra bands. A smear where there shouldn’t be one. A fragment length that didn’t match the drought locus.
+
+Kestrel reached for their notebook, flipping to a page of restriction maps drawn by hand. Their pen hovered, then moved fast. Primer positions. Expected sizes. An unexpected restriction site at a known corporate watermark sequence.
+
+Their stomach sank.
+
+They dug into the amplified product with a quick digest using enzyme rationed like gold. While it incubated against their palm for warmth—no incubator free—they scanned the gel image again, tracing the smear.
+
+A tracer. Not just a barcode printed on plastic. A sequence embedded in the crop itself, designed to be detected remotely or in a field test: a corporate signature.
+
+Worse: the pattern of the extra fragment looked like an inducible sterility trigger—an elegant little loop that could be turned on with a sprayed compound, something a black-market client could control. Sell the antidote. Withhold it. Starve rivals.
+
+Kestrel remembered the old warning icon: the seed with a slash.
+
+“They didn’t want a drought-resistant line,” Kestrel whispered. “They want a leash.”
+
+Mara’s face went pale in the headlamp glare. “Can we refuse?”
+
+Refusal meant no solar cells. No antibiotics. No enzyme pack. It meant Old Sima’s cough would keep rattling until it went silent. It meant the lab would brown out more often. It meant Forty-Mile might lose to Ridgegate in the next raid because their fence lights went dark.
+
+Compliance meant planting a weapon in the soil.
+
+Kestrel’s hands shook harder. Their skin felt too tight over bone. They tasted iron again and swallowed against nausea.
+
+“There’s a third option,” Kestrel said.
+
+Mara watched them. “Which is?”
+
+Kestrel set up two more reactions.
+
+One used the client’s primers—what the client expected. It would amplify the locus with the watermark and the trigger intact. A perfect deliverable, if you didn’t care what it did later.
+
+The other used Kestrel’s primers, redesigned on the fly to skip the tracer region, to cut around the inducible promoter. A cleaner version. Not perfect—nothing was perfect—but less controllable. Less weapon.
+
+They worked fast, aware that every minute the DNA degraded. They amplified, gel-purified using silica scavenged from cat litter and a centrifuge spin they could now manage with the solar steady. They ligated the clean fragment into a plasmid backbone optimized for plant transformation, an old workhorse with its own scars.
+
+Kestrel’s vision tunneled once. They steadied themselves against the bench. The injection’s benefit was turning against them; their veins felt thick, as if blood itself wanted to become gel.
+
+“Sit,” Mara ordered.
+
+“No time,” Kestrel said, voice snapping. “Get me a jar of honey from the pantry. And salt.”
+
+Mara stared, then ran.
+
+Kestrel prepped tissue culture plugs—small cubes of agar in reused condiment cups—each meant to coax a plant cell to take up new instructions. They labeled two sets of vials in identical handwriting: **Line A** and **Line B**.
+
+They swapped the caps.
+
+Tiny technical defiance. A sleight of hand made of plastic and ink.
+
+When Mara returned, Kestrel tore open the honey with shaking fingers and swallowed it straight, then licked salt from Mara’s palm like an animal. The craving eased enough for thought to return.
+
+Night had fallen by the time the meeting came.
+
+They went to the old bus depot on the edge of Forty-Mile, where rusted coaches sat like dead animals. The solar rig on the lab roof flickered faintly in the distance, a pulse of light between shadows as clouds crossed the moon.
+
+The client’s courier waited under the depot awning, face hidden by a scarf. Two others stood behind, hands near jackets where weapons lived. The courier held a case the size of a lunchbox—new solar cells, if the shape was honest.
+
+“Goods?” the courier asked. Their voice was filtered, genderless.
+
+Kestrel held up the cooler with the vials nestled in fresh ice—Mara had raided their own ration to make it convincing. Kestrel’s body throbbed with heat; their heart still ran too hard. Every breath

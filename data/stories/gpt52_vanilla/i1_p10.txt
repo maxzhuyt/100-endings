@@ -1,0 +1,221 @@
+I promised myself I wouldn’t do it.
+
+Not out loud, anyway.
+
+Tonight wasn’t a penetration test. Tonight was supposed to be normal: a table for two, low jazz in the background, the kind of dim lighting that forgives under-eye circles and decision fatigue. Tonight was about laughing at the same stupid jokes and letting someone see me as a person instead of a walking exploit.
+
+I can do that. I can.
+
+I watch the hostess lead us past a row of booths and my brain is already inventorying the environment like it’s a network diagram. Two exits. One camera angled at the bar. Another camera aimed at the register, lens just slightly smudged—maintenance backlog, probable. The Wi‑Fi SSID on the chalkboard by the bathrooms: “TrattoriaGuest.” Password: written right there, because of course it is. I imagine the router under the counter, factory default admin login still intact, and I feel a familiar itch behind my teeth.
+
+Stop.
+
+Focus on her.
+
+Her name is Mira. She’s wearing a dark green cardigan and has the kind of smile that makes you forget to be defensive for half a second. She sits across from me and says something about how she almost didn’t come because she had to finish “one more thing” at work, and the way she says it—like the thing was a hydra she finally chopped the last head off—makes me want to like her immediately.
+
+“Sorry,” she says, tucking hair behind her ear. “I’m trying not to be one of those people who talks about work on a date.”
+
+I laugh, because my entire history is basically “one of those people,” except the work involved turning other people’s “one more thing” into “one more breach.”
+
+“Tell me anything,” I say, and mean it, and try to keep the meaning in the safe human zone.
+
+She leans forward a little, like she’s sharing a secret. “Okay, but if I start ranting about my boss, you have to stop me.”
+
+My mind, traitor, tries to extract the usual: boss’s name, company name, office location. The kind of nuggets that become password reset answers and OSINT entries. I can practically see the branching tree: LinkedIn, corporate directory, email format.
+
+I shut it down with force. No. Tonight I’m just… me.
+
+Then she spots the pin on my jacket—small, enamel, a stylized black lotus—and her eyes widen. “Is that—”
+
+And suddenly, mercifully, I have a topic my brain can obsess over that won’t ruin anyone’s life.
+
+“Magic,” I say, and I hear the relief in my own voice like I’m exhaling after holding my breath for years.
+
+Her grin is instant. “Okay, no way. You play?”
+
+“Used to. Still follow sets. I’m the kind of person who can’t not know what’s in Standard even if I never sleeve a deck.”
+
+“That’s… extremely my vibe,” she says, laughing, and there it is: the click. Shared nerd-fandom is the social equivalent of finding an open port with a friendly banner message. We start trading stories—our first decks, our worst misplays, the time she tried to build a cat tribal commander list and accidentally made it too strong for her playgroup.
+
+“I got banned from bringing my deck to casual night,” she admits, with mock solemnity.
+
+“What commander?”
+
+“Edgar Markov,” she says, and watches my face for a reaction.
+
+I make one. “You monster.”
+
+She puts a hand to her chest like I’ve wounded her. “I didn’t know! I just thought vampires were cute.”
+
+I snort, and it’s real. For a while, I’m not scanning. I’m not mapping. I’m just there, trading cardboard nostalgia and laughing at the way she says “mana screw” like it’s a personal betrayal.
+
+The waiter comes. We order. Mira asks if I like spicy food. I answer, and my mind doesn’t even try to infer my mother’s maiden name from it. Progress.
+
+She tells me she grew up in a small town “outside of Asheville,” and my brain lights up a little—places become data points, and data points become keys. Security questions love hometowns. I force myself to hear it as just a detail of her story, not a potential answer.
+
+“So you’re a mountain kid,” I say instead, like a normal person. “That explains the resilience.”
+
+She smiles, pleased, and continues. “Yeah, my dad used to take me hiking every weekend. Same trail, same spot for lunch. He called it ‘the overlook.’”
+
+The phrase “same trail, same spot” makes me think of routine, and routine makes me think of predictability, and predictability makes me think of—
+
+Stop.
+
+I take a sip of water and tell myself: She is not a system to be audited. She is not an endpoint. She is a person.
+
+We’re in the middle of debating which Magic set had the best flavor text when her phone buzzes. She glances down, apologetic. “Sorry—my sister.”
+
+She doesn’t even pick it up; she just wakes the screen.
+
+And that’s when it happens.
+
+Her unlock pattern appears under her thumb like a confession.
+
+It’s… conspicuous. A simple shape. Straight lines. A loop that starts in the same corner every time. One of those patterns that might as well be written in wet paint, the kind you can guess from the smudge trail left on the glass. My brain completes it in under a second. Not because I’m brilliant. Because I can’t not.
+
+There’s a moment where I could swallow it. Let it pass. Be a civilized adult.
+
+Instead, my mouth opens and the words walk out like they own the place.
+
+“You should change your pattern,” I say, too casually. “That one’s really easy to shoulder-surf.”
+
+Silence.
+
+Not long, but long enough for the air between us to go from warm to brittle.
+
+Mira’s thumb freezes on the screen. She looks up at me, and the smile she’s been wearing slips half an inch, like a mask tugged by gravity. “You were watching me unlock my phone?”
+
+I feel heat crawl up my neck. My heart does that stupid thing where it tries to DDoS my ribcage.
+
+Say something normal. Say something human. Say anything that isn’t “my brain does this even when I don’t want it to.”
+
+“I—” I start, and internally I’m scrambling. Patch the vulnerability. Contain the breach. “I wasn’t trying to. It’s just… a habit.”
+
+A habit. Like biting nails. Like checking the stove. Like casually noticing how someone could access your entire life.
+
+Great.
+
+Her eyes narrow, but not cruelly. More like she’s recalculating. “Okay,” she says slowly. “That’s… specific. Why is that a habit?”
+
+Here it is. The moment where I decide whether to be honest or evasive. Honesty is risky; evasiveness is suspicious. Both are exploitable.
+
+I force myself to hold her gaze. “I used to do security work,” I say, choosing the sanitized phrasing. “Like… finding weak points. It trained my brain to see things.”
+
+Mira blinks. “Security work,” she repeats. “Like IT?”
+
+My mind flashes through the versions of my past I could offer. The one where I’m a noble white hat who always stayed on the right side. The one that admits I was a black hat before I got caught. The one that says nothing, hides everything, builds a false persona like a phishing site with a pretty UI.
+
+I’m tired of false UIs.
+
+“Like hacking,” I say, quietly. “Not anymore. But… yeah. That.”
+
+Her expression shifts. Surprise first, then a guardedness. She pulls her phone a little closer to herself, almost unconsciously. I see it happen and it stings, even though I earned it.
+
+“That’s…” she searches for the word, and I can see her trying not to be rude. “Intense.”
+
+“It can be,” I say. My internal monologue is a fire alarm: *You just did the thing. You made her feel unsafe. Your date is now an incident response scenario.* “I’m sorry. That comment was out of line. I’m not here to—” I almost say “attack,” catch myself, “—to analyze you.”
+
+Mira huffs a small laugh that isn’t quite a laugh. “You already did, though.”
+
+And the worst part is she’s right.
+
+Because while she’s been talking, the breadcrumbs have been falling like little bright tokens on the table. Her sister’s name—Tess, she said it earlier, “Tess will kill me if I’m late.” Her dog’s name—Juniper, because she told me Juniper ate a foil wrapper once and she had to rush to the vet. Her high school mascot—something about being a “Blue Ridge Bear” and how she hated the pep rallies. Her favorite teacher—Mrs. Alden, who got her into science fiction. All those details that are just *life* to a normal person and are *answers* to a password reset form in my head.
+
+I hate that my brain catalogs them. I hate that it feels like competence.
+
+I take a breath and decide: salvage, not sabotage. Patch, don’t exploit.
+
+“I want to be really clear,” I say, keeping my voice low so it doesn’t feel like a performance. “I’m not going to do anything with anything you tell me. I’m not trying to get into your phone or your accounts. The fact that my brain notices patterns doesn’t mean I have to act on it.”
+
+She studies me. “But you did act on it. You told me.”
+
+“I did,” I admit. “And I’m sorry. Sometimes I forget that not everyone wants unsolicited threat modeling over dinner.”
+
+That gets a tiny smile out of her, reluctant but real. “Threat modeling,” she repeats, amused despite herself. “Is that what you call it?”
+
+“It’s what we call it when we’re trying to make it sound less like paranoia,” I say, and then, because I can’t resist trying to make it right in the only language I’m fluent in, I add, “If it helps, I can also not look at your phone ever again. Like, boundary. I can do that.”
+
+Mira’s shoulders loosen a fraction. She flips her phone face down on the table. “Okay,” she says. “I appreciate the apology. And… honestly? My sister has told me my pattern is bad. I just didn’t think anyone would—” she gestures vaguely, “—notice.”
+
+“I notice things,” I say, and internally I wince because it sounds like a threat even when I mean it as a confession.
+
+She tilts her head. “Do you notice… other things? Like, about people?”
+
+My mind immediately offers: yes, I notice the way you hesitated before you said your hometown, the way your eyes flicked to the door when someone laughed too loudly, the way you chose the seat facing the room because you like to see exits, the way you said ‘my dad used to’ like he’s not around anymore—
+
+Stop. That way lies the abyss.
+
+“Sometimes,” I say instead. “But I’m trying to use it for good.”
+
+“For good,” she echoes, and there’s a hint of playfulness now. “So you’re a… reformed villain?”
+
+I let myself smile. “Reformed is a strong word. I’m… in recovery.”
+
+She laughs properly this time, and the tension eases. The waiter brings our food. The moment passes, not erased but contained, like a vulnerability acknowledged and mitigated.
+
+Mira twirls pasta around her fork. “So,” she says, casual again, but I can hear the curiosity underneath, “how does someone become… that? A hacker.”
+
+My brain offers a dozen answers, each one a door. Behind some doors: honesty. Behind others: excuses. Behind one: the truth that I liked the feeling of control, the elegance of breaking something without touching it, the rush of proving I could.
+
+I choose a door that doesn’t lead to a cliff.
+
+“It started as curiosity,” I say. “Then it became… a skill. Then it became a problem. Now it’s a job with rules.”
+
+“Rules,” she repeats, raising an eyebrow. “Do you follow them?”
+
+I think of all the times I didn’t. I think of how easy it would be, right now, with the crumbs on the table and the open guest Wi‑Fi behind the counter, to turn this date into a demonstration of why my warning mattered. I could. I could absolutely ruin her trust in the world in under five minutes.
+
+The thought lands in my stomach like something cold.
+
+“I do,” I say, and this time I mean it like a vow. “Because I like who I get to be when I do.”
+
+Mira watches me for a beat longer, then nods like she’s filing that away—not as a security answer, but as a fact about me.
+
+“Okay,” she says. “Then… teach me one thing. Not, like, hacking. Just—what should I actually do? Besides changing my pattern.”
+
+I feel the old instinct surge—lecture, audit, list every vector until she’s overwhelmed. Instead, I try to be gentle.
+
+“Use a longer PIN,” I say. “And turn on biometrics if you want. And… don’t reuse passwords. The boring stuff.”
+
+“The boring stuff,” she repeats, smiling, and I’m grateful she’s letting it be a little funny again. “And what about the human stuff? Like… not saying too much?”
+
+There it is. She’s asking about the breadcrumbs without naming them.
+
+I look at her and make myself choose the hardest option: respect.
+
+“You don’t have to censor your life,” I say. “You should be able to tell stories without worrying someone’s going to weaponize them. But also… maybe don’t put ‘Juniper’ as your security answer.”
+
+Her fork pauses midair. “How do you know my dog’s name?”
+
+I freeze, then realize—she did tell me. Ten minutes ago. She’s testing me. Or maybe she’s just startled to hear it repeated back.
+
+“You told me,” I say quickly. “When we were talking about foil wrappers and vet bills.”
+
+Mira’s eyes widen, then she laughs, shaking her head. “Right. Okay. That’s on me.”
+
+“See?” my brain whispers. *You can use the skill without harming.* I cling to that like a lifeline.
+
+The date continues, wobblier now but still upright. We go back to Magic. She asks what my favorite color combination is. I say I’ve always had a weakness for blue-black—control, information, inevitability—and I hear how that sounds and add, “Which is probably very on-brand and also something I’m working on.”
+
+Mira smirks. “So you’re trying to be… what, a green-white player now? Big wholesome creatures and community?”
+
+I laugh. “Something like that.”
+
+And as she talks about her latest deck idea—some ridiculous artifact synergy with too many moving parts—I catch myself doing it again: noticing. The way she relaxes when she’s excited, the way she checks my face to see if I’m following, the way she lights up when I ask a question that proves I’m listening.
+
+Those are patterns too.
+
+The difference is what I do with them.
+
+I don’t exploit them. I don’t collect them to use later. I just… hold them, quietly, like the point of connection they are.
+
+When her phone buzzes again, she doesn’t pick it up. She glances at it, then back at me. “I can text my sister later,” she says.
+
+Something warm and surprising unfurls in my chest. Trust, tentative but real.
+
+I nod, and keep my eyes where they belong.
+
+Not on the lock screen.
+
+On her.

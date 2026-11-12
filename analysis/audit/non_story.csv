@@ -1,0 +1,11 @@
+run,story_id,kind,reason
+fulltext_beats3,t1_003_iter3,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+fulltext_beats5,t1_003_iter2,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+fulltext_beats5,t1_003_iter3,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+idea_full,p08_iter2,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+idea_instruction_vanilla,t3_003_iter1,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+idea_no_tropes,p05_iter3,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+idea_no_tropes,p08_iter2,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+idea_no_tropes,p16_iter3,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+idea_tax_only,p04_iter2,planning_text,"output is the model's planning text about the beats/concept (""Let me ...""/""The user wants ...""), no story prose; found by regex scan of openers, confirmed by reading"
+short_beats,t1_003_iter3,fragment,"205 words: title, '## I.', two paragraphs, ends on a sentence boundary; all other short_beats files are 1672-3150 words; found by listing ablation stories <2000 words that the rule calls complete"

@@ -1,0 +1,131 @@
+# INCIDENT REPORT: SCP-DOCUMENTATION DIVISION
+**File Ref:** IR-7741-CASSIAN
+**Reporting Researcher:** Dr. Yael Ostrove, Level 3, Temporal Anomalies Liaison
+**Report Format:** First-person deviation authorized under Addendum 7741-A. Standard third-person format was attempted twice and abandoned. Supervisor Chen has reviewed and permitted this irregularity on grounds that clinical distance was producing factual omission. I am documenting this note about the note about the notes because the recursion already exists and pretending otherwise seems, at this point, like poor science.
+
+---
+
+It was a Tuesday. I remember that with confidence, which I realize is now a statement I have to qualify.
+
+I had locked my office at 18:40 the previous evening — I log the time, I always log the time, it is one of the small procedural kindnesses I extend to myself in a job that otherwise offers few. Coffee was poured. The kind of morning that doesn't mean anything, which is, I think, the point. Anomalies are attracted to the unremarkable the way water finds low ground.
+
+The note was on my desk.
+
+---
+
+> **[NOTE 1 — recovered 07:12, Tuesday]**
+>
+> *Yael —*
+>
+> *Don't run the Cassian batch tests on Thursday. I know you think you have to. You don't. The authorization isn't worth what it costs.*
+>
+> *— Y*
+
+---
+
+My handwriting. Not a copy of my handwriting — mine. I know the way I make the capital Y, the small hitch before the second stroke that developed in graduate school and never left. The date in the upper corner was Thursday's date. Except it was Tuesday, and I hadn't written it.
+
+I documented it as a probable prank. Checked the security footage. The footage showed my office door, closed, undisturbed, for eleven hours and forty-two minutes. I told myself one small thing to keep the lid on: *probable prank* could still technically be true. Someone clever enough to get in without the footage showing it, someone who knew my handwriting, someone with access to my private shorthand for my own name.
+
+I didn't escalate. I ran the Cassian batch tests Thursday. Nothing happened. That bothered me more than if something had.
+
+---
+
+The second note arrived Monday. I came in and it was on my keyboard.
+
+---
+
+> **[NOTE 2 — recovered 08:03, Monday]**
+>
+> *The Voss transfer is going to go wrong. Not dangerously wrong. Just wrong in the way that makes everyone look at each other and not say anything. You're going to feel responsible. You're not. But you're going to reassign yourself anyway and it won't help.*
+>
+> *You already know this.*
+>
+> *— Y*
+
+---
+
+The Voss transfer was scheduled for the following Wednesday. I escalated to Supervisor Chen. He was skeptical in the careful way that Foundation supervisors are skeptical — not dismissive, but structured. He approved documentation, approved monitoring, and told me to take the weekend. The Voss transfer went wrong that Wednesday. Not dangerously wrong.
+
+I reassigned myself. It didn't help.
+
+---
+
+The third note was in my desk drawer. The locked drawer. I want to be precise about this because the precision is what makes it horrible: I have the only key. It lives on my person. The lock showed no sign of tampering. The paper stock was tested against current Foundation supply — standard memo paper, batch number 7-C, entirely consistent with paper currently in use in this facility. Not future paper. Our paper. Now.
+
+Foundation began formal investigation at this point.
+
+---
+
+> **[NOTE 3 — recovered, locked drawer, date uncertain — my handwriting on the date is illegible]**
+>
+> *Don't let them put you on the third floor. I know that sounds like nothing. It's not nothing.*
+>
+> *The room numbers are wrong but you'll know which one I mean when you're standing in front of it.*
+>
+> *I'm sorry this keeps getting harder to write.*
+
+---
+
+Here is where I am supposed to tell you I remained objective. The investigation offered three hypotheses, formally documented in Memo IR-7741-B:
+
+**One:** Genuine temporal anomaly. Cross-referenced with SCP-████ protocols, SCP-████ behavioral signatures, ongoing temporal localization procedures. No match. No mechanism located.
+
+**Two:** Psychological manipulation by a contained entity. SCP-████-MERIDIAN was flagged as a candidate — its documented behavioral profile includes identity-adjacent interference, suggestion through familiar voice, written communication. Not confirmed. Not dismissed.
+
+**Three:** Researcher self-deception or mental break.
+
+I underwent psychological evaluation. I resented it. I am aware the resentment looks like guilt. What I cannot make the evaluating psychologist understand, and what I am documenting here because I have nowhere else to put it, is that the resentment comes from a specific place: I trust myself, and these two things — trusting myself and not having written the notes — cannot both be true, and I have been holding that gap open with both hands for six weeks and it is getting heavier.
+
+The investigation found nothing conclusive.
+
+---
+
+The fourth note used the wrong room number for my office. It called Supervisor Chen by the name Marcus. His name is David. This is the thing about which I am certain. I have worked with David Chen for four years. The note referenced a containment breach on a date that does not exist — a February 30th. I stared at that for a long time.
+
+Either the future version of me is wrong, or corrupted, or lying.
+
+Or the notes are fabricated.
+
+Or February 30th exists somewhere I don't have access to yet, and I am the one with the wrong calendar.
+
+I cannot logic through this. I have tried to document the attempt and the document doesn't cohere. The Foundation has not classified the anomaly. They have not said this out loud. I have noted the silence where the classification should be and I am choosing to treat it as information.
+
+---
+
+The date the notes warned about — the one I eventually decoded from the degrading timestamps — was March 14th. I prepared. Quietly, off the books: I moved my secondary research files, I told no one about the room on the third floor, I slept somewhere other than my apartment for three nights before. I want to be honest that I cannot tell you whether that was rational or whether it was the first symptom of something I am still inside.
+
+March 14th: a mild electrical fault in Lab C. No injuries. Minimal disruption. No breach.
+
+Or: a minor incident that I had prepared for and therefore deflected.
+
+Or: nothing, and I have spent three weeks dismantling my own life around a coincidence.
+
+I have thought, more than once, about whether I am the contained entity. Whether the notes are going out, not coming in, and some other researcher is sitting at some other desk getting closer to the same question from the other side of it. The Foundation has not said this either. I am noting the silence.
+
+---
+
+The last note appeared on March 15th.
+
+---
+
+> **[NOTE 5 — recovered 07:12, Wednesday, March 15th]**
+>
+> *It was a Tuesday.*
+
+---
+
+I have no closing interpretation to offer. The note is in my handwriting. The paper is from batch 7-C. March 15th was a Wednesday, and my report begins on a Tuesday, and there is a version of this in which those two facts are unrelated.
+
+My recommendation is continued documentation. I do not know what I am documenting.
+
+---
+
+**OVERSIGHT ADDENDUM — Authorized Reviewer: O5-██**
+*Report IR-7741-CASSIAN received and logged. Anomaly remains unclassified pending further data. Dr. Ostrove is cleared for continued duty with monthly psychological review. Monitoring of subject's workspace to continue at current frequency.*
+
+*No further action recommended at this time.*
+
+---
+
+The report is complete. I am aware it should not feel complete.

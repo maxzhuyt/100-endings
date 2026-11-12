@@ -1,0 +1,107 @@
+# The Honest Account of Lieutenant Maren Gull's Unsuccessful Retreat from the Attention of the Marsh King
+
+---
+
+**PROPERTY OF THE ROYAL ARCHIVES OF THE FEATHERED THRONE**
+
+**Classification: ██████ / Revised: SPECTRAL-ADMINISTRATIVE / Revised: THEOLOGICAL-PERSONNEL / Revised: UNCATEGORIZED (PENDING)**
+
+**Filing Code: FT-CARTO-09-GULL-M. / Cross-referenced: FT-DIVIN-00-MARSHLANDS (GENERAL) / FT-GRIEV-14-"THEOLOGICAL HARASSMENT" (see note)**
+
+**Access Level: DECLASSIFIED by order of the Archival Concord, 14th Year of the Heron Throne, on grounds that continued classification was, in the words of Chief Archivist Selwick Ohn, "costing us more in refiling hours than the security risk could possibly justify."**
+
+---
+
+## Preface by the Office of the Royal Archivists
+
+The document that follows has been compiled from the field journals, transfer requests, after-action reports, unsolicited correspondence, and personal effects associated with the service record of Lieutenant Maren Gull, formerly of the 9th Cartographic Mounted Survey, presently of ████████████.
+
+The Office of the Royal Archivists wishes to note that the events described herein led to certain irregularities in the Cartographic Corps' chain of command, including but not limited to: three unauthorized transfers across allied borders; the establishment (and immediate dissolution) of an ad hoc Theological Liaison subcommittee; a formal inquiry into whether divinely conjured office furniture constitutes a bribe under Section 14 of the Military Conduct Code; and a ninety-page report by Colonel Aldric Fenn that was submitted, rejected, reclassified, accepted, reclassified again, partially redacted, accidentally unredacted, and ultimately filed under "Miscellaneous (Weather-Adjacent)" before being moved to its current home in the present dossier.
+
+Lieutenant Gull's file has been reclassified three times under three different headings, none of them satisfactory. The first classification, HOSTILE DIVINE CONTACT, was rejected after review determined that no hostility had occurred, or indeed could be demonstrated to have been attempted. The second, UNSOLICITED DIVINE PATRONAGE, was rejected on the grounds that the Royal Archives do not currently recognize "patronage" as a category of divine interaction, and that creating such a category would require acknowledging that a god had offered a junior cartographer better working conditions than the Empire provides, which was felt to set an uncomfortable precedent. The third, NON-STANDARD PERSONNEL RECRUITMENT (EXTERNAL), was adopted for a period of four months before the Chief Archivist noted, in the margins of a review memorandum, "This makes it sound as if the Marsh King submitted a hiring form and we simply lost it," and withdrew the classification.
+
+The file is now listed as UNCATEGORIZED (PENDING). It has been pending for six years.
+
+We present the following account in the interest of completeness, and because the alternative was to continue storing it in Archivist Selwick's office, where it was taking up room he needed for his lunch.
+
+A note on the maps: Lieutenant Gull's maps, both those produced before and after the events in question, are stored separately in the Cartographic Vault. Researchers granted access to the Vault have occasionally noted that her later maps are drawn in a hand that, while still recognizably hers, exhibits a quality that has been variously described as "unsettlingly precise," "almost alive," and, by one visiting scholar who subsequently asked to sit down and was brought a cup of tea, "the lines of someone who is no longer guessing." The Archivists offer no interpretation of this observation. We are not in the business of interpretation. We are in the business of storage.
+
+[See Appendix C for a complete reproduction of the relevant maps. Appendix C has been lost.]
+
+[See Appendix F for the Marsh King's original correspondence. Appendix F is technically present but the pages smell so aggressively of peat that they have been removed to a ventilated annex.]
+
+---
+
+## I. Survey Mission: The 9th Cartographic Mounted Survey, Fenward Quadrant
+
+*[Compiled from Lieutenant Gull's field journal, entries 41–56; the mission dossier of Captain Hesta Berke, commanding; and marginal annotations by Archivist Third-Class Wynna Dott, who was assigned this file as a punishment for misfiling a dragon-census and who has, in the intervening years, developed what can only be described as an emotional investment in the subject matter. Her annotations have been retained where relevant and excised where they devolve into editorializing, which is frequently.]*
+
+---
+
+The 9th Cartographic Mounted Survey was not a prestigious unit.
+
+This should be established at the outset because it contextualizes everything that followed, and because the soldiers of the 9th would have wanted it established. They were proud of their lack of prestige the way some people are proud of a scar — it proved they had survived something, specifically the Empire's budgeting process. Their birds were secondhand. Their compasses were the kind issued to units the Quartermaster General had stopped pretending to care about. Their operational territory was the margins: the coastlines too rocky for naval charts, the hinterlands too dull for the glory-survey regiments, the borders where the Empire's claimed territory faded into fog and argument and someone in the capital had finally sighed and said, "Oh, send the 9th, they won't complain."
+
+They did complain. But they also went.
+
+Lieutenant Maren Gull had been with the 9th for two years at the time of the events in question. She had been assigned to the unit directly out of the Academy, which tells you something about how the Academy regarded her, or rather, how it failed to regard her at all. Her marks were adequate. Her flight skills were sound but unremarkable. Her field reports were terse to the point of austerity — she wrote the way other people cleared their throats before speaking, as if the purpose of language was to get itself out of the way. Her commanding officers described her, in a consensus that spans six separate fitness reviews, as "reliable," "competent," and "unlikely to cause problems."
+
+[*Archivist's note: The word "competent" appears in her file eleven times. I counted. It is the most damning word in the language. — W.D.*]
+
+She was not, by any metric the Empire measured, exceptional.
+
+Here is what the Empire did not measure:
+
+Her maps.
+
+Not the content of them, which was logged and filed and reduced to the data the strategists wanted — troop-passable routes, water sources, defensible elevations, the usual cartographic harvest. The Empire measured that and found it satisfactory. What the Empire did not measure, because it had no instrument for the task and no column on its forms, was the *quality* of how she saw.
+
+There is a difference between a map that is accurate and a map that is *honest,* and the difference is the thing that cannot be taught. Any competent cartographer can render a landscape so that someone holding the map could navigate the terrain. Maren's maps did something else. They rendered a landscape so that someone holding the map could *recognize* the terrain — could feel, in the weight of a contour line, the way a hillside actually fell; could sense, in the spacing of her elevation marks, whether the ground wanted to be walked on or wanted to be left alone. She drew rivers the way rivers understood themselves: not as blue lines with directional arrows but as *presences,* as assertions of water that had opinions about their own banks. Her trees were not symbols from the standard legend. They were the specific trees that stood in the specific places, drawn with a specificity that had no tactical value whatsoever and that made anyone who looked closely feel, for a disorienting moment, that they were standing among them.
+
+She did not know she did this.
+
+That is not precisely accurate. She knew her maps were different from other people's maps because she had eyes and could compare them. What she did not know — what she had carefully, over the course of a lifetime, arranged not to know — was that the difference mattered. She had constructed, with the meticulous care she applied to everything, a story about herself in which her particular way of seeing was a mild eccentricity, an overattention to detail that she ought to correct, a private habit like cracking one's knuckles that was best kept unobtrusive. When she turned in her surveys, she turned in two versions: the one she drew first, instinctively, alive with the full depth of her sight, and the one she traced from it, in standard notation, with the standard legend, with everything that made it *hers* carefully filed down. She turned in the second. She kept the first in the bottom of her pack, with her spare bootlaces and a small tin of drawing charcoal she had been issued in training and never replaced because she had never quite used it up despite using it constantly.
+
+[*Archivist's note: She kept them. Every one. They were in her effects when the file was compiled. I have held them. In the interests of professional neutrality I will not describe this experience. — W.D.*]
+
+She had been assigned to fill in a blank corner of someone else's map.
+
+The blank corner was fenward — marshland, technically within the Empire's claimed borders, practically within nobody's borders because nobody wanted it. It was a vast, fog-laced expanse of bog and tidal channel and drowned forest, the kind of landscape that ate surveyors' time and produced maps that looked, to the strategists, like someone had spilled tea on a blank page and tried to label the stains. Previous surveys had returned with technically adequate charts and verbally delivered footnotes along the lines of, "It's wet. It's all wet. There is nothing there of strategic value unless you are a frog." The 9th had been sent to produce a final, comprehensive map of the region so that the Empire could close the file and officially designate the area NOT OF INTEREST, which was the cartographic equivalent of a shrug.
+
+Lieutenant Gull flew on a marshbird — a heron-bred mount, long-legged, ill-tempered, better suited to low-altitude survey than the raptors the prestige units rode. Its name was Needle. It did not like Maren. It did not like anyone. It liked flying low over marshes because that was what it had been hatched to do, and its entire relationship with its rider was structured around the understanding that she was a tolerable inconvenience perched in the vicinity of its shoulders while it did the only thing it cared about.
+
+They went out on a Tuesday.
+
+[*Mission dossier, Captain Hesta Berke, Supplementary Note: "Lt. Gull dispatched to Fenward Quadrant, Grid Sectors 7 through 12. Routine fill-in survey. Expect completion in four days. No tactical concerns." This is the entirety of the note. Four sentences. I want the reader to sit with the four-sentence-ness of it. — W.D.*]
+
+[*This annotation has been retained because, against all precedent, it makes a valid point. — Office of the Royal Archivists*]
+
+The first two days were unremarkable. Maren flew grid patterns over tidal channels, noted the seasonal waterlines, sketched the stands of black willow and swamp oak that rose from the mire on islands of only-slightly-less-wet ground. The fog was persistent but cooperative; it rose and fell on a rhythm she learned to anticipate, and she planned her observation passes for the windows of clarity between its exhalations. She noted in her field journal that the fog seemed "unusually structured," by which she meant that it moved less like weather and more like breath — but she crossed this observation out and wrote, instead, that visibility was "intermittent but workable." She did not include the comparison to breath because it was the kind of observation that did not belong in a field report. It was the kind of observation that belonged to the other version of her maps, the ones in the bottom of her pack.
+
+On the third day, she flew into a fog bank that she had expected to dissipate and it did not.
+
+It held. It held around her and Needle for the better part of an hour, and Needle, who did not care about fog the way it did not care about most things, flew on with the placid indifference of an animal that trusts its own wings more than it trusts the world. Maren could see nothing. She could hear water below — not the flat, tidal murmur of the channels she had been mapping, but something more vertical, something that dripped and ran and pooled with a sound like many small confidences being exchanged simultaneously. She smelled peat, and something sweeter beneath it, vegetal and dark, the smell of things growing in the particular way that things grow when they have been growing for a very long time and no one has watched them do it.
+
+Then the fog opened.
+
+Not dissipated. *Opened.* Like a curtain. Like a hand unclenching. Like something that had been holding itself closed had decided, for its own reasons, to let her see.
+
+Below her was a grove.
+
+[*Field journal, entry 48: Here the text resumes after what appears to be a gap of several hours. The handwriting is the same — steady, unhurried, the penmanship of someone who controls her lines by habit and would no sooner write sloppily than breathe sloppily. But the pressure is different. She pressed harder. As if she were trying to push the words into the page so they would not float away. — W.D.*]
+
+It was not a grove of trees in any way the standard legend could accommodate. The growths rose from the water on root structures that intertwined so densely they formed a lattice, a living architecture, and from this lattice grew not trunks but *columns* of braided wood and moss and fungal shelf, each one slightly different, each one shaped by what appeared to be — Maren noted this with the detached precision she brought to everything — *intention.* They had been grown. Not cultivated. Not pruned. Grown the way a body grows: from within, according to a design that was not imposed but *inherent.* And between the columns, cradled in the lattice of roots, were the nurseries.
+
+Small things. Curled things. Seedlings, maybe, if seedlings could be the size of ponies and could glow faintly with a luminescence that had a color Maren could see but could not name. They were sleeping, or growing, or doing whatever it is that the young of a thing do when the thing in question is a marsh and the young in question are the parts of the marsh that have not yet decided what they will become. Possible rivers. Possible islands. Possible centuries of slow green growth, all curled up like fists in the dark water, tended by the root-lattice, watched over by the columns, hidden in the fog that breathed around them like a vast, protective lung.
+
+Maren looked at all of this.
+
+She looked at it the way she looked at everything: with the full, self-annihilating attention that was the thing she was best at and most afraid of. She did not interpret. She did not assign meaning. She did not wonder what it *was* in any theological or strategic sense. She looked at what was there, and she drew it.
+
+She drew it on the first version. The real one. She drew the root-lattice with lines that curved the way the roots curved, with a weight that conveyed the density of living wood interlocked over centuries. She drew the columns and gave each one its own posture, because each one had its own posture, and she was not the kind of cartographer who made two different things look the same for the sake of a clean legend. She drew the nursery-things in their cradles of root, and she used the small tin of charcoal from training — nearly empty now, nearly used up, and she did not think about what it meant that every time she unscrewed the lid there was a little less of the medium she used to be honest — and she shaded them with a softness that was not in any manual but that was *true,* that was the way they looked, glowing and curled and impossibly tender in the dark.
+
+She drew all of it. It took her three hours. Needle perched on a root-column and ate a fish.
+
+Then the fog closed, gently, the way it had opened, and Maren flew back to camp.
+
+She traced the clean version — the standard-legend version, the version that showed the grove as a cluster of tree-symbols in a

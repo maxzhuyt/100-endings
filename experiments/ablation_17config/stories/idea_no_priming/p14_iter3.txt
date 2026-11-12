@@ -1,0 +1,154 @@
+# WIDEOPEN
+
+## Recovered Production Materials, Partial Rough Cuts, and Associated Documentation from an Unaired Quibi Original Series (2020)
+
+### Compiled for the Federal Communications Commission, Office of Engineering and Technology, Docket 20-317
+
+---
+
+## I.
+
+---
+
+**PRODUCTION SLATE — QUIBI INTERNAL**
+
+**Series:** WIDEOPEN
+**Production Company:** Liminal Content / Range Road Films
+**Showrunner/Director:** Mariana Cuevas
+**Episode:** 101 ("Frequency")
+**Format:** Quick Bites — Prestige Unscripted — Mobile-First Vertical/Landscape Adaptive
+**Shoot Date:** 02/14/2020
+**Location:** Rural property, Frederick County, MD (NDA-restricted; see production legal file 2020-WO-0041)
+**Rating Pending:** TV-MA (LSV) — *Sensitivity consultation recommended; see attached memo from Standards & Practices re: "informed consent under coercive neurological conditions"*
+
+---
+
+**NIELSEN PROJECTED VIEWERSHIP DATA — INTERNAL MEMO**
+
+**To:** Quibi Content Strategy Group
+**From:** Audience Analytics, West Coast Desk
+**Date:** 01/28/2020
+**Re:** WIDEOPEN Pre-Launch Tracking
+
+Early tracking suggests strong awareness among the demo (A25-40, mobile-primary). Social listening shows elevated curiosity around "telepathy," "government experiment," and "group living" — compare audience-interest overlap with *The OA* (Netflix, canceled) and *Unacknowledged* (Greer, 2017). Predicted completion rate for Ep 1: 74% (strong for platform). Predicted binge-through to Ep 3: 52%. Note: Format team flags that the 7–10 minute episode window aligns well with "transit consumption" and "pre-sleep browsing." Recommend marketing push toward nighttime mobile use. Headphone consumption assumed at 83%+.
+
+*[Handwritten in margin, blue ink, identified as M. Cuevas's hand: "They want people watching this alone, in bed, with headphones. Perfect."]*
+
+---
+
+**FEDERAL COMMUNICATIONS COMMISSION**
+**COMPLAINT — INFORMAL**
+
+**File Number:** IB-2020-00743
+**Date Filed:** 03/12/2020
+**Complainant:** [REDACTED], Silver Spring, MD
+**Service/Channel:** Quibi mobile application (streaming; not broadcast — *see jurisdictional note*)
+**Nature of Complaint:**
+
+Complainant reports "anomalous binaural interference" experienced during playback of content on the Quibi mobile application, specifically the series titled *Wideopen*, episodes 1 through 3. Complainant describes persistent "low-frequency pressure sensation" during and for approximately forty minutes after viewing, accompanied by "a feeling of being listened to." Complainant's spouse, not a viewer of the series, reports no symptoms. Complainant requests the Commission investigate whether the program's audio design violates FCC regulations governing subliminal content (47 CFR § 73.671(c), applied by analogy to streaming under proposed expanded authority).
+
+**FCC Action:** Logged. No further action. *[Stamp: OUTSIDE JURISDICTION — STREAMING PLATFORM / NO BROADCAST LICENSE]*
+
+---
+
+**CONTENT ADVISORY — QUIBI LEGAL / STANDARDS & PRACTICES**
+
+The following program contains material related to government-funded human research, involuntary neurological alteration, and extended psychic surveillance among consenting adults. Viewer discretion is advised. Some participants in the events depicted have declined to be identified by their legal names. Others have declined to participate entirely. The producers have made reasonable efforts to present all perspectives. This program is not intended as medical advice about, or endorsement of, any procedure, substance, or technology depicted. The audio design of this program is optimized for headphone use and may cause mild disorientation in sensitive individuals. It is recommended that viewers take breaks between episodes.
+
+*Nothing in this program has been confirmed by the Defense Advanced Research Projects Agency (DARPA), the Department of Defense, or any agency of the United States government.*
+
+---
+
+And then, her voice.
+
+It arrives over B-roll of a farmhouse at dusk — a specific dusk, thin and late-winter, the sky the color of a healing bruise above bare sycamores. The farmhouse is unremarkable: white clapboard, green metal roof, a covered porch with two mismatched chairs. The kind of house you'd drive past on Route 15 and never think about. The B-roll is shot handheld, from inside a car that has just pulled to a stop on a gravel shoulder. Through the windshield, the farmhouse windows glow amber. A figure crosses behind a curtain on the second floor.
+
+The voice:
+
+"My name is Mariana Cuevas. I'm a documentary producer and journalist. For the past fourteen months, I've been investigating a clinical trial — funded through a DARPA subcontract and administered by a private laboratory in suburban Maryland — that, according to former participants, resulted in persistent and involuntary telepathic connectivity among its six surviving subjects."
+
+A pause. Not quite long enough to be a breath. Too long to be nothing.
+
+"Former participants have described this connectivity as ongoing, constant, and uncontrolled. They have described it as the end of the private mind. DARPA has neither confirmed nor denied the trial's existence. The subcontracting laboratory closed in 2017. No peer-reviewed literature documents the procedure. I have obtained exclusive access to the six individuals living with the consequences — the only people in the world, as far as we know, who cannot stop hearing each other think."
+
+B-roll of the gravel driveway. A dog — indeterminate breed, gray muzzle — limps across the frame and looks directly into the lens.
+
+"I have been given exclusive and unrestricted access to their home, their lives, and the coping structures they have built over three years of shared consciousness. What I've found is not what I expected."
+
+She says *former participants* with a pause before it. A tiny hesitation, almost subliminal, as if the phrase had been in her script as something else and was changed at the last moment. Her mouth readying for one word, delivering another. In the uncompressed audio file recovered from Range Road's backup servers, the waveform shows a 0.6-second gap — not a clean edit, not a breath. A recalibration. As though, even in this earliest recorded artifact, the language was already slipping.
+
+The dog looks at the camera for eleven frames. Then it turns and walks back toward the house, and the image cuts to black, and the Quibi logo renders in the center of the screen in its proprietary aspect ratio — stubby, phone-shaped, a window designed for a palm.
+
+---
+
+## II.
+
+---
+
+The farmhouse sits on eleven acres of former tobacco land that hasn't been farmed in two decades. Mariana's first day of shooting is February 15, 2020. Her camera operator, Tomás Delgado, has signed an NDA so extensive that his copy, recovered in the production files, runs to forty-one pages. He will later tell an interviewer — not Mariana, a different interviewer, months after, someone from a podcast that no longer has a working RSS feed — that the first thing he noticed when he entered the house was that nobody was in the same room.
+
+"It was like a hospital ward," he said. "Except everyone could walk around. They'd arranged the whole place so you'd almost never have to see another person if you didn't want to. There were routes. Through the kitchen, you went one way if you were going to the upstairs bathroom, another way if you were going to the porch. And it wasn't posted anywhere. No signs. They just *knew*. And when I walked through a doorway at the wrong time, someone I hadn't even seen yet flinched. In a room at the other end of the hall."
+
+---
+
+Mariana's rough cuts introduce the six across what her voiceover identifies as "my first forty-eight hours in the house." The voiceover structures these introductions with professional confidence — she narrates each person into a legible category, assigns them an angle, a story. The footage tells a different story than the narration. But the footage doesn't know it yet.
+
+---
+
+**CHEN WEI-LIN**, 34, former computational linguist. He is the first participant the camera encounters, at 6:40 a.m. on the first morning. He is in the kitchen making oatmeal. He speaks aloud, continuously, in a running monologue directed at no one visible:
+
+"I'm putting the water on. One cup of water, one-half cup of oats. I prefer the steel-cut but we're out. I'm opening the cabinet now. I'm reaching for the brown sugar. I think I'll use about a tablespoon. Maybe a little more."
+
+Mariana's voiceover explains: "Wei-Lin speaks every action and thought aloud, in real time, as they occur. He began this practice in the second month after the trial. He describes it as a form of 'prophylactic transparency' — by verbalizing his thoughts before they can be involuntarily received by others, he maintains what he calls 'the illusion that I chose to tell you.' He has not stopped narrating since March 2017. He speaks in his sleep."
+
+The camera catches Wei-Lin's hands. They are beautiful hands, precise, long-fingered, faintly trembling. He measures the brown sugar with a teaspoon and levels it with his thumb.
+
+"I'm thinking about whether this is enough sugar. I'm thinking that Mariana's cameraman is standing too close. I'm thinking—" A pause. He sets down the spoon. "I'm choosing not to say what I'm thinking now."
+
+The first smile in the series. Conspiratorial, directed at the lens. Tomás does not zoom in. But the fixed camera on the kitchen counter — a GoPro, positioned for coverage — captures Wei-Lin's face in profile after the smile drops, and the expression beneath it is the expression of a man holding a door shut with his body while something pushes from the other side.
+
+---
+
+**DARA OKAFOR-MAYS**, 41, former Army signals analyst. She is introduced through her garden.
+
+The garden is behind the farmhouse, south-facing, and it is the most precisely organized outdoor space Mariana's camera has ever recorded. The rows are not merely straight; they are calibrated. Each plant is labeled with a laminated card listing species, planting date, expected yield, and — this detail Mariana's voiceover does not mention, though the camera lingers on it — a color-coded sticker system. Green: "safe to tend while others are awake." Yellow: "tend only during low-traffic hours." Red: "tend only when alone."
+
+"The garden," Mariana narrates, "is Dara's primary therapeutic activity. She works in it an average of four hours a day, including through the winter months, when she maintains cold frames and a small unheated greenhouse she built herself."
+
+The footage shows Dara's face while her hands are in the soil. The expression is one of near-ecstatic relief, the way another person might look stepping into a hot bath after a day in snow. Her fingers press into the ground. Her eyes close. She breathes.
+
+In an interview recorded later that first day — a standard sit-down, Dara centered in frame, farmland out of focus behind her through a window — she explains: "Other people's thoughts are ... They come in as textures. Not words. Not images. Textures. Like someone dragging fabric across the inside of your skull. Some people are silk. Some people are sandpaper. Wei-Lin is corduroy — that's the verbalizing, it creates a kind of even grain. The soil doesn't think. The soil is the only surface I can touch that isn't also touching me back."
+
+Mariana, off-camera: "Do you feel the others right now? During this interview?"
+
+Dara looks directly into the lens. Not at Mariana. At the lens.
+
+"I feel everyone. All the time. I feel you too, a little. You're not — you're softer. Fuzzier. Like you're behind a wall. But I can feel the shape of you leaning on it."
+
+Mariana, off-camera, says nothing for four seconds. The audio captures a single swallow.
+
+---
+
+**RICK PELLETIER**, 58, former long-haul trucker. He is not introduced through his own footage. For the first six hours of Mariana's stay, Rick is not seen at all. He is introduced through the others' careful navigation *around* him.
+
+In the rough cuts, Mariana's camera catches three separate instances of other participants altering their paths through the house — Wei-Lin turning mid-narration to take the long way around the second floor; Dara pausing at the base of the stairs, cocking her head like someone listening for a frequency, then retreating to the kitchen. When Mariana asks, in a group setting, who lives in the southeast bedroom, five people exchange a glance that contains an entire parliamentary debate, and the answer comes from Wei-Lin, who says aloud, as he says everything aloud: "I'm deciding whether to tell you it's Rick's room. I'm deciding to tell you it's Rick's room. Rick has a difficult day-cycle. He sleeps from one a.m. to four a.m. and then again from noon to three. The rest of the time he's — present."
+
+Mariana's voiceover: "It would be a full day before I met Rick Pelletier. When I did, I understood the others' caution."
+
+Rick is introduced in a shot that Tomás later describes as the only time in the production he considered stopping the camera. Rick is sitting in a wooden chair in the center of his bedroom. The room is stripped: no art, no books, no personal items except a Bible on the nightstand and a pair of industrial ear defenders — the kind used on airport tarmacs, bright orange, rated to 34 decibels of noise reduction — hanging from the chairback. Rick is wearing them when Mariana enters. He removes them to speak to her. His eyes have the quality of eyes that have been looking at nothing for a long time and have gotten used to it.
+
+"These don't work," he says, gesturing at the ear defenders. He has a baritone that belongs to a much younger man. "The hearing isn't — it's not *hearing*. I know that. I've known that for three years. But when I put them on, something in my brain relaxes. Like it believes, for a second, that there's a wall."
+
+Mariana: "And then?"
+
+"And then it remembers there isn't."
+
+He puts the ear defenders back on. The interview is over. It has lasted ninety-one seconds.
+
+In the rough cut, Mariana has scored this moment with a low drone — a sound-design choice that reads, in the context of a prestige documentary, as atmospheric underlining. What the production audio logs reveal is that the drone was not added in post-production. It was in the room. The boom mic recorded it. Tomás's audio notes for the session read: "Persistent low-freq artifact, ~42 Hz, source unknown. Not HVAC. Not electrical. Doesn't appear on Dara's interview audio from same room, same day. Only present when Rick removes ear protection."
+
+---
+
+**JOELLE BRIGHTWATER**, 29, the youngest. Doctoral student in continental philosophy, on indefinite leave from Johns Hopkins. She appears in frame for the first time laughing.
+
+The laugh is the most dissonant element of the first forty-eight hours. It

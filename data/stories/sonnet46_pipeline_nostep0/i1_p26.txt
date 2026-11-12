@@ -1,0 +1,97 @@
+# Offworlder
+
+The colony had been built to last, which was the first thing the briefings had failed to convey. Seren had expected the provisional quality of most outer settlements — prefab walls, composite panels, the architectural grammar of something that might be evacuated. Instead, Harrow Station rose in dressed stone cut from the plateau itself, pale amber in the morning, darkening to ochre by afternoon, and the buildings were old in the way that implied decision. Someone had chosen permanence here. Someone had expected to stay.
+
+Seren stood at the window of their assigned quarters on the second morning and tried to locate the feeling. Twenty-three years old, newly posted, the third most junior diplomatic attaché in a mission of nine — the weight of the appointment had felt abstract during the transit. It was becoming concrete now. The city below moved with its own logic, and Seren did not yet know the grammar.
+
+Above the market gate across the square, a lintel had been carved with figures Seren recognized from the compulsory mythology modules at the Academy. A man bound to a rock. A bird descending. The detail was extraordinary — the craftwork of a generation ago, the briefings said, carved during the first expansion, when the colony had still been deciding what it was. Prometheus, then. The one who carried fire down and was punished for it. Seren looked at the carving and then at the gate beneath it, and the people passing through.
+
+The divergence was not subtle, once you knew to look. The briefings had described it in the careful language of biological survey — elevated skeletal density in the highland-adapted populations, the slight cranial variation among the deeptown lineages, the range of pigmentation that correlated, imperfectly but legibly, with which district a family had settled two generations back. In the briefings, enumerated and tabled, it had been data. Here it was shoulders and gait and the particular way a group of elders near the market gate stood slightly apart from a cluster of younger people whose build was different, whose stillness was different, who occupied the same square without quite sharing it. Seren had been told the tensions were managed. Managed, in the briefings, had suggested something nearly resolved.
+
+Below the Prometheus carving, someone had chalked three words in the local script that Seren could not fully parse. The third word, they were almost certain, meant *again*.
+
+---
+
+The protocol was clear on the matter of unsanctioned movement. Attachés in the first month did not leave the mission compound without an escort and a logged itinerary. The protocol existed for reasons Seren understood and found, upon examination, insufficient.
+
+They went at mid-morning, when the compound was quiet and the duty officer was reviewing supply manifests. They did not run. They walked out through the service exit and into the street, and they made note of having done so.
+
+The market was a social document, and Seren read it slowly. The stalls closest to the mission district sold things offworlders bought — preserved goods, curios, fabrics in colors that had been calibrated, someone had decided, to metropolitan taste. Further in, the translation broke down. A woman with the broad, dense build of the highland stock sold dried roots from a cart, and her customers were exclusively highland-built, and the transaction was brief and without the performance of commerce. Across the lane, two men of deeptown lineage examined recording equipment, and one of them laughed at something, and the laugh was private in the way that laughter is private when it refers to something the laughing person would not explain. A child ran between the stalls with the total commitment of a child who has somewhere urgently to be, and Seren stepped aside, and the child stopped, and looked up.
+
+The child's eyes were the pale grey common in the plateau families, but the child's build was deeptown, which meant something Seren did not yet know how to read. The child looked at Seren the way children look at things that are simply wrong — not threatening, just categorically incorrect — and then ran on.
+
+An elder near the spice vendors turned and regarded Seren without expression. Not hostile. Not welcoming. The look of someone calculating what category applied, finding none, and filing the absence. Seren held the gaze a moment too long and then looked away, which was, they suspected, the wrong choice.
+
+On the wall behind the spice stall, between a merchant's mark and a painted price list, someone had incised a glyph that Seren's Academy modules had catalogued. The Tower. People building toward heaven, the story went, until the language broke and they could no longer understand one another, and then they were scattered, each to their own. Looking at the market around them, at the careful geography of who stood where, Seren thought: the story has always been told as punishment. No one asks whether the scattering was also survival.
+
+They walked back before the duty officer's review would end.
+
+---
+
+The summons came an hour after Seren returned. The console tone was flat and official, and Senior Attaché Mora's face on the screen had the particular stillness of someone who had decided, in advance, exactly how angry to be.
+
+"You were in the Veth Quarter for one hour and fourteen minutes this morning. You used the service exit at 09:47 local."
+
+Seren said, "Yes."
+
+"Protocol exists—"
+
+"I understand protocol."
+
+A pause. Mora was not theatrical about displeasure; that, at least, was something. "You'll present yourself to the Minister of Science at fourteen hundred. Introductory meeting. You'll represent the mission with appropriate—" another pause, loading — "care."
+
+The screen went dark.
+
+Seren sat for a moment with the silence. Not sorry, exactly. Aware.
+
+---
+
+The Ministry building was the oldest structure in the district. The stone here was darker, the carvings deeper-cut, and the corridor that led to the Minister's reception room was lined with glyphs that Seren did not have time to read but felt, in the aggregate, as a kind of argument. Institutional power dressed as memory. The room itself had a window that looked onto a courtyard where something was growing in measured rows.
+
+Minister Ayen was waiting. Seren had read the file: seventy-one years old, six administrations outlasted, a scientific title acquired early and maintained through several cycles of political renovation. The file had emphasized the scientific credentials. The photograph had not conveyed the quality of the Minister's stillness, which was the stillness of someone who had learned, very early, that waiting cost nothing and revealed everything.
+
+"Attaché," the Minister said, and gestured to a chair.
+
+The first minutes were gracious. Tea was offered and accepted. The Minister asked after Seren's transit, the quality of their quarters. Seren answered and noted the quality of the questions — specific enough to be courteous, angled in a way that would gather information if Seren was off-guard.
+
+Then: "The briefings your mission received characterize the Veth Quarter as a mixed-population district. I'm curious whether that matched your impression."
+
+The safe answer was yes. The safe answer was also wrong — the Veth Quarter was not mixed in any meaningful sense; it was proximate, which was a different thing, and the briefings had used the word *mixed* to perform a conclusion rather than describe one.
+
+"No," Seren said.
+
+The Minister's expression did not change, but something in the room did. "You've been here two days."
+
+"I walked through it this morning."
+
+"I know," the Minister said. "I'm asking what you saw."
+
+They talked about proximity and mixture, and what the difference cost. The Minister had a view that was neither the mission position nor the colony administration's public position — something more uncomfortable than either, which held that the divergence had created genuine difference, that genuine difference created genuine interest, and that the management of this through the language of harmony was not diplomacy but a kind of practiced forgetting that invariably ended badly for the people being forgotten.
+
+"Your mission's position," the Minister said, "is that integration support will reduce tension. You've read the reports."
+
+"I've read them."
+
+"Then you've read that integration support has been offered three times in forty years, and each time the uptake has been lowest among the populations the policy most intends to benefit." The Minister set down a cup. "I'm curious how you reconcile that with the mission's confidence."
+
+Seren felt the shape of the trap — not malicious, but professional, the pinning of a contradiction that was genuinely there. "I don't reconcile it," they said. "I think the confidence is performance. I think the briefings are written for people who need reassurance more than accuracy."
+
+The silence was brief but different from the silences before it.
+
+"You're very young to have noticed that," the Minister said.
+
+"I'm young enough that I haven't learned not to say it."
+
+Another silence. Seren could not read it entirely. The Minister looked toward the window, toward the measured rows in the courtyard, and something in the bearing shifted — not much, but the ease of someone who has outlasted many offworlders recalibrated, infinitesimally, toward something else.
+
+"Come back," Ayen said. "Not on a schedule. When you have a question."
+
+---
+
+Seren left the Ministry as the afternoon light began its shift toward ochre. Walking back, they passed beneath the gate with the Prometheus lintel — the bound figure, the descending bird — and stopped.
+
+Two days ago, the carving had read as symbol. Allegory at a distance. Now Seren looked at the stone face of the bound man and thought about the briefings that had written *mixed* for *proximate*, and *managed* for *unresolved*, and wondered who, in the original story, had written the account. The one who brought the fire and was punished, or the ones who watched from a safe remove and decided what the lesson meant.
+
+The light changed. The face in the stone changed with it, or seemed to.
+
+Seren walked on.

@@ -1,0 +1,93 @@
+# The Seam in the Ledger
+
+*Being the Authenticated Account of Brother Aldric of Thetford, Junior Clerk of the Ninth Degree, Exchequer Scriptorium Royal, as Preserved in MS. Rawlinson D.479 of the Bodleian Library, Oxford*
+
+*Translated, annotated, and introduced by Dr. Eleanor Haverford, Reader in Medieval Fiscal History, St. Hilda's College, Oxford*
+
+---
+
+**Editor's Preface:**
+
+*The manuscript here translated represents one of the more unusual survivals from the administrative apparatus of the Plantagenet Exchequer. Found among a miscellany of pipe rolls and plea memoranda in the Rawlinson collection, MS. D.479 appears to be a personal account — something between a professional memorandum and a confession — composed by a minor clerk whose name appears in no other surviving record. The manuscript is in a single hand throughout, written on vellum of indifferent quality, and has suffered water damage to several folios, most significantly at those passages where the narrative reaches its moments of greatest personal distress. Whether this damage is coincidental or represents some post-compositional act of editorial feeling on the part of an early reader, I leave to the palaeographers. My purpose is merely to present the text, with such annotation as may illuminate its more obscure administrative references for the general reader. The claims it makes are, in several material respects, impossible. I present them without resolution.*
+
+*— E.H., Oxford, Michaelmas Term*
+
+---
+
+## I.
+
+I will set down what happened, because no one else will set it down correctly.
+
+This is not vanity. I am aware of my faults and they are numerous, but inaccuracy is not among them, and in twenty-three years of service in the Exchequer Scriptorium Royal I have not once — not *once* — submitted a column whose terminal figure could not be independently verified through recomputation of its constituent entries.[^1] This is not a thing that will be carved on my tomb. I am aware of that as well. A man does not receive the gratitude of his fellows for being right. He receives their fish.
+
+[^1]: *This is a verifiable claim, insofar as the surviving pipe rolls from the relevant period can be cross-referenced. I have checked a representative sample. Brother Aldric's arithmetic is, in fact, faultless throughout. — E.H.*
+
+I should explain about the fish.
+
+My desk — my proper desk, the one assigned to me by writ of the Clerk of Offices, third window from the east wall, adequate light until Vespers in summer and wholly inadequate from Michaelmas onward, though I have submitted formal requests for tallow supplementation on nine occasions and received approval on none — is positioned directly before the desk of one Geoffrey of Bury, who is, by the formal designation of the Scriptorium's seating plan, my colleague, and who is, by the designation of God and nature, my purgatory.
+
+Geoffrey reheats mackerel.
+
+I do not mean that he reheats mackerel occasionally, as a man might do who found himself in temporary possession of mackerel and, through some failure of planning or character, determined to consume it in a space shared with seventeen other clerks engaged in work requiring fine motor control and sustained concentration. I mean that Geoffrey reheats mackerel with the regularity, the deliberateness, and the institutional support of a man who has found the thing he was put on this earth to do and has committed himself to it with a fervor that the mendicant orders would envy. He has a small brazier. The brazier is *approved*. I have seen the writ. He applied under Section 14(b) of the Scriptorium Comfort and Welfare Provisions, which authorizes thermal implements for the purpose of "the warming of hands, the softening of wax, and the gentle maintenance of ink viscosity in periods of excessive cold." Nowhere in Section 14(b) does the phrase "the reheating of fish" appear. I have checked. I have checked more than once. But Geoffrey has interpreted "gentle maintenance" with the theological creativity of a Franciscan and the dietary habits of a gull, and every afternoon at the fourth hour the scriptorium fills with a smell that I can only describe as an olfactory argument against the existence of a loving God.[^2]
+
+[^2]: *The Scriptorium Comfort and Welfare Provisions survive in several recensions. Section 14(b) does, indeed, contain no reference to fish. It is worth noting, however, that a marginal gloss in one early copy — possibly in the hand of the Clerk of Offices himself — reads simply: "G. again. Let it go." — E.H.*
+
+The smell is worst at the third window from the east wall. I have measured it. I placed calibrated samples of absorbent tallow at three, six, nine, and twelve feet from Geoffrey's brazier and assessed the degree of olfactory transference after one hour. At three feet — my desk — the tallow smelled, and I recorded this precisely, of "mackerel, death, and the abandonment of professional standards." At twelve feet — the desk of Thomas of Wapping, who works in Forestry Exemptions and has no sense of smell due to an injury sustained in a childhood encounter with a cursed beehive[^3] — the tallow was neutral. Thomas looked at me with pity when I explained the experiment. Thomas always looks at me with pity. Most of them do.
+
+[^3]: *Cursed beehives fall under the jurisdiction of the Warden of Apiary License and Enchantment, a post that existed from at least 1207 and whose records suggest that such incidents were distressingly common. The licensing framework for enchanted apiaries underwent seventeen revisions in the thirteenth century alone. — E.H.*
+
+I am aware that this is not the matter I sat down to record. But the fish is relevant, because the fish is the reason I was at my desk at the hour the Senior Auditor summoned me, rather than in the east corridor, where I normally retreat during Geoffrey's fourth-hour ritual. If I had been in the east corridor, she might have summoned someone else. She might have given the ledger to Penton, who has seniority, or to Margaret of Wells, who has actually conducted an enchantress-class field audit before and who would have noticed — I am certain of this now — would have *noticed* what I did not.
+
+But I was at my desk, because I was in the middle of a categorization that could not be interrupted. Form 39-C: Determination of Primary Taxable Form for Entities of Mutable Corporeal Presentation. The shapeshifter assessment.
+
+I should explain.
+
+When a being possessed of the capacity for voluntary morphological transformation — a shapeshifter, in common parlance, though the Exchequer does not use the common parlance because the common parlance is imprecise and imprecision in matters of taxation is how you get revolts — when such a being presents itself for fiscal assessment, the Crown must determine which of its forms constitutes the *primary taxable identity*. This is not discretionary. You cannot simply look at a man who is sometimes a wolf and say, "Well, right now he looks like a man, put him down for a man." Right now Geoffrey looks like a professional. That does not make it true.
+
+The determination follows a seventeen-step process, which I will summarize only briefly, because the full enumeration requires its own form (39-C Supplementary Schedule A), and because I am told by those who have had the misfortune of asking me about my work at social gatherings — there have been three such gatherings in my career, and I have not been invited back to any of them — that the seventeen steps are "a lot."
+
+Step one: the entity is asked to assume what it considers its *resting form* — the form it defaults to in the absence of volition, need, or external compulsion. Step two: the entity is asked to assume what it considers its *preferred form* — the form it would choose, all else being equal, if form were merely a matter of aesthetic selection. Step three: a licensed assessor compares the two. If they match, you proceed to step seven. If they do not match, you proceed to step four, which is a whole additional process involving a Tribunal of Morphological Dispute, three independent witnesses, and a form — a separate form, 39-C(ii) — that must be submitted in triplicate to the Clerk of Inhuman Persons within fourteen days or the entire assessment is void.
+
+I love this process. I will not pretend otherwise. Every other clerk I have met treats the seventeen steps as a tedious obstacle — a bit of administrative grotesquerie to be shortcut, fudged, or delegated. But every step exists because someone, somewhere, at some point in the history of the English revenue system, got it *wrong*, and by getting it wrong caused a cascade of fiscal damage that had to be repaired through the painful invention of a new procedure. Each step is a scar. The whole system is a body of scars. And I find that — I do not have the language for what I find it. I find it reassuring. I find it evidence of the only kind of progress I believe in: the slow, graceless, bureaucratic progress of people trying to make sure that the next person does not suffer the same error the last person made.
+
+This is what I was doing when the smell reached me. I had completed steps one through eleven for a Mr. Aldhelm Greymantle, who rests as a heron and prefers to be a man, or possibly rests as a man and prefers to be a heron — the testimony was conflicted and the witnesses unreliable, as one of them was, herself, a newt on alternate Thursdays — and I was deep in the branching logic of step twelve, which involves calculating the proportional revenue implications of each candidate form, when the mackerel hit.
+
+I looked up. Geoffrey was not even eating the fish. He was *warming* it. He had placed an entire mackerel, wrapped in what appeared to be a writ of certiorari that should have been filed in the Chancery by last Septuagesima, on his brazier, and was simply *letting it exist there*, radiating, while he chatted with Penton about something I was too furious to hear.
+
+I was composing, in my mind, the opening paragraph of a formal complaint — my fourteenth on the matter of Geoffrey's brazier, but this time with the evidentiary weight of the tallow experiment to support it — when the boy arrived.
+
+He was young. He was out of breath. He had the look of a Junior Runner who had been sent by someone who did not tolerate delay, which meant, even before he spoke, that he had been sent by her.
+
+"Brother Aldric? You are to attend upon the Senior Auditor. The Senior Auditor requires you. Now, please."
+
+And because it was her, I went. I went immediately. I set down my quill in the middle of step twelve. I left Mr. Greymantle's primary taxable form unresolved, dangling between heron and man, which is a thing I have never done before or since, and which, in a just world, would itself be a sufficient indicator of the power that this woman held over the priorities of my mind.
+
+---
+
+## II.
+
+The Senior Auditor of the Third Circuit, Mistress Elowen of Ashwick, Dame Commander of the Order of the Fisc, Bearer of the Seal of Accuracy (Second Class), and — though this is not a formal title and I would never record it as one — the finest administrator I have known in twenty-three years of service, was standing behind her desk when I entered.[^4]
+
+[^4]: *No "Mistress Elowen of Ashwick" appears in the surviving rolls of Exchequer officers, though the administrative structure Aldric describes here is broadly consistent with what we know of the medieval audit apparatus, if one makes allowances for the — to put it generously — fantastical elements of his account. There is, however, a damaged entry in the Patent Rolls for this period that refers to one "E. de Assch—" in connection with an audit assignment of unspecified nature. The entry has been partially scraped and overwritten with an unrelated note about pig tithes. — E.H.*
+
+She was always standing when she received people. I had once asked her — in a moment of conversational boldness that I immediately regretted and have been regretting since — whether she found it more productive, and she had replied that she did not like to give visitors the impression that they might sit down. This was, I later understood, a kindness. Mistress Elowen's assignments were not the sort one wished to receive in a posture of comfort. Better to be already standing, already braced.
+
+"Brother Aldric," she said, and she said my full designation, as I always write hers, because she had taught me that names are the first entries in the ledger of mutual obligation, and they must be entered correctly. "I have an assignment requiring exceptional care."
+
+Her desk was very clean. It was always very clean. The inkwell was centered. The blotter was free of marks, or rather bore marks only in the lower left quadrant, where she tested her nib each morning in a single controlled stroke — always the same stroke, a descending line with a slight leftward curve, like a tally mark invented by someone who found ordinary tally marks aesthetically insufficient. I admired this. I admired the consistency of it. My own blotter looked like a map of a country that had lost a war.
+
+"The enchantress Merewyn of the Greenveil," she said. "Holder of the Greenveil Demesne, licensee under the Crown Enchantment Provision of the fourteenth year, assessed and audited according to Schedule 7 at intervals of not less than—"
+
+"Seven years," I said, before I could stop myself, because the interval was wrong — the standard enchantress-class audit interval was seven years, not the five that the particular phrasing of her sentence had seemed about to imply — and then I felt the heat in my face, because I had interrupted her, and you did not interrupt Mistress Elowen, not because she would punish you but because her sentences were so well-constructed that interrupting them was like snapping a column before the arch was complete. Structural vandalism.
+
+She paused. The pause was very small. A lesser observer would not have noted it.
+
+"Seven years," she said. "Quite right. The audit is overdue by three months. The court will expect the assessment filed at the Michaelmas Revenue Court." She opened a drawer — the second drawer, the one she kept locked, though I had never seen her lock or unlock it — and produced a ledger.
+
+I have seen many ledgers. I have been given ledgers the way a farrier is given horseshoes — in bulk, without ceremony, as the base material of daily labor. But this one was immediately, obviously different, and I say this not with the exaggeration of retrospect but with the genuine, uncomplicated pleasure I felt at the time, which I remember clearly because uncomplicated pleasures are rare enough in my life that each one is preserved in full.
+
+The binding was excellent. The covers were calf — not the cheap split calf that the Scriptorium budget typically allows, which begins to warp in the first damp week and has to be weighted with stones overnight to remain usable, but full-grain, properly alum-tawed, with a flexibility in the spine that suggested the binder had been instructed to produce not merely a container for pages but an *instrument*. The pages inside were pre-columned. The columns were — and I remember touching them, running my finger down the first ruled line, feeling the shallow channel where the stylus had been drawn with a straightedge — the columns were *perfect*. Evenly spaced. Mathematically proportioned for the standard enchantress-class assessment, with the wider left column for qualitative description and the narrower right columns for quantitative entry, subdivided at the correct intervals, with a marginal gutter sufficient for annotation but not so wide as to invite the kind of discursive rambling that, in my experience, is the death of a clean audit.
+
+"You will carry this as your working document," she said. "I have entered the preliminary figures from the Greenveil Demesne's prior assessment — the assessed values from the last audit, the applicable rates, the expected revenue categories. You will reconcile them against the enchantress's current holdings and file the completed assessment in time for Michaelmas."
+
+I opened the ledger to its first entry page. The figures were there, already entered, in her hand. I recognized her hand immediately — the same discipline I had seen on a hundred writs and memoranda over a decade of working beneath her. The letters were narrow, upright, and unadorned

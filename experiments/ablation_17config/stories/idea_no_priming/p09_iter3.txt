@@ -1,0 +1,171 @@
+# THE WHITFIELD INDEX
+
+---
+
+**UNITED STATES DEPARTMENT OF DEFENSE**
+**JOINT SIGNALS INTELLIGENCE DIRECTORATE**
+**SPECIAL ACCESS PROGRAM: NIGHTINGALE**
+
+**CLASSIFICATION:** ~~TOP SECRET / SIGINT / NOFORN~~ **DECLASSIFIED** per Executive Order 13-████, March 2014. Redactions pursuant to 50 U.S.C. § 3024(i) have been applied. Reviewing authority: ████████████, Office of the Director of National Intelligence.
+
+**DOCUMENT DESIGNATION:** NIGHTINGALE MASTER DOSSIER, SECTION I–III (of VII)
+
+**SUBJECT:** WHITFIELD, Dorothea Anne
+
+---
+
+## SECTION I
+
+### PERSONNEL INTAKE AND INCIDENT RECORD
+
+---
+
+**FORM SF-127B (REVISED)**
+**Personnel Background and Assignment Record**
+**Alexandria Signal Relay Station, Fort Belvoir Annex**
+
+| Field | Entry |
+|---|---|
+| **Name:** | WHITFIELD, Dorothea Anne |
+| **Date of Birth:** | 14 June 1936, Roanoke, Virginia |
+| **Civil Service Grade:** | GS-3 |
+| **Position Title:** | Telephone Switchboard Operator, Series 0382 |
+| **Duty Station:** | Alexandria Signal Relay Station (Bldg. 19, 2nd Floor) |
+| **Clearance Level:** | CONFIDENTIAL — Routine Traffic Only |
+| **Date of Hire:** | 3 September 1959 |
+
+**EDUCATIONAL BACKGROUND:** Howard University, Washington, D.C. Enrolled September 1954. Completed four semesters, concentrating in English Literature and French. Withdrew May 1956; financial hardship noted on exit form. University registrar records indicate Dean's List standing, both years. No subsequent enrollment at any institution.
+
+**PERFORMANCE HISTORY (Summary):**
+
+Annual evaluations for FY1960, FY1961, and FY1962 (partial) are uniformly rated OUTSTANDING on all measurable categories: call-routing accuracy, protocol adherence, speed of connection, and handling of classified-circuit traffic. Supervisor citations note "exceptional voice clarity," "flawless recall of routing codes," and "an unusual degree of proficiency in pronouncing foreign names and designations, which has proven useful when patching calls to Embassy Row circuits and NATO liaison desks."
+
+Whitfield was informally utilized by senior operators as a pronunciation reference for diplomatic surnames, a function outside her position description but documented in shift logs as early as January 1960.
+
+**DISCIPLINARY RECORD:**
+
+One formal reprimand, dated 11 March 1961. Incident summary: During a routine patch-through of a call between Capt. Lewis R. Henning (G-2, Fort Belvoir) and the desk of the Turkish military attaché, Whitfield verbally corrected Capt. Henning's pronunciation of the attaché's surname (Küçükbalıkçıoğlu) while the line was live. Capt. Henning filed a complaint citing "insubordinate conduct" and "an attitude of intellectual superiority inappropriate to her position and grade." Station supervisor Lt. Col. Arthur Fayne sustained the complaint. Whitfield submitted a written response, which is included in her personnel jacket:
+
+> *I did not intend disrespect. The Captain had been mispronouncing the attaché's name on every call for three weeks. On the March 11 call, Lt. Col. Küçükbalıkçıoğlu paused for four seconds after the Captain said his name. I have patched the attaché's calls since November and I know what his pauses sound like. That silence was not patience. I corrected the name because the call was about to fail and neither man would have known why.*
+
+The reprimand was placed in her permanent file. No further disciplinary actions are recorded.
+
+---
+
+**INCIDENT REPORT — HARP-7 POWER EXCEEDANCE EVENT**
+**29 October 1962**
+
+**Ref:** Alexandria Signal Relay Station, Bldg. 19, Sub-basement Laboratory 2 and 2nd Floor Switchboard Operations Room
+
+**Prepared by:** Maj. Dennis P. Ostrowski, Station Safety Officer
+
+On the date above, at approximately 14:47 EST, the experimental signals-intelligence device designated HARP-7 (Harmonic Amplification and Resonance Prototype, 7th iteration), housed in Sub-basement Lab 2 of Building 19, experienced a catastrophic power exceedance during a recalibration procedure. The device, which was being adjusted to compensate for anomalous ionospheric conditions caused by atmospheric particulate displacement in the southern latitudes, drew current approximately 340% above rated capacity for a period of 11–14 seconds before automatic breakers engaged.
+
+The exceedance produced an electromagnetic pulse confined largely to Building 19 and an acoustic event described by surviving personnel as "a single sustained tone, impossibly low and impossibly high at the same time, like a church organ fed through the Earth."
+
+**Casualties:**
+
+| Name | Assignment | Status |
+|---|---|---|
+| Dr. Paul Wendt | HARP-7 Project Lead, Civilian Contractor (████████ Corp.) | Deceased. Cause: cardiac arrest concurrent with massive electromagnetic exposure. |
+| SFC Robert Akins | Lab technician, 516th Signal Battalion | Deceased. Cause: cranial hemorrhage. |
+
+**Injuries:**
+
+Eleven personnel in Building 19 reported symptoms ranging from tinnitus to temporary disorientation. All recovered within 72 hours except one:
+
+WHITFIELD, Dorothea Anne (GS-3, Switchboard Operator, 2nd Floor) was found unconscious at her station at approximately 14:53. Her headset was still in place. She was transferred by ambulance to ████████ Hospital and subsequently to Walter Reed Army Medical Center. Initial diagnosis: bilateral tympanic membrane rupture, sensorineural damage, and acute expressive aphasia of unknown etiology.
+
+Note: Whitfield's station was directly above Lab 2. The switchboard's copper trunk lines passed through the floor into the sub-basement cable runs, which were physically adjacent to HARP-7's antenna array. It is assessed that the acoustic and electromagnetic output of the exceedance event was channeled and concentrated through these trunk lines and into Whitfield's headset with an intensity far exceeding that experienced by other personnel in the building.
+
+---
+
+*[Compiler's note: The following contextual summary was appended to the dossier in 1987 for the benefit of reviewing authorities who may be unfamiliar with the geopolitical situation at the time of the HARP-7 incident. It is included here as originally written.]*
+
+**CONTEXTUAL ANNEX 1-A: Summary of Hostilities, October 1962**
+
+On 27 October 1962, a sequence of escalatory failures — originating in the misidentification of a U-2 reconnaissance overflight near Chukotka and compounded by a communication breakdown between Moscow and the commander of Soviet forces in Cuba — resulted in the launch of two R-12 medium-range ballistic missiles from the San Cristóbal site in western Cuba. One missile struck an unpopulated area of the Everglades; the second detonated approximately four miles east of Homestead, Florida. Yield: estimated 1 megaton.
+
+Retaliatory strikes were authorized within the hour. U.S. Navy assets launched against the Soviet naval installation at Sevastopol (Black Sea) and the Soviet staging area adjacent to the NATO base at Izmir, Turkey, which had been overrun three hours prior by Soviet airborne forces.
+
+Total confirmed fatalities from the three detonations and associated fallout: 417,000 (U.S.), 196,000 (USSR), 78,000 (Turkey). Revised estimates accounting for long-term radiation effects range from 830,000 to 1,250,000.
+
+Ceasefire was brokered on 28 October through emergency back-channel communication. Formal negotiations began 2 November 1962 at a temporary diplomatic facility established at Elmendorf Air Force Base, Anchorage, Alaska, later expanded and designated the Anchorage Accords Complex.
+
+The HARP-7 incident occurred approximately eighteen hours after the Homestead detonation.
+
+---
+
+**WALTER REED ARMY MEDICAL CENTER**
+**NEUROLOGICAL SERVICES — WARD 7**
+**Patient Summary, Weekly Update**
+
+**Patient:** WHITFIELD, Dorothea A.
+**Attending:** Lt. Col. James Everett, MD (Neurology)
+
+**Week 1 (30 Oct – 5 Nov):** Patient non-responsive to auditory stimuli. Aphasia persists. Communicates by handwriting — script is steady and precise, no cognitive impairment apparent. Patient has requested reading material; has been provided regulation-approved periodicals. Patient wrote: "I don't want magazines. I want something with real sentences in it." Hospital librarian provided *Middlemarch*. Patient completed it in four days.
+
+**Week 2 (6 – 12 Nov):** Minimal auditory response returning in left ear. Right ear remains silent. Aphasia partially resolved — patient can produce single words with effort. Describes residual auditory phenomena: "buzzing," "a chorus tuning up," "like hearing the room behind the room." Attributed to nerve regeneration; no further investigation deemed necessary.
+
+**Week 3 (13 – 19 Nov):** Hearing returning bilaterally, though patient reports persistent distortion. Describes familiar voices as "thick" or "layered." Unfamiliar voices sound normal. Speech fully restored. Neurological exam unremarkable. Recommend discharge within 7–10 days.
+
+**Incident Note, 17 November 1962 (filed by Lt. Cmdr. Nancy Oakes, RN):**
+
+Patient told me this morning that Dr. Everett, who had visited her the previous afternoon to review her chart, was planning to alter her discharge paperwork to classify her injury as a pre-existing condition, thereby reducing her eligibility for ongoing care. Patient said she had "heard it" while the doctor was reading her chart notes aloud — that beneath his spoken words about her prognosis, she could hear him rehearsing the language he would use to reclassify the injury. She described his internal phrasing as: *"prior auditory sensitivity, possibly congenital, exacerbated by workplace exposure — not service-connected."*
+
+I told the patient that Dr. Everett was a good doctor and she was probably confused by her auditory distortion. She said: "I'm not confused. I know what his voice sounds like when he's telling the truth. This wasn't that."
+
+I filed this note as a possible paranoid ideation secondary to neurological trauma and recommended psychiatric evaluation.
+
+**[Handwritten annotation in margin, different hand:]** *Oakes filed this 17 Nov. I read it 22 Nov. I pulled Everett's draft discharge paperwork on 23 Nov. The language she described was in it, verbatim. — G.B.*
+
+---
+
+## SECTION II
+
+### CONTROLLED EVALUATION — PROJECT NIGHTINGALE
+
+---
+
+**MEMORANDUM FOR THE RECORD**
+**FROM:** Garrett T. Birdsong, Senior Case Officer, Counterintelligence Division, ████████
+**DATE:** 27 November 1962
+**SUBJECT:** Anomalous Perceptual Capability Observed in HARP-7 Incident Survivor — Proposal for Controlled Evaluation
+
+**1. BACKGROUND.** On 22 November 1962, I became aware of an incident report filed by a nurse at Walter Reed concerning a patient, Dorothea A. Whitfield, who is one of the surviving personnel from the HARP-7 power exceedance event of 29 October. The patient claimed to have perceived the covert intentions of her attending physician by "hearing" discrepancies between his spoken words and his concealed thoughts.
+
+I was already conducting routine monitoring of all HARP-7 survivors under ████████ Directive 12-62, which mandates assessment of any personnel exposed to anomalous electromagnetic or acoustic output from signals-intelligence prototypes. Eleven survivors had been interviewed and cleared. Whitfield's case had been deferred due to her hospitalization.
+
+Upon reviewing Lt. Cmdr. Oakes's report and confirming that the specific language Whitfield attributed to the physician did in fact appear in his draft discharge paperwork — a document Whitfield had no access to and no conventional means of knowing — I assessed that a controlled evaluation was warranted.
+
+**2. EVALUATION DESIGN.**
+
+Test was conducted on 28 November 1962 in Room 412, Ward 7 Annex, Walter Reed.
+
+Five male subjects were selected and brought individually into the room to sit across a table from Whitfield:
+
+- **Subject A:** Garrett T. Birdsong. I had spoken with Whitfield on three prior occasions during intake interviews.
+- **Subject B:** Lt. Col. James Everett, MD. Whitfield's attending physician for four weeks.
+- **Subject C:** SFC William Dooley, a military policeman assigned to Ward 7. Whitfield had spoken with him regularly at shift changes.
+- **Subject D:** Capt. Roger McClellan, a personnel officer from Fort Meade. No prior contact with Whitfield.
+- **Subject E:** Mr. ████████████, a civilian analyst from ████████. No prior contact with Whitfield.
+
+Each subject was privately instructed to make three factual statements to Whitfield. Two statements were to be true and one was to be a lie. The lie was designated by me in advance and was different for each subject. Whitfield was told only that she would be having brief conversations and that she should report anything she noticed.
+
+**3. RESULTS.**
+
+**Subject A (Birdsong):** I stated: (1) that I was born in Maryland [TRUE], (2) that I had eaten breakfast that morning [LIE — I had skipped breakfast], and (3) that I found the weather pleasant [TRUE]. Whitfield listened, then said: "You didn't eat breakfast. You're hungry. And you're—" She stopped. I asked her to continue. She said: "You're hoping very much that I'm real."
+
+*[Evaluator's note: My designated lie was statement (2). She identified it correctly. Her additional observation about my emotional state was... accurate.]*
+
+**Subject B (Everett):** Statement (1): He was forty-six years old [TRUE]. Statement (2): He had served in Korea [LIE — he had not]. Statement (3): He enjoyed his work at Walter Reed [TRUE]. Whitfield's response:
+
+> *"The Korea one is wrong. You never served there. And you don't enjoy your work — no, wait, you do enjoy it, that part is true, the way you said it is true, but underneath it there's — you're thinking about my file. You're still thinking about changing it. You've been thinking about it the whole time you've been sitting here. You're looking at me and you're calculating whether anyone would believe me if I told them."*
+
+Everett became visibly agitated and terminated his participation.
+
+*[Evaluator's note: She identified the designated lie. Her additional observations cannot be independently verified but are consistent with the incident reported by Lt. Cmdr. Oakes. Everett submitted a formal protest about the evaluation, claiming it was "medically irresponsible." His protest is filed as Appendix B-4. His draft discharge paperwork, with the reclassification language intact, is Appendix B-5.]*
+
+**Subject C (Dooley):** Statement (1): He had two children [LIE — he has three]. Statement (2): His favorite food was steak [TRUE]. Statement (3): He was from Ohio [TRUE]. Whitfield's response:
+
+> *"You have three kids, not two. And you — oh." She paused for a long time. "You think about one of them differently than the other two. The middle one. There's something you're not... you love all of them, but the middle one scares you. You think he might be — you're

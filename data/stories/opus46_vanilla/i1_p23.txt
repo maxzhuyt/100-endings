@@ -1,0 +1,77 @@
+**Item #:** SCP-7291
+
+**Object Class:** Euclid (Under Review)
+
+**Special Containment Procedures:** Dr. Elaine Marsh is to remain on-site at Site-19 under Level 3 observation protocol. All standard Foundation memo paper within her office, quarters, and adjacent rooms has been replaced with watermarked tracking stock. Dr. Marsh is prohibited from interacting with SCP-████, SCP-████, or any contained entity possessing known cognitohazardous or telepathic properties until the origin of SCP-7291 is determined. A dedicated supply of memo paper has been sealed in a Faraday-shielded, biometrically locked container (Locker 7291-A) to serve as control stock.
+
+**Description:** SCP-7291 designates a recurring phenomenon affecting Dr. Elaine Marsh, Level 3 Researcher, Anomalous Temporal Studies Division. Beginning on 2024-09-14, Dr. Marsh began discovering handwritten notes on standard Foundation memo paper, apparently authored by a future version of herself.
+
+The following is Dr. Marsh's formal account, submitted per Ethics Committee request.
+
+---
+
+**DOCUMENT 7291-MARSH-001: Personal Account**
+
+The first note was in my coffee mug.
+
+I almost didn't read it. I thought it was a sticky reminder I'd written to myself and forgotten—the kind of absent-minded thing you do at 2 AM during a double shift. But it was on full memo paper, folded into a tight square, and the handwriting was mine. Not similar. *Mine.* The way I cross my sevens. The way my lowercase *a* always looks like a *q* when I'm writing fast.
+
+It read:
+
+> *Elaine—the breach happens November 3rd. Wing C, sublevel. They moved 4833 and didn't update the field harmonics. You need to flag the transfer order NOW. You're the only one who sees this. I'm sorry. —E.M.*
+
+There was no SCP-4833. I checked. The designation was unassigned.
+
+I reported it immediately, because that's what you do. That's what training is for. You don't investigate alone. You don't trust your own judgment when anomalous influence is possible. Security swept my office. Memetics ran a workup. Dr. Kessler from Psych evaluated me for two hours and cleared me, provisionally.
+
+The second note appeared the next morning inside Locker 7291-A. The locker that had been sealed specifically to prevent this.
+
+> *They won't believe you. I know. I didn't believe me either. Check the transfer logs for Wing C—not the current ones. The ones dated October 19th. They don't exist yet. They will. 14 people, Elaine. Please.*
+
+The paper was from the control stock. Surveillance showed no one entering my office between 23:00 and 06:15. The locker's biometric log showed one access event at 03:42, attributed to me. I was asleep in my quarters. Badge records confirmed it. Two places at once, or a very elegant forgery.
+
+Dr. Kessler suggested SCP-████ (the telepath in Deep Wing) might be constructing a "future self" narrative to manipulate me into disrupting containment protocols. It was a reasonable theory. I wanted to believe it. Believing it meant the world still worked the way I understood.
+
+The third note was waiting when I returned from Kessler's session. It was tucked inside the evaluation file he'd handed me, between pages two and three.
+
+> *They're going to suggest it's the telepath. It isn't. I know because I spent three weeks chasing that theory and people DIED while I was wrong. The field harmonics in Wing C are already drifting. .003 deviation as of today. Measure them. If I'm right about the number, trust the rest. —E.M.*
+
+I asked Engineering to check. The deviation was .003. Exactly.
+
+That should have resolved things. It didn't. Because on September 20th, the fourth note said something impossible:
+
+> *You need to get Director Hollis to authorize the lockdown. He'll resist. Remind him about what happened at Site-11.*
+
+There is no Director Hollis. Site-19's director is Dr. Angela Voss. There has never been a Director Hollis in any Foundation record I can access. When I pointed this out in my report, Dr. Kessler noted it as evidence of "narrative degradation consistent with external psychic influence rather than genuine temporal communication."
+
+He might be right.
+
+But the fifth note, found inside my *pillowcase*, was worse:
+
+> *Elaine I don't have much time. The breach already happened on my end. I can hear them in the hallway. 4833 got out and it UNMAKES things. People. Records. Hollis was real. Site-11 was real. You won't find evidence because that's what 4833 DOES. It eats the past. If it breaches in your timeline the people it kills will never have existed and no one will mourn them because there will be nothing to mourn. You have to*
+
+It stopped mid-sentence. There was a dark smear across the bottom of the page. Lab analysis identified it as coffee. Just coffee.
+
+The sixth note was the last. It was on the floor beside my bed when I woke on September 23rd. The handwriting was barely legible—lurching, desperate, written by a hand that was shaking or worse.
+
+> *cant remember your middle name. cant remember if we have a cat or if that was someone else. the deviation is at .008 now on your end isnt it. check. please check. im forgetting which parts are real. maybe hollis was never. maybe I was never. dont trust this note. dont trust any of them. but check the deviation. if its .008*
+
+It was .008.
+
+I am filing this account because I no longer trust my own perception, and the containment protocols require me to say so explicitly. I do not know if I am receiving genuine warnings from a future version of myself, or if I am being disassembled from the inside by something that knows exactly how to wear my voice.
+
+I am requesting that Wing C field harmonics be monitored hourly through November 3rd.
+
+I am requesting that someone check whether SCP-4833 is eventually assigned, and to what.
+
+And I am requesting that if a containment breach does occur, and if people disappear from the record, someone remembers that this document says they were real.
+
+—Dr. Elaine Marsh, September 24, 2024
+
+---
+
+**Addendum 7291-1:** As of October 1, 2024, Wing C field harmonic deviation has reached .012. An emergency review of all pending entity transfers to Wing C has been initiated by order of Director ██████.
+
+**Addendum 7291-2:** SCP-4833 was assigned on October 14, 2024.
+
+**[FURTHER ADDENDA RESTRICTED — O5 CLEARANCE REQUIRED]**

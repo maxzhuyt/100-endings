@@ -1,0 +1,214 @@
+# The Marginalia of Clara Voss
+
+---
+
+## I.
+
+---
+
+**Conservation Journal — C. Voss**
+**Date:** March 7
+**Project:** Deed of transfer, Harwell Estate, c. 1782. Water damage, lower right quadrant. Moderate foxing throughout. Previous repair attempt (amateur, mid-20th century) used pressure-sensitive tape now yellowed and crystallized along edges.
+
+**Procedure:** Removed degraded tape with methylcellulose poultice, 3% concentration, applied under Hollytex. Monitored lift time: 22 minutes. Residual adhesive addressed with toluene on microswab under magnification. Fiber disruption minimal. Paper is European laid, chain lines ~26mm apart. Watermark partial—crown device, possibly Strasbourg lily, need to cross-ref with Heawood.
+
+**Observations:** The tape had been pressed along the crease where the deed was originally folded for storage, probably by someone who saw the split forming and wanted to stop it. A kindness. The wrong kindness. The adhesive migrated into the fibers over decades and did more damage than the water ever did. This is nearly always the case. The impulse to fix is the thing that destroys.
+
+**Humidity:** 48% ±2. Within range.
+
+**Duration:** 4.5 hours.
+
+---
+
+*You would have called this my surgery voice. You said I talked about paper the way other people talk about their children—monitoring their temperature, worrying about their skin. You said this while eating peanut butter from the jar at 11 p.m. and I said the analogy broke down because I would never put a child in a humidity-controlled enclosure and you said don't be so sure, think of how well-preserved they'd be*
+
+---
+
+**Conservation Journal — C. Voss**
+**Date:** March 7 (contd.)
+**Nonstandard entry — meeting notes**
+
+Three women came to the lab today. I will record what they said as accurately as I can.
+
+They arrived at 3:40 p.m., which I note because I was in the middle of a rinse cycle on the Harwell deed and had to clamp the blotter in a way I did not love. The lab door has a bolt and a buzzer. They used the buzzer, which no one does. My regular clients email.
+
+I know them. I should say: I know their faces. They were part of that loose constellation of people that orbited Daniel's departmental life—faculty spouses, partners, ex-partners, the women who organized the holiday parties he used to come home from smelling like pinot grigio, talking too fast about someone's theory of phonological loops. I could not have named them six months ago. I can name them now because they have, apparently, been watching me.
+
+**Present:**
+— **Margot Czerny**, 54 or 55, formerly married to Peter Czerny (linguistics, now at Boulder). Short gray hair. Controlled. Sat in my only chair and crossed her ankles like she was waiting for a dental appointment.
+— **Lena Koskinen**, 40s, formerly married to someone in the dean's office whose name I didn't catch because Lena was already talking over her own introduction. Dark red coat. Loud. Hands never still.
+— **Suzette Park**, late 30s, formerly married to (or "consciously uncoupled from," her words, with audible quotation marks) a data scientist named James Park who left academia for industry and then left Suzette for—this is relevant—a content strategist at a company called Anima.
+
+They sat in my lab, among the drying racks and the pH strips and the fume hood, and they told me about the letters.
+
+They told me about the company.
+
+They told me what they wanted.
+
+I am going to write it down the way I would describe a damaged document coming into my care: systematically, with attention to material evidence, starting with what I can verify and separating it from what I am asked to believe.
+
+**The Company — Anima (est. 2020, San Francisco, Series C funding of $340M)**
+A "relationship technology" startup. Primary product: a subscription platform that generates personalized romantic communications for users—love letters, anniversary messages, apology notes, breakup drafts, "re-enchantment sequences." The underlying language model was trained on a proprietary dataset, which brings us to:
+
+**The Letters**
+Anima acquired, over a four-year period, approximately 14,000 physical letters, postcards, notes, and personal documents of romantic or intimate content. Sources include: estate sales (bulk lots purchased through intermediary dealers), donations to university archives subsequently deaccessioned and sold, digitized holdings from three public libraries that entered into licensing agreements they did not fully understand, and—per Suzette, who obtained internal emails from her ex-husband's ex-colleague—at least one case of outright misrepresentation, in which the company told a family it was creating a "memorial archive" and then absorbed the letters into its training corpus.
+
+The letters span from approximately 1803 to 2019.
+
+They are between nobody famous. That was the point—the company wanted stylistic range, emotional rawness, and zero intellectual property complications. They wanted the words of people no one would come looking for.
+
+The letters were scanned, transcribed, and fed to the model. The physical originals were moved to a secure storage facility inside Anima's San Francisco campus, where they are kept as what Margot called, with a thinness in her voice I recognized, "a trophy room."
+
+**What They Want**
+They want to take the letters back. Not copies. The physical originals. Every box.
+
+**Why They Want Me**
+Because I know how to handle documents without damaging them. Because I have clean-room training, environmental monitoring experience, the right hands. Because, Margot said, looking at me very directly from my one chair, "You spend your life making sure fragile things survive being touched."
+
+**What I Said**
+I said I would think about it.
+
+**What I Thought**
+
+---
+
+*You would have said yes immediately. You would have already been drawing the floorplan on a napkin. You would have been practically levitating. You would have asked Lena if she had a code name yet and if she didn't you would have assigned one. Daniel. My Daniel. You would have been so completely, infuriatingly, blazingly alive about this.*
+
+*I said I would think about it and then I put the Harwell deed into its folder and I labeled the folder and I washed my hands and I noticed that I had washed my hands twice and that the second time was not professional habit but delay and I thought: I do not want to go home right now.*
+
+*I do not often let myself write that.*
+
+---
+
+**Shopping list (ongoing, pinned):**
+Methylcellulose (reorder — low)
+Wheat starch paste
+Blotting paper, 300gsm
+Hollytex
+
+~~Bustelo, brick, the yellow one~~
+
+---
+
+## II.
+
+---
+
+**Conservation Journal — C. Voss**
+**Date:** March 12
+**Location:** Margot Czerny's kitchen, Noe Valley. Tile backsplash, cracked grout. Coffee in mugs that don't match.
+**Project:** Briefing.
+
+---
+
+Suzette brought the scans on a laptop. Margot had printed hard copies on her home inkjet, which—I will simply note for the record—is not archival paper, and the ink will gas off within eighteen months, and I did not say this out loud because I am learning which observations are useful and which ones make people exchange glances.
+
+Lena brought wine. It was 10 a.m.
+
+"It's a heist meeting," she said. "We're not doing this sober."
+
+We did, in fact, do it sober. The wine sat on the counter, unopened, for two hours. Then Lena opened it while explaining the building's HVAC system with the focus and specificity of a woman who has been studying ventilation schematics the way I study chain lines.
+
+The scans are partial. Suzette's source (a former Anima employee whose guilt apparently outpaced his NDA) copied approximately sixty letter-images before his access was revoked. They are low-resolution. Some are cropped. Several are barely legible, shot at angles in what must have been panicked haste—a phone held over a document, hand shaking, fluorescent light flattening the contrast.
+
+Even so.
+
+I am going to paste two of them into this journal. I am using conservation tape—gummed linen, acid-free, reversible. This is what I use when I mount documents for study. It holds without transferring. It can be removed cleanly. The document leaves no trace on the journal and the journal leaves no trace on the document. They touch, but they can be separated again.
+
+---
+
+**[PASTED: Scan fragment 1]**
+
+Partial letter. Laid paper, untrimmed deckle edge visible at right margin. Iron gall ink, brown-black, characteristic corrosion haloing around heavy strokes. Hand is American copperplate, well-practiced but not professional—a woman of education writing carefully. Dated: October 14, 1847, though the year is partially obscured by a water stain that blooms across the upper quadrant like a continent.
+
+Legible text (my transcription):
+
+*…stood in the doorway and spoke of the weather and his hand held the frame in such a way that I could see the tendon move beneath the skin of his wrist. He held the frame as if he needed it to stand. As if without the house around him he might simply come apart. I have thought about his hand on that wood every day since and I cannot make myself stop and I do not try very hard to stop. I think this is what they mean by it, by the word, though I have never before had cause to think so. The tendon moved. It moved because he was gripping the frame and he was gripping the frame because…*
+
+The letter breaks off. Not at the edge of the scan—at the edge of the letter itself. She stopped writing. Or the second page is in a different box. Or the second page is lost.
+
+**Material notes:** Pen pressure is moderate and consistent through the first seven lines. In the passage about the hand on the doorframe, pressure increases measurably—the ink pools at descenders, the nib catches on the laid lines. She was bearing down. She was making sure it lasted.
+
+*She was writing the way you press a flower. She was trying to flatten the moment into the paper so it would still be there when she came back.*
+
+---
+
+**[PASTED: Scan fragment 2]**
+
+Email printout, standard office paper, likely 20lb bond. Printed in what appears to be 11pt Arial. Header partially visible: a draft folder, a dating-era Gmail interface, circa 2006 based on UI elements. No recipient address filled in. Subject line blank. Timestamp: 2:47 a.m.
+
+Full text:
+
+*I keep almost calling you. The almost is killing me.*
+
+No signature. No closing. The email was never sent. Someone, at some point, printed it out—perhaps the author, perhaps someone who found it after—and the printout was acquired, and the printout was scanned, and the scan was fed into a model that learned from it the statistical relationship between *almost* and *killing* and *you*, which is not what the person at 2:47 a.m. was trying to preserve.
+
+**Material notes:** There is a fingerprint visible in the lower right corner of the printout. Index finger, right hand, based on the whorl pattern. Someone held this piece of paper. I cannot determine ink chemistry because it is an inkjet printout, but I can note that the paper has a crease at the midline—it was folded once, in half, the way you fold something to put it in a pocket. The way you fold something you are going to carry.
+
+*The model learned that "almost" and "killing" go together. It learned that they statistically co-occur in the context of romantic longing. It did not learn the 2:47 a.m. It did not learn the fold.*
+
+---
+
+Margot explained the rest while I was still looking at the scans.
+
+Anima's platform is called, and I am going to write this down exactly as she said it because I want to remember the way her mouth moved around the words: **"Heartstring: AI-Powered Intimacy, Authored by Your Feelings."** For $29.99 a month, subscribers fill out an "emotional profile"—attachment style, love language, partner's "resonance triggers"—and the model generates letters, texts, handwritten-font cards, even "voice-of-love" audio that can be sent as if the subscriber wrote or spoke or felt any of it themselves.
+
+"It's a ghostwriter," Suzette said. "Except the ghost is fourteen thousand real people who are dead or divorced or lost or never sent the thing they wrote at 2:47 a.m., and none of them said yes."
+
+Lena, who had by now abandoned the wine for Margot's espresso machine and was pulling shots with a violence that suggested prior barista experience: "It's a strip mine. They found a vein of the realest thing people ever put on paper and they're running it through a crusher and selling the powder."
+
+I looked at the email printout. The fold. The fingerprint.
+
+"Why not just steal the data?" I asked. "Why do you need the physical letters?"
+
+And the room went quiet in that particular way that rooms go quiet when someone has asked a question everyone else already has an answer to.
+
+It was Margot who spoke.
+
+"Because the data is already out. It's in the model. You can't unpour that. But the letters—the paper, Clara—they're the proof. They're the evidence that these were real people who held real pens and pressed real fingerprints into real paper. If the letters stay in that building, they're a trophy. A brand asset. An Easter egg for investors. They will never be accessible, they will never be studied, they will never be returned. They will sit in a climate-controlled room that isn't even properly climate-controlled, because Suzette's source says the HVAC on that level has been malfunctioning for six months and no one has fixed it because no one in that company understands that humidity matters."
+
+She said this with the particular fury of someone who has been married to an academic for twenty-five years and has absorbed, through the skin, certain convictions about the stewardship of primary sources.
+
+"And," Lena added, from behind the espresso machine, "they framed one. For the lobby. Behind UV-filtering glass, at least. I asked. It's behind UV-filtering glass."
+
+"It's not behind UV-filtering glass," Suzette said.
+
+"It's not behind UV-filtering glass," Lena confirmed.
+
+---
+
+*I brought the scans home. I placed them in a document folder between sheets of acid-free tissue, which is absurd—they're inkjet printouts of low-resolution phone photographs of scans of scans—but I could not make myself put them loose in my bag. The fold in the email printout. The fold.*
+
+*Daniel. A company taught a machine to write love letters by feeding it fourteen thousand people's most unguarded moments, and the machine learned the words and lost the paper, and the paper is rotting in a basement in San Francisco, and three women who have been left by their husbands want me to go get it.*
+
+*Me specifically. Because I am the one who knows how to carry fragile things without breaking them.*
+
+*I do not know what to say to that. I do know that when I got home I opened the cabinet above the refrigerator where your cereal is still on the shelf because I can't reach it comfortably and taking it down would require a step stool and a decision, and I looked at the cereal, and I closed the cabinet, and I said out loud to the kitchen: "Fine."*
+
+*Fine.*
+
+---
+
+## III.
+
+---
+
+**Conservation Journal — C. Voss**
+**Date:** March 23
+**Project:** Infiltration, Day 1
+
+---
+
+**[PASTED: Onboarding email, printed, stress-highlighted in pink]**
+
+> FROM: people@animaconnect.com
+> TO: helen.grey@animaconnect.com
+> SUBJECT: 🌱 Welcome to the Anima Family, Helen! Your Journey Starts NOW
+>
+> Hi Helen!!
+>
+> We are SO thrilled to welcome you to Anima's Emotional Authenticity team! You were chosen from over 800 applicants because your profile resonated with our core value of Radical Emotional Presence™.
+>
+> Here's what your first day looks like:
+>
+> **9:00 a.m.

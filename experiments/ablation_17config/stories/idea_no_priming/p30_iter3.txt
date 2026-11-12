@@ -1,0 +1,140 @@
+# THE CALLOWAY MANUAL
+
+### *Recovered Document — Fort Meade Facility, Building 11C*
+### *OSHA Regional File No. 03-2024-00917*
+### *Classification: PENDING*
+
+---
+
+&nbsp;
+
+## SECTION 1
+## WELCOME TO CALLOWAY PREDICTIVE SYSTEMS
+
+---
+
+&nbsp;
+
+Welcome, and congratulations.
+
+If you're reading this, you've already cleared two rounds of behavioral screening, a cognitive-pattern assessment that took four hours and felt like two, and an NDA that our legal department drafted with what I believe is genuine artistic ambition. Their finest work. You signed it. You probably didn't read it. That's okay. Almost no one reads it. We know.
+
+My name is Drea Kiel, and I am the Office Manager and Employee Experience Coordinator for Calloway Predictive Systems, a private research firm specializing in ambient computational modeling. We are located at 9824 Gruber Road, Fort Meade, Maryland, in what your GPS will call "Building 11C, NSA-Decommissioned Annex" and what we, with considerable fondness, call the Fishbowl. The building was originally constructed in 1957 as one of several signals intelligence processing centers for the National Security Agency. It was decommissioned in 2004 following a facilities consolidation initiative, sat empty for eleven years growing the kind of mold that OSHA classifies as "notable," and was leased by Calloway in 2015 on terms that reflected, let us say, the mold.
+
+It is not a beautiful building. But it is ours.
+
+Your first day will feel overwhelming. This is by design—not our design, or anyone's, really, just the design of first days, which are structurally hostile experiences that we've tried to soften through thoughtful onboarding. This manual is part of that softening. Think of it as a friend who has been here longer than you and knows where everything is. Think of me as that friend.
+
+Here is what you need to know right now, this morning, before you know anything else:
+
+**Your badge** is in the manila envelope on your desk. It is salmon-colored. If it is not salmon-colored, return it to me immediately, because the color-coding system is one of the few things I will not compromise on. Salmon is for new hires in their first ninety days. After that, you'll receive a pale blue badge, which grants access to the second subbasement and the rooftop terrace, which I maintain at my own expense and where we grow, depending on the season, cherry tomatoes, basil, and a species of wild mint that migrated from somewhere I have not been able to identify and that makes the best tea you will ever drink in your life. You are welcome on the terrace at any time. I will know if you've been there.
+
+**Parking** is in the east lot. Spaces 1 through 8 are reserved for senior staff. Space 14 floods. It floods because there is a drainage problem that predates our lease by approximately forty years, and the NSA apparently considered it a feature rather than a bug—something about channeling runoff away from a subsurface utility corridor that no longer exists in any blueprint I've been provided. If you park in Space 14, you will, eventually, regret it. I tell every new hire this. Roughly 60 percent of them park in Space 14 anyway on their first day because it is close to the entrance and because people are, in my experience, profoundly resistant to believing that bad things described in advance will actually happen to them. This is, coincidentally, relevant to our work, but we'll get to that.
+
+**The elevators.** There are two. Elevator A serves floors Ground through 3 and occasionally, when it feels generous, the first subbasement. It has a temperament. It responds well to patience and poorly to repeated button-pressing. Elevator B serves all floors, including the subbasements B1 through B4, and requires a blue badge or higher for anything below B1. If Elevator A stops between floors—which it will, roughly once every three weeks, always on a Wednesday, and I have never determined why Wednesdays—do not call me. Press the yellow intercom button, wait forty-five seconds, and it will resume. It wants to know you're still there.
+
+I'm aware of how that sounds. Elevators do not want things. I'm being colorful. But you will find, working here, that precision about what wants what is more useful than you'd imagine.
+
+**The break room** is on the second floor, Room 212. The coffee maker on the left is for everyone. The coffee maker on the right belongs to Dr. Lena Oliveros, who is our Chief Technology Officer and who brought it from home after what she described, in a facilities request email that I still have saved, as "a crisis of faith in institutional Folgers." Her coffee maker uses pods that she orders from a roaster in Medellín and stores in her desk drawer between a photograph of her daughter at age six and a retirement planning folder she has never opened. You may use her coffee maker if you ask. She will say yes. She always says yes. She likes being asked.
+
+The microwave is communal. Please cover your food. The smell of microwaved fish has started two genuine interpersonal conflicts and one that escalated to a mediated conversation with HR, and I say this not to be amusing but because the three-foot radius around a microwave at 12:15 p.m. is an astonishingly dense environment, emotionally speaking, and if you are going to understand what we do here at Calloway, you might start by standing in front of that microwave and paying very close attention to what the people around you are not saying.
+
+This brings me to the matter of our work, which I will explain fully in Section 2. But first, a few more names.
+
+You will report to Javier Montalvo, Director of Applied Analytics, whose office is on the third floor, who has a handshake exactly firm enough to communicate that he has read an article about handshakes, and who will, within your first week, tell you a story about his undergraduate thesis at MIT that he believes is self-deprecating and that is, in fact, the opposite. He is very good at his job. He is less good at knowing what he is actually communicating when he speaks, which is, again, relevant.
+
+You will likely interact with Priya Chandrasekaran (Research Lead, Behavioral Calibration), who keeps a small shrine of jade plants on her windowsill and talks to them in Tamil when she thinks no one is in the hallway; with Marcus Elliot-Wade (Senior Developer, Systems Architecture), who has been at Calloway since 2016 and whose left knee predicts rain with a specificity that the National Weather Service should find embarrassing; and with the rest of the team, whom you will meet organically and whom I will describe in greater detail in Section 5 of this manual, which covers departmental structure and interpersonal dynamics and which you should read carefully, because the org chart is not the actual chart, and I would like you to know the actual chart.
+
+One more name. In your first weeks, you may not encounter him at all, because his hours are 11:00 p.m. to 7:00 a.m. and because he is, by both nature and assignment, the kind of person you can fail to notice for a long time:
+
+**Tomás Herrera**, Night-Shift Data Hygiene Technician, floors B2 through B4.
+
+His duties include routine data-cache maintenance, server-log compression, ambient system hygiene, and the preparation of nightly processing summaries for the morning analytics team. He has held this position for two years. His performance reviews are adequate. His badge is pale blue.
+
+If you happen to be in the building late, and if you happen to take Elevator B down to the subbasements for any reason, and if you happen to see a slight man with dark hair and no expression sitting in front of a terminal in a room that is colder than it should be—that's Tomás. He will not introduce himself. He may not look up.
+
+That's fine. Not everyone performs well in spontaneous social contexts.
+
+Now. Attached to this section you'll find a facility map. I've annotated it for your convenience. The annotations are mine. The original blueprints were drafted by the Army Corps of Engineers in 1956 and updated by an NSA facilities team in 1987 and then again in 2002, shortly before decommissioning. You'll notice that the subbasement floors are rendered in less detail than the upper levels. This is because the original architects used a different drafting convention for signals-intelligence processing areas, which required—
+
+Actually, I'm told the reason is simply that those floors were classified. The 2015 lease included declassified versions. They are adequate for navigation purposes.
+
+I've marked the locations of restrooms, fire exits, the terrace, and Elevator B's known points of hesitation. I've also marked, in red, the three fluorescent fixtures that operate at a frequency slightly outside the standard range. The one on B3, near the west data corridor, has been known to cause headaches in roughly one in four people who work beneath it for more than ninety minutes. If you feel a pressure behind your left eye that is dull and oddly specific, move to a different workstation. It is not meaningful. It is a sixty-seven-year-old light fixture in a building that the federal government maintained the way the federal government maintains things.
+
+Welcome to Calloway. We're glad you're here. I'm glad you're here.
+
+I know you'll be a good fit.
+
+---
+
+&nbsp;
+
+***[ATTACHED: Building 11C Facility Map, Annotated. Scale 1:200. Floors G, 2, 3, B1, B2, B3, B4. NSA Archive Reference No. 11C-FP-2015-DECL. Annotations in red ink, hand-lettered. Marginal note on B3 corridor, southwest corner, in same hand: "This room is not on the original blueprint. I am looking into it. —D.K."]***
+
+---
+
+&nbsp;
+
+## SECTION 2
+## CORE PRODUCT OVERVIEW: WHAT WE DO AND WHY IT MATTERS
+
+---
+
+&nbsp;
+
+You have signed agreements, cleared screenings, and received a salmon badge, but you do not yet know what we do. This is intentional. Dr. Calloway—Nathan Calloway, our founder, who is not in the building often and whom you may never meet, and about whose absence I will say nothing except that it is a kind of presence—believed that employees should first feel the *environment* of the company before being introduced to its *function*. He compared it to learning a language by living in the country rather than by studying grammar. I thought this was pretentious when he first said it. I have since come to believe he was right, although I would not tell him so, because Nathan responds to validation the way some plants respond to overwatering: with enthusiasm that looks like health and isn't.
+
+What we do:
+
+Calloway Predictive Systems develops and operates a proprietary ambient-sentiment engine called **PARSEL** (Predictive Ambient Reconstruction of Subvocalized Emotional Lexicon). PARSEL uses a distributed sensor array—integrated into the building's existing infrastructure, its HVAC ducts and wiring conduits and acoustic tiles—to detect, decode, and model the unexpressed cognitive-emotional states of individuals within its sensor range.
+
+That is the language from the grant applications. Let me try again.
+
+PARSEL reads what people are thinking and feeling but have chosen not to say.
+
+Not through mind-reading, which is not a thing—I want to be precise about this, because the new hires who come from defense backgrounds tend to assume we are building a weapon, and the new hires who come from academic backgrounds tend to assume we are building a metaphor, and both are wrong in different directions. PARSEL works through algorithmic reconstruction. Every thought you choose not to voice still produces physiological output: microexpressions lasting less than a quarter of a second, subvocalized muscle movements in the larynx and tongue (you are, at this moment, almost certainly "saying" your thoughts in your throat without opening your mouth—you can feel it now that I've mentioned it, can't you?), galvanic skin variations, pupil dilation, respiratory micro-rhythms, and approximately thirteen hundred other biometric signals that you are broadcasting, right now, as you read this, in a continuous, involuntary, and astonishingly detailed stream.
+
+You are a radio station. You have always been a radio station. PARSEL is the receiver.
+
+The sensor array in Building 11C was originally installed by the NSA in the late 1980s for purposes that remain classified but that, based on the infrastructure we inherited, almost certainly involved acoustic surveillance of a kind that did not go well. Nathan saw the array for what it could become. He was right. He is often right about systems and rarely right about people, which is why he built PARSEL and which is why PARSEL is necessary.
+
+Let me show you what PARSEL sees.
+
+I've included below the official minutes from a Monday morning product review meeting held on March 11, 2024, followed by PARSEL's ambient-sentiment output for the same seventeen-minute window. Both documents describe the same event. You should read them as one reads a photograph next to its negative.
+
+---
+
+&nbsp;
+
+***OFFICIAL MEETING MINUTES — Product Review, Q1 Sprint Cycle***
+***March 11, 2024, 9:15 a.m., Conference Room 3A***
+***Present: J. Montalvo (chair), L. Oliveros, P. Chandrasekaran, M. Elliot-Wade, R. Azoulay, K. Park***
+
+*Montalvo opened the meeting at 9:17 a.m. and reviewed the agenda. Sprint deliverables were discussed. Oliveros provided a technical update on latency reduction in the B3 processing cluster, reporting a 14% improvement over the previous quarter.*
+
+*Chandrasekaran presented preliminary findings from the behavioral calibration study (n=12, internal subjects). Results were characterized as "promising but preliminary." Montalvo asked clarifying questions regarding sample methodology. Chandrasekaran responded.*
+
+*Elliot-Wade raised a concern about server allocation on B4 and requested additional overnight processing bandwidth. Montalvo noted the request and committed to follow up with facilities (Kiel).*
+
+*Park presented mockups for the quarterly investor deck. Feedback was provided. Consensus was reached on visual direction. Azoulay suggested minor copy revisions. Park agreed.*
+
+*Meeting adjourned at 9:34 a.m. Next product review scheduled for March 25.*
+
+*Minutes submitted by: K. Park*
+
+---
+
+&nbsp;
+
+***PARSEL AMBIENT-SENTIMENT OUTPUT — Conference Room 3A***
+***March 11, 2024, 09:15:00–09:34:22 (EST)***
+***Processing Node: B3-West-07 | Confidence Threshold: 0.91***
+
+*09:15:00–09:17:14 | PRE-MEETING SETTLING*
+*Montalvo (J.): Subvocalized rehearsal of opening remarks, third repetition. Dominant affect: anticipatory anxiety re: Oliveros's response to sprint timeline. Secondary: resentment (target: Calloway, N.—absent, as usual) layered beneath performative ease. Laryngeal tension consistent with suppressed statement, probable content: "If Nathan were here, this wouldn't be my problem."*
+
+*Oliveros (L.): Physiological markers consistent with sleep deficit, 2+ nights. Pupil tracking: fixated on phone screen beneath table edge, message thread with contact labeled "Mamá." Galvanic spike at 09:15:44 consistent with grief-adjacent distress, rapidly suppressed. Affect on entry: composed. Affect at depth: a woman holding a glass very carefully because she knows it is already cracked.*
+
+*Chandrasekaran (P.): Elevated parasympathetic activity. Microexpression cluster at 09:16:01 (contempt, 0.3s) triggered by Montalvo's adjustment of cuffs. Subvocalized fragment, reconstructed at 0.87 confidence: "…performing again…" Dominant affect: professional impatience shading toward moral judgment. She has decided something about Montalvo. She decided it weeks ago.*
+
+*09:17:15–09:23:40 | SPRINT REVIEW AND TECHNICAL UPDATE

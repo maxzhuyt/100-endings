@@ -1,0 +1,92 @@
+# The Verified Miracle Index of Pell the Unpromising
+
+---
+
+## Foreword to the Ninth Corrected Edition
+
+The present volume represents the collaborative effort of the Department of Hagiographic Sciences at the University of Threng and the Pontifical Sub-Commission for the Retroactive Assessment of Low-Confidence Saints, convened under the joint authority of the Ecumenical Concord of 1174 (Revised) and Civic Ordinance 2.16.9(b), which governs the public display of relics in commercial districts. It supersedes the Eighth Corrected Edition (Mollen & Gyre, eds.), which contained several transcription errors in the miracle indices and one significant interpolation now believed to have been inserted by a student as a prank.[^1]
+
+The life of Pell of Gaersham — called by the faithful *Pell the Unpromising*, *Pell of the Trough*, *Pell First-and-Final*, and, in certain heterodox traditions, simply *the Goatherd* — presents unique challenges for the modern editor. The primary source text, the *Chronicle of Mercies and Reluctances*, survives in three manuscript traditions that disagree on nearly everything, including, in several instances, the century in which the described events took place. The present editors have attempted fidelity to the Thornwall Manuscript (MS T), which is the oldest and most complete, while noting significant variants from the Fallow Quire (MS F) and the so-called Goatskin Fragment (MS G), which may or may not have been composed by an eyewitness and may or may not have been written on the skin of one of Pell's actual goats.[^2]
+
+We offer this volume in the spirit of scholarly humility and religious caution, aware that the question of Pell's sanctity remains, twelve centuries later, formally unresolved.
+
+*— The Editors*
+*Threng, Year of the Amber Audit*
+
+[^1]: The interpolation, a three-page account of Pell wrestling a divine otter in a river of milk, was not detected for eleven years, during which time it was cited in fourteen peer-reviewed articles. The Sub-Commission considers the matter closed. The student has not been identified.
+
+[^2]: Carbon dating of MS G is inconclusive. Professor Hael Winnock of the Archival528 Institute has argued persuasively that the skin is caprine, likely from a mature female of a breed consistent with those raised in the Gaersham valley during the relevant period. Professor Lotte Brumm, with equal authority, has argued that it is a piece of a saddlebag. Both scholars have ceased speaking to each other at conferences.
+
+---
+
+## Translator's Note
+
+The *Chronicle* poses particular difficulties for the modern reader because its anonymous author — traditionally called *the Annotator*, though this is somewhat misleading, as they wrote the primary text as well as most of its annotations — employed a dialect of Late Thornish that had an unusually large vocabulary for emotional states that do not have modern equivalents. For instance, the word *pellanach*, which appears forty-three times in the text, is variously translated as "the particular grace of someone who does not know they are being watched by something enormous" (Mollen), "holy obliviousness" (Gyre), "the quality of not flinching, not because one is brave, but because one hasn't noticed" (Winnock), and "she just stood there" (Brumm).[^3]
+
+I have attempted to preserve the Annotator's tonal register, which is, to my ear, simultaneously tender and unbearably sad — the voice of someone who loved their subject, knew the ending, and wrote the whole thing anyway. Where my translation fails, the fault is mine. Where it succeeds, the credit belongs to a dead writer whose name we do not know, who sat in a room that no longer exists, and got it right.
+
+*— E. Vael, Translator*
+
+[^3]: Brumm's translation is technically defensible. It is also, in the opinion of this translator, an act of vandalism.
+
+---
+
+## Epigraph
+
+> *She did not ask for any of it. You will note that the records are clear on this point, even the ones that are wrong about everything else. She did not ask. The gods came anyway. The gods always come anyway. That is, if we are being honest with ourselves, the central problem.*
+>
+> — From the *Liturgy for the Feast of Reluctant Saints*, author unknown, ca. 600 years after the events described herein. Recited annually in seventeen temples. Banned in four.
+
+---
+
+## I.
+
+On the morning that later hagiographers would call the Dawn of First Noticing — and which Pell herself would have called Tuesday, had the Gaersham valley yet adopted a formal calendar, which it had not, because the goat-trading economy did not require one — Pell woke before the light, as she always did, because the brown kid with the crooked ear was sick again and would need to be fed by hand.
+
+The brown kid was the runt of a litter that had itself been the runt of a season. It had been born with one ear folded over like the corner of a page someone meant to return to, and it had a persistent cough that sounded, in the pre-dawn dark, like a very small old man trying to clear his throat at a lecture he was too polite to leave. Pell had named it Mud, because it was the color of mud and because she believed in naming animals after things that would not give them ideas above their station. Her other goats were named Stump, Bother, Various, and the Big One.[^4]
+
+She mixed the milk with crushed grain and a pinch of the dried herb that old Thersa — who was not a healer, exactly, but who had lived long enough to know what worked on a cough — had given her two weeks ago in exchange for a quarter-wheel of cheese. Pell held the kid in her lap. The kid fought the mixture, as it always did, with the passionate, full-bodied commitment to self-sabotage that is the exclusive province of baby goats and certain poets. Pell held its jaw. She tipped the bowl. She was patient in the way that people who work with animals are patient, which is not the calm, composed patience that the word usually conjures, but the grimly cheerful patience of someone who has been kicked in the chin before and expects to be kicked again and has decided this does not alter the basic terms of the arrangement.
+
+The kid drank. Not much. Enough.
+
+Pell wiped the milk from her wrist and set the kid down in the straw and went to the fence that bordered Gren Tullo's pasture, because she had noticed yesterday that two posts were listing and the crossbar had come loose. Gren Tullo was her nearest neighbor. Gren Tullo had not spoken a kind word to Pell in four years, not since the disagreement about the creek water — the details of which are not relevant to this account but which involved, in broad strokes, the question of whether a goat seen drinking from a shared creek constitutes an act of water-theft.[^5] Pell did not like Gren Tullo. Gren Tullo did not like Pell. The fence was broken. Pell fixed the fence.
+
+She fixed it because a broken fence between two properties that contained animals was a problem, and Pell fixed problems that were in front of her. This is the quality that the Annotator will later call *pellanach*, though we will argue about what that word means until the university closes for winter recess.
+
+The sky was pale. The valley was quiet. A mist sat in the low places the way mist does, which is to say, with no ambition and a willingness to be dispersed by the first warm thing. Pell ate a piece of hard bread with cheese while standing in her yard, because she did not believe that sitting down for breakfast would improve its flavor, and because there were six more things to do before the sun was fully up, and she was already behind on two of them. A bird sang a phrase three times and then stopped, perhaps satisfied, perhaps embarrassed.
+
+She could not know — could not possibly know, standing there in the yard with crumbs on her shirt and mud on her knees, squinting at the sky to guess the weather — that she had just accomplished, in the span of a single morning, acts that would later appear in the official hagiographic record as:
+
+**VMI Entry 1.001** — *The Merciful Sustenation of the Least Creature* (feeding the kid)[^6]
+
+**VMI Entry 1.002** — *The Mending of the Broken Boundary Without Regard for Worldly Grievance* (fixing the fence)
+
+**VMI Entry 1.003** — *The Uncovered Meal of Perfect Humility* (eating standing up)
+
+She could not know this, because she was Pell of Gaersham, and she was twenty-three years old, and she had four goats and a kid that was probably going to die despite her best efforts, and the idea that God — or a god, or several gods, or the vast, quarrelsome menagerie of immortal needs that passed for a pantheon in this part of the world — might be paying the slightest attention to her breakfast would have struck her as very funny, and then very quickly as not funny at all, but rather as the kind of thought that made you tired if you held it too long.
+
+The narrator — which is to say, the Annotator, which is to say, the unknown person whose voice has carried Pell's story for twelve hundred years like a river carries a leaf it found upstream and cannot seem to put down — the narrator wants you to understand something before we go further. The narrator has read the indices. The narrator has seen the verified miracle list, all three hundred and seven entries, with their appended subclauses and jurisdictional notes. The narrator knows what Pell becomes, in the record. And the narrator has chosen to begin here, in the mud, in the dark, with a woman feeding a sick goat, because the narrator suspects — and the translator agrees, for whatever a translator's agreement is worth — that this is the truest thing, and that everything that comes after is, in some sense, a commentary on it.
+
+A woman fed a sick animal in the dark.
+
+Everything else is footnotes.
+
+[^4]: Stump, Bother, Various, and the Big One appear in the hagiographic literature as *the Sacred Flock*, and are sometimes depicted in illuminated manuscripts with small golden haloes around their heads. The Big One is typically shown as roughly the size of a horse, gazing nobly into the middle distance. The actual Big One was slightly underweight, had a chronic skin condition, and once ate an entire basket of laundry.
+
+[^5]: The Fallow Quire contains a marginal note in a later hand: *"The creek matter is not as trivial as the main text implies. Water rights in the Gaersham valley were governed by customary use, and the introduction of additional livestock without renegotiation of access constituted a legitimate grievance. Tullo was not wrong. Pell was not wrong. The creek was insufficient for both, and neither of them built it."* This note is the single most theologically sophisticated passage in MS F, and it was written in the margin by someone whose identity we will never know.
+
+[^6]: The miracle classification *Merciful Sustenation of the Least Creature* carries a standard evidentiary weight of 0.3 Lumens on the Verified Miracle Index, placing it in Category Nine: *Acts of Minor Compassion Performed Without Witness or Expectation of Reciprocity*. It is the lowest category that still qualifies for formal review. The auditor's original filing, which survives in the celestial administrative archive, contains the handwritten annotation: *"Low-magnitude but structurally flawless. Recommend expedited review. There is something happening here."*
+
+---
+
+## II.
+
+The celestial bureaucracy is not what most people imagine.
+
+Most people, if they imagine it at all — and most do not, because most people are occupied with feeding their children and paying their taxes and dying at thirty-seven of something that could have been prevented by clean water — but most people, if pressed, would describe the divine administrative apparatus as something like a palace, or a cloud, or a great white room with very good acoustics. They would imagine serenity. They would imagine purpose. They would imagine the kind of calm that comes from everyone knowing their role and performing it with grace.
+
+The celestial bureaucracy is more like a post office during a holiday rush staffed entirely by people who believe, with the fervor of the recently converted, that every single parcel contains something of world-historical importance.
+
+Sethma Cord had been a Provisional Auditor (Third Class, Untenured) in the Division of Spontaneous Sanctity for eleven years. In that time, she had filed four hundred and twelve preliminary miracle assessments, of which three hundred and ninety-six had been returned with the notation *INSUFFICIENT EVIDENCE — REFILE WITH SUPPLEMENTARY ATTESTATION*, nine had been lost in inter-divisional transit, six had been formally rejected, and one — one — had been advanced to secondary review before being ultimately downgraded to *Coincidence, Favorable (Non-Divine)*.[^7]
+
+Sethma Cord did not mind. Sethma Cord was aware that the success rate for provisional auditors in her division was, across the historical average, approximately 0.4 percent. She was aware that the gods were capricious, that the

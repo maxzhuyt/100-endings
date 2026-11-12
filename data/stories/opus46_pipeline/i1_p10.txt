@@ -1,0 +1,163 @@
+# Hacker Mindset
+
+The point-of-sale system is running Aloha, version 12.3 or earlier, based on the font rendering on the server's touchscreen when she tilted it toward me to show the specials. Twelve-point-three has a known remote code execution vulnerability that was patched in 12.4, which means the registers in this restaurant are, from a security perspective, a screen door in a hurricane. The WiFi network is called TRATTORIA_GUEST, and the admin panel is almost certainly still sitting at 192.168.1.1 with the default credentials because no one in the history of restaurant ownership has ever changed a default credential. The hostess propped the back office door open with a rubber wedge because the AC is broken, and through the gap I can see a desk with a sticky note on the monitor. I would bet my entire savings — modest, post-reform — that the sticky note says a password on it. I would bet it ends in an exclamation point, because someone told the manager that special characters make passwords stronger.
+
+The waiter — Miguel, employee number 0347, which I know because he recited both into his cell phone forty seconds ago while arguing with someone about a shift swap — has left his order pad on the drink station ledge. Twice.
+
+I note all of this the way someone with a pollen allergy notes the trees are blooming. Not with desire. Not with intent. With the blunt, involuntary registration of a nervous system trained on a particular axis, a pattern-matching engine that cannot be idled, only denied output.
+
+I am reformed. I have been reformed for four years, if you start the clock from the plea deal, or three years and one month, if you start it from the last time I actually touched a system I wasn't authorized to touch. I have a job now, a legitimate one. Penetration testing for a mid-tier consulting firm that pays me to do to corporate networks what I used to do to corporate networks, except now there's a signed contract and a scope-of-work document and I file taxes. I am a good citizen. I am the arsonist hired by the fire department, and I am told this is a respectable career arc.
+
+But the scanner doesn't have an off switch. That's the thing nobody tells you. They talk about reform like it's a redirect, like you train the dog to stop chasing cars by giving it a ball instead. But the dog still sees the cars.
+
+I take a sip of water. The glass has a smudge on the rim. I am not going to think about the fact that the restaurant's health inspection score is publicly accessible and that the database it's stored in has been documented to be susceptible to — no. I take another sip of water.
+
+My date is four minutes late, which is within normal variance and not worth profiling.
+
+I straighten my fork.
+
+---
+
+She comes through the front door at 7:34 and I know it's her because she matches the photos but also because of the particular way a person moves when they're scanning a room for someone they've only seen in compressed JPEG format. There's a micro-hesitation, a sweep pattern — left to right if right-handed, which she is, based on the bag strap over her right shoulder, dominant side, keeping the left hand free. She spots me. Smiles.
+
+The purse goes on the chair back, not the floor. Strap wrapped once around the post — not secured, but not casually draped either. Moderate security awareness or just a habit inherited from a cautious mother. Phone comes out, face-down on the table. Good instinct. Screen brightness was high when she glanced at it walking in, which means either she hasn't set auto-brightness or she was reading something in the car and cranked it up. The watch is an Apple Watch Series 8. Bluetooth on, certainly. Probably broadcasting her name to any device that asks nicely.
+
+She's wearing a green cardigan with the sleeves pushed up past her wrists, and her eyes are the kind of brown that looks almost amber when the light catches them right, and the light in this restaurant catches them right, and —
+
+"Hi. James?"
+
+"That's me. Elena?"
+
+"Sorry I'm a little late, parking here is a nightmare."
+
+"No, you're fine—"
+
+Her handshake is warm and brief and slightly formal in a way that reads as nerves rather than coldness. The formality is a deflection, a rehearsed social subroutine. The warmth underneath it is not. I notice the small gap between her front teeth when she smiles and I notice that her earrings are mismatched — one small moon, one small star — which is a deliberate choice, which tells me something about how she relates to asymmetry, which is to say she likes it, which is to say she's someone who distrusts things that are too neatly resolved, and I need to stop doing this. I need to stop doing this because this is a person, not a system, and the fact that my brain is running the same heuristic subroutines on her dental structure as it runs on firewall configurations is exactly the kind of thing that has made every previous attempt at dating feel like an interrogation I'm conducting from behind my own face.
+
+She picks up the menu. Her eyes go to the prices first — a quick, involuntary flick — then to the food descriptions. Not checking if she can afford it; checking the price range to calibrate what kind of place this is. Reasonable. Strategic. I like her.
+
+I like her. That's the signal I need to hold on to. Not her Bluetooth surface area. Not the fact that the email address she used on the dating app was firstname.lastname format, which means I could have her LinkedIn, her voter registration, and her home address in about eleven seconds. I did not look. I have not looked. This is what reform means: not the absence of capability, but the refusal to deploy it. Every single time.
+
+"Have you been here before?" she asks.
+
+"First time," I say, which is true. I chose it because it had good reviews and because it was her side of town. I did not choose it because of the network vulnerabilities, which I have only cataloged in the last twelve minutes against my will.
+
+---
+
+It happens the way it sometimes does, the rare way — a conversational seam opens and instead of small talk pouring in like grout, something real comes through.
+
+She mentions a board game night she hosts on Thursdays, and I say I used to play a lot of tabletop stuff, and she asks like what, and I say mostly Magic: The Gathering, and her face does something I don't need a social engineering framework to interpret. It just lights up.
+
+"Okay, wait. What format?"
+
+"Commander, mostly. Some draft when I can find a pod."
+
+"Who's your commander?"
+
+"Don't laugh."
+
+"I'm going to laugh."
+
+"Meren of Clan Nel Toth."
+
+She does laugh, but it's the right kind — recognition, not mockery. "Graveyard recursion. Of course. You're one of *those*."
+
+"I like inevitability."
+
+"I bet you do." She leans forward. "I run a Kykar, Wind's Fury spellslinger deck that would eat your Meren alive."
+
+"That's a bold claim about a deck you haven't seen."
+
+"I've seen enough Meren decks. You're going to Spore Frog lock me and think you're clever, and I'm going to generate enough tokens to go wide around your entire board state."
+
+"Spore Frog is a *noble* card."
+
+"Spore Frog is a war crime."
+
+I'm laughing. I realize I've been laughing for several seconds, not performing laughter, not deploying it as a social lubricant, but actually laughing because she called a one-mana frog creature a war crime and she's right, it kind of is. The menu is still open in front of me and I haven't read a single word on it because I've been listening to her describe the time she resolved a Thousand-Year Storm with six spells on the stack and wiped someone's entire board, and her hands are moving while she talks, drawing the arc of the play in the air, and I realize that for the first time since I sat down in this restaurant, I have not scanned a single thing.
+
+The POS system is still vulnerable. Miguel's employee number is still filed in my short-term memory. The WiFi is still a disaster. But these facts have gone quiet, the way tinnitus fades when you're absorbed in something and you only realize it was gone when it comes back. My internal monologue, the running feed of observation and threat assessment and pattern extraction that has constituted the basic texture of my consciousness for as long as I can remember, has — not stopped. Slowed. Warmed. Like a cold engine finding its operating temperature.
+
+She's talking about the mana curve philosophy behind her deck — she runs low, almost aggro-low, because she believes commander games are won by the person who deploys threats fastest, not the person who deploys the biggest threats — and I disagree with this but I disagree with it the way you disagree with someone whose reasoning you respect, which is to say with pleasure, with the specific pleasure of discovering that another person has thought carefully about a thing you've also thought carefully about and arrived somewhere interestingly different.
+
+"You're a tempo player," I say.
+
+"And you're a value player. And we're going to have this argument for hours if we don't order food."
+
+We order food. The conversation moves on but the warmth doesn't dissipate. She tells me about her job — UX research, user interviews, the science of understanding how people interact with systems — and I think that she and I might be doing the same thing from different sides of the screen, and I nearly say this, and then I don't, because the version of this observation I can articulate without sounding like I view humans as systems is too fragile right now, and I don't want to break what's happening.
+
+What's happening is good. It's terrifyingly, undefendedly good.
+
+---
+
+Her mother's maiden name is Vasquez.
+
+She doesn't say it that way. She says, "My mom was a Vasquez before she married my dad, and Vasquez women are stubborn — that's genetic, I'm convinced." She's telling a story about learning to drive, about her mother gripping the dashboard and refusing to let her quit even after she knocked over the mailbox, and it's a funny story, a good one, warm with the specific texture of a family that fought but held together, and I am listening to it, I am genuinely listening, and simultaneously a small cold subroutine in the back of my brain tags the data point and files it.
+
+*Security question #1: Mother's maiden name. Vasquez.*
+
+I take a bite of pasta.
+
+She talks about growing up in Cedar Falls — not the Iowa one, she clarifies, the little neighborhood in her hometown in Oregon — and about the street with the big oak tree that dropped acorns on every car, Maple Ridge Drive, and how all the neighborhood kids would collect the acorns and throw them at each other like grenades.
+
+*Security question #2: Street you grew up on. Maple Ridge Drive.*
+
+I nod. The pasta tastes like nothing.
+
+"We had this cat," she says, leaning back with the relaxed posture of someone who feels safe enough to be nostalgic. "This absurd orange tabby named Professor Mango. He would sit on the porch like he was supervising the whole street."
+
+*Security question #3: First pet's name. Professor Mango.*
+
+And there it is. The trifecta. Three standard security questions, answered, in the space of normal human conversation by someone who is doing nothing wrong, who is doing exactly what you're supposed to do on a date — which is to share yourself, to offer the small biographical jewels that let another person know you, to build trust through self-disclosure. She is being open. She is being generous. She is being *vulnerable* in the way that vulnerability is supposed to work between two people sitting across from each other with wine and bread and the cautious hope that this might go somewhere.
+
+And I have, without intention, without consent — mine or hers — assembled a skeleton key.
+
+Not a complete one. I'd need her email address, which I don't have because I didn't look, and I'd need to know which bank she uses, which I could probably determine from the card she'll use to pay but I will not look at, I will *not look at it*. I have no plans. I have no intentions. I am not going to do anything with the information. It's already decaying in my short-term memory and I could accelerate that decay by choosing not to rehearse it and I am choosing not to rehearse it, right now, deliberately.
+
+But I noticed. That's the thing. The noticing happened before the choosing. The pattern was recognized, tagged, and filed before my conscious mind had any say in the matter, and no amount of reform, no amount of legitimate employment and filed taxes and signed scope-of-work documents, can intercept a cognitive process that operates below the threshold of volition.
+
+She is telling me about Professor Mango's habit of stealing socks from the laundry basket. She is laughing. I am smiling at her and the smile is real and underneath the smile is a low, spreading nausea, the particular nausea of knowing that you have violated someone in a way they can't detect, in a way that requires no action to constitute the violation, in a way that exists entirely in the architecture of your own perception.
+
+"You okay?" she asks. "You got quiet."
+
+"Yeah. Sorry. Just — that's a really great cat name."
+
+"Right? My dad picked it. He said the cat looked professorial."
+
+I laugh. The laugh is almost real.
+
+---
+
+After the entrées, after a brief and passionate disagreement about whether white or blue is the most unfair color in Magic (she's wrong, it's blue, it has always been blue, counterspells are a moral injury), she picks up her phone to show me a photo of her current deck — a physical spread of it, sleeved and arranged on a table.
+
+She swipes up. Her thumb traces the unlock pattern. An L-shape. Three nodes. Down two, right one. The kind of pattern that looks intuitive to the person using it and is trivially reproducible to anyone watching at any angle within fifteen feet.
+
+I watched her draw it.
+
+From across the table.
+
+Without trying.
+
+The words leave my mouth the way a buffer overflow leaves a stack — not through any planned execution path but because the boundary between *thinking* and *speaking* was insufficiently allocated.
+
+"You should change that unlock pattern. I watched you draw it twice from across the table. Three nodes isn't — that's not secure."
+
+The sentence ends.
+
+The silence that follows has a specific quality. It is not the silence of offense exactly, or of fear exactly, but of *recalibration* — the silence of a person who has just been informed that the room they thought they were in has different dimensions than they believed. She looks at me. Her eyes, which are amber in this light, which I noted earlier with pleasure, go flat with reappraisal. I can read the micro-expression cascade in real time because of course I can: surprise (eyebrows up, 0.3 seconds), processing (eyes left, gaze defocused, 0.8 seconds), a flash of something that might be violation or might be embarrassment (lip compression, color in the cheeks), and then — the worst one — a careful, deliberate smoothing of the face into neutral.
+
+She's managing me now. She's decided I require management.
+
+"Oh," she says. "Thanks."
+
+The phone goes into her lap. She didn't lock it — or if she did, she did it there, below the table, out of my line of sight, and the fact that I registered the hand movement and its deliberate concealment is proof of exactly the problem that just detonated in the center of this table like a fragmentation grenade with a blast radius of everything.
+
+I should not have said that. I know I should not have said that. I knew I should not have said it while I was saying it, which was not in time to stop saying it, which is the entire problem — the latency between perception and judgment in my particular architecture is just long enough for the damage to route through.
+
+She's looking at me differently now. The same face, the same green cardigan, the same mismatched earrings, but the posture has shifted two degrees backward and the hands that were gesturing freely about mana curves are now still, and I can see her reassessing every moment of the evening so far, wondering what else I noticed, what else I logged, whether the warmth was data collection, whether the Magic: The Gathering joy was a social engineering technique, and it wasn't, it *wasn't*, but I have no way to prove that that doesn't involve the same skill set as the thing she's now afraid of.
+
+---
+
+"I used to work in security," I say, which is the truth adjacent to the truth, which is a form of social encryption. "Cybersecurity. So I notice stuff like that. It's — it's a habit. A bad one. I wasn't—"
+
+I stop. The next word was going to be *watching*, and the problem with "I wasn't watching" is that I very obviously was, and she knows I was because I just told her the exact geometry of her unlock pattern, so the lie would make it worse, would tell

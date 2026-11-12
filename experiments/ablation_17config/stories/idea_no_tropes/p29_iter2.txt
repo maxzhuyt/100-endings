@@ -1,0 +1,216 @@
+# RECLASSIFIED
+
+---
+
+**UNITED STATES DEPARTMENT OF HOMELAND SECURITY**
+**Office of Domestic Threat Assessment and Prevention (ODTAP)**
+**INTERNAL MEMORANDUM — NOT FOR PUBLIC DISTRIBUTION**
+
+**CLASSIFICATION:** SENSITIVE BUT UNCLASSIFIED (SBU) // LAW ENFORCEMENT SENSITIVE (LES)
+**DATE:** March 14, 2025
+**FROM:** Deputy Director Harrison Voss, ODTAP
+**TO:** See Distribution List (11)
+**SUBJECT:** Retroactive Reclassification of Harker Hall Incident (Case File DT-2004-00397) Pursuant to the Domestic Threat Realignment and Prevention Act of 2024 (DTRPA), §§ 301(a)(2), 302(b), and 507(c)(1)
+**ROUTING CODE:** ODTAP-DDV-2025-0312-RETRO
+
+**1. PURPOSE.** This memorandum serves to formally notify relevant interagency stakeholders that the incident previously catalogued as Case File DT-2004-00397 (colloquially: "the Harker Hall Incident," Whitmore College, Whitmore, MA, occurring April 12–14, 2004) has been retroactively reclassified from **Category III: Civil Disturbance, Non-Violent, Campus-Related** to **Category I: Domestic Terrorism Event (DTE), Subclass B: Organized Political Disruption with Infrastructure Interference**, effective upon the signing of this memorandum, pursuant to the expanded definitional framework established under DTRPA § 301(a)(2), which broadens the statutory definition of "domestic terrorism" to include "any act or planned series of acts intended to coerce, intimidate, or disrupt the normal operations of a government entity, educational institution, or critical infrastructure node, where such acts are motivated in whole or in part by political, ideological, or social grievance."
+
+**2. BASIS FOR RECLASSIFICATION.** The Harker Hall Incident involved the unlawful occupation of Harker Hall, a building housing the Whitmore College Office of the Provost (a federally funded educational institution receiving $14.2M in annual Title IV disbursements), for a period of approximately fifty-one (51) hours. During the occupation, subjects barricaded two (2) interior fire doors (constituting infrastructure interference under DTRPA § 302(b)), displayed unauthorized signage visible from a public roadway (constituting public intimidation display under DTRPA § 302(f)), and refused three (3) verbal directives issued by campus security personnel acting as agents of an institution receiving federal funds (constituting willful obstruction of a federally adjacent operation under DTRPA § 507(c)(1)). The occupation was organized around demands pertaining to the institution's investment portfolio, specifically the divestment of holdings in corporations operating in ██████████████. Original arresting jurisdiction (Whitmore Campus Police, in coordination with Whitmore County Sheriff's Office) charged all subjects with misdemeanor trespass. Charges were subsequently dropped pursuant to a mediated resolution between subjects and the institution. Under the retroactive applicability provisions of DTRPA § 801, the prior disposition of charges does not preclude reclassification.
+
+**3. IDENTIFIED SUBJECTS.** Five (5) subjects are identified in connection with Case File DT-2004-00397. Updated information per current federal records is as follows:
+
+> **3.1** CHEN, MARINA LYNN. DOB: ██/██/1983. SSN: ███-██-████. Current Employer: Tillerman, Wash & Pryce LLP (Washington, D.C.). Position: Senior Associate, Constitutional Litigation Group. Last Known Address: 1614 Swann Street NW, Apt. 3, Washington, D.C. 20009. Status: ACTIVE — NO CURRENT RESTRICTIONS.
+
+> **3.2** OKAFOR-HALL, ADAEZE NMEMEKA. DOB: ██/██/1982. SSN: ███-██-████. Current Employer: U.S. Department of Homeland Security, Office of Civil Rights and Civil Liberties (CRCL). Position: Senior Policy Analyst, GS-14. Last Known Address: 9203 Everett Street, Silver Spring, MD 20901. Status: ACTIVE — SEE INTERNAL CONFLICT NOTE, ¶ 3.2(a).
+
+>> **3.2(a) INTERNAL CONFLICT NOTE:** Subject OKAFOR-HALL is currently employed by a component of the Department of Homeland Security. Her inclusion on this reclassification notice creates a potential conflict of interest under 5 C.F.R. § 2635.502. This conflict has been referred to the DHS Ethics Office for review. Pending resolution, Subject OKAFOR-HALL retains her security clearance and network access in an *active* status. [**Note from DDV:** Expedited revocation recommended. See my email to Ethics, 3/12.]
+
+> **3.3** BENEVENTO, SALVATORE JAMES. DOB: ██/██/1982. SSN: ███-██-████. Current Employer: City of Baltimore, Department of Recreation and Parks. Position: Program Coordinator, Youth Athletics. Last Known Address: 412 East Fort Avenue, Baltimore, MD 21230. Status: ACTIVE — NO CURRENT RESTRICTIONS.
+
+> **3.4** YEUNG, KEVIN WAYNE. DOB: ██/██/1984. SSN: ███-██-████. Current Employer: Self-employed (sole proprietor, "Yeung's Auto Clinic," Vineland, NJ). Position: Owner/Operator. Last Known Address: 1088 South Main Road, Vineland, NJ 08360. Status: ACTIVE — NO CURRENT RESTRICTIONS. [**Note:** Subject YEUNG has an unrelated pending traffic adjudication (failure to yield, Cumberland County, NJ, docket ██████). No bearing on present matter but included for completeness per ODTAP File Integrity Standards § 4.1.]
+
+> **3.5** PARK, JUNE SOO-MIN. DOB: ██/██/1983. SSN: ███-██-████. Current Employer: Montclair Public Schools (Montclair, NJ). Position: 4th Grade Classroom Teacher. Last Known Address: 27 Claremont Avenue, Montclair, NJ 07042. Status: ACTIVE — NO CURRENT RESTRICTIONS. [**Note:** Subject PARK holds a New Jersey Standard Teaching Certificate and is subject to mandatory reporting provisions under NJ Rev. Stat. § 18A:6-38.5 regarding "conduct unbecoming." Reclassification triggers automatic notification to the NJ Department of Education per interagency data-sharing protocol DTRPA-EDU-001. Notification generated automatically upon filing of this memorandum. See Attachment F.]
+
+**4. RECOMMENDED NEXT STEPS.** This Office recommends (a) immediate placement of all five subjects on the Consolidated Threat Watchlist (CTW); (b) initiation of enhanced monitoring protocols per DTRPA § 604; (c) coordination with FBI Domestic Terrorism Operations Unit (DTOU) and relevant Joint Terrorism Task Forces (JTTFs) for subject interviews and/or apprehension, depending on threat assessment outcomes (see forthcoming Threat Assessment Matrix, under separate cover); and (d) preservation of all communications intercepted pursuant to standing FISA authority on Subject OKAFOR-HALL (see FISC Order ████████, renewed ██/██/2025).
+
+**5. NOTE ON TIMING.** This reclassification is one of approximately 2,340 cases currently under retroactive review by this Office as part of the DTRPA Implementation Initiative (Phase II). Prioritization of Case File DT-2004-00397 was elevated from Tier 3 to Tier 1 following the identification of Subject OKAFOR-HALL as a current DHS employee with access to sensitive interagency communication platforms, including the Homeland Security Information Network (HSIN). Reclassification of this case file was completed in 4.7 analyst-hours, within the target benchmark of 5.0 analyst-hours per case established by the Deputy Director's Process Efficiency Memo of January 8, 2025.
+
+**DISTRIBUTION:**
+
+CC: ████████████ (FBI/DTOU); ████████████ (JTTF-Baltimore); ████████████ (JTTF-Newark); ████████████ (CRCL — Director's Office); ████████████ (DHS Ethics Office); ████████████ (DHS OIG — for information only); ████████████ (ODTAP — Records Management); ████████████ (████████████); ████████████ (████████████); ████████████ (USCIS — Biometric Services, ref. global entry records for CHEN, MARINA); ████████████ (TSA — Federal Air Marshal Service, for watchlist coordination)
+
+**SIGNED:**
+Harrison R. Voss
+Deputy Director, ODTAP
+U.S. Department of Homeland Security
+
+**ATTACHMENTS:** A through J (under separate cover)
+
+---
+
+---
+
+---
+
+**HARKER HALL FOREVER 💀**
+
+*Group created by Adaeze Okafor, April 14, 2004*
+*Members: Adaeze Okafor-Hall, Marina Chen, Sal Benevento, Kevin Yeung, June Park*
+
+---
+
+**March 15, 2025**
+
+**Adaeze** 11:47 PM
+*[image attached]*
+
+**Adaeze** 11:47 PM
+read this now
+
+**Adaeze** 11:47 PM
+all of you
+
+**Adaeze** 11:48 PM
+I know this chat has been dead for three years and the last thing in it is Sal saying happy birthday to the wrong person but I need you to read the attachment now.
+
+**Adaeze** 11:48 PM
+this is real. I pulled it off HSIN myself an hour ago. I am sitting in my car in a Safeway parking lot. my hands are shaking so badly I can barely type this.
+
+**Adaeze** 11:49 PM
+I just committed a federal crime by screenshotting this and sending it to you and I need you to understand that I did it anyway.
+
+**Kevin** 11:56 PM
+lmao what
+
+**Kevin** 11:56 PM
+wait
+
+**Kevin** 11:57 PM
+wait wait wait
+
+**Kevin** 11:57 PM
+is this
+
+**Kevin** 11:57 PM
+hang on
+
+**Kevin** 11:59 PM
+ok I just read the whole thing. holy shit. HOLY SHIT. they're calling harker hall a terrorist event??????? we sat on a floor and sang "we shall overcome" badly for two days and now we're on a watchlist????????
+
+**Kevin** 12:01 AM
+also hi everyone it's been a while
+
+**Sal** 12:03 AM
+Adaeze. I just read it. I have read it three times. I need you to tell me with absolute certainty this is real and not some kind of phishing scam or AI-generated document or something someone made to scare us.
+
+**Adaeze** 12:04 AM
+Sal. I am a GS-14 at DHS. I have HSIN access. I pulled this from the internal distribution system with my own credentials. The routing code checks out. The signature block is real. Harrison Voss is my boss's boss's boss. I have met him. He has a mug that says "Homeland is where the heart is" and he is not being ironic. This is real.
+
+**Sal** 12:05 AM
+Oh God.
+
+**Kevin** 12:05 AM
+the part about my traffic ticket 💀💀💀 they really said "no bearing on present matter but included for completeness" I literally ran a yellow light
+
+**Kevin** 12:06 AM
+wait does this mean I can't fly
+
+**Kevin** 12:06 AM
+I have a thing in march I'm supposed to go to a car show in Scottsdale
+
+**Sal** 12:07 AM
+Kevin.
+
+**Kevin** 12:07 AM
+I know I know I'm sorry I process things by being an idiot you know this about me
+
+**June** 12:12 AM
+I just put my kids to bed and looked at my phone and I can't breathe.
+
+**June** 12:12 AM
+Attachment F. They're notifying the NJ Department of Education. Automatically. Because their computer talks to another computer and neither computer knows that I am a person who teaches nine-year-olds to do long division.
+
+**June** 12:13 AM
+I could lose my certification.
+
+**June** 12:13 AM
+I could lose my job.
+
+**June** 12:14 AM
+Over something I did when I was twenty years old. Something that got DROPPED. The charges were DROPPED.
+
+**June** 12:15 AM
+I'm sorry. I know everyone is scared. I just. I keep looking at the picture on my fridge that Milo drew yesterday it's a pterodactyl and he labeled it TARADACTEL and I am going to lose my mind.
+
+**Kevin** 12:17 AM
+june I'm so sorry
+
+**Sal** 12:17 AM
+June, we are going to figure this out.
+
+**Adaeze** 12:18 AM
+June, I know. I know. I'm so sorry. I pulled the trigger on this by sending it to you but I couldn't let you find out from an agent at your door.
+
+**June** 12:18 AM
+No, you were right to send it. Thank you. I just need a minute.
+
+**Adaeze** 12:19 AM
+Take all the minutes you need.
+
+*[Marina Chen is typing...]*
+
+*[Marina Chen is typing...]*
+
+*[Marina Chen is typing...]*
+
+**Kevin** 12:21 AM
+marina is typing the longest text in human history apparently
+
+*[Marina Chen is typing...]*
+
+**Sal** 12:24 AM
+Marina, we can see you typing. It's okay. Whatever you want to say.
+
+*[Typing indicator disappeared]*
+
+**Kevin** 12:26 AM
+she stopped
+
+**Sal** 12:26 AM
+I can see that.
+
+**Kevin** 12:27 AM
+does anyone else think it's insane that we're all just here again? like two hours ago I was watching brake pad reviews on youtube and now I'm in harker hall forever talking about federal terrorism charges
+
+**Adaeze** 12:28 AM
+it's called the DTRPA. Domestic Threat Realignment and Prevention Act. Signed into law September. Retroactive reclassification provisions went live in January. I watched it happen from inside. I filed three internal objections. I have the emails. Nobody cared.
+
+**Sal** 12:29 AM
+You filed objections? Through official channels?
+
+**Adaeze** 12:29 AM
+yes
+
+**Sal** 12:30 AM
+And then you screenshotted a classified memo and sent it to the five named subjects.
+
+**Adaeze** 12:30 AM
+sensitive but unclassified. SBU. slightly different legal consequences. but yes.
+
+**Sal** 12:30 AM
+How different?
+
+**Adaeze** 12:31 AM
+I'd rather not quantify that right now Sal
+
+**Sal** 12:31 AM
+Fair enough.
+
+**Marina** 12:34 AM
+I've read it.
+
+**Marina** 12:34 AM
+I need everyone to listen to me carefully because I'm only going to explain this once and the explanation is not reassuring.
+
+**Marina** 12:35 AM
+DTRPA § 301(a)(2) redefines domestic terrorism broadly enough

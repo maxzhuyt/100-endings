@@ -1,0 +1,215 @@
+# THE PROSPER TRANSMISSIONS
+
+## A Reconstruction from Archival Sources
+
+---
+
+**EDITORIAL NOTE**
+
+The following reconstruction draws upon primary documents held in the National Archives (Kew), catalogued under HS 9/836/5 (Personnel File: Nora Inayat Khan, née Noor-un-Nisa Inayat Khan, WAAF, SOE Section F, Field Name MADELEINE); signals traffic from SOE Station 53a (Grendon Underwood) covering the period 2 June – 13 October 1943; intercepted and decoded Funkspiel transcripts recovered from Sicherheitsdienst files at 84 Avenue Foch, Paris, seized by Allied forces April 1945; internal memoranda of Section F headquarters, 62–64 Baker Street, London, partially declassified under the thirty-year rule and subsequently reclassified, portions released 2003; and a field diary maintained by Khan in a Galeries Lafayette *Cahier d'Écolier* (child's school notebook, ruled paper, blue cover, 48 pages), recovered from the personal effects of Madame Raymonde Prenat, 1 Boulevard Richard Wallace, Suresnes, and donated to the Imperial War Museum in 1952 (catalogue reference: Documents.2671).
+
+Where documents are reproduced, they appear as close to their original form as typographic convention permits. Translations from the French and German are by the editor unless otherwise attributed. Portions redacted in the original files are indicated by [REDACTED]. Portions rendered illegible by damage, deterioration, or the physical condition of the source material are indicated by [ILLEG.].
+
+No documents have been invented. No documents have been altered. The selection and ordering are the editor's, and the editor's alone.
+
+The Prosper network (PHYSICIAN circuit) comprised at its operational peak between forty and sixty active members in the greater Paris region. This reconstruction concerns itself with the twelve principal agents referenced in Khan's surviving transmissions and diary, and with the circumstances of their individual disappearances between June and October 1943.
+
+Of the twelve, two survived the war.
+
+---
+
+*Sources are cited parenthetically by archive and reference number at their first appearance and abbreviated thereafter. The reader may wish to note that certain documents present irreconcilable chronologies. These contradictions have been preserved.*
+
+---
+
+## I.
+
+---
+
+**PERSONNEL FILE EXTRACT — HS 9/836/5**
+
+KHAN, Noor-un-Nisa Inayat (Service name: Nora BAKER)
+Cover name: Jeanne-Marie RENIER
+Field name: MADELEINE
+Born: 1 January 1914, Moscow
+Nationality: British (by naturalisation; father Indian, mother American)
+Languages: English (native), French (fluent, accent-free Parisian), German (conversational), Hindustani, Italian
+Training assessments: Wireless telegraphy — exceptional (fastest keying speed in cohort, 22 w.p.m.). Field craft — adequate. Security — BELOW STANDARD. See note.
+
+**Attached note, handwritten, initialled MB [believed Maurice Buckmaster, Head of F Section]:**
+
+> She is not tough. She is not, I think, what one would call cunning. She has a quality I cannot put a name to — a kind of ferocious gentleness. I have reservations. But we need wireless operators in France more badly than we need reservations.
+
+**Further note, typed, dated 14 May 1943, initialled [REDACTED]:**
+
+> Assessment: KHAN is technically gifted but temperamentally unsuited to clandestine work. She is imaginative, which is a liability. She is honest, which is worse. She has been told repeatedly not to carry her transmissions codebook on her person. She carries it on her person. She has been told to vary her routine. She transmits with a distinctive rhythm ("fist") that any competent detector could identify within thirty seconds.
+
+> RECOMMENDATION: Do not deploy.
+
+**Marginal annotation, handwritten, unsigned:**
+
+> Noted. Deploy.
+
+---
+
+**FIELD DIARY — Documents.2671, p. 1**
+
+*[The following is handwritten in blue-black ink in a ruled school notebook. The cover of the notebook bears a printed illustration of a young girl feeding ducks. Khan's handwriting is small, slanted leftward, and notably consistent throughout the early entries.]*
+
+**16 June 1943**
+
+They gave me the notebook at the Galeries Lafayette. Or rather, I bought it. I was meant to buy a *carnet* — something plain, something an adult would carry. But this one had the ducks on the cover and I thought: no one will search a child's school notebook. And no one will believe a spy would be so foolish as to keep a diary.
+
+Both of these things are probably wrong.
+
+I am writing this in the bathroom of Madame Prenat's house in Suresnes. The taps do not work after 9 p.m. There is a candle. The wallpaper has climbing roses. My suitcase radio is under the bed in the room next door, wrapped in a blanket, and it weighs thirty pounds, and tomorrow I have to carry it to Grignon.
+
+I promised Abbu that I would always tell the truth, even in the stories. Especially in the stories. He said a story that is not true is not a story at all, only noise.
+
+So: I am frightened. I have been frightened since the Lysander. I am frightened now.
+
+But the roses on the wallpaper are lovely, and Madame Prenat left me a glass of milk, which one cannot get in Paris, and my code worked perfectly on the first attempt tonight, and Archambaud said I have the cleanest signal he has ever heard.
+
+There. The truth and also the true things around it.
+
+---
+
+**TRANSMISSION LOG — SOE Station 53a, Grendon Underwood**
+
+*[Intercepted and decoded. Original in cipher groups; decoded plaintext reproduced. Station notations in brackets.]*
+
+**17 June 1943 — 02:14 GMT**
+**MADELEINE to HOME STATION (F-SEC)**
+
+QTC 1 NR 47 —
+
+ARRIVED SAFELY STOP CONTACTED ARCHAMBAUD AND PROSPER STOP CIRCUIT ACTIVE STOP TWELVE PRINCIPALS CONFIRMED IN PLACE STOP REQUEST CONFIRMATION JULY MOON PERIOD DROP COORDINATES GRID REF [REDACTED] STOP SECURITY CHECK CORRECT STOP
+
+MADELEINE
+
+**[Station 53a notation: Signal strong. Fist identified — MADELEINE confirmed. Keying rhythm consistent with training profile. Security check VALID — true check present, bluff check absent. Operator authentic.]*
+
+---
+
+**17 June 1943 — 03:02 GMT**
+**HOME STATION (F-SEC) to MADELEINE**
+
+QTC 1 NR 12 —
+
+WELCOME STOP CONFIRM JULY MOON COORDINATES RECEIVED STOP ADVISE PROSPER RE ARMS CONSIGNMENT CONTAINER TYPE C X 12 STOP ACKNOWLEDGE STOP
+
+DOYEN
+
+---
+
+**FIELD DIARY — Documents.2671, pp. 2–4**
+
+**18 June 1943**
+
+Met the others today. Not all — one does not meet all at once, that is the first rule, or perhaps the seventh, I have lost count of the rules — but enough to begin to understand the shape of things.
+
+ARCHAMBAUD is Gilbert Norman. I am not meant to write real names. I will write them anyway because if this notebook survives me, someone should know who these people were.
+
+Gilbert is tall, fair, very English despite his perfect French. He has a habit of cleaning his spectacles when he is thinking, and he thinks often. He is Prosper's second, the radio operator I am here to assist — or replace, though no one has said that word yet. His hands shake. I do not think he sleeps.
+
+PROSPER is Francis Suttill. I had expected someone grim. He is not. He is quick, warm, a barrister by training, and he has the barrister's trick of making you feel that whatever you have just said was the most interesting thing he has heard all day. He runs the circuit with a kind of gathering energy, pulling people in. He knows everyone. Everyone trusts him.
+
+DENISE is Andrée Borrel. She is French, from Paris, small and dark and fast. She carried a Sten gun in pieces in a shopping bag and assembled it on a kitchen table to show me how, and when I fumbled the stock she said *ce n'est rien, on recommence,* and her voice was exactly like my old piano teacher's, patient and impossible to disappoint. I think she is the bravest person I have met.
+
+There are others. BERTRAND, who arranges the landing grounds and knows every farmer in the Île-de-France. MARCEL, who sources the false papers and has a wife and three children who do not know. CINEMA, whose real name I was not told, who handles the dead drops and moves with a limp he claims is from football but which Andrée says is from being thrown from a moving train in Lyon. LAPIN — I don't know why he is called Rabbit — who drives, and drives, and drives, and who once drove 200 kilometres with a dead radio battery under his seat and two checkpoints and did not stop smiling.
+
+Twelve of us at the table of the functioning circuit. The city around us occupied, surveilled, stitched with informers and curfews and the grey weight of the German presence, and here we are, in a kitchen in the 16th arrondissement, passing bread and talking in low voices, and for a moment it felt like light.
+
+I know how that sounds. I know it is not light. I know what we are doing and what can happen.
+
+But Abbu told the story of the candle and the moth, and the moth always flies toward the light, and Abbu said the question is not why the moth burns but whether the light was real.
+
+It was real. Tonight, in that kitchen, with those people — it was real.
+
+---
+
+**19 June 1943 — 01:47 GMT**
+**MADELEINE to HOME STATION**
+
+QTC 1 NR 48 —
+
+PROSPER CONFIRMS RECEPTION COMMITTEE READY FOR JULY DROP STOP GRID REF [REDACTED] FIELD DESIGNATION TANGO-SEVEN STOP BERTRAND AND MARCEL TO COORDINATE STOP REQUEST ADDITIONAL BATTERIES FOR W/T SET TYPE 3 MK II STOP CURRENT SUPPLY DEGRADED STOP SECURITY CHECK CORRECT STOP
+
+MADELEINE
+
+**[Station 53a notation: Fist confirmed MADELEINE. Signal slightly weaker — possible antenna placement issue. Security check VALID.]*
+
+---
+
+**20 June 1943 — 02:03 GMT**
+**MADELEINE to HOME STATION**
+
+QTC 1 NR 49 —
+
+DENISE REPORTS SUCCESSFUL SABOTAGE ACTION RAILWAY JUNCTION GRID REF [REDACTED] STOP THREE LOCOMOTIVES DISABLED STOP NO CASUALTIES OUR SIDE STOP CINEMA CONFIRMS SAFE HOUSE NETWORK INTACT STOP LAPIN REQUESTS NEW VEHICLE PAPERS CURRENT SET EXPIRES 30 JUNE STOP SECURITY CHECK CORRECT STOP
+
+MADELEINE
+
+---
+
+**FIELD DIARY — Documents.2671, p. 5**
+
+**20 June 1943**
+
+I transmit between 1 and 3 in the morning. This is when the detector vans are least active — or so we believe. The aerial is a seventy-foot wire that I string from the chimney to the chestnut tree in Madame Prenat's garden. In the dark, in my stockinged feet on the roof tiles, the wire humming between my hands, I can see Paris.
+
+The city is blacked out but not dark. There is always some light — a curtain not fully drawn, a match struck in a doorway, the headlamps of German vehicles, which are not dimmed because they do not need to hide from themselves. And above it all the bulk of the Eiffel Tower, which they have hung with their flags, and which looks, in the dark, like a woman in a terrible dress who has been made to stand in the corner.
+
+The boiled cabbage smell comes from every kitchen in Suresnes. I think they boil the same cabbage all week. Madame Prenat keeps a pot on the stove that she adds to and never empties.
+
+When I transmit, my hands know what to do before my mind does. The key has a particular resistance — a weight, and then a give, and then the click, and the click becomes a rhythm, and the rhythm is a language only I speak in exactly this way. The training officer said my fist was "identifiable." He meant it as a warning. I think of it as a signature.
+
+---
+
+**22 June 1943 — 01:55 GMT**
+**MADELEINE to HOME STATION**
+
+QTC 1 NR 51 —
+
+PROSPER REQUESTS CONFIRMATION RE AGENT INSERTION NEXT MOON STOP TWO ADDITIONAL W/T OPERATORS URGENTLY REQUIRED STOP ARCHAMBAUD OVEREXTENDED STOP CIRCUIT TRAFFIC VOLUME EXCEEDING CAPACITY STOP REQUEST ALSO FUNDS 500000 FRANCS FOR OPERATIONAL EXPENSES STOP BERTRAND REPORTS LANDING GROUND TANGO-SEVEN CLEAR AND READY STOP SECURITY CHECK CORRECT STOP
+
+MADELEINE
+
+---
+
+**22 June 1943 — 03:30 GMT**
+**HOME STATION to MADELEINE**
+
+QTC 1 NR 15 —
+
+CONFIRM ADDITIONAL OPERATORS UNDER CONSIDERATION STOP FUNDS WILL ACCOMPANY NEXT CONSIGNMENT STOP ADVISE PROSPER HIGHEST PRIORITY IS PREPARATION FOR LARGE-SCALE ACTION TIMING TO FOLLOW STOP MAINTAIN CURRENT TEMPO STOP
+
+DOYEN
+
+---
+
+**FIELD DIARY — Documents.2671, p. 6**
+
+**23 June 1943**
+
+MARCEL brought false papers for three new résistants today. He works from photographs the size of postage stamps and produces documents that even the Germans accept. He showed me the technique — the way you age paper with tea, the pressure required for a convincing embossed stamp, the particular shade of ink the Prefecture uses. He has the hands of a jeweler and the nerves of a surgeon.
+
+His oldest child is seven. A girl. He showed me a photograph and then put it away very quickly, the way one touches a wound to see if it still hurts.
+
+CINEMA limped in at dusk with a message from a contact in the Abwehr — a German who passes information for reasons Cinema says are "not ideological, just human." The message concerned detector van routes. Cinema pinned a map to the wall and traced the routes with a pencil. The pencil was a child's pencil, red, with *République Française* stamped on one side. I wondered whether the child who had owned it was still in school, or had been moved, or was gone. One wonders such things in Paris now, and then one stops wondering because the wondering is a door and behind the door is a room one cannot work in.
+
+Archambaud's hands did not shake today. It was a good day.
+
+---
+
+## II.
+
+---
+
+**FIELD DIARY — Documents.2671, pp. 7–8**
+
+**24 June 1943**
+
+PROSPER left for a meeting with London today. He would not say where — "back channel," he said, and Gilbert looked away, which is what Gilbert does when he knows something he cannot share. Francis took Andrée with him. They will be back by the 28th.
+
+In their absence the circuit feels like a clock with two gears removed. Everything still moves

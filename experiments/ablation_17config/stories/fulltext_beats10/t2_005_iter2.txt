@@ -1,0 +1,93 @@
+# Form 27-B: Application for Continued Existence
+
+---
+
+## I.
+
+The colony ship *Provisional* — registry pending, hull classification "Refugee Ark (Provisional)," gross tonnage unlisted due to the destruction of the Interstellar Weights and Measures Bureau along with everything else — maintained, at the time of the incident, forty-one active departments. These were: Navigation; Propulsion (Mechanical); Propulsion (Theoretical, meaning two men who argued about ion drive efficiency in the cafeteria and had somehow acquired a budget); Hydroponics Bays 1 through 6; Hydroponics Bay 7, which had been converted to a volleyball court and was funded under Recreation but submitted its maintenance requests through Agriculture; Medical; Dental (technically a subdivision of Medical but operationally independent since the Dental Secession of Year Nine, which had been resolved by memorandum but not in practice); Sanitation; Water Reclamation; Air Quality and Filtration; Records; External Compliance; Internal Compliance; the Office of Interdepartmental Liaison, which existed to mediate disputes between External and Internal Compliance and which both departments refused to recognize; Childcare; Education (K-5); Education (6-12); Education (Adult Enrichment, offering seventeen courses, the most popular being "*Intermediate Spreadsheet Design for Post-Apocalyptic Administrative Environments*"); Structural Maintenance; Electrical; Morale; Chaplaincy Services (Interfaith); Chaplaincy Services (Disputes), a department created after Year Four's Ecumenical Incident and staffed by a single exhausted Unitarian; the Commissary; Textile Recovery; Archives (Paper); Archives (Digital); Archives (Oral History, which consisted of one elderly man with a tape recorder who could not be dissuaded); Fuel Accounting; Census; Births and Deaths; the Print Shop, which occupied a repurposed torpedo bay and was, by a wide margin, the loudest compartment on the ship; the Office of the Captain; the Office of the Executive Committee; and the Sub-Committee on Forms, Standards, and Notarization, which reported to no one, answered to no one, and consumed eleven percent of the ship's remaining paper supply.
+
+Three thousand and fourteen people crewed these departments. Three thousand and eleven, if you did not count the newborns, which Census did not, pending the completion of Form 1-A (Live Birth, Provisional Registration, Pending Species Status Review). Three thousand and nine, if you subtracted the two people in Cryogenic Compartment 4 who were not yet confirmed as alive or dead and whose status had been referred to a working group that met on Tuesdays. No one could agree on the real number. This was itself the subject of an interdepartmental memorandum, now in its sixth draft.
+
+The ship ate powdered eggs and recycled its urine and held meetings.
+
+It held so many meetings. Meetings about fuel consumption. Meetings about the vitamin D deficiency that had produced, in Year Twelve, a brief epidemic of rickets. Meetings about the volleyball court. Meetings about whether meetings required minutes and, if so, whether the minutes of the meeting about minutes should themselves be minuted, a question that had been tabled twice and referred to the Sub-Committee on Forms, Standards, and Notarization, which had not yet responded because it was busy drafting a policy on toner rationing, toner being the Print Shop's scarcest resource, more precious per gram than the antibiotics in Medical's locked cabinet, and the subject of a black-market economy that the Office of Internal Compliance suspected but could not prove because the relevant surveillance request (Form 16-F, Authorization for Interdepartmental Monitoring) had been denied for using the wrong color ink.
+
+In the cafeteria on C-Deck, at table nine — the table nearest the rehydration station and therefore the most politically significant table on the ship — the argument about toner rationing had been ongoing for six days. A woman from the Print Shop sat at one end, arms folded, claiming that Education's request for 200 pages of multiplication tables constituted "recreational printing" and fell outside priority allocations. A man from Education (K-5) sat at the other end, holding a small child's math homework as evidence of existential necessity. Between them, a woman who was neither Print Shop nor Education nursed an infant with one arm and collated a stack of interdepartmental memos with the other, sorting them by date, by department, by priority code, her fingers moving with the practiced efficiency of someone who had been collating since before the world ended and who would, if the occasion required it, collate through the end of the next one.
+
+The ship sailed on, through the dark between stars, toward a planet that had been identified — in a document filed during the third week of the voyage, stamped and notarized and submitted in triplicate — as a "Provisional Sanctuary Candidate (Pending Regulatory Approval)."
+
+The regulatory approval was the problem.
+
+Or, more precisely: the 4,216 forms that had been submitted over seventeen years to the entity known as the Auditors, the vast and ancient bureaucratic intelligence that administered — for reasons no civilization had ever satisfactorily explained — the permits and clearances required for a species to settle, expand, construct, reproduce beyond licensed parameters, or, at the most fundamental level, *continue to exist in an organized fashion* within the regulated galaxy.
+
+Every form had been submitted correctly. Every form had been filed on time. Every form had included the requisite signatures, notarizations, supporting appendices, and the small but mandatory Existential Justification Statement (line 42: "In no more than 300 words, describe why your species should persist"). Every form had been a small masterpiece of compliance, because the *Provisional* took its forms seriously, more seriously than it took almost anything, because forms were the thing it knew how to do, the one technology of civilization that had survived the evacuation not in fragments or approximations but whole, intact, muscle-memoried into the fingers of every clerk and administrator who had walked up the boarding ramp and carried nothing with them but the knowledge of how to fill in a box, how to sign on a line, how to turn chaos into a grid of rows and columns and small, neat letters that said: *someone was here, someone did this, it was recorded, it counts.*
+
+Every form had been perfect.
+
+Every form had been wrong.
+
+The error was discovered on a Tuesday — the ship still kept Tuesdays, because the Sub-Committee on Forms, Standards, and Notarization had early in the voyage filed a Calendar Preservation Request (Form 7-G) arguing that the abandonment of the weekly cycle would create "an unacceptable ambiguity in meeting scheduling" — by a junior clerk in the Records department named Edwin Postlethwaite, who was twenty-three years old and had been born on the ship, in the torpedo bay that was now the Print Shop, during a paper jam. Edwin had been conducting a routine cross-reference audit, a task he performed every quarter because his supervisor believed in redundancy and because there was, frankly, not much else to do, and he had noticed that the Regulatory Code prefix on the master template — the template from which all 4,216 forms had been generated — read 11-C.
+
+Code 11-C: Voluntary Species Dissolution.
+
+Not 27-B: Application for Continued Existence.
+
+The 1 and the 7. A transposed digit. A single keystroke, made in haste, seventeen years ago, in a template that someone had copied onto a portable drive during the final evacuation of a planet that was in the process of being "archived" — the Auditors' preferred term — while alarms sounded and the sky turned the color of a whited-out form and someone, some anonymous data-entry clerk whose name was not recorded and who probably did not survive, had typed an eleven where there should have been a twenty-seven.
+
+For seventeen years, with diligence and pride and the painstaking care of a species that had lost everything except its ability to fill out paperwork, the colony ship *Provisional* had been requesting, in triplicate, its own annihilation.
+
+---
+
+## II.
+
+Gladys Huang had been behind the counter at the Topeka, Kansas, Division of Motor Vehicles — Window 6, the one with the wobbly stool and the laminated sign that read *PLEASE HAVE YOUR DOCUMENTS READY* — when the sky changed.
+
+She had been explaining to a man named Gerald Frick, whose registration renewal she had been processing for eleven minutes, that the State of Kansas required a separate emissions compliance certificate for vehicles manufactured before 2018, and that his 2016 Honda Civic, while no doubt a lovely car, did fall under this requirement, and that the requisite form — a KS-ECV-4, available at Window 3 or online at the DMV website, which she could write down for him if he needed — was not optional, not a suggestion, not something that could be bypassed by sighing loudly, and that she understood his frustration, she really did, but the system was the system.
+
+The sky turned white.
+
+It turned white the way a document turns white when you hold it in front of a fluorescent light — not bright, exactly, but *emptied*, as if someone had pulled the color out of it and left only the blankness where color should have been. The man named Gerald Frick looked up through the DMV's plate-glass window. Gladys looked up. Everyone in the Topeka DMV — the sixteen people in the numbered chairs, the three clerks at the other windows, the security guard named Manny who was eating a breakfast burrito — looked up.
+
+Gladys looked back at Gerald Frick.
+
+"You'll also need your proof of insurance," she said. "The current card. Expired cards are not accepted."
+
+She did not say this because she was brave. She did not say it because she was in shock, or because she had not understood what was happening. She said it because she was in the middle of a sentence, and Gladys Huang finished her sentences. She had always finished her sentences. Her mother, who had kept ferns in every window of their house in Topeka and who had spoken to Gladys in Mandarin and to the ferns in English, as if the ferns were a different constituency, had once told her: "The world does not stop because someone is inconvenienced." Gladys had applied this principle to her work at the DMV, and now she applied it to the end of the world, not because the principle was adequate to the occasion but because it was the only principle she had.
+
+Six hours later she was on the *Provisional*, clutching a clipboard she had taken from Window 6, and the planet behind her was a white, smooth blankness where a world had been, archived, filed, removed from the active registry of the galaxy like a closed account.
+
+Seventeen years after that, she was the Director of External Compliance, the highest-ranking bureaucratic officer on the ship, the person responsible for all communication with the Auditors, and she was standing in the Records department staring at Edwin Postlethwaite's audit and feeling, for the first time in seventeen years, something she had not felt since Gerald Frick and his 2016 Honda Civic: the particular, ice-water horror of discovering that a form has been filled out wrong.
+
+Not frustration. Not anger. *Horror.* Because Gladys Huang understood something that most people did not, which was that forms were not paper. Forms were promises. A correctly filed form was a handshake between a person and a system, a covenant that said: *I have done my part; now you must do yours.* And an incorrectly filed form — especially 4,216 incorrectly filed forms, especially forms whose error turned a request for existence into a request for annihilation — was not merely a clerical mistake. It was a broken promise four thousand times over. It was seventeen years of speaking into a telephone that had never been connected.
+
+She set down the audit. She removed her glasses, cleaned them on her sleeve — an old habit, the sleeve-cleaning, older than the ship, older than the evacuation, a habit from Topeka — and replaced them. She picked up a pen.
+
+She began to calculate the corrections.
+
+---
+
+Three decks above the Records department, in the room designated on the ship's schematics as "Command Bridge" and known to its occupants as "the fishbowl," because its panoramic viewports were the only windows on the ship and they showed nothing but the black nothing of interstellar space, Captain Lev Borovsky was engaged in his daily practice of not reading things.
+
+He was a large man — not tall, but wide, built like something intended to withstand pressure, which in fact he had been. He had commanded a submarine. The *Kurgansky*, Akula-class, Northern Fleet. He had spent years in metal tubes under crushing water, and he had been good at it, because submarines required a particular talent: the ability to sit very still in a very small space and make correct decisions based on incomplete information while ignoring the fact that the ocean was trying to kill you. This talent, it turned out, also qualified him to command a colony ship, which was simply a larger metal tube in a more thorough ocean.
+
+But submarines did not require paperwork. Or, rather, they required paperwork, but the paperwork was someone else's problem. On the *Kurgansky*, Borovsky had had a political officer and an executive officer and a communications officer, and they had handled the paper, and Borovsky had handled the water and the darkness and the sonar contacts and the business of keeping 107 men alive in a place where life was not supposed to occur. He had been, in the language of forms, an *end user.* He had never been an administrator. He did not wish to be an administrator. He had told the Executive Committee this repeatedly, in speeches and in conversations and once, during Year Three, by writing a single-sentence memorandum — the only memorandum he had ever authored — that read: "I am a captain, not a clerk."
+
+The Executive Committee had filed this memo. They had filed it lovingly.
+
+Now a stack of forms sat on his desk — the latest batch from External Compliance, forms he was required to review and sign before transmission to the Auditors — and Borovsky performed his daily ritual. He looked at the stack. He placed one hand on top of it. He pushed it to the edge of the desk. He pushed it off the edge of the desk. The forms fell to the floor in a cascade that, by Year Seventeen, had become so familiar that his aide-de-camp, a young woman named Petrosyan, had learned to stand well clear of the desk's port side at roughly 0900 hours.
+
+"We are not a filing cabinet," Borovsky said. He said this every day. It was his version of a morning prayer. "We are a ship."
+
+The forms lay on the floor. Petrosyan picked them up. She would return them to External Compliance. External Compliance would send them back. Borovsky would push them off the desk again. This had been happening for seventeen years. Both sides considered it a matter of principle.
+
+Borovsky turned to the viewports and looked out at the nothing, which at least had the decency not to require a signature.
+
+---
+
+On E-Deck, in the corridor outside the Records department, a girl named Yema sat cross-legged on the floor and drew.
+
+She was six. She had brown skin and brown eyes and hair that her mother braided each morning into two plaits secured with rubber bands that had been manufactured, like everything else on the ship, from recycled materials, and that were therefore slightly sticky and smelled faintly of the chemical process by which the *Provisional* turned old things into new things that were almost but not entirely unlike old things. She was the daughter of two biologists who worked in Hydroponics Bay 3, where they grew soybeans and lettuce and quiet, careful grief, and who had agreed, when Yema was born, that their daughter would not grow up haunted. She would grow up *here*, on this ship, and here would be enough. Here would be home.
+
+Yema did not know that a planet had been destroyed. She knew that there had been a planet — "Earth," a word that adults used the way they used the word "before," as a kind of season that had ended — but she did not know it the way the adults knew it, in the body, in the way a sound can be known, a brightness, a heat. She knew the ship. She knew the corridors and the cafeteria and Hydroponics Bay 3, where the soybeans grew in long trays under pink lights, and she knew the Records department, where her mother sometimes brought her when childcare was full, and where the clerks let her sit in the corridor and draw.
+
+She drew on the backs of forms.

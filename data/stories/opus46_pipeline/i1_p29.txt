@@ -1,0 +1,175 @@
+# Polymerase Chain Reaction
+
+---
+
+The thermal cycler's lid had cracked in October, a clean fracture along the hinge that no amount of epoxy could justify trusting. So Maren did it by hand. She set a timer on her phone — the one thing that still kept accurate time, even with its screen a web of dead pixels — and moved the sample rack between three water baths arranged on the bench like a shell game.
+
+Ninety-five degrees. Thirty seconds. Denature.
+
+She lifted the rack with silicone-tipped forceps, moved it left.
+
+Fifty-eight degrees. Forty-five seconds. Anneal.
+
+She'd memorized the protocol so completely that the numbers had become physical, a rhythm in her tendons. Shift left. Wait. Shift right. Wait. Her hands performed the choreography while her eyes tracked the voltage regulator she'd wired between the solar array and the heating elements. The needle sat at 11.2 volts, trembling with the particular micro-seizure that meant cloud cover was drifting across the eastern panels. She needed 12 steady for the denature bath. If it sagged below 10.5 again, the whole cycle was shot and she'd burn another aliquot of Taq polymerase she could not replace.
+
+Seventy-two degrees. Sixty seconds. Extend.
+
+The centrifuge occupied the corner of the bench like a small ugly pet. She'd rebalanced it in July with two ball bearings from a skateboard and enough duct tape to qualify as structural engineering. It wobbled at high speed with a sound like a small aircraft in distress but held its axis. Mostly. The rotor had a slight precession she compensated for by never running it above 10,000 rpm, which meant longer spin times, which meant more power drawn from an array that was already bargaining with the clouds.
+
+Twenty-nine cycles to go.
+
+Maren pulled a stool to the bench and sat. The lab — she still called it that, the way you'd still call a limping dog a runner — had been a high school chemistry classroom once. Periodic table on the wall, faded to pastels. The emergency shower in the corner she used for actual showers because the plumbing still worked on gravity feed from the roof tank. She'd colonized it in stages: first the power hookups, then the bench space, then the storage room where she kept reagents at four degrees using a repurposed mini-fridge that drew so little current it could run on the battery bank overnight.
+
+Ninety-five degrees. Thirty seconds.
+
+She moved the rack. The voltage needle dipped to 10.8 and recovered.
+
+This was the wheat. Or what had been wheat, four licensed generations ago, before the termination architecture in the germline had started its scheduled unraveling. The settlement at Brody Lake had sent samples last month — seeds that germinated, grew to six inches, then collapsed into a pale mush that smelled of nothing. Apoptosis on a schedule. Every cell in the plant executing a kill command written into its DNA by an agricultural firm that no longer existed, that had been acquired by a holding company that had been dissolved in the bankruptcy proceedings of a larger holding company, all of them gone, their patents now as meaningless as papal indulgences and twice as persistent.
+
+Maren was looking for the termination cassette. If she could find it, map it, she could try to cut it out. CRISPR-Cas9 still worked. The guide RNAs were the problem — she had to design and synthesize them from scratch using a stockpile of nucleotides that was, by her last inventory, sufficient for approximately four more months of work at current consumption. After that, she'd need to culture her own, which meant she'd need the bioreactor parts she'd been requesting from the trade network for the better part of a year.
+
+Fifty-eight degrees. Forty-five seconds.
+
+The clouds thickened. The needle dropped to 10.6. Maren watched it the way you watch a person on a ledge.
+
+It held. She exhaled.
+
+Seventy-two degrees. Sixty seconds.
+
+Twenty-eight cycles to go. She picked up the logbook — a composition notebook, the kind with the marbled black-and-white cover — and recorded the timestamp, the voltage range, the bath temperatures as measured by the three thermometers she trusted. Two mercury, one digital. She recorded everything because recording everything was the difference between science and guessing, even when she was guessing.
+
+The gel rig sat on the adjacent bench, ready for when the PCR was done. She'd poured the agarose that morning, using the last of a bottle she'd bartered for in the spring — two hundred milliliters of molecular biology grade agarose, traded for a detailed protocol on modifying canola to fix nitrogen, a trick she'd worked out over the winter and written in a hand so precise it could have been typeset. The rig itself was a plastic storage container with platinum wire electrodes she'd scavenged from a catalytic converter. It worked. Everything in the lab worked, in the way that a dislocated shoulder works after you pop it back in: functional, painful, and never quite the same.
+
+She moved the rack. The timer counted down. The clouds shifted.
+
+This was the job.
+
+---
+
+By cycle eighteen the voltage had stabilized, the clouds burning off into a thin haze that gave the light through the classroom windows a surgical quality. Maren left the rack in the extension bath and stretched, vertebrae cracking in sequence like a zipper. She walked to the storage room, counted her steps out of habit — fourteen — and opened the mini-fridge to retrieve a tube of buffer.
+
+She caught her reflection in the fridge's chrome handle and paused.
+
+The fingernails on her left hand had grown again. Three millimeters since she'd cut them yesterday morning. She held the hand up and studied it under the fluorescent work light she kept in the storage room for exactly this kind of inventory. The nails were dense, slightly ridged, with a sheen that wasn't quite right — more like horn than keratin, though of course it was keratin, just keratin organized by a genome she'd been editing for two years.
+
+She took the clippers from the shelf — they lived next to the ethanol and the tube racks, which told you everything about the boundaries between her body and her work — and trimmed each nail down. The clippings went into a small labeled bag. She'd analyze them eventually, or she wouldn't. The data was accumulating faster than the time to process it.
+
+The tremor came next, as if summoned by the acknowledgment. Left hand, ring and pinky finger. A fine vibration, fast enough to blur the fingertip. It lasted four seconds. She timed it the way she timed everything: automatically, on the phone with the broken screen. Four seconds was within normal range. Her normal range. Six seconds meant she'd need to sit down. Ten seconds had happened once, in March, and she'd dropped a tube of irreplaceable restriction enzyme and watched it sink into a floor crack and disappear like a coin into a wishing well, and she'd knelt there on the linoleum and pressed her trembling hand flat against the ground and breathed until the shaking stopped and then she'd noted the duration and the probable trigger — fatigue, dehydration, the cytokine cascade from the IL-6 modification she'd made to her own immune cells in January — and moved on.
+
+The modification had been an attempt to reduce inflammation after she'd developed a chronic cough from the mold in the walls. It had worked. The cough was gone. The tremor was the surcharge.
+
+But there was the other thing too, the thing she hadn't designed, hadn't anticipated, had noticed only by accident one night in February when the power died entirely and she'd walked to the fridge in perfect darkness, reaching for things she could see. Not well. Not like daylight. But the scotopic range of her vision had shifted — expanded — in a way her original genetic modification couldn't account for. She'd been targeting inflammatory cytokines, not rhodopsin expression. The best she could figure, the edit had downstream effects on retinal gene regulation, a cascade she hadn't modeled because who would model that? The corporations would have called it an off-target effect and buried it in a regulatory filing. Maren called it walking to the bathroom at night without a candle.
+
+She flexed her left hand. The tremor was done. Her nails were trimmed. She could see in the dark, and her wounds closed in half the normal time — another off-target gift, something to do with platelet-derived growth factor that she'd mapped on a whiteboard in notation so dense it looked like avant-garde music. Her body was a draft, a rough sequence she was editing in real time with insufficient data and no peer review. She was the experiment and the principal investigator and the institutional review board, and all three of them had agreed, unanimously, that the risk was acceptable because the alternative was not having a body that worked well enough to do the work that kept other people's bodies working.
+
+She took the buffer back to the bench. Fourteen steps. The timer said twelve seconds left on the extension phase.
+
+She moved the rack.
+
+---
+
+The knock came at cycle twenty-six.
+
+It was the specific knock — two, pause, three — that meant the visitor was someone from the trade network rather than someone from the settlement with a rash or a question about their water filter. Maren set the timer, moved the rack to the denature bath, confirmed the voltage at 11.9, and went to the door.
+
+Arlo stood in the hallway with a messenger bag that had once been a laptop case and now served as the briefcase of the end of the world. He was lean, weathered, somewhere between forty and sixty in the way that everyone was now, age having become an impressionistic quality. He wore clean clothes — remarkable — and boots that actually matched. He'd shaved. This meant he wanted something significant.
+
+"PCR's running," Maren said by way of greeting.
+
+"I'll be quick."
+
+He wouldn't be. She let him in.
+
+Arlo moved through the lab with the practiced deference of someone who understood he was surrounded by fragile things he could not replace. He pulled a stool to the far end of the bench, away from the water baths, and opened his bag. For a full thirty seconds he arranged things: a folder — an actual manila folder, tabbed — a sealed plastic bag containing what looked like a cryo-tube, and a single sheet of paper that he placed face-down with a deliberation that made it the most important object in the room.
+
+"Brody Lake wheat?" he asked, nodding toward her setup.
+
+"What's left of it."
+
+"How's it looking?"
+
+"Ask me in four cycles."
+
+He nodded, as though she'd given a satisfying answer, and folded his hands on the bench. Arlo had been a pharmaceutical sales representative before. The mannerisms clung to him like a cologne he couldn't wash off.
+
+"I've got a job," he said. "Specification work. Private buyer, settlement up past Ridgeline."
+
+"I'm backed up through next month."
+
+"They know. They're willing to wait. Within reason." He pushed the plastic bag toward her. Inside, the cryo-tube was labeled in a hand she didn't recognize, small and cramped, the kind of writing produced by someone conserving ink. "Source material. Bovine embryonic cells. They want a splice."
+
+Maren looked at the tube but didn't touch it. "What kind of splice?"
+
+"Growth hormone pathway. They've got cattle but the yields are impossible — the animals mature to about sixty percent of viable weight and stall. Corporate termination architecture in the growth regulatory genes. Same playbook as the grain, different kingdom." He said this with the flatness of a man reading an invoice.
+
+"So they want me to find the termination cassette and cut it out."
+
+"And rebuild the pathway. They need animals that grow to full weight and — this is the part they stressed — breed true. They're thinking generationally. They want a line, not a fix."
+
+Maren's timer went off. She crossed to the bench, moved the rack, came back. Twenty-five cycles. She could have this conversation and run the PCR simultaneously; she'd held negotiations during gel electrophoresis, argued with settlement councils while monitoring culture growth curves. Multitasking was not a skill here but a survival requirement.
+
+"Bovine germ-line editing," she said. "That's not a Tuesday afternoon."
+
+"No."
+
+"Source material quality?"
+
+"Variable. They've been storing it as best they can but their cold chain is—" He made a gesture that encompassed the entirety of post-collapse refrigeration.
+
+"So degraded."
+
+"Probably."
+
+"What am I working with for guides? Do they have any sequence data on the breed, or am I mapping from scratch?"
+
+Arlo reached into the folder and produced three pages of printed data — actual printed data, the paper yellowed, the ink fading, headers from a company called Genovine Livestock Solutions that had been a subsidiary of a subsidiary of a conglomerate that had, in its final quarterly report, described its termination-gene livestock platform as "a sustainable recurring revenue model for protein markets." Maren had seen the phrase before. It appeared in a lot of final quarterly reports.
+
+She scanned the pages. Partial sequence data. Incomplete annotation. References to proprietary cassettes identified only by alphanumeric codes. It was like being given a map with half the landmarks replaced by corporate trade names — here be dragons, but the dragons are patent-protected.
+
+"This is maybe thirty percent of what I'd need."
+
+"I know."
+
+"I'd have to sequence the rest from the source material, assuming it's intact enough to sequence, and this polymerase"—she gestured at the water baths—"is running on reagents I can't restock. Every cycle I use on their cattle is a cycle I'm not using on food crops for six settlements."
+
+"I know," Arlo said again, with the patience of a man who had delivered this kind of arithmetic before and knew the answer was always the same. He turned over the sheet of paper.
+
+It was a list. Written in three different hands — the cramped ink-saver, a rounder script, a blocky print — a compilation of what the Ridgeline settlement was offering in payment. Maren read it and her face did not change, because she had taught her face not to change during negotiations, but her hands went still.
+
+Forty units of dNTP mix, pharmaceutical grade, sealed.
+Six hundred microliters of T4 DNA ligase.
+One functioning electroporation cuvette with adapter.
+Two hundred grams of agarose, molecular biology grade.
+Viable seed stock: three varieties, pre-collapse lineage, termination architecture confirmed removed. Open-pollinated. Breed-true verified over four generations.
+
+And at the bottom, in the blocky print:
+
+One 200-watt solar panel, new manufacture, with charge controller.
+
+Maren read the list twice. The dNTPs alone would extend her operational capacity by six months. The seed stock — *pre-collapse, verified breed-true* — was the kind of thing people told stories about and half the time they were lying. The solar panel would mean she could run the thermal cycler and the fridge simultaneously without watching the voltage needle like a cardiac monitor.
+
+"Where did they get pre-collapse seed stock with confirmed breed-true?" she asked, because the question mattered and because asking it was easier than saying *yes* immediately, which was what every material calculation in her life was telling her to do.
+
+"They've got a woman. Was with the USDA seed bank in Fort Collins before. Took what she could when it fell apart. She's been running her own grow-outs, confirming the lines."
+
+"And the dNTPs?"
+
+"Raided a university stockroom up north. Verified by their own lab tech, such as he is."
+
+Maren looked at the cryo-tube. The handwriting on the label was careful, almost frightened in its precision, the way people wrote when they knew the thing they were labeling might be the last of its kind.
+
+"The timeline," she said.
+
+Arlo reached into the folder and produced a single page. A schedule. Milestones, deliverables, projected dates — formatted with headers and bullet points, as if generated by project management software, though she knew he'd written it by hand and then traced it to look clean, because Arlo understood that the aesthetics of professionalism were a form of persuasion.
+
+She read it.
+
+"This assumes I have intact source DNA after thaw. If the cells are degraded past a certain point I'll need to do fragment assembly, which triples the time minimum."
+
+"They understand there are variables."
+
+"And it assumes I can identify the termination cassette from partial annotation and sequence data that's three corporate mergers removed from anything resembling transparent documentation."
+
+"Yes."
+
+"And you're asking me to rebuild a growth hormone regulatory pathway from scratch in a bovine germ line with hand-cycled PCR, improvised electrophoresis, and a gene gun I built out of

@@ -1,0 +1,127 @@
+**Item #:** SCP-7███  
+**Object Class:** Keter  
+**Special Containment Procedures:** All confirmed instances of SCP-7███-A (see Description) are to be secured within Foundation-controlled exclusion zones or fronted as condemned sites under cooperating municipal authorities. Entry points are to be monitored by motion-triggered cameras and staffed by no fewer than two armed agents at all times. No personnel are permitted to engage SCP-7███-A without written authorization from at least two (2) Site Directors and one (1) O5 liaison.
+
+All documents removed from SCP-7███-B are to be quarantined in an archival containment vault rated for memetic and infohazard screening. Any references to pre-Foundation global governance, prior “containment failures,” or personnel identity parallels are to be forwarded to RAISA and Overwatch Command immediately.
+
+Following Incident 7███-Θ (see Addendum 7███.4), internal security has instituted continuous audit of O5 access logs, on-site teleportation signatures, and off-the-books travel requisitions to any SCP-7███-A location. The Ethics Committee has been granted standing authority to investigate anomalous visits regardless of clearance level.
+
+---
+
+## Description
+SCP-7███ is a phenomenon involving the appearance of unmarked doors (designated SCP-7███-A) in abandoned or condemned structures worldwide. Doors manifest flush with existing interior walls, frequently in corridors or rooms with no architectural justification for a doorway. SCP-7███-A are visually identical: plain industrial wood, no signage, no peephole, no manufacturer marks, and no hardware variations beyond localized wear.
+
+All SCP-7███-A exhibit **identical concentric scratch patterns** around the doorknob area, as if repeatedly abraded by the same tool at the same angle. Microscopic analysis indicates the scratches contain trace amounts of ferritic steel and silica consistent across all instances, regardless of door material and country of origin.
+
+Opening SCP-7███-A leads to an extradimensional space designated SCP-7███-B: an archive of vast scale exhibiting architecturally impossible geometry. Interior features include: corridors that loop without turning, staircases terminating at doors that open into their own underside, and shelving systems that remain parallel despite visible curvature in hallways. Long-range laser measurements fail beyond ~70 m due to recurring line-of-sight discontinuities; mapping attempts produce contradictory results.
+
+SCP-7███-B contains extensive documentation in multiple languages, including extinct scripts and unclassified modern dialects. A recurring set of materials—binders, microfiche drawers, film canisters, and “index slates” of an unknown composite—reference a **prior global civilization** that maintained containment-like practices before suffering an unspecified “containment failure” resulting in civilization collapse. Numerous documents reference an organization functionally equivalent to the Foundation under the name **“The Custodial Continuance”** (translated from multiple languages with consistent semantic meaning: *to keep; to continue; to hold closed*).
+
+Of note, personnel files recovered from SCP-7███-B include biographical data matching current Foundation staff, including photographs and biometric measurements, bearing issue dates **centuries prior** to SCP-7███’s discovery. RAISA has verified that several recovered photographs predate the invention of the camera techniques required to produce them.
+
+---
+
+## Addendum 7███.1: Recovered Document Excerpts (RAISA-Translated)
+
+**Excerpt 7███-B/Index Slate, Section Header:**  
+> **ARCHIVE: POST-FAILURE TRIAGE / CHRONOLOGY STABILIZATION**  
+> Do not attempt to preserve *names.* Preserve functions. Preserve chains. Preserve doors.  
+> The failure was not a breach. It was *a method that worked once* and then learned to work again.
+
+**Excerpt 7███-B/Operational Memo, stamped “CUSTODIAL CONTINUANCE”**  
+> …when the ninth seal was authorized, consensus was recorded as unanimous despite lack of quorum.  
+> The Council will deny entry; the Archive will remember it.  
+> If you are reading this in a later cycle, verify whether your Council also “does not visit.”
+
+**Excerpt 7███-B/Personnel File Fragment:**  
+> **SUBJECT:** [REDACTED] (matches Foundation staff: Dr. ███████ █████)  
+> **ROLE:** Cognitive Hazards Division / Field Support  
+> **DATE OF INDUCTION:** 14th year of the Ash Calendar  
+> **NOTES:** Subject exhibits recurring dream-contact with “door rooms.” Do not advise.  
+> **RETENTION INSTRUCTION:** If subject claims prior employment, document the claim. Do not refute.  
+> **CROSS-REFERENCE:** Continuance Directory, Cycle 3 / Cycle 7
+
+**Excerpt 7███-B/Incident Summary, partially burned:**  
+> …global civilization was not ended by war, famine, or plague. Those were symptoms.  
+> The cause was *Containment Failure: Unspecified.*  
+> The Archive was built after, to keep the concept of “before” from disappearing.
+
+---
+
+## Addendum 7███.2: Exploration Log 7███-BE-03 (Third-Person Narrative)
+**Team:** Mobile Task Force Iota-17 (“Bookbinders”)  
+**Entry Point:** SCP-7███-A instance in condemned hotel, ███████, Argentina  
+**Objective:** Survey, retrieve index samples, locate origin references to “Custodial Continuance.”
+
+Team members crossed the threshold at 09:12 local time. From the doorway, the archive presented as a narrow aisle between shelves, lit by indirect luminance with no visible fixtures. Dust was absent. Ambient sound resembled distant paper being handled, though no movement was initially observed.
+
+At 09:18, the team reached an intersection where the corridor appeared to branch into three identical aisles. Compass bearings disagreed between members by up to 90 degrees. The point man marked the floor with paint; on return glance, the mark was visible on the ceiling.
+
+The team proceeded into the leftmost aisle. Shelving contained gray boxes labeled in a consistent code, interspersed with drawers of microfiche. A binder labeled **“COUNCIL MINUTES—CYCLE 5”** was recovered, its pages thin as onion-skin but resistant to tearing.
+
+At 09:31, a low-frequency vibration began, felt through boots rather than heard. Loose paper in open boxes fluttered toward the aisle’s end, as if drawn by airflow. The team advanced and observed a broad service corridor opening into a bay filled with wheeled carts.
+
+At 09:34, the first entities were observed: four humanoid figures in pale, featureless hazmat-like suits with dark visors, moving in coordinated silence. They did not acknowledge the team, but their pace increased when the team’s lights fell on them. Each carried crates marked with a simple symbol resembling a bracketed door: **[ | ]**.
+
+One figure pushed a cart loaded with sealed boxes. Another held a hand tool shaped like a rotary rasp. The tool’s head matched, in rough profile, the concentric scratch pattern seen on SCP-7███-A doorknobs.
+
+When Agent Hsu called out, the figures froze. All visors oriented toward the team simultaneously. No facial features were visible, but the synchronized movement was interpreted as attention.
+
+At 09:35, the figures fled deeper into the bay, turning between shelves with efficiency suggesting familiarity. Iota-17 pursued for 40 m before the corridor “folded” visually: the team observed the fleeing figures enter a doorway-sized gap between shelves that, upon approach, narrowed into a seam.
+
+The team returned to the carts. Boxes on one cart had torn labels. One exposed file sleeve contained a photograph of a Foundation ID badge with the name **“O5-3”** printed in an older typeface, beneath the header **CUSTODIAL CONTINUANCE / OVERSIGHT NODE.** The photograph’s issue date read: **Cycle 6, Year 201** (local calendar unknown).
+
+At 09:47, the team withdrew. The original threshold was located without difficulty, contradicting earlier spatial inconsistencies. On exit, the paint mark from 09:18 was found on the floor again, but smeared in a circular pattern consistent with the doorknob scratches.
+
+---
+
+## Addendum 7███.3: Exploration Log 7███-BE-07 (Recovered Audio Transcript)
+**Team:** MTF Iota-17  
+**Entry Point:** SCP-7███-A instance in derelict library, ███████, Japan  
+**Objective:** Locate “post-failure triage” wing referenced in recovered slate.
+
+The team entered at 22:06. The interior opened into a vaulted hall whose ceiling could not be seen. Shelves formed terraces like stadium seating, each level stacked with cabinets. The air smelled faintly of ozone and old adhesive.
+
+At 22:19, the team encountered a signboard reading **“REMOVAL IN PROGRESS—DO NOT CATALOG”** in multiple languages, including modern English. Underneath, a smaller line read: **“If you are Foundation, you are late.”**
+
+At 22:23, two hazmat-suited entities were observed loading cabinets into a rectangular aperture of darkness standing upright like a doorway without a frame. The aperture made no sound. Cabinet edges distorted slightly as they passed through, as if submerged.
+
+Agent Varga raised a camera. Both entities turned; one produced a small device emitting a clicking tone. Camera feeds suffered frame loss for 11 seconds. When video resumed, the entities were gone, but the aperture remained, now reduced to a hairline slit. The slit closed from top to bottom like an eyelid.
+
+At 22:31, the team located an open file drawer labeled **“VISITORS—UNAUTHORIZED”**. Inside were thin sheets, each bearing a single line and a stamp.
+
+Recovered sheet #4 read:  
+> **VISITOR:** Oversight Council (3 members)  
+> **CLEARANCE:** Not filed / Not requested  
+> **ESCORT:** None  
+> **NOTES:** They know where the door is. They always have.
+
+Recovered sheet #9 read:  
+> **VISITOR:** “O5-█” (one individual)  
+> **NOTES:** Asked for *the old roster.* Left with it.
+
+At 22:40, the team heard footsteps ahead—unarmored, human cadence. Rounding a shelf, they found an empty reading desk with three chairs still warm to the touch (thermal camera measured 33–35°C). On the desk lay a Foundation-style authorization form, older paper stock, unsigned. The header read: **“CONTINUANCE INTERNAL TRANSIT REQUEST.”** The destination field contained only: **ARCHIVE / COUNCIL SHELF.**
+
+The team withdrew at 22:55 without further contact.
+
+---
+
+## Addendum 7███.4: Incident 7███-Θ (Internal Security Memorandum)
+On ██/██/20██, motion cameras at SCP-7███-A-19 (secured site in rural France) recorded the door opening at 03:14 with no personnel present. A figure in a dark suit entered without visible hesitation. Facial recognition was blocked by sensor noise localized to the subject’s head and shoulders. However, gait analysis and body metrics matched **O5-2** with 87% confidence.
+
+At 03:21, the same figure exited carrying a flat case. The door closed. The subject departed the exclusion zone on foot; thermal imaging lost the subject at the treeline, consistent with teleportation or anomalous extraction.
+
+Subsequent inspection of SCP-7███-B via authorized entry found a section previously mapped as “Council Minutes—Cycle 5” missing entirely. Shelving remained, but all binders, labels, and dust impressions were absent as if they had never existed. Around the doorknob area of SCP-7███-A-19, fresh scratches were present—identical pattern, deeper cut.
+
+**Note:** Oversight Command has denied unauthorized visitation. SCP-7███-B documentation indicates such denials are expected.
+
+---
+
+## Closing Note (RAISA Summary)
+SCP-7███-B appears to be both record and mechanism: an archive that documents the aftermath of a “containment failure” while actively preventing certain records from persisting. The removal teams are not confirmed hostile, but their actions correlate with loss of information critical to understanding SCP-7███ and the named predecessor organization.
+
+The recurrence of identical scratches suggests a standardized method applied across all doors, possibly by the same group conducting removals. The presence of “unauthorized visitor” logs naming the Council, alongside contemporary security footage consistent with O5 activity, indicates internal compromise or foreknowledge.
+
+Further exploration is suspended pending resolution of the question repeatedly appearing in recovered materials, stamped in the same ink across centuries:
+
+> **“IN WHICH CYCLE DID YOU BEGIN CALLING IT THE FOUNDATION?”**

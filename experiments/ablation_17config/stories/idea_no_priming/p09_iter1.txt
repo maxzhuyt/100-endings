@@ -1,0 +1,112 @@
+# VERIDICAL INTERFACE
+
+## A Compiled Evidentiary and Personal Record
+
+### Assembled by Dara Okonkwo, Graduate Research Assistant, Department of Biomedical Engineering and Cognitive Science, Johns Hopkins University
+
+---
+
+## COMPILER'S NOTE
+
+**File Reference:** VI-COMP-001
+**Date of Assembly Completion:** March 14, 2026
+**Classification Status:** Partially declassified per Order of the U.S. District Court for the District of Maryland, Case No. 1:25-cv-04178. Portions remain sealed. Portions were never sealed because no one thought to ask for them.
+
+---
+
+What follows is a compiled record of events surrounding the Veridical Interface research program, its Phase II clinical trials, and their aftermath. The record draws from the following source categories:
+
+1. **Laboratory session footage** (Biosignal Processing Lab, Clark Hall, Johns Hopkins University), captured by ceiling-mounted institutional cameras, September 2024–June 2025. Resolution: 1080p. Audio captured via overhead omnidirectional microphones. No footage has been altered. Select footage has been trimmed for relevance; original files with full timecodes are preserved in the supplementary archive.
+
+2. **Personal video diaries of Dr. Asha Ramachandran** (Principal Investigator, Veridical Interface Project). Sixty-three entries recorded between August 2024 and November 2025, stored on a password-protected external drive recovered from Dr. Ramachandran's office during the Johns Hopkins Office of Research Integrity review. Drive encryption was AES-256. The password was *Priya's birthday backwards followed by their childhood dog's name*. I include this detail not for its security relevance but because Asha mentioned in her forty-first diary entry that she chose it "so Priya could always get in, if she needed to." Priya told me she never tried.
+
+3. **Personal video diaries of Dr. Priya Ramachandran** (Co-Investigator, Veridical Interface Project). Forty-nine entries recorded between August 2024 and February 2026. Nineteen of these were subpoenaed by the Senate Subcommittee on Technology and the Law. The remaining thirty were provided to me voluntarily by Priya during a series of conversations in January 2026 that I initially intended as oral history interviews and that became something else. I have not included the interviews themselves. This is, I acknowledge, a curatorial decision. I stand by it, though I am not certain I can defend it.
+
+4. **Institutional Ethics Board (IRB) depositions and filings**, Johns Hopkins University, October 2024–August 2025.
+
+5. **Congressional hearing footage** (Senate Subcommittee on Technology and the Law), C-SPAN archive, broadcast September 18, 2025.
+
+6. **News segments, press statements, and selected public commentary**, various outlets, July–December 2025.
+
+7. **My own recorded annotations**, made during the assembly process, which I have included where they serve a clarifying function and, in a few cases, where excluding them would misrepresent through omission what I understood at the time of assembly.
+
+A note on organization. The materials are arranged in what I have determined to be broadly chronological order. In two instances, I have placed documents slightly out of sequence. The first is a re-ordering of Asha's diary entries 22 and 23, which were recorded on the same date but which I present in reverse order because the second was recorded *earlier* in the day, despite being saved second — her camera's clock was wrong, a fact I confirmed through cross-referencing the sunlight angles in her office window. The second instance involves the placement of two of Priya's diary entries relative to the S-09 session footage, and I want to be transparent that their order here may reflect my own uncertainty more than chronology. The entries are undated. Priya was not always careful about dates. She was careful about other things.
+
+A note on excerpting. Where I have selected portions of longer recordings, I have indicated cuts with standard editorial notation. One exception: Priya's diary entry 31, which I initially transcribed in full, then cut to four minutes, then restored to full, then cut again. The entry is — it is difficult to excerpt without editorializing. I have settled on a version that preserves what I believe to be its essential content while omitting repetitions that may read as redundancy to a viewer who did not know her but that were not, I think, redundant. I may be wrong.
+
+I want to state plainly what this document is and what it is not. It is a compiled record assembled by a human being who was present for some of the events described, professionally involved in the research program under review, and personally acquainted with both principal subjects. It is not a neutral document, because there is no such thing, and claiming otherwise would be the least neutral act I could perform. What I have tried to do is select and arrange these materials so that a viewer encounters the evidence in an order that permits understanding. I am aware that *selection is interpretation*, that *arrangement is argument*, and that by the time you have finished reading this note you have already received a frame through which every subsequent document will be viewed. I have tried to minimize my influence on your conclusions. I will not pretend I have eliminated it.
+
+Please understand that this is the best I could do.
+
+— Dara Okonkwo
+March 14, 2026
+Baltimore, Maryland
+
+---
+
+## I. THE INTERFACE IN PRACTICE
+
+### Early-Stage Trial Sessions (S-01 through S-07) and Related Personal Diary Entries
+
+---
+
+**[SOURCE: Lab Session Footage — Clark Hall Biosignal Processing Lab]**
+**[Date: October 3, 2024 | Session ID: VI-PT-S03 | Subject: S-03 (F, 34, civilian volunteer)]**
+**[Camera: Ceiling Mount B, Northeast Corner]**
+
+The room is institutional in the way that all rooms designed for the meeting of human bodies and sensitive equipment are institutional: drop ceiling, fluorescent panels, a laminate floor with a drain grate that no one has ever explained the purpose of. Two workstations face a padded reclining chair that looks like it was borrowed from a dental office, which it was — Asha requisitioned it after the first three volunteers complained about the medical-grade examination table. A curtain partition, nominally for privacy, is pulled aside. No one has ever pulled it shut.
+
+S-03 is seated in the reclining chair. She is a kindergarten teacher from Towson who answered a recruitment flyer in a campus coffee shop. Her informed consent is on file. She is smiling nervously. She has been smiling nervously for eleven minutes.
+
+Priya stands at the primary workstation, adjusting the neural-mesh calibration interface — the hardware component the twins always called "the loom," though that word never appeared in any grant application or formal document. The mesh itself is a lattice of graphene-oxide filaments arranged in a cap that fits closely over the scalp, threaded with 212 femtosecond-pulse optical sensors capable of resolving cortical activation patterns at what Asha's published papers describe as "sub-columnar spatial resolution and millisecond temporal resolution." It looks like a swimming cap made of spider silk. S-03 said it tingled. Most subjects said it tingled.
+
+Asha is at the secondary workstation, monitoring the spectral output — the processed signal that the twins' proprietary algorithm translates from raw neural data into the display format they spent four years developing. On her screen: a dark field, waiting.
+
+**PRIYA:** Okay. Same as the practice run. No task. Just — be. Think whatever you think.
+
+**S-03:** That's the hard part. You tell someone to think naturally and suddenly you're thinking about thinking.
+
+**PRIYA** *(smiling)*: That's fine. Think about thinking. We'll see that too.
+
+Priya activates the mesh. On Asha's monitor, the dark field blooms.
+
+What appears is difficult to describe in a document that is not itself a visual medium, and I want to be honest about that limitation. I have watched this footage perhaps forty times. What appears on the spectral output screen is — not language. Not images in any representative sense. It is closer to weather rendered at a scale and speed that makes weather look static. Color fields that are not exactly color — Asha's published descriptions use the term "spectral-affective mapping," meaning the display algorithm assigns visual properties to neural activation patterns based on a model the twins built by correlating thousands of hours of self-reported phenomenological data with concurrent neural recordings. The result is a display that is *not* a picture of thought but a *translation* of thought into a visual vocabulary — one that the twins designed and that carries their assumptions, their interpretive framework, embedded in every pixel.
+
+I flag this because it matters. The spectral output is not raw data. It is raw data processed through an algorithm built by two specific human minds. This is not a flaw. This is what the technology *is*. But it is often forgotten.
+
+On Asha's screen: a churning, layered cascade. Bright threads of what the twin's coding schema associates with verbal-linguistic pre-processing — S-03 is, presumably, still thinking about thinking, and the verbal circuits are active, producing what looks like a rapid braiding of gold-spectrum filaments. Beneath that, broader, slower movements in deep blue-green — spatial processing, body-awareness, the hum of a brain keeping track of where it sits in a room. And scattered through, like sparks off a grinding wheel, brief flares of high-intensity signal: micro-bursts of emotional activation, involuntary associations, sensory memory fragments.
+
+Asha leans forward. Priya is watching not the screen but S-03's face.
+
+For twelve minutes, the stream runs. S-03 talks intermittently — "I keep thinking about my grocery list," "Now I'm thinking about my mother, I don't know why" — and the spectral output shifts in ways that loosely but visibly correspond to her reports. When she mentions her mother, a dense cluster of warm-spectrum activity blooms in regions the twins' model associates with episodic memory and attachment circuitry. When she mentions groceries, a cooler, more structured pattern emerges — list-making, sequential planning.
+
+At minute eight, S-03 falls silent. She appears to relax. The stream continues.
+
+At minute nine, a flare. Brief — perhaps a second and a half of real time, which in the spectral output's compressed rendering looks like a single sharp pulse. The color schema codes it in reds and high-contrast blacks: the twins' model's mapping for what their published work calls "aversive ideational content."
+
+On the recording, Asha's eyes move to the timestamp. She notes it. Priya glances at the screen, then back at S-03, who appears undisturbed — still reclined, eyes half-closed.
+
+The session continues for three more minutes. The flare does not recur.
+
+**[END EXCERPT — Session continues for 7 additional minutes. Full recording available in supplementary archive, File VI-PT-S03-FULL.]**
+
+---
+
+**[SOURCE: Personal Video Diary of Dr. Asha Ramachandran]**
+**[Entry 09 | Date: October 3, 2024 | File: AR-DIARY-009.mp4]**
+
+Asha is in her office. The camera — her laptop's built-in webcam — frames her from the chest up against a backdrop of bookshelves and a whiteboard dense with equations in two colors of marker (her red, Priya's blue — a system they maintained without ever, as far as I know, explicitly agreeing to it). She has changed from the lab coat she wore in the session footage into a dark sweater. Her hair is down. She looks tired but animated — the specific quality of tiredness that comes not from depletion but from sustained concentration.
+
+**ASHA:** Session three. Subject S-03. Clean mesh contact, no signal dropout, full twelve-minute usable window. Spectral-affective output consistent with S-01 and S-02 baselines in overall architecture. Verbal-linguistic processing correlates tracked within expected range of self-report correspondence — she said she was thinking about her grocery list, and the dorsolateral prefrontal patterning concurred. Good.
+
+*(She pauses, consults a tablet offscreen.)*
+
+One notable event at the nine-minute mark. A transient burst of aversive-ideational-spectrum activation. Duration approximately one-point-three seconds. Structural profile consistent — and I want to be precise here — consistent with what the literature identifies as a *normal intrusive thought*. Rachman 1981. Clark and Rhyno 2005. The occurrence of ego-dystonic, often violent or sexually transgressive ideational content in non-clinical populations at a rate of approximately ninety-four percent. Almost everyone has these. The content, as rendered by our spectral model, appeared to involve a brief violent-motor scenario — the spatial-motor and aversive-affect channels activated simultaneously in a burst-pattern we've now seen in all three subjects at various points. S-01 had a similar transient in minute six. S-02 had two, both sub-second.
+
+I want to flag this for the record because it matters methodologically. The Veridical Interface does not — *cannot* — distinguish between an intrusive thought and a volitional one on the basis of content alone. The content may be identical. What differs is the *context*: the surrounding cognitive architecture, the presence or absence of emotional distress markers, the degree of integration with executive-planning circuits. Our current model captures some of these contextual markers, but not reliably, and not with a confidence interval I would defend in peer review. We are working on it. But as of today, the honest characterization is: **the technology renders cognitive content with unprecedented fidelity, but it cannot reliably determine the status of that content — whether a given thought is desired, feared, planned, or involuntary.**
+
+Non-predictive.
+
+That's the word I keep coming back to. The output is descriptive, not predictive. It tells you what a mind is doing. It does not tell you what a mind will do. And it does not — this is the part that I think even our IRB reviewers have not fully absorbed — it does not tell you what a mind *means*.
+
+*(She removes her glasses, rubs the bridge of her nose.

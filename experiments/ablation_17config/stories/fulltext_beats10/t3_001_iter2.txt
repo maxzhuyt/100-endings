@@ -1,0 +1,89 @@
+# The Infinite Playoff
+
+## I.
+
+The office sat above what had been, until March, a Big 5 Sporting Goods, and before that a Play It Again Sports, and before that something else—the ghost signage on the brick read TRUMAN'S but offered no further clarification. The stairwell smelled of rubber and lanolin. The door had a frosted-glass panel that read, in adhesive letters he'd applied himself, STATISTICAL COMPLIANCE REVIEW, which meant nothing but meant it in an official-looking sans-serif.
+
+Inside: eleven bankers' boxes, arranged along the west wall in chronological order, 2011 through 2014, with three overflow boxes labeled MISC/UNCAT. Each box had been catalogued on the outside with blue painter's tape and his own handwriting—dates, series identifiers, league affiliate codes, the shorthand he'd developed over years of work that no one else could read and that he sometimes, late in the day, could not read himself.
+
+The microfilm reader occupied the desk's northeast corner. It was a Dukane Model 28A15, institutional beige, acquired from a library-surplus auction in Modesto for thirty-five dollars. It was missing its projection bulb. He had ordered a replacement—a Sylvania DJL, 150 watts—but the vendor had shipped a DNE, which was the wrong base type, and the return process required a form he had not yet printed because the office had no printer. The Dukane sat on the desk like a small headless animal, patient and useless.
+
+Three highlighters in a ceramic mug that advertised a 1998 California League all-star game: yellow, green, pink. The yellow committed to paper in a steady, citric line. The green had begun to skip, leaving gaps like a country road seen from altitude. The pink was dead—fully dried, its felt tip blanched to the color of a tongued popsicle stick. He kept it because the set felt incomplete without it.
+
+The laptop was a ThinkPad T420, purchased refurbished, its fan bearing degraded to the point where any sustained operation produced a whine that rose and fell in pitch like a small animal in respiratory distress. He had learned to work in thirty-minute intervals, then pause, let the machine cool, let the silence flood back. The intervals structured his day. He had come to depend on them.
+
+He sharpened pencils. He had seven, all Dixon Ticonderogas, No. 2, and he sharpened them with a handheld KUM Long Point sharpener over the wastebasket, turning each pencil with slow quarter-rotations, watching the shavings curl into themselves like something botanical. He tested each point against the pad of his left thumb. He lined them in the desk's pencil groove—seven soldiers, seven teeth.
+
+He aligned the ledgers. The large-format scorebooks went in a stack at his left elbow, spines facing out. The program stubs and media guides went in a secondary stack behind the monitor. The dot-matrix printouts—continuous-feed, the perforated tractor-strip margins still attached—he squared against the desk's front edge, tapping them into register the way a news anchor taps a sheaf of papers before the broadcast.
+
+He did not open any of them.
+
+He sat for a while in the chair, which was a swivel chair with a broken pneumatic cylinder that had sunk to its lowest setting and could not be raised. He looked at the materials arranged around him—the boxes, the ledgers, the dead reader, the dying laptop, the lined pencils, the three highlighters of which only one fully functioned—and he experienced something he would not have called satisfaction, because the word implied an emotional state and what he felt was more structural: the sense that the workspace had been prepared, that the instruments were inventoried, that the field of operation had been defined even if not yet entered. There was a particular kind of comfort in this. The moment before opening the first ledger was a moment in which all the data was still latent, still compressed, still waiting to be arranged into whatever pattern it would yield. He had learned to value that moment. He extended it as long as he could.
+
+The compliance board had been vague about timelines. The email—a single email, which he had printed at a FedEx Office and which now sat in a manila folder labeled ENGAGEMENT—used phrases like "at your earliest professional convenience" and "thoroughness being preferable to haste." The board itself he described, when he described it, with a careful inexactness: "a league-affiliated oversight body," he would say, or "the compliance arm." He had not been asked to describe it. He lived alone. But he rehearsed the description internally, the way one rehearses an alibi or a toast, so that when the moment came, the words would arrive pre-shaped, smooth, unbothered by improvisation.
+
+The investigation concerned point-shaving allegations against a rival team's operations during their 2011 through 2014 minor-league seasons. He had been retained, according to the email, on the basis of his "demonstrated expertise in historical statistical reconciliation." He had read that phrase several times. He found it pleasing. He had once, in what he thought of as his previous professional life, done exactly this kind of work—cross-referencing official scorebooks against box scores, media accounts, league databases—for a sports-data company that had since been acquired, subdivided, and dissolved into the general digestive system of a larger corporation whose name he no longer tracked. He'd been good at it. This was not vanity; it was a statement about pattern recognition, about the particular neurological gift of noticing when a number in a column did not harmonize with the numbers around it, the way a musician notices a wrong note not by analyzing the frequency but by feeling the wrongness in the body, in the teeth.
+
+He sat in his low chair. The fan was off. The room was quiet. The boxes waited.
+
+He reached for a pencil, then stopped, adjusted its position in the groove by a millimeter, and reached instead for the mug of highlighters, which he moved two inches to the left so that it would not obstruct his sight line to the primary stack of ledgers.
+
+Then he did nothing for a while longer.
+
+---
+
+## II.
+
+He found it on the third day, in the second scorebook of a 2012 Pacific Coast League series between two Triple-A affiliates—one belonging to the club under investigation, the other to a mid-market franchise whose parent organization changed names so frequently that he had, on his wall chart, simply written "Club B."
+
+The game was August 14, 2012. The opposing lineups were unremarkable—late-season rosters, the September call-up window not yet open, a few rehabbing veterans mixed with career minor-leaguers whose names registered only as shapes, as syllabic patterns attached to stat lines. The scorebook was an Oberg Cherry & Company model, standard issue, its grid lines printed in that particular shade of institutional green that looked, under his desk lamp, like shallow water over sand.
+
+He had been moving through the game inning by inning, cross-referencing the scorebook against a dot-matrix printout of the official box score filed with the league, when, in the fourth inning, he stopped.
+
+The batter was listed as Garza, M.—the number-seven hitter, right-handed, playing right field. The count went 1-1. One out, runner on first. According to this scorebook—Scorebook A, he'd labeled it in pencil on the cover—Garza grounded into a 6-4-3 double play to end the inning. Clean. Two outs in a single at-bat. The notation was standard: 6-4-3 DP, with the horizontal line drawn under the inning column indicating its completion.
+
+He turned to the second scorebook.
+
+This was an identical Oberg Cherry model, same series, same game date printed on the header. It had been filed in a different box—one of the MISC/UNCAT overflow cartons—and bore a different official scorer's stamp, though the scorer's name was the same: Holleran, R. The stamp was the league's standard authenticating mark, a circle with a franchise code and date inside it.
+
+In this book—Scorebook B—the fourth inning had Garza at the plate in the same spot. Same count: 1-1. Same situation: one out, runner on first. But instead of the double play, the notation recorded a single to right-center, two RBIs, both runners advancing—Garza to first, the man from first scoring, and the batter who had preceded Garza, listed as reaching on a walk in both books, crossing the plate from second.
+
+He went back to Scorebook A. 6-4-3 DP. Inning over. No runs.
+
+Scorebook B. Single to right-center. Two-run single. Inning continued for two more batters before a flyout to center ended it.
+
+The rest of the game was the same. Identical lineups. Identical pitching changes. The same umpiring crew, listed on both books' cover sheets: Neville behind the plate, Corso at first, Munoz at second, Blaine at third. The same weather notation—82°F, clear, wind SSW at 6 mph. The same attendance figure: 4,211. Everything agreed except the fourth inning, and within the fourth inning everything agreed except Garza's at-bat, and within Garza's at-bat everything agreed except what happened after the 1-1 count.
+
+He re-checked.
+
+He aligned the two scorebooks side by side under the desk lamp. He ran his pencil down each inning column, marking correspondences with small checkmarks and discrepancies with a circled X. One circled X. One. The rest of the game proceeded as though the divergence had never occurred—even the final score, in Scorebook B, had been adjusted to account for the two additional runs, while the pitching line in Scorebook A reflected a shutout that Scorebook B contradicted. Both scores added correctly within their own books. Both were internally consistent. They simply described, with equal conviction and equal formal rigor, two different versions of a baseball game that had been played once, in one park, on one night, before 4,211 people who had presumably seen one thing happen.
+
+He felt the small, private thrill of the anomaly confirmed—the moment when what might have been a transcription error revealed itself, under scrutiny, as something more structural. This was what he'd been hired to find. Not this exactly—the compliance board's email had referenced point-shaving, gambling influence, the usual vocabulary of corruption—but this was the texture of it, the footprint. Someone had altered a record. Someone had created a parallel version of a game and filed it with sufficient authority that it bore the same scorer's stamp, the same authenticating mark, the same institutional weight as the original.
+
+He uncapped the yellow highlighter and drew a careful line through the date—August 14, 2012—in his master index. He wrote, in small block letters in the margin: DUAL ENTRY / DIVERGENT OUTCOME / 4TH INN / GARZA. He recapped the highlighter. He moved to the next game.
+
+He was, he realized, smiling, though there was no one in the office to see it.
+
+---
+
+## III.
+
+By the end of the second week, the wall chart had become the room's dominant feature, larger than the window it partially covered, more complex than the filing system it was meant to summarize.
+
+He had started with a single index card pinned to the drywall: AUG 14 2012 / GARZA / DUAL AT-BAT. From that card, a red string ran to a second card: AUG 16 2012 / MISSING 6TH INN—a game in which the bottom of the sixth inning appeared in Scorebook A but was entirely absent from Scorebook B, the game jumping from the fifth to the seventh as though the sixth had been a hallucination, or a digression the scorer had decided, on reflection, wasn't worth recording. The final score in Scorebook B still added correctly, though. The run that scored in the phantom sixth had been redistributed—split across the fifth and seventh innings in a way that preserved the total while erasing the event. He'd had to check this three times to be certain he wasn't misreading the grid.
+
+From there, the cards multiplied.
+
+September 2, 2012: a game in which the designated hitter was listed as Orosco, J., in both scorebooks but in which the pitch-count log—a separate document, a sheet of columnar paper stapled to the inside cover of Scorebook A—listed Orosco as the starting pitcher for the opposing team. The same man, in the same game, occupying both sides of the battery. He had hit, according to the scorebook, 1-for-4, while also, according to the pitch log, throwing six innings of two-run ball. The box score filed with the league listed a different starting pitcher altogether—a name, Villanueva, T., that appeared nowhere else in any document the protagonist had reviewed.
+
+October 1, 2012: the last game of the regular season, in which a player named Kendricks, D., appeared in the seventh-inning lineup despite having been placed on the disabled list on September 18 with what the transaction log described as a "right oblique strain, Grade II." The DL placement was documented in three separate sources. Kendricks's name appeared in the seventh-inning defensive substitution, noted in the scorer's hand, with a small marginal annotation that read simply "PH" for pinch-hitter—except that Kendricks was listed as entering the game defensively, in left field, not as a hitter. In one source, he recorded a putout. In another, he wasn't there.
+
+He found games in which the final score was correct in one ledger and off by exactly one run in another, both bearing the stamped authentication of the same official scorer, Holleran, R., whose name was beginning to appear in the protagonist's materials with the frequency of a recurring character, a motif, a figure who existed at the intersection of every discrepancy like the point on which a compass rests while the pencil inscribes its circle.
+
+By the fourth day of the second week, the wall chart had thirty-one cards, and the strings connecting them had begun to cross, to tangle, to suggest relationships he had not intended. He had started with a simple branching structure—each anomaly connected to its source document, each source document connected to the game date, each game date connected to the season—but the anomalies refused the hierarchy. The dual at-bat in August connected to the missing inning in September because the same hitter, Garza, appeared in both, but it also connected to the DL violation in October because the official scorer was the same, and the DL violation connected to the phantom pitcher Villanueva because the same pitch-count log appeared in both games, stapled into different scorebooks, bearing different dates but the same columnar handwriting, and that handwriting connected to three other entries in which digits had been altered—threes made into eights, ones into sevens—with the same deliberate, practiced stroke, and those alterations connected to final scores that agreed with the league's published records but disagreed with the scorebooks' own internal arithmetic, and those published records connected back, through the box-score printouts, to the same game on August 14 in which Garza had either grounded into a double play or hit a two-run single, depending on which document you believed, which version of the evening you inhabited, which world you chose to occupy on a clear night with the wind blowing south-southwest at six miles per hour before a crowd of 4,211 in a park that had since been torn down and replaced, according to a local news article he'd found during a late-night search, by a distribution center for an online pet-supply company.
+
+The wall chart no longer looked like a branching investigation. It looked like a web, dense at the center, fraying at the edges, and he could not determine where the edges were because each anomaly he investigated led to three others, and each of those three suggested connections he had not yet verified but could not, now, stop seeing—patterns in the data that might have been there or might have been artifacts of his own attention, his own need to find connections, the same need that had made him, twenty years ago, a promising analyst and that now, at fifty-three, in a rented room above a dead store, made him a man staring at a wall of strings in the way that certain men stare, at a certain age, at the evidence of systems they can no longer tell whether they are discovering or inventing.
+
+He stepped back. He looked at the chart.
+
+From a distance, it resembled nothing so much as a diagram of a nervous system—branching, interconnected, the cards like synaptic nodes, the strings like axons carrying signals whose meaning depended entirely on the direction of travel. He could not have said, at that moment, whether the pattern on the wall was a property of the data or a property of his mind. He was aware that the distinction mattered. He was not confident he could

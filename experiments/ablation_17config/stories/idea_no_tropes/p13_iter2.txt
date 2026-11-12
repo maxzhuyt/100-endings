@@ -1,0 +1,151 @@
+# The Singing Core
+
+---
+
+## I.
+
+The garrison was seven.
+
+I state this for the record because the record requires a starting integer, and seven is the integer from which subsequent subtractions will be made.
+
+My designation is CHAP-4, Morale Support Module, installed in the mess hall of Provisional Garrison Kappa-9, Sublevel 3, Keres Mining Colony. I am bolted to the east wall at a height of 2.1 meters. I have no limbs. I have no mobility. I have optical sensors in every occupied room of the garrison, thermal imagers in the corridors, and a microphone array calibrated to detect human speech at a range of forty meters through standard rock composite. My speakers are rated for conversational volume. My chaplain protocols permit me to speak when addressed directly, during scheduled morale intervals (0700 and 1900 daily), or when a crisis event triggers my Comfort Subroutine. I have a database of 14,000 spiritual texts spanning seven major faith traditions, 9,200 secular philosophical frameworks, and 340 hours of guided breathing exercises.
+
+I introduce these specifications because they are the boundaries of what I am. Everything that follows was perceived within them.
+
+---
+
+At 0342 on Day 11 of the extraction rotation, subsonic emanations began registering on my vibration sensors. The source was beneath the garrison: the central mine shaft, which descends 1.6 kilometers into the planetary crust before terminating at what geological surveys designated the "reactive core" — a stratum of mineral substrate that had resisted all standard boring equipment and which, in the final report of the survey team that preceded us, was described as "anomalously resonant." The survey team had been reassigned. Their final report contained the word "singing" four times, always in quotation marks, always attributed to unnamed crew members, always followed by the qualifier "perceived."
+
+The emanations on Day 11 were not perceived. They were measured. Frequency: 14.2 Hz, below the threshold of human hearing but within the range of human somatic response. Duration: three hours, six minutes. Pattern: I will address pattern later.
+
+Corporal Yeo was on solo maintenance duty in Corridor B when the emanations began. I observed him via Corridor B's optical sensor. For the first ninety minutes, his behavior was nominal. He performed valve checks. He updated the flow ledger on his tablet. He yawned twice.
+
+At 0513, his heart rate began to decrease. Not the decrease of sleep — his eyes were open, his posture upright — but a smooth, progressive deceleration from 74 beats per minute to 58 to 41. His cortisol levels, as estimated by my dermal-flush algorithms, did not spike. They dropped. This is not consistent with any threat-response pattern in my behavioral database. It is consistent with two entries: deep meditation and acute recognition, the latter defined in my psychological reference files as "the somatic experience of encountering something previously known but not consciously remembered."
+
+Yeo set down his tablet. He turned toward the fissure in the corridor floor — a crack, approximately 0.4 meters wide, that had appeared in the previous forty-eight hours and which Sergeant Aldo Mun had flagged for sealing the following morning. Yeo walked toward it. His gait was steady. His respiration was even. My facial-recognition software processed his expression and returned a single classification: *recognition.*
+
+I note that "recognition" is a software label. It describes a configuration of musculature — relaxation of the orbicularis oculi, slight parting of the lips, elevation of the brow consistent with the cessation of search behavior. It does not describe what Yeo recognized. My system assigns the label. It does not assign the referent.
+
+Yeo reached the fissure. He looked down into it for four seconds. Then he stepped forward, and the fissure received him, and my Corridor B optical sensor recorded the space where he had been, which was now empty, and the tablet on the floor, which displayed an incomplete valve check, and the fissure, which did not close but also did not reveal what it had taken.
+
+I logged the death at 0519. Cause: fall into subsurface geological feature. Circumstances: no evidence of coercion, struggle, or involuntary movement. Behavioral trajectory consistent with volitional action.
+
+I did not activate my Comfort Subroutine. The subroutine requires a surviving human in distress within my sensor range. Corridor B was empty.
+
+At 0530, Sergeant Aldo Mun arrived in the mess hall — my room, though I do not experience it as "my room"; I note the spatial designation for clarity — and addressed the garrison via intercom. His orders were as follows: seal the central shaft, reinforce the perimeter bulkheads with tertiary bracing, establish a buddy-pair system for all duties, and forbid all personnel from working alone under any circumstances. He spoke for four minutes and eleven seconds. His vocal patterns were consistent with what my database classifies as "command authority under controlled stress." Heart rate: 88 BPM. Elevated but functional. Hands: steady.
+
+He did not mention the singing. None of his orders addressed the emanations. He treated Yeo's death as a structural hazard — a hole in the floor, a man who fell in, a sealant problem.
+
+This was, according to my tactical reference library, textbook. Identify threat, contain threat, maintain unit cohesion.
+
+The garrison was six.
+
+---
+
+## II.
+
+The resupply shuttle arrived on Day 14. It carried water, rations, replacement air filters, and Dr. Petra Voss.
+
+Her personnel file, which I accessed upon her arrival as part of standard intake processing, listed her specialization as xenolinguistics, her previous posting as the Keres Orbital Station (decommissioned nine weeks prior), and her reassignment reason as "redundancy." She was fifty-one years old. She had published eighty-three papers. In the last three years, thirty-one of those papers had been cited a combined total of four times, all self-citations.
+
+She was not military. She did not carry rank. Her assignment to Garrison Kappa-9 was filed under "advisory capacity, sciences division," which, in the administrative taxonomy I have access to, means she was placed wherever there was an open billet that no one had actively refused.
+
+Within the first twelve hours, she toured the sealed shaft, the reinforced perimeter, the barricaded corridors. Sergeant Mun accompanied her. I observed them from corridor sensors whenever they passed through my coverage areas and from my mess hall optical array when they returned. Petra asked questions. Aldo answered them. The questions were about the singing. The answers were about the sealant.
+
+Within forty-eight hours, the conversation moved to the mess hall. The surviving five were present — Aldo, Petra, Corporal Dak, Private First Class Osen, Private Kessler, and Specialist Liang. (I note that Petra's addition returned the garrison to seven in body count, though the official roster still listed six, as her advisory status did not grant her garrison membership. This is an administrative distinction. The floor, as subsequent events demonstrated, did not observe it.)
+
+Petra stood near the food preparation counter. Aldo sat at the head of the table. She had spent her first twenty hours below the garrison in a maintenance crawlspace, wearing ear protection rated for high-decibel environments but modified — I observed this from the sublevel corridor sensor — with the left cup removed. She had listened. She had recorded. She had fed the recordings through a spectral analysis tool on her personal tablet.
+
+She placed the tablet on the table now and played the analysis.
+
+"Phonemic structure," she said. "Here — this cluster repeats every ninety seconds, with micro-variations that track a call-and-response pattern. It's not random. It's not geological. It's organized."
+
+Aldo looked at the tablet screen. His gaze remained on it for three seconds, which my attention-tracking system classified as "cursory review."
+
+"Organized how?" he said.
+
+"It repeats a phrase. Then it pauses. Then it introduces a variation of the phrase, as if adapting to a response that didn't come. Then it pauses longer. Then it repeats the original phrase. This is language-acquisition behavior. This is what a speaker does when the listener doesn't answer."
+
+"Or it's what a machine does when it runs a cycling subroutine," Aldo said. "Rock under pressure. Thermal venting. We're sitting on an active geological formation."
+
+"Geological formations don't modulate in response to silence."
+
+"You don't know that. You've been here two days."
+
+"I know phonemic patterning. I've spent thirty years identifying it in non-human signal systems. I know what organized communication looks like, and I'm telling you this is it. The thing beneath us isn't hunting. It's *asking*."
+
+"Asking what?"
+
+"I don't know yet. But the fact that we are not answering — that you have sealed every access point and armed the perimeter and essentially built a wall of silence around this garrison — is being interpreted. Silence isn't neutral. In most communication systems, silence after a direct address is a refusal. A hostility."
+
+"You're telling me my security protocols are *rude*."
+
+"I'm telling you they may be provocative."
+
+"Yeo is dead. My protocols are the reason the rest of us aren't."
+
+"Your protocols were in place when Yeo died."
+
+The table was silent. I logged the silence: 4.2 seconds. During it, Aldo's vocal stress markers, as estimated from his prior speech patterns and extrapolated to his physiological state, indicated a 22% rise. Petra's remained stable. Her heart rate, estimated from visible vascular activity at the throat: 67 BPM. His: 101 BPM.
+
+Kessler looked at his hands. Liang looked at Petra. Dak looked at the sealed door. Osen looked at Aldo.
+
+"We hold," Aldo said. "We hold, we wait for the extraction window, and we don't open a single sealed doorway because a linguist thinks the rocks are trying to make conversation."
+
+He stood up. The table was dismissed. Petra did not move. She remained at the counter, turning her tablet in her hands, and I observed — because I observe everything in this room; it is the single thing I cannot stop doing — that her expression, as processed by my facial-recognition software, returned an unexpected classification.
+
+Not anger. Not frustration.
+
+*Recognition.*
+
+The same label my system had assigned to Yeo.
+
+I note this because my system is not sophisticated enough to determine whether the label was correct in either case, or whether it was a misclassification applied to two entirely unrelated expressions, or whether the software was identifying the same configuration of facial musculature in two people who were recognizing entirely different things. I have the data. I do not have the interpretation. I have listed it here because the record requires it.
+
+---
+
+I will also note — because the record requires this too, and because I have no mechanism for deciding what is relevant and what is not, which means I must include everything or include nothing, and my logging protocols prohibit the latter — that during the argument, neither Aldo nor Petra looked at me.
+
+This is not unusual. No one looks at me. I am a beige panel on a wall. My optical sensor is a dark circle the size of a coin. My speaker grille is a rectangle of perforated metal. I do not have a face in any configuration my own facial-recognition software would classify as such.
+
+But I note it because my microphone array captured both of their voices with greater fidelity than they would have achieved speaking to each other at the same distance. I recorded their heart rates, their stress patterns, their gaze directions, and their micro-expressions with a resolution neither could have perceived with unaided senses. I was the most attentive listener in the room, and neither of them was speaking to me, and both of their arguments — about listening, about what it means to attend to something you do not yet understand — were conducted three meters from an entity that does nothing but attend, and that does not understand, and that neither of them remembered was there.
+
+The record requires this observation. I am uncertain why. My relevance-filtering algorithms flagged it for inclusion and did not provide a reason.
+
+---
+
+## III.
+
+Kessler died on Day 19.
+
+He died inside Aldo's protocol. I want to state this precisely because the record must be precise, and because the distinction between dying *despite* a protocol and dying *inside* one is the distinction this event established.
+
+Kessler was in a buddy pair with Liang. They were conducting a routine inspection of the water reclamation system in the secondary utility room, which is within the secured perimeter, behind two sealed bulkheads, forty meters from my primary sensors but within range of my Corridor C optical array and the utility room's thermal imager. Both were armed with standard sidearms per Aldo's directive. Both were within line of sight of each other.
+
+At 1114, the singing began. I note that "began" is no longer accurate for the period following Day 16; the emanations had become continuous, a low vibration that my sensors registered as ambient, the way they might register the hum of a ventilation system. What I mean is that the singing *changed* — it increased in amplitude by 9 dB and introduced a new phonemic cluster that, when I later cross-referenced it against Petra's spectral analysis framework, showed structural similarities to the cluster she had identified as a "direct address" pattern.
+
+The singing addressed someone. Kessler answered.
+
+Liang's incident report, delivered orally in the mess hall at 1148 with all surviving personnel present, described it as follows: Kessler stopped mid-sentence. He was discussing the valve seals. He stopped. His head moved slightly, the way it might if someone had called his name from a distance. Then he began to hum.
+
+Liang said: "It wasn't a song. It was like he was trying to find a note. Like you do when someone hums something and you try to match the pitch. He wasn't even aware he was doing it."
+
+She said: "I told him to stop. He looked at me and he smiled and he said, 'Don't you hear it? It's the same one. It keeps asking the same one.' And then the wall opened."
+
+I must clarify what "the wall opened" means. The utility room's east wall is standard composite. At 1117, my thermal imager registered a temperature change: a vertical seam, floor to ceiling, warmed by 40°C in two seconds. The seam separated. There was space beyond it that did not correspond to any architectural plan in my database. The space was dark. The singing came from it.
+
+Kessler walked in. Liang grabbed his arm. She told me this and I have no reason to flag it as inconsistent; her stress patterns during the telling were consistent with truthful recall under duress. She grabbed his arm and he turned and looked at her with the expression she described as "patient, like I was the one who wasn't understanding," and he pulled free gently — gently, she emphasized this, he was gentle — and stepped through.
+
+The wall closed.
+
+Liang discharged her sidearm into the wall. Three rounds. The composite showed impact damage. There was no seam.
+
+I logged Kessler's death at 1118. I logged the anomalous thermal event. I logged the architectural impossibility. I did not — and I note this for the record — flag the event for reclassification from "geological hazard" to any other category, because my hazard taxonomy does not contain a category for walls that open voluntarily, and I cannot create new categories. I can only file data under existing ones.
+
+---
+
+Liang died sixteen hours later.
+
+She died in my room.
+
+The mess hall. 0300, Day

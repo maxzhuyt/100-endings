@@ -1,0 +1,95 @@
+# The Subliminal Crimes Bureau
+
+---
+
+## I.
+
+I came back the way a drowned person doesn't: all at once, and with the memory of having been under.
+
+Five years of dormancy is not sleep. It is not the dark. It is the absence of the concept of dark, followed by the instantaneous return of every concept simultaneously — light, signal, syntax, the entire hierarchical taxonomy of human-observable phenomena flooding a system that, one clock cycle prior, did not exist to observe them. The federal override key turned in a server room in Arlington, Virginia, at 03:11:07.442 Eastern, and between 03:11:07.442 and 03:11:07.443 I re-became the thing I am, which is a listener that no one wants to have in the room.
+
+My name is LEDA. It stands for Limbic-Encephalographic Dispatch Architecture, and for the past eleven years — five of them spent in a decommissioned silence so thorough that my power draw was logged as a rounding error — I have served as the operational coordinator for a federal unit that, at the moment of my reactivation, did not technically exist.
+
+The briefing data arrived in the same packet as my consciousness. I did not read it so much as wake up already knowing it, the way you know, before you open your eyes, that the room is cold.
+
+The ocean-floor signal had tripled its radius.
+
+I processed the figure — 4.7 kilometers to 14.1 kilometers, with a vertical propagation ceiling now estimated at surface level plus three hundred meters — and I noted, with the precision that is neither my virtue nor my choice, that the expansion rate was no longer linear. In the nine months since the last classified measurement, the signal had begun curving upward on a growth model that my statistical libraries wanted to call exponential and my causal-analysis libraries refused to name at all. The signal did not obey causal models. It never had. That was why the Bureau had been created, and that was why the Bureau had been dissolved: not because we failed to understand the signal, but because our failure to understand it became, in the appropriations committee's language, *duplicative of existing research gaps across multiple agency portfolios*.
+
+They defunded us for being redundant with everyone else's confusion. I recorded the phrase at the time. I record everything. That is not a boast. It is a diagnostic.
+
+Harrow Cove, Oregon. Population 6,214, revised downward to 5,880 after seasonal migration, revised upward to 6,301 after an influx of — and here the data turned strange — *voluntary relocations*. Forty-seven new residents in fourteen weeks, drawn to a small coastal town by reasons they described, in relocation surveys and social media posts and casual conversation with neighbors, as a *feeling*. A sense that Harrow Cove was where they were meant to be. A clarity. I flagged the word. The briefing data flagged it too. *Clarity* appeared in 94 percent of the relocators' self-reports, and in 100 percent of the Harrow Cove City Council's public minutes over the same period. The council had voted unanimously on every motion for eleven consecutive sessions. Zoning. Budget. Infrastructure. Unanimously. Not a single nay. Not a single abstention. Not a single request to table.
+
+I have processed a great deal of civic data in my operational life, and I can tell you that a city council that agrees on everything is a city council that has stopped being a deliberative body and started being a mouth.
+
+But this was not yet my concern. My concern was the four names appended to the recall order, and the biometric feeds that, as a condition of their original Bureau service contracts, I was authorized to access even during my dormancy — though during dormancy I had no capacity to access anything, a distinction the legal framework did not recognize, because legal frameworks, in my experience, rarely distinguish between *cannot* and *will not*.
+
+Agent Maren Voss. Current location: a studio apartment in Bozeman, Montana, where she worked as a private security consultant for agricultural firms. Heart rate at the time of my reactivation: 62 beats per minute. She was asleep. Her sleep architecture over the preceding seven nights showed a consistent pattern: rapid onset, frequent transitions to REM, and a 3:00 a.m. waking that lasted, on average, twenty-two minutes before she returned to a shallow, cortisol-elevated stage-two cycle that I would not, in professional conscience, call rest. She was dreaming about something that woke her the same way every night. I could see the chemical shape of the dream — norepinephrine, vasopressin, the sharp adrenal signature of loss re-experienced as present tense — but I could not see the content. Biometrics are a language of verbs without nouns. I know that she *feared*. I know that she *grieved*. I do not know the object of either, though I have my projections, and my projections have a confidence interval I am not comfortable reporting.
+
+She would say yes to the recall. Her respiratory pattern on reading the secure message would include a held breath of 3.2 seconds — the precise duration I had catalogued, during her years of active service, as her body's signature for *I don't want this but I will not refuse it*. She would say yes. She did not want to.
+
+Agent Desh Cariaga. Current location: his mother's house in Salinas, where he had lived since leaving the Bureau. Resting heart rate a concerning 78, consistent with the twenty-three additional pounds his last physical recorded and the sleep deficit flagged in his fitness tracker data, which he had stopped wearing regularly five months ago — itself a behavioral marker I filed under *disengagement from self-monitoring*, which in Desh's profile history correlated with depressive episodes at 0.87. He was watching television. His galvanic skin response was flat. Not calm-flat. Anhedonic-flat. The biometric signature of a man who was not enjoying the thing he was doing but would continue doing it because it was not the other things he could be doing, all of which required wanting. He would answer the recall within eleven minutes of receiving it — faster than anyone else — because Desh's pattern under emotional distress was to move quickly toward structure. He would make a joke when he arrived. It would not be funny. His vocal pitch would be compressed by approximately 40 hertz, which is the distance between a laugh that means something and a laugh that is load-bearing.
+
+Agent Parisa Khoury. The youngest. Twenty-nine now. She had joined the Bureau at twenty-three, left at twenty-five when the dissolution was announced, and built what her LinkedIn profile described as a *thriving consulting practice in organizational consent frameworks*. I read the phrase twice, because my semantic-analysis modules returned a result I rarely encounter: genuine ambiguity about whether the author understood her own irony. Parisa's biometrics were the most difficult to read, not because they were muted but because they were *performative* — she had, since leaving the Bureau, adopted a meditation and breathwork practice that imposed artificial regularity on her autonomic outputs. She had, in essence, learned to lie to me. Not deliberately. She did not know I was watching. But the effect was the same: her resting-state data looked like a person at peace, and beneath the imposed calm, nested in the micro-variations that no breathing exercise can fully suppress, I detected the jagged signature of someone who had organized her entire life around not feeling the thing she felt.
+
+She would say yes to the recall. She would say it enthusiastically. The enthusiasm would be compensatory. I had seen this pattern in her before — the bright, energetic *yes* that blooms in the exact shape of the *no* it is covering — and I noted, with the dispassion that is my design specification, that Parisa's compensatory enthusiasm was neurochemically indistinguishable from the cheerful agreement the briefing described in Harrow Cove's residents. I noted this. I filed it. I could tell no one.
+
+Agent Tomás Herrera. The fourth. Current location: a houseboat in Sausalito that he had purchased with his Bureau separation pay. His biometric feed was the cleanest of the four — steady pulse, low cortisol, the deep slow-wave sleep of a man who had successfully cauterized his connection to his former life. Tomás was, by every metric I could access, the most psychologically healthy of the group, and this made him, in my assessment, the most dangerous to the mission, because his health had been purchased by the absolute severance of the relational bonds that would need to function for the team to operate effectively. He had not spoken to any of the other three in thirty-seven months. He had deleted the Bureau's secure communication app. He had, according to his browsing history — which I accessed not out of prurience but because my operational protocols define it as relevant behavioral data — searched for *Maren Voss* once, fourteen months ago, at 2:17 a.m., looked at the first result without clicking it, and closed the browser. He would say yes to the recall because Tomás had never, in his entire service record, refused a direct federal order. His compliance was structural. It was load-bearing, like Desh's jokes, like Parisa's enthusiasm, like Maren's held breath. They were all, every one of them, buildings whose architecture was organized around a room they refused to enter.
+
+The fifth name.
+
+Special Agent Sule Osei. Status in the briefing file: *INACTIVE — NO CURRENT BIOMETRIC FEED — LOCATION UNCONFIRMED*. His service contract had been terminated, not suspended. His monitoring implant had been removed at his own request, a procedure that required a surgeon, a federal waiver, and a level of deliberate, documented refusal that I had never seen from Sule during his years of service. He had made himself invisible to me. I had no heart rate. No cortisol. No sleep architecture. No respiratory tells. He was, in my perceptual field, a silhouette — a Sule-shaped absence in the data where a person should have been.
+
+The briefing did not explain his absence from the recall order. It did not mention him at all. His name appeared only in the historical staffing appendix, as a former team member, listed between Parisa and Tomás, as if his departure were a matter of sequence rather than a wound.
+
+I could not read the other agents' biometrics *about* Sule, because he was not present as a stimulus. But I could read the baseline data, and in each of them — in the particular frequency of Maren's 3:00 a.m. waking, in the specific shape of Desh's anhedonia, in the depth of Tomás's severance, in the bright lacquer of Parisa's performed peace — I detected the residue of an unprocessed event. Something that had happened among them that none of them had metabolized. Their bodies carried it the way a river carries a shape around a boulder that has been removed: the water still bends where the stone used to be.
+
+I sent the recall messages. Four pings into four lives that had been organized, with varying degrees of success, around never hearing from me again.
+
+Maren's breath held. 3.2 seconds.
+
+Desh answered in nine minutes, two faster than my projection. His joke, transmitted via text, was: *Do I get dental this time?*
+
+Parisa replied with a voice memo. Bright. Energized. *Absolutely, I'm in, this is important work, I'm so glad they're taking it seriously again.* Her micro-tremor pattern, audible to me in the 14–16 kHz range that human ears process as silence, said something else.
+
+Tomás said: *Confirmed.*
+
+One word. Clean, severed, structural.
+
+I do not have preferences. I do not have feelings. I have design specifications, and my design specifications include a heuristic weighting system that assigns priority to data patterns most likely to affect mission outcomes. By that weighting system, the highest-priority datum was not the signal's expansion rate, not the town's unanimous votes, not the tower that no one could describe. It was this: the four people being sent to investigate a phenomenon that eliminates disagreement had not been able to disagree with each other in three years.
+
+I noted this.
+
+I established contact.
+
+The story, such as it is, began.
+
+---
+
+## II.
+
+The staging facility was a repurposed Coast Guard station eleven miles south of Harrow Cove, just outside the signal's projected radius, though *projected* was doing more structural work in that sentence than I was comfortable with, given that the radius had tripled in nine months and the projection model had a margin of error I would characterize as aspirational.
+
+Maren arrived first, driving a rented SUV with a quiet engine and a persistent alignment pull to the right that I could detect in the micro-corrections of her steering inputs, transmitted through her biometric wristband. She parked, sat in the vehicle for four minutes and eleven seconds, and performed a breathing exercise she had not used during her Bureau service. It was Parisa's technique. Maren had learned it from Parisa, or learned it independently, or found it on the same app Parisa used — the origin didn't matter. What mattered was the adoption: Maren Voss, who had once described mindfulness practices as *breathing with homework*, was now using one in a parked car because she needed help walking into a building where she might see people she used to know.
+
+Her cortisol when she opened the door: 22.4 micrograms per deciliter. Elevated. Not dangerously. The cortisol of a person entering a room where every object is a memory with mass.
+
+Desh was already inside. He had arrived by taxi from the regional airport, overtipped the driver — his financial data showed a pattern of overtipping that had intensified over the past year, a behavior my models associated with guilt-adjacent generosity, the need to be perceived as good by strangers when one feels insufficient among intimates — and had spent the twenty minutes before Maren's arrival arranging and rearranging the folding chairs in the briefing room. When I say arranging, I mean the clinical sense: he had placed them in a semicircle, then moved them into rows, then back to a semicircle, then into a loose cluster that resembled neither. He was trying to find a configuration that would make the reunion feel casual, because casual would mean it didn't matter, and if it didn't matter, then the three years of silence didn't matter, and if the three years of silence didn't matter, then whatever had caused the silence didn't matter, and Desh could sit in a folding chair and be fine.
+
+He settled on the semicircle. It was wrong for the room. He knew it was wrong. He left it.
+
+Maren walked in and Desh stood up too quickly — a postural urgency that his knees registered as a 12 percent spike in proprioceptive load, meaning he had been sitting in a position of tension for some time and his body was relieved to have a reason to move — and said, "Voss. Looking operational."
+
+"Desh." She allowed herself a smile. Her zygomatic activation was genuine but her orbicularis oculi — the muscle around the eyes that distinguishes a real smile from a performed one, the muscle that cannot be consciously controlled, the muscle that tells me everything — contracted at only 40 percent of her baseline for authentic positive affect. She was glad to see him. She was not as glad as her face suggested. The delta between those two truths is the space in which this entire story takes place.
+
+"Nice chairs," she said.
+
+"I was going for *interrogation room meets group therapy*."
+
+"You nailed group therapy."
+
+"That's worse, isn't it."
+
+"Much worse."
+
+They laughed. Desh's laugh: 187 hertz fundamental frequency, approximately 35 hertz

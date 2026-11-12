@@ -1,0 +1,91 @@
+# Die Hard at the World's Fair
+
+---
+
+## I.
+
+At 5:47 on the morning of June 25, 1876, the first person to enter the grounds of the Philadelphia Centennial Exposition was not a dignitary, an inventor, a journalist, or a paying guest. It was Herbert Calloway, sixty-one years old, night-shift supervisor of sanitation for Machinery Hall, who had technically never left.
+
+Calloway had been on the grounds since eleven o'clock the previous evening, overseeing the mopping of the twelve-hundred-foot nave, a task that required four men, nine mop-heads (the Exposition Commission authorized six, but Calloway supplemented from personal stock), and a precise choreography that moved east-to-west so that the final stretch of floor dried nearest the sunrise doors. It was, by Calloway's private estimation, the most complex janitorial operation on the continent. He had said this aloud, to no one in particular, on fourteen documented occasions.
+
+The problem — and there was always a problem, because the Centennial Exposition was not, as the newspapers insisted on calling it, a celebration of American ingenuity, but rather a two-hundred-and-thirty-six-acre jurisdictional dispute with bunting — the problem was the vestibule.
+
+The vestibule connecting Machinery Hall to the Main Exhibition Building belonged, depending on which memorandum you consulted, to either Calloway's domain or to the domain of one Franklin Pettit, day-shift supervisor of sanitation for the Main Building. The Exposition Commission's original floor plan placed the vestibule within Machinery Hall's footprint. A revised plan, issued three weeks before opening day, extended the Main Building's boundaries to include it. Neither plan had been formally rescinded. Both were, in the technical parlance of facilities management, "operative." The result was that the vestibule was either cleaned twice daily — Calloway's men at night, Pettit's men in the morning — or not at all, depending on whether the two supervisors were speaking to each other.
+
+They were not, at present, speaking to each other. They had not spoken since the Incident of June 11, when Pettit's assistant had moved Calloway's supply bucket six inches to the left, into what was arguably — *arguably* — Main Building territory, and Calloway had responded by filing a formal complaint with the Commission's Office of Grounds Maintenance, a body that met on alternate Tuesdays and had a backlog of grievances extending to September.
+
+The vestibule, consequently, had not been swept in two weeks. It was becoming an embarrassment. Foreign dignitaries walked through it. The Emperor of Brazil was scheduled to walk through it this very afternoon.
+
+Calloway did not care about the Emperor of Brazil. Calloway cared about the vestibule.
+
+This distinction — between the people who walked through the Centennial Exposition and the people who kept the Centennial Exposition walkable — was the fundamental organizing principle of the grounds, more rigid than any displayed taxonomy of minerals or manufactures. There were visitors and there were workers, and among the workers there was a hierarchy as intricate and fiercely defended as anything the Centennial's anthropological exhibits attributed to the Sandwich Islanders.
+
+At the top: the Corliss crew.
+
+The Corliss Double Walking-Beam Steam Engine stood at the center of Machinery Hall like a cast-iron cathedral. Seventy feet tall. Fourteen hundred horsepower. Two walking beams, each thirty-six feet long. A flywheel thirty feet in diameter and weighing fifty-six tons. It powered every operational machine in the hall — the looms, the lathes, the presses, the saws — through a system of underground shafts and belts that ran beneath the floor like a mechanical circulatory system. The engine required a crew of six: a chief engineer named Hoskins, two firemen, two oilers, and an assistant engineer who also served, in practice, as Hoskins's personal valet, fetching his coffee and buffing his shoes. The Corliss crew existed in a state of professional exaltation that the other workers found simultaneously admirable and intolerable. They wore matching overalls. They had a designated lunch area roped off with velvet cord that Hoskins had requisitioned from the fine-arts pavilion. When President Grant and Dom Pedro II had jointly started the engine on Opening Day — each man grasping one of the two operating levers — Hoskins had been photographed standing between them, and the photograph now hung, framed, above the engine's control platform.
+
+The Corliss crew did not sweep. The Corliss crew did not stock concession supplies or manage ticket queues or patrol for pickpockets. The Corliss crew maintained the heart, and the heart made everything else possible, and if you didn't understand that, then you didn't understand anything, and Hoskins would be happy to explain it to you at length, during working hours, while his assistant fetched another coffee.
+
+Below the Corliss crew, in rough descending order: the security guards (armed with billy clubs and an exaggerated sense of mandate), the telegraph operators (who controlled the grounds' internal communication network and behaved as though this made them spymasters), the exhibit technicians (who maintained the displays and harbored artistic pretensions), the food vendors (who had the only jobs that generated direct cash revenue and resented being near the bottom of the hierarchy despite this), and, finally, the exhibitors themselves — the inventors and manufacturers who had rented booth space to display their wares.
+
+Among the exhibitors, the hierarchy was determined by three factors: booth size, booth location, and foot traffic. A large booth near the Main Building's central transept with a constant crowd was aristocracy. A medium booth along the east nave with respectable traffic was gentry. A small booth in a back corner near the restrooms, with a hand-lettered sign reading "PROFESSOR A. G. BELL — TELEPHONIC DEVICE — ELECTRICAL TRANSMISSION OF VOCAL SOUNDS," and with foot traffic that could be accurately described as "the people who got lost trying to find the restrooms" — that was something below gentry. That was something the hierarchy didn't have a name for, because naming it would have required acknowledging it, and no one had found reason to do so.
+
+Alexander Graham Bell arrived at his booth at 8:15 that morning, which was fifteen minutes after the doors opened and forty-five minutes after the food vendors had begun selling, which meant that the line for Washington cream puffs at the American Bakery Company stand near the entrance was already eighteen people deep. Bell saw the line. Bell wanted a cream puff. Bell was a twenty-nine-year-old Scotsman with muttonchop whiskers that gave him a look of benign befuddlement, as though he had been interrupted mid-thought and never quite recovered, and he was constitutionally incapable of cutting in line. He had once waited forty minutes for a streetcar he could see was already full. He now stood at the back of the cream-puff line for six minutes, shifting his weight, consulting his pocket watch, and performing the internal calculation of a man who has somewhere important to be but who has been raised to believe that asserting this is a form of violence.
+
+He left the line without a cream puff. He would try again later. He told himself this without conviction.
+
+At his booth, the morning was already a small disaster. The exhibit card hanging from the railing — his sole piece of official signage — had curled in the humidity. The wire connecting his transmitter to the receiver, which he had carefully draped across the booth's partition, had been knocked to the floor overnight, probably by a janitor. This was in fact true: one of Calloway's night-shift men had snagged it with a mop handle at 2:30 a.m. and had made no effort to re-drape it, because the booth was in what the nightshift considered a dead zone, a stretch of floor that even the rats passed through without pausing.
+
+Bell picked up the wire. He re-draped it. He positioned the transmitter at the precise angle he had determined, through two weeks of experimentation, was most likely to catch the attention of a passerby — tilted eleven degrees forward, so that the brass cone of the mouthpiece seemed to be offering itself, conversationally, to anyone who glanced in its direction. He set the receiver on a small velvet pad. He placed, beside it, a handwritten card that read: "SPEAK INTO THE INSTRUMENT. YOUR VOICE WILL BE CARRIED BY ELECTRICAL CURRENT TO A RECEIVER AT THE OPPOSITE END OF THE WIRE. THE FUTURE OF HUMAN COMMUNICATION."
+
+The card had been there since opening day. It had a coffee ring on it.
+
+Bell straightened it. He waited.
+
+The morning crowds streamed past. They streamed, specifically, toward the east nave, where the main attractions clustered — the Remington typewriting machine, the Otis elevator, a wallpaper-printing press that could produce twelve colors simultaneously and which, for reasons Bell could not fathom, drew a larger crowd than any electrical exhibit on the grounds. In the opposite direction, past Bell's booth, past the restrooms, and around a corner that required an active navigational decision, the foot traffic thinned to a trickle. Bell's booth was less a destination than a cul-de-sac.
+
+By ten o'clock, three people had stopped. One was a child who wanted to know if the brass cone was a trumpet. One was a woman who had been looking for the restrooms and, upon being told they were "just past the partition, madam, to your left," had thanked Bell and left without glancing at the exhibit. The third was a man from the Centennial Guard — one of the security patrol — who stopped not out of curiosity about the telephone but because Bell's booth was adjacent to what the guard called his "eleven-o'clock post," a spot against the wall where, each day, he ate a hard-boiled egg and read the *Public Ledger* in peace.
+
+"Still here?" the guard said, peeling his egg.
+
+"Still here," said Bell.
+
+"Judges come through today, I heard."
+
+"This afternoon. Three o'clock."
+
+The guard nodded. He did not ask what the judges were judging. In six weeks of proximity, he had never asked Bell to explain the telephone, and Bell had never volunteered, because he had learned — slowly, painfully, through dozens of failed attempts to engage the fair's workers in conversation about electromagnetic acoustics — that the people who kept the Centennial running did not want to hear about the future of human communication. They wanted to hear about booth-rental invoicing, lavatory maintenance schedules, and whether the oyster stand's new location violated the vendor-spacing ordinance.
+
+"Oysters," the guard said, reading his paper.
+
+"I'm sorry?"
+
+"The oyster stand moved again. Did you see? They're practically in the entrance vestibule now. Pettit's going to lose his mind."
+
+Bell had not seen. Bell did not know who Pettit was. Bell said, "Ah," which was his all-purpose response to workplace intelligence he did not possess, and returned to his transmitter, adjusting its angle by a degree he would not be able to measure and which would make no difference.
+
+In the distance, at the center of Machinery Hall, the Corliss engine turned. Its walking beams rose and fell with the synchronized patience of a sleeping giant's breath. The belts turned. The shafts spun beneath the floor. The flywheel, fifty-six tons of cast iron rotating imperceptibly, held in its momentum enough energy to level the building, a fact that Hoskins, the chief engineer, liked to mention to visitors in the tone of a man discussing a large but well-trained dog.
+
+Elsewhere on the grounds, the morning proceeded according to the logic of its labor. In Agricultural Hall, a woman named Josephine Strand was setting up the day's butter-sculpture display — today's subject was a sleeping baby, rendered in seventeen pounds of premium creamery butter — and arguing with a colleague about refrigeration allocations. The pneumatic tube system that connected the major halls was experiencing its daily 9 a.m. blockage, cause unknown, which the tube operators blamed on Agricultural Hall's habit of sending oversized message canisters and which Agricultural Hall blamed on the tube operators' failure to maintain adequate pressure. Outside the Main Building, on the plaza, in a display area that was technically under the jurisdiction of no hall and therefore no janitorial crew — a bureaucratic no-man's-land that Calloway found both infuriating and metaphysically satisfying — stood the right arm and torch of a statue that had not yet been finished, much less named. It was the future *Liberty Enlightening the World*, and it stood thirty-nine feet tall, the copper torch accessible by an interior ladder, and visitors could, for fifty cents, climb up inside the arm and stand on the balcony ringing the torch's flame and see the whole of the fairground spread out before them like a model of a world that had figured out what it was for.
+
+The torch had its own crew: a ticket-taker, a guard who stood at the base, and a second guard who stood at the top to ensure no one leaned too far over the railing. The top guard was named Henshaw. Henshaw had the best view on the grounds and the worst knees, and he spent his shifts looking out across the Exposition and cataloging its problems with the comprehensive disapproval of a man who could see everything and fix nothing.
+
+From the torch, the fair lay like a diagram of its own pretensions: the Main Building, the largest enclosed structure in the world, 1,880 feet long, its glass-and-iron roof glittering in the June sun; Machinery Hall beside it, venting steam; Agricultural Hall and Horticultural Hall and Memorial Hall and the Women's Pavilion and the forty-odd smaller buildings and pavilions and beer gardens spreading outward like a city that had been wished into existence and would be wished away by November.
+
+Henshaw looked down. He could see the cream-puff line. He could see the oyster stand in its new, controversial location. He could see a young man with muttonchop whiskers standing alone at a booth near the back of the Main Building, adjusting something on a table, his posture suggesting he was waiting for someone who did not intend to come.
+
+Henshaw did not know the man's name. Henshaw did not know that by five o'clock that afternoon, the man would be responsible for saving the lives of approximately three hundred hostages, would have caused more structural damage to the Exposition than any single person before or since, and would be standing in the wreckage of the Main Building's west transept holding a length of copper wire in one hand and a speaking trumpet in the other, bleeding from a cut above his left eye and shouting something into the trumpet that no one would be able to hear because his voice would be gone.
+
+Henshaw saw none of this. He saw a man at a booth with no customers.
+
+"Poor bastard," he said, to no one, because no one was at the top, because it was early and the fifty-cent climbers hadn't started yet.
+
+Below, the fair hummed. The belts turned. The butter softened. The cream puffs sold. The vestibule remained unswept.
+
+---
+
+## II.
+
+For the purposes of understanding what happened next, it is necessary to understand the telegraph, and to understand the telegraph it is necessary to understand what it meant to build one.
+
+Not to invent one. Invention was a parlor trick — Samuel Morse in a room with wire and theory and the unearned confidence of a portrait painter who'd decided he was a scientist. Building a telegraph network was something else entirely. Building a telegraph network meant stringing copper wire from New York to San Francisco, which meant crossing the Allegheny Mountains, the Great Plains, the Rocky Mountains, the Sierra Nevada, and every river, gorge, box canyon, and ice storm in between. It meant cedar poles, fourteen thousand of them between Omaha and Sacramento alone, each one cut, stripped, hauled by mule team, planted in ground that was, depending on the season, frozen solid, flooded, or occupied by people who had reasonable objections to the project. It meant linemen — men who climbed poles in January with gutta-per

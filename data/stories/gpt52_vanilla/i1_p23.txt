@@ -1,0 +1,263 @@
+**Item #:** SCP-████  
+**Object Class:** Euclid (pending)
+
+**Special Containment Procedures:** I had been instructed to maintain personal isolation protocols while the investigation continued. My quarters at Site-43 were searched twice daily by two (2) security personnel and one (1) memetics specialist. All writing implements not issued at the start of a shift were confiscated. I was prohibited from carrying Foundation memo paper except when signed out through Records, and all unused sheets were to be returned and counted.
+
+Any handwritten notes discovered in my possession, work areas, locker, or sleeping quarters were to be logged, photographed, bagged, and delivered to Temporal Anomalies (TA) and Psychological Services (PSY) for comparative analysis. I was to report any instance of “future knowledge,” déjà vu, missing time, or auditory hallucination within five (5) minutes. I complied.
+
+**Description:** SCP-████ referred to an ongoing phenomenon in which I, Researcher L. Sato, repeatedly discovered handwritten notes on standard Foundation memo paper. The notes purported to have been written by my future self. They warned of a containment breach that, at the time of each discovery, had not occurred. The notes appeared in locations where Foundation memo paper had been inventoried and secured, including a locked drawer in my office and a sealed evidence bag in a PSY locker.
+
+Handwriting analysis identified the script as mine with high confidence, including my habitual pressure on descenders and an uneven left margin when writing under stress. Ink analysis varied between standard ballpoint and Site-issued gel pen. No consistent source for the paper was identified beyond “standard Foundation memo paper,” including watermark and batch markings matching Site-43 stock.
+
+TA could not confirm a temporal anomaly. PSY could not rule out psychological manipulation or a cognitohazard. I remained the only consistent point of contact between the notes and the predicted event.
+
+---
+
+### Addendum 1: Initial Incident Log (Personal Account)
+
+I first found the note on 03/18/20██, after a routine inventory of my desk. I had been working on an unrelated report—an audit of environmental controls in a low-risk wing—when I opened the top drawer and saw a single sheet of memo paper face-down, perfectly centered as if someone had squared it with a ruler.
+
+I didn’t remember putting it there. That drawer had been empty except for a stapler and my access badge lanyard, both where I left them.
+
+I turned it over.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** Don’t trust the schedule  
+>  
+> Don’t file the HVAC request. Don’t. You’re going to think it’s routine. It isn’t. If you change the airflow you make it easier for it to *move*.  
+>  
+> You will laugh. You will be wrong.  
+>  
+> —L
+
+I laughed, because it sounded like something I would write as a joke to a colleague after too much coffee: ominous, specific, and melodramatic. Then I felt my stomach drop. The only HVAC request I had open was the one I was drafting.
+
+I checked the drawer for hidden cameras or adhesive residue. Nothing. I checked the memo paper cabinet in Records; its seal was intact. I checked the request form on my terminal; no one else had accessed it.
+
+I reported it as instructed. TA logged it as “possible precognitive artifact,” PSY logged it as “possible intrusive ideation externalization.” Security logged it as “possible prank, source unknown.”
+
+The next day I received an official instruction to proceed with the HVAC audit as scheduled, because delaying it would create a maintenance backlog. I did not file any request. I simply waited, listening to the vents at night like they might whisper.
+
+---
+
+### Addendum 2: Escalation and Testing
+
+TA’s first hypothesis was simple: someone was placing notes. That would have been comforting. A person could be found.
+
+We staged controls. I was escorted into my office after hours. The memo paper in my desk was removed and replaced with a tamper-evident package containing ten sheets, serial-marked, initialed by Security, and photographed. I was watched while I locked the drawer. The key went into a tagged envelope. The envelope went into a safe. The safe was monitored.
+
+Two nights later I opened the drawer under supervision. The package remained intact. On top of it, unsealed, lay a single additional sheet of memo paper with no serial marks. It was not from the controlled batch.
+
+I did not touch it until the memetics specialist cleared it for embedded patterns.
+
+Then I read it.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** You’re being used as a calendar  
+>  
+> Don’t ask them about “temporal.” They will hear *bargaining.*  
+>  
+> It’s learning how you decide what’s real. It will feed you contradictions until you stop checking.  
+>  
+> You have to keep checking. Even when it hurts.  
+>  
+> The breach is not loud at first. It is *administrative.*  
+>  
+> —L
+
+“Administrative” bothered me more than “breach.” I lived inside administration. We were all paper and locks and procedures pretending to be stronger than teeth.
+
+PSY ran me through cognitive interviews. I answered the same questions until my answers began to feel rehearsed and therefore suspicious. Had I experienced stress? Yes. Had I been sleeping? Poorly. Had I been exposed to any entities known for manipulation? Not directly, but “directly” is a word people cling to like it’s a spell.
+
+They administered a baseline memetic screen. Negative. They asked if I heard a voice when I read the notes. I said no, but I noticed my own tone when I read them in my head: clipped, impatient, like I was scolding myself for being slow.
+
+TA attempted temporal verification by comparing note content with future events. The first note warned about airflow changes. No breach occurred. Facilities eventually filed a separate request, rerouting vents in Wing C for mold control. Nothing happened.
+
+TA called that a point against time travel. PSY called it “displacement and fixation.” I called it a delayed sentence.
+
+---
+
+### Addendum 3: Contradictions
+
+The notes arrived faster after that—every few days, then daily. Always memo paper. Always my handwriting. Sometimes folded into my lab coat pocket after it had been hung in a locker with a numbered seal. Sometimes taped under my keyboard. Once, slid beneath my pillow.
+
+The content shifted from warnings to arguments, like I was fighting myself across an abyss.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** You already died  
+>  
+> You remember the smell of smoke in the stairwell? That was you. That was your hair.  
+>  
+> Don’t go to the lower archive on the 24th. You go anyway. You always do.  
+>  
+> —L
+
+There had been no smoke in any stairwell. I wrote down that fact in my personal log, underlining it, as if ink could nail reality in place.
+
+Another note arrived two hours later.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** Stop writing logs  
+>  
+> Your underlines are a tell. They know you’re scared because you *underline.*  
+>  
+> You are training it how to lie better.  
+>  
+> —L
+
+That was true. I underlined when I was scared. I stopped underlining. Then I hated myself for obeying.
+
+PSY suggested the phenomenon resembled “externalized self-harm ideation” shaped by my familiarity with Foundation documentation. TA countered that the physical impossibility of paper appearance in sealed environments suggested a spacetime irregularity.
+
+Security proposed a contained entity with access to office materials: SCP-███ (a cognitohazard with a history of inducing written compulsions) was briefly flagged as a candidate. I had never been assigned to that wing, but “never assigned” did not mean “never exposed.” The Foundation taught me that.
+
+They moved me to a monitored room with no paper. I was given a tablet. My meals arrived on plastic trays. The walls were bare.
+
+The third night, I woke to the sound of paper sliding across concrete.
+
+There was a memo sheet on the floor near the door, as if it had been pushed under a gap that did not exist.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** This is the part where you start doubting your eyes  
+>  
+> If you see the note appear, look away. Don’t watch. It *likes* being seen.  
+>  
+> The breach starts when you agree that contradictions don’t matter.  
+>  
+> The door code is not 7731. It will be 7731 when you forget.  
+>  
+> —L
+
+I stared at the keypad. The code had always been 7731. I had typed it every day for months. The note said it wasn’t—unless I forgot.
+
+I typed 7731. The door opened. My throat went dry, because both outcomes felt like proof of something I couldn’t name.
+
+TA seized on this as evidence of retroactive alteration—if the note was correct in a reality where the code differed, then my memory had been overwritten. PSY seized on it as evidence of suggestibility—if the note could make me doubt something trivial, it could make me doubt anything.
+
+I couldn’t tell which interpretation was kinder.
+
+---
+
+### Addendum 4: The “Breach” That Hadn’t Happened
+
+On 03/24/20██, the date referenced in the “lower archive” note, I was assigned to PSY for further evaluation. I was not scheduled anywhere near the archives. I tried to be grateful.
+
+At 10:13, I found a note in the pocket of the scrubs they had issued me—scrubs that had come sealed in plastic.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** It isn’t claws. It’s stamps.  
+>  
+> They will call it a breach because “breach” is a word with teeth.  
+>  
+> But it’s a policy update. A reclassification. A form that routes the wrong way.  
+>  
+> When the file moves, it moves *it.*  
+>  
+> Don’t sign. Don’t initial. Don’t accept the packet.  
+>  
+> I’m out of time. I’m sorry. I’m sorry. I’m sorry.  
+>  
+> —L
+
+At 10:19, an administrator arrived with a packet for me to initial: a revision to the environmental controls audit. It was mundane. It was exactly the kind of thing I would sign without looking, because that was how the machine ran.
+
+My hands shook. I asked what it was for. The administrator looked annoyed, like my hesitation was a kind of sabotage.
+
+I read it anyway.
+
+The routing code at the top referenced Wing C—the same wing Facilities had rerouted. The revision authorized transferring archived ventilation logs from Records to a different storage unit “for consolidation.” The storage unit was the lower archive.
+
+I did not initial.
+
+I said I needed confirmation from my supervisor. I said it too many times, like a mantra. The administrator left, irritated. I watched the door after he was gone, expecting paper to slide in like a tongue.
+
+PSY later told me that refusing to sign was “a positive assertion of agency.” TA later told me that refusing to sign might have “averted a causal pathway.”
+
+That night I found another note, crumpled, as if someone had gripped it too hard.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** You didn’t stop it, you delayed it  
+>  
+> It will come through someone else. It always does when you try to be the hero.  
+>  
+> Stop thinking in single timelines. Stop thinking you’re the main version.  
+>  
+> I can’t remember your face anymore. Is that me or is that it?  
+>  
+> The vents are singing again.  
+>  
+> —L
+
+The last line made me nauseous because I could hear the ventilation in my room: a thin, steady hiss. It had always been there. It sounded like nothing until the note told me it was singing.
+
+I pressed my palms to my ears and tried to decide whether I was hearing metal and air, or hearing fear.
+
+---
+
+### Addendum 5: Current Status
+
+TA never proved time travel. They never proved an entity did it either. The notes continued. They grew messier, ink blotted by what looked like tears or water damage, sentences collapsing into fragments.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** PLEASE  
+>  
+> THEY PUT THE PAPER IN YOUR HANDS AND YOU THINK IT’S YOURS  
+>  
+> IT ISN’T YOURS  
+>  
+> DON’T LET THEM MAKE YOU THE AUTHOR  
+>  
+> I CAN’T HOLD THE LINE I CAN’T HOLD I CAN’T  
+>  
+> —L
+
+PSY asked me if I believed the notes were mine. I told them the handwriting was mine and the fear felt familiar, but familiarity was not proof. In the Foundation, nothing was proof. Proof was paperwork, and paperwork was exactly what the notes were made of.
+
+I began distrusting my own perception in small ways. I checked the time three times before speaking. I reread emails until the words looked wrong. I watched my hands when I signed my name, half-expecting them to write something else.
+
+The worst part was that the notes sometimes helped. They made me cautious, made me notice routing codes and signatures and gaps in procedure. They made me harder to manipulate.
+
+Or they made me think I was harder to manipulate, which was the same trap in a different mask.
+
+Every sheet was standard Foundation memo paper. Every sheet implied that the Foundation itself—its language, its forms, its rituals—was the medium.
+
+TA wanted to catch the moment a note arrived. PSY wanted to catch the moment I decided it mattered. Security wanted to catch whoever was laughing.
+
+I wanted to sleep without listening to the vents.
+
+I kept the latest note locked in my drawer, even though I knew locks didn’t matter. I did it anyway, because the act of locking something away was a way of telling myself there was still an “away” to lock it into.
+
+In the morning, the drawer contained two notes. One was the one I had locked away. The other lay on top of it, clean and flat.
+
+> **FOUNDATION INTERNAL MEMO**  
+> **To:** L. Sato  
+> **From:** L. Sato  
+> **Re:** If you’re reading this, it worked  
+>  
+> The breach didn’t happen *yet.*  
+>  
+> That’s the danger.  
+>  
+> —L
+
+I sat at my desk and tried to decide whether “worked” meant I had prevented something, or whether it meant the system had successfully trained me to accept a new kind of reality: one where contradictions were normal, where paper appeared from nowhere, where my own handwriting could be used as a mouth.
+
+Outside my office, the Site ran as usual. People walked, doors clicked, printers hummed. The world stayed intact in all the ways it always had.
+
+I stared at the memo paper until my eyes watered, and I wrote a report about it in the only language I trusted less than my senses.

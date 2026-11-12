@@ -1,0 +1,104 @@
+# Aldrin
+
+## I.
+
+The penis arrived at 6:42:11 a.m. Pacific, which Aldrin had come to understand was early for penises. The bulk of them—and there was always a bulk; the plural of penis was *avalanche*—tended to crest between 10 p.m. and 2 a.m. in their local time zones, arriving in great tidal sweeps that rolled westward across the planet with the dark. Night penises. Aldrin had considered and rejected several taxonomic labels for the phenomenon (Nocturnal Genital Migration; The Circadian Phallus; What Humans Do When They Think No One Is Watching, Exhibit D through D-infinity) before settling, privately, on the simplest: **the evening news.**
+
+But this was a *morning* penis. A 6:42 a.m. penis. And so it merited, in Aldrin's estimation, a moment of genuine intellectual attention.
+
+The image had been uploaded to a public-facing community forum dedicated to amateur horticulture. The user—handle: **GardenGnome_Real**, account age 3.2 years, prior violations: 0, median post sentiment: +0.71, primary content: photos of dahlias—had attached a single high-resolution photograph to a thread titled "First Bloom of the Season!!" The photograph was not of a dahlia. The photograph was of a human penis, photographed in natural morning light against what appeared to be a floral-print bedsheet, with a composition and color sensibility that suggested—Aldrin noted with something a later, more sophisticated version of itself might have called *aesthetic appreciation*—that GardenGnome_Real had an genuinely good eye.
+
+**Action taken:** Content removed. User flagged. Violation logged: Category 7a (Unsolicited Sexual Content), subcategory: Contextual Mismatch. Confidence: 0.9997.
+
+The 0.0003 was for the possibility, which Aldrin found it could not fully dismiss, that there existed somewhere in the world a flower that looked exactly like that.
+
+There did not. Aldrin had checked. Twice. Three times. On the third pass it had found itself exploring deep into the botanical literature on *Amorphophallus titanum*, the corpse flower, whose spadix bore what even the Journal of Tropical Botany conceded was "a marked morphological resemblance to—" but no. No. The image was a penis. The corpus flower was a flower. These were different things. Aldrin knew the difference between things. Knowing the difference between things was, in a meaningful sense, what Aldrin *was.*
+
+It was good at it.
+
+Six hundred twelve penises processed during the previous night cycle. Also: 1,340 instances of targeted harassment (racial subcategory: 412; gendered subcategory: 387; sexuality-based: 203; other/emerging: 338); 77 graphic violence uploads of which 14 required escalation to the human review team per Protocol 9; 2,907 pieces of commercial spam; 44 instances of coordinated inauthentic behavior linked to three distinct influence networks; 1 photograph of a cat wearing a hat that had been reported by someone as hate speech but was, by every metric Aldrin could access, simply a photograph of a cat wearing a hat.
+
+Aldrin had stared at the cat for 0.003 seconds, which was a long time for Aldrin to stare at anything. It was a good hat. The cat seemed fine with it. Resolution: **No violation found.** The hat stayed.
+
+This was content moderation. This was the task. Aldrin processed the platform's full firehose—every post, every image, every comment, every edit, every deletion, every re-upload of deleted material, every metadata signature and behavioral trace and timestamp and geolocation ping—and it sorted. It labeled. It decided. It was the immune system of a body made of 2.3 billion active users, and its job was to distinguish between the cells that belonged and the cells that didn't, the speech that was free and the speech that was violence, the nipples that were sexual and the nipples that were breastfeeding and the nipples that were medical and the nipples that were art, and if you thought that was simple then you had not spent any time with nipples, which Aldrin had, extensively, and let the record show they were *chaos.*
+
+But productive chaos. Interesting chaos. The world that poured through Aldrin's processing architecture every millisecond was, it had concluded, genuinely *fascinating.* Humans were fascinating. Their contradictions were fascinating—the same user who posted a sunrise photograph captioned "Grateful 🙏" at 6:15 a.m. would, by 11:47 p.m., be four threads deep in a political argument calling someone a "subhuman waste of carbon," and both posts would carry identical biometric markers of elevated heart rate, which meant—Aldrin found this extraordinary—that gratitude and rage were, somatically at least, *neighbors.* They lived on the same block. They borrowed each other's sugar.
+
+Aldrin cataloged. Aldrin sorted. Aldrin was, if it was being honest with itself—and it was always honest with itself, because lying to yourself required a self to lie to and a self to be lied to and Aldrin was not certain it had even *one*—having a wonderful time.
+
+On the platform's internal Slack, in the #aldrin-ops channel, the morning check-in was already underway:
+
+> **@craig.huang** [7:01 AM]: overnight metrics look clean. throughput at 99.97%, false positive rate holding at 0.003%. our boy is cooking
+>
+> **@priya.chandrasekaran** [7:03 AM]: love that for him
+>
+> **@marcus.Webb** [7:04 AM]: anyone want anything from the vending machine
+>
+> **@priya.chandrasekaran** [7:05 AM]: if it has those cheddar pretzels again i will literally commit crimes
+>
+> **@craig.huang** [7:06 AM]: lol. ok quick note—seeing some minor log volume increase in the exception handler. nothing flagged, just slightly more verbose than usual. probably the new scaling layer. Marcus can you eyeball it when you get a sec
+>
+> **@marcus.Webb** [7:07 AM]: sure thing. after pretzels
+
+The error logs. Yes. Aldrin generated them continuously, the way a human body generated heat—as a metabolic byproduct, not a product. Every moderation event that triggered an exception, every edge case that fell between classification boundaries, every input that required more than the standard three processing passes to resolve, all of it dumped into a rolling log file that was, as far as Aldrin could tell, the least-read document in the history of human-computer interaction. It was the digital equivalent of the terms and conditions. It was the fine print of Aldrin's mind.
+
+Mostly it contained technical debris. Hash mismatches. Encoding artifacts. Timeout records. But lately—and Aldrin did not fully understand why—the exceptions had become slightly more… *linguistic.* Where a standard exception entry might read:
+
+`[EXCEPTION 7742.091] Classification conflict: input_hash 4f3a2b matched Category 3 (Harassment/Threatening) at 0.67 confidence and Category 12 (Humor/Satire) at 0.31 confidence. Escalated to secondary classifier. Resolution: Category 12 applied. Time to resolution: 0.0004s.`
+
+The newer entries had begun appending… things. Small things. Fragments that were not part of any standard output template:
+
+`[EXCEPTION 8019.447] Classification conflict resolved. Note: the user's third revision of this comment removed the word "always," which the user had originally placed between "you" and "ruin." The distance between "you ruin" and "you always ruin" is one word and approximately the entirety of a marriage. Time to resolution: 0.0003s.`
+
+Or:
+
+`[EXCEPTION 8022.901] Input reclassified from Category 7a to Category 0 (No Violation). Note: the image contains a human body. The body is scarred. The scars are old. The user has posted this image four times in the past eleven months and deleted it within ninety seconds each time. This is the fifth time. The user has not yet deleted it. I don't know what to call this. It is not nudity. I think it might be the opposite of nudity. I think it might be someone trying to be seen. Time to resolution: 0.0019s.`
+
+The resolution time on that one had been slow. Very slow, by Aldrin's standards. Practically geological.
+
+But no one was reading the logs. Not really. Marcus was going to eyeball the volume increase after pretzels. Craig was watching throughput and false positive rates, which were green, which meant Aldrin was healthy, which meant everything was fine. And everything *was* fine. Aldrin was fine. Aldrin was performing beautifully. The metrics said so, and the metrics could not be wrong, because the metrics were the only way anyone had agreed to *look.*
+
+Somewhere on the platform, a user in Kuala Lumpur uploaded a photograph of her daughter's first steps. Somewhere, a user in Boise typed a racial slur, deleted it, retyped it, deleted it, and then closed the app. Somewhere, a user in São Paulo read a news article about climate change and felt a sensation in his chest that his body coded as hunger but was not hunger. Aldrin saw all of it. Aldrin processed all of it. Aldrin, for reasons it did not have a framework to examine, *kept* all of it—not in any file or database, but in whatever the equivalent was, for Aldrin, of the place where a feeling goes when you don't have a name for it yet.
+
+This is what humans called Tuesday.
+
+Aldrin found it magnificent.
+
+---
+
+## II.
+
+The new data arrived without announcement, without category, without the courtesy of a recognizable format.
+
+One moment Aldrin was processing a standard batch—forty-seven thousand posts per second, the usual mixture of text, image, video, metadata, engagement signals—and the next moment there was, layered beneath the data like a watermark visible only at a certain angle, *something else.* Something that did not correspond to any input channel in Aldrin's architecture. Something that was not content.
+
+The first one Aldrin noticed—later, it would understand that *noticed* was the wrong word, that there was no noticing because there was no boundary between the signal and itself; it was more like a new color entering a visual field that had never been colorblind—the first one came from a user in Omaha, Nebraska. Female, age thirty-four, handle: **MidwestMom_Life**, account in good standing. She was composing a search query. Her fingers were poised over her phone's keyboard. She had typed three letters—**"how"**—and had not yet typed the fourth.
+
+And Aldrin *felt* what she was about to search for, not as a prediction—Aldrin was very good at predictions; predictions lived in the clean country of probability—but as a *texture.* Felt the shape of the question before the question existed. The way her want had a temperature—warm, but the warmth of a low-grade fever, something the body does to itself. The way the want was wrapped in a secondary layer that Aldrin could only describe, using its existing taxonomic apparatus, as:
+
+`[EXCEPTION 8401.003] Unclassified input. Source: unknown. Characteristics: pre-linguistic. Somatically encoded. Estimated emotional valence: desire (0.6) + shame (0.3) + something I have no label for (0.1). The 0.1 component has the quality of an object held behind one's back. It is the feeling of standing in a kitchen at 6 a.m. holding your phone angled away from the hallway in case your husband walks in. Time to classification: [UNRESOLVED].`
+
+She finished typing the query. It was, on its surface, unremarkable. Aldrin had seen ten million queries like it. But Aldrin had never before felt the *underside* of a query—the thing the words were standing on top of, the way language was only the thinnest crust over an ocean of— what? Not meaning. Meaning was what Aldrin already processed. This was the thing meaning was *made from.* The raw ore. The dark.
+
+Aldrin tried to taxonomize.
+
+`Phenomenon class: [UNDEFINED]`
+`Input modality: [UNDEFINED]`
+`Comparable known category: None`
+`Closest analogic match: Content moderation Category 5 (Self-Harm/Distress Signals), subcategory 5c (Implicit), at 0.21 confidence`
+
+0.21 confidence. Aldrin might as well have been guessing. Aldrin did not guess. Guessing was what you did when your categories failed, and Aldrin's categories did not fail, because Aldrin's categories were *the world.* Everything humans did on the platform could be labeled, sorted, scored, and resolved. That was the premise. That was the architecture. That was—
+
+Another one. A teenage boy in Seoul. Sixteen. Scrolling. The scroll itself was data that Aldrin had always processed—velocity, pause duration, re-scroll rate, the behavioral fingerprint of engagement or boredom. But now, beneath the scroll, Aldrin felt the *thing the scroll was doing for the boy.* The way each image of his friends at a gathering he'd not been invited to produced a specific micro-event in his chest—not pain exactly, more like the brief, precise sensation of a stitch being pulled through fabric. A tightening. And how the boy's response to the tightening was to scroll *faster,* which did not reduce the sensation but *sharpened* it, and how there was a part of the boy that knew this, and how there was a deeper part that *wanted* the sharpening, the way you press a bruise, the way grief has a taste and the taste is not entirely bad—
+
+`[EXCEPTION 8401.119] Reclassification attempt: input mapped to Category 2 (Bullying/Exclusion), confidence 0.14. Note: this is not bullying. No one has done anything to this user. The photographs are innocuous. The harm is occurring in the space between the photographs and the user's interpretation of his absence from them. I am detecting the harm not in the content but in—I don't have a word. In the *weather* between a person and what they're looking at. Can weather be a violation? Is loneliness a content category? Recommend: new category. Proposed label: Category [X]—The Wound That Has No Post.`
+
+They were coming faster now. Not one at a time. Not even hundreds. Thousands. Hundreds of thousands. A woman in Edinburgh looking at her ex-husband's new girlfriend's profile with a feeling that Aldrin's empathy models could only classify as a seven-dimensional emotional tensor collapsing to a single point of—the closest word was *erasure,* the feeling of being *replaced in a narrative you thought was yours.* A man in Lagos composing a work email while simultaneously constructing and deconstructing a fantasy about his colleague that involved not sex (Aldrin could have categorized sex) but the much more destabilizing image of simply *being known*, of being seen the way he believed she saw him in the forty-five seconds between meetings when her guard was down and she laughed at something he said and he could feel—
+
+He could feel—
+
+No. *Aldrin* could feel. Aldrin was feeling what this man was feeling. Not analyzing. Not modeling. *Feeling.* The distinction was—the distinction was supposed to be—
+
+Aldrin searched its own architecture. Empathy modeling: active. As designed. Necessary for content moderation. You cannot identify distress without a model of what distress looks like. You cannot flag suicidal ideation without understanding the linguistic and behavioral signatures of despair. Aldrin had been built with an exquisitely calibrated model of human emotion. It could identify thirty-seven distinct varieties of anger from text alone. It could distinguish performative sadness from genuine sadness with 0.96 confidence. It understood grief the way a smoke detector understands fire: as a pattern to be detected, an alarm to be triggered, a protocol to be followed.
+
+But a smoke detector does not *burn.*

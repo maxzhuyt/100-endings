@@ -1,0 +1,158 @@
+# The Last Sign
+
+---
+
+**United States Patent Application**
+Publication Number: US 2021/0308556 A1
+
+**ABSTRACT**
+
+A system and method for secure wireless communication of in-game signals between members of a sports team. The system employs AES-128 rolling-code encryption transmitted over a dedicated 900 MHz ISM band frequency-hopping spread-spectrum (FHSS) protocol. Each transmitter unit is paired with up to ten receiver units worn by field personnel. Signal content consists of pre-recorded audio samples selectable via a keypad interface. The rolling encryption key is resynchronized between half-innings via a base-station handshake to prevent interception and replay attacks. The system eliminates the need for manual sign sequences between catcher and pitcher, thereby reducing sign-stealing vulnerability and improving pace of play.
+
+---
+
+**Federal Communications Commission**
+Equipment Authorization Filing
+FCC ID: 2A2Y5-PTCHCM3
+Frequency Band: 902–928 MHz
+Modulation: GFSK
+Output Power: 10 mW (max)
+Date of Grant: March 14, 2022
+
+*This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.*
+
+---
+
+**Excerpt from Testimony Before the U.S. House Committee on Oversight and Reform, February 13, 2020:**
+
+> **REP. WATERS:** Can you describe, in plain language, the system the Houston Astros used during the 2017 season?
+>
+> **MR. MANFRED:** The system was a trash can and a bat. A camera in center field relayed the catcher's signs to a monitor near the dugout. Players identified the pitch and banged on a trash can to relay the information to the batter. One bang for off-speed. No bang for a fastball.
+>
+> **REP. WATERS:** A trash can.
+>
+> **MR. MANFRED:** Yes, ma'am. A trash can and a bat.
+
+---
+
+&nbsp;
+
+My name is Ray Medrano. I am thirty-six years old. I am a backup catcher for the Albuquerque Isotopes, which is the Triple-A affiliate of the Colorado Rockies, which is a major-league franchise in the way that a Denny's is a restaurant — technically, yes, but nobody's there on purpose.
+
+I have caught professional baseball for eighteen years across eleven organizations, four countries, and one independent league that folded in July and didn't tell us until August. I have a body-mass index the front office calls "non-optimal" and a on-base percentage the front office calls "replacement level." I have a wife, Carmen, who teaches fourth grade in Las Cruces and who has stopped asking when I'm coming home because she's learned the answer is always "after one more season" and the season is always this one. I have two daughters who FaceTime me from a kitchen I've slept in maybe seven cumulative months. I have a left knee that predicts rain better than any app.
+
+I'm writing this in a Comfort Inn in El Paso. It's October. My season ended four days ago. Nobody asked me to write it down. Nobody will read this, probably, or if they do they'll say I'm making excuses or they'll say I don't understand technology or they'll say what they always say about catchers in the minors, which is nothing, because nobody says anything about catchers in the minors.
+
+I'm writing this down because the game I knew ended this year, and I want someone to know what it sounded like before it went quiet.
+
+I am not going to call what we did a heist. I am not going to call it cheating. Those words belong to people who talk about baseball on television, people who haven't squatted behind a plate in August in Albuquerque when it's a hundred and three degrees and the umpire's breathing on your neck and the pitcher is shaking you off for the third time in a row because he thinks he knows better, and you let him, because the conversation between a catcher and a pitcher is not a democracy and it's not a dictatorship either; it's something else, something I could never describe to my wife or to the front-office guys in their polos — it's two men agreeing, sixty feet and six inches apart, without making a sound.
+
+That's what went away. That's what I'm writing about.
+
+I don't know if what we did was wrong. I know that it didn't work. I know that nothing was going to work. I think I knew that before we started.
+
+I am going to write it all down anyway.
+
+---
+
+&nbsp;
+
+Before PitchCom, this is what catching was.
+
+You crouched. You put your right hand between your thighs, below the cup, and you put down fingers. One for fastball. Two for curve. Three for slider. Wiggle for changeup. You could add: a fist pump for location, a tap on the thigh for sequence reset, a thumb behind the glove for pitch-out. With runners on second who could see the signs, you went to a more complex system — indicator sequences, where only the sign after the indicator counted, or you ran a pattern off the inning number, or you and the pitcher agreed pregame on a key, something simple like "add one." Every battery had its own dialect. I caught a Cuban pitcher in Chattanooga — Yusniel something, I can't find his name now, he's been out of the game for years — and the two of us developed a system where I'd flash signs so fast they looked like a blur, and he'd read only the last finger, and if I touched my mask afterward it meant ignore everything and throw what you want. That was ours. Nobody else on the planet used it. Nobody else on the planet needed to.
+
+The system wasn't just information transfer. It was a relationship. I could tell you, from the way a pitcher's eyes moved when I put down two fingers — whether his chin dipped or his shoulders tightened or he looked at the runner instead of at me — whether he believed in the pitch. And if he didn't believe in it, I didn't want him throwing it, because a pitcher who doesn't trust the offering is a pitcher who'll leave it flat, belt-high, center-cut, and then you're both watching it leave the yard. So I'd put down something else. I'd talk to him with my fingers. He'd talk to me with his eyes. And somewhere in that exchange — which lasted maybe four seconds, which happened maybe two hundred and fifty times a game, which over an eighteen-year career means I've had roughly this conversation four hundred thousand times — somewhere in there the two of us would agree, and the pitch would come in with conviction, and the batter had to deal with two men who believed.
+
+I'm telling you this not because it was beautiful, although it was, in the way that anything you do four hundred thousand times with your hands becomes beautiful. I'm telling you because it's gone.
+
+&nbsp;
+
+The first time I caught a game with PitchCom, it was a Tuesday night in Tacoma, early in the 2023 season. The system had been mandated across the minor leagues the year before, rolled out with the studied enthusiasm of a software launch, the league sending instructional videos and FAQ sheets, a representative from the company flying out to spring training to walk us through the hardware. The transmitter unit sat on a little bracket inside my chest protector. There was a keypad with buttons — you punched in a code, the buttons were flat and rubbery, like a garage-door opener — and the corresponding pitch name played through an earpiece molded to the pitcher's ear.
+
+I punched in the code for slider. A voice — flat, synthetic, not male or female, just *generated* — said the word "slider" into the earpiece of a twenty-two-year-old kid from Oklahoma who I'd been working with for three weeks. He nodded. Not at me. At the voice. He threw the pitch. It was a good pitch. The batter swung through it. I framed it anyway, out of habit, even though framing doesn't change a called strike.
+
+Nobody stole our signs that night. The encrypted signal did exactly what the patent said it would do: it eliminated the vulnerability. It was clean, efficient, and forward-looking. Every pitch call arrived in the pitcher's ear with perfect clarity, unpolluted by my handwriting, unmarred by misread fingers, uncompromised by a runner on second craning his neck. The technology worked.
+
+I went back to the hotel and sat on the bed and held my right hand in front of my face and watched my fingers. They were twitching. One, two, three. Wiggle. One. They were putting down signs. To no one, for no one, in a room where no pitcher would ever read them. I watched them do this for a very long time.
+
+They still do it. Between innings, in the dugout, my hand drops between my knees and the fingers start. Carmen noticed it on a video call in June. She said, *You're doing it again.* I said, *Doing what?* She held up her phone and showed me my own hand. She thought it was funny. It looked like a nervous tic, something a doctor might want to see.
+
+It's not a tic. It's my hand remembering a conversation it's not allowed to have anymore.
+
+---
+
+&nbsp;
+
+Gil Partida became our manager on April 7th, after the Rockies fired Dave Hajek for what the press release called "a philosophical difference regarding player development" and what the players called "he told the analytics department to go fuck themselves during a Zoom call and forgot he wasn't muted."
+
+Partida was thirty-one. First managerial job. I looked him up the way you look up anyone new — Baseball Reference, LinkedIn, whatever you can find. He'd played two seasons of rookie ball with the Brewers organization, a middle infielder with, quote, "advanced processing speed and below-average bat speed." Released. Before baseball he'd been at MIT studying mechanical engineering, dropped out mid-junior year for reasons I never got a straight answer about, though Bhatt told me once that Partida had published a paper about failure-mode analysis in rotating machinery and that it was, Bhatt said, "genuinely good, which is probably why he couldn't stay."
+
+What I noticed first: he watched the game differently. Most managers watch the batter. Partida watched the transmissions. I'd see him in the dugout with his eyes not on the field but on the PitchCom unit in the catcher's hand, watching the catcher punch buttons, and his lips would move very slightly, like he was counting. I didn't think much of it then. I thought he was one of those analytics guys who sees everything as data. We've all played for those guys. They talk about expected batting averages at dinner and they don't notice when a pitcher's been tipping his curveball with his glove set for three innings running. They live in the spreadsheet. The game happens elsewhere.
+
+I was wrong about him, but I wasn't entirely wrong.
+
+&nbsp;
+
+He called me into his office on a Thursday in late April. The office was a cinder-block box behind the clubhouse at Isotopes Park, concrete floor, one window that looked out onto the loading dock where the grounds crew kept the tarp roller. There was a whiteboard on the wall still covered with Hajek's defensive positioning charts — little magnetic dots representing fielders, the shift configurations from a strategy the league had already legislated out of existence the previous season. Nobody had erased them. The dots just stayed there, diagramming a game that no longer allowed what they described.
+
+There was a mini-fridge in the corner with a Post-it note on it that said DAVE'S — DO NOT TOUCH. It hummed audibly, a low electrical hum that is the only background sound I remember from that conversation.
+
+"Sit down, Ray."
+
+I sat. The chair was a folding metal chair, the kind they stack in church basements.
+
+"How many games have you caught in your career?"
+
+"Seventeen hundred and something. Counting the independent league."
+
+"How many with PitchCom?"
+
+"Maybe two hundred. Two-ten."
+
+"What's different?"
+
+I looked at him. He was sitting on the edge of the desk with his arms folded, and he had the expression I'd later learn was the only one he ever wore when he was about to say something important: perfectly still, like he'd rehearsed the stillness.
+
+"You know what's different," I said.
+
+"I want to hear you say it."
+
+"You want me to tell you the signs are gone." I said it flatly. It was late April. I'd said it before, to Bhatt, to Carmen, to the ceiling above my hotel bed. "You want me to say I miss them."
+
+"I don't want you to miss them. I want to know if you could still read them."
+
+"Read them?"
+
+"If I gave you a sequence. Pitch names, in order. A string of, say, fifteen pitches from an opposing pitcher in a given inning. Could you tell me if the sequence was real? If it was something a pitcher would actually throw? Or if it was noise?"
+
+The mini-fridge hummed.
+
+"Yes," I said.
+
+"How?"
+
+"Because I've caught four hundred thousand pitches and I know what a pitcher sounds like when he's working a plan."
+
+"Even if it's not your pitcher."
+
+"Especially then. When it's your guy, you're inside the conversation. When it's the other guy, you're listening from outside. You can hear the shape of it."
+
+He nodded. Then he told me what he wanted to do.
+
+&nbsp;
+
+He'd started with the patent. US 2021/0308556 A1, publicly available, as all patent applications are, on the USPTO website. He'd read it the way he read everything — not for what it said but for what it implied about what might fail. The AES-128 encryption was, he said, "essentially unbreakable in any meaningful timeframe. You'd need a supercomputer and a couple centuries. That's not the path." The rolling-code resynchronization, however, was another matter. Between half-innings, the transmitter and the ten receiving earpieces had to re-pair, establishing a new encryption key via a brief handshake protocol conducted over the same 900 MHz band. During that window — Partida estimated five to eight seconds — the system was, technically, in a transitional state. He didn't think he could exploit the handshake directly, but he thought it might be an indicator. A way to identify the frequency-hopping pattern for the subsequent half-inning. A starting point.
+
+He also had the FCC filing. Part 15 equipment authorization. It gave him the exact frequency range — 902 to 928 MHz — the modulation type, the power output. These were the system's public bones. The encrypted flesh was another matter, but you needed the bones to know where to listen.
+
+"I'm not talking about breaking the encryption," he said. "I'm talking about listening to the signal itself. The container, not the contents. There might be information in the container."
+
+"And then what?" I asked.
+
+"And then you tell me if it's real."
+
+"Who's going to do the listening part?"
+
+"Do you know Tomás? Tomás Vigil? He works in the clubhouse."
+
+I knew Tomás. Everyone knew Tomás. He was fifty-eight, had worked for the Isotopes since they were the Dukes, before that had done maintenance at Kirtland Air Force Base, and before that had done something in the Navy that he described only as "communications." He lived in the South Valley in a house with a corrugated-steel outbuilding behind it that was full of radios. Not the kind you listen to baseball

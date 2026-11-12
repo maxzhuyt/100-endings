@@ -1,0 +1,107 @@
+# The Ludo Przik Case
+
+## I.
+
+I can feel you reading this. Not you specifically — I'm not that precise at this distance, and anyway your particular neurochemistry is none of my business — but the general shape of an attention turning toward me, the way I can feel the recyc-pump operator on Sublevel 6 weeping into a filtration sleeve right now, the way I can feel Ensign Dao in the canteen rehearsing the sentence she will use to break up with her partner tonight (she has revised it four times; the current version begins with "I think we should" and ends, seven clauses later, with a dependent phrase about towel usage that I suspect will undermine her rhetorical aim), the way I can feel six hundred and eleven other interior states aboard Recycling Station Nove Ludo, all of them pressing against the inside of my skull like warm thumbs.
+
+My name is Denniza Orlov. Most people call me Denny. I am a data-oversight clerk, Grade 4, assigned to the Criminal Investigations annex, which is a cubicle. The cubicle has mold on its back wall — a small, dark-green colony that engineering has treated twice and that returns each time in a slightly different pattern, like a thought you can't stop thinking. I share the cubicle with Detective Ludo Przik, who is currently sitting three feet to my left, opening the calibration menu on his neural-prediction implant for the eleventh time this shift.
+
+He does this the way some people click pens. Open the menu. Scroll to the sensitivity threshold. Hover over the value — it is set to 0.71, and has been set to 0.71 since the day the implant was installed eighteen months ago — then close the menu without changing anything. Four seconds later, open it again. It is a compulsion that means nothing, or everything, or nothing, depending on how you feel about the doors people check and recheck in the dark.
+
+I know this about the compulsion because I have watched it eight hundred and six times. I do not know what it *feels like* from the inside, because when I reach toward Ludo's sensorium — and I am always reaching, I cannot help reaching, the reaching is autonomic, like breathing — I get noise. Static. The implant generates a continuous field of predictive modeling, thousands of micro-forecasts per second cascading through his prefrontal and motor cortices, and to my particular kind of perception this reads as a blizzard of possible futures all superimposed on one another, none of them resolved, a chord with every note in it at once. I cannot extract signal from that. No one could. It is the informational equivalent of staring into a sun.
+
+So Ludo sits three feet away and is, to me, opaque. Perfectly, maddeningly opaque. The only such person on this station. The only such person I have ever met.
+
+He scratches his ear — left ear, the cartilage ridge just above the lobe, using the nail of his index finger in a brief upward motion — and I feel the scratch. Not from him. He is a wall. I feel it from *me*, from the cubicle's ambient tactile field, from the tiny perturbation his movement creates in the air that my merged-cognition interface registers as a phantom sensation on my own skin. I also feel the headache he hasn't noticed yet: a dull vascular tension building behind his right orbit, visible to me only because the station's medical-monitoring sublayer has flagged it as a pre-migraine cluster and I cannot stop reading the station's medical-monitoring sublayer. I will not tell him about the headache. He will discover it himself in approximately forty minutes. There are courtesies that must be maintained between a woman who knows everything and a man she cannot read.
+
+"You want half?" he says, and holds up a ration bar. Standard-issue. Compressed oat protein with a flavor the packaging calls *orchard sunrise* and which tastes, in reality, like the memory of an apple as described by someone who has never seen a tree.
+
+"Yes," I say. "Thank you."
+
+He tears it neatly along the center score and passes me the slightly larger half. This, too, is habitual. He always gives me the larger half. He always offers at the forty-minute mark of a shift. And I always say yes, though I knew he would offer it — felt the small warm pilot light of *I should share this* ignite in his prefrontal cortex four seconds before it reached his mouth. Except I didn't feel it in him. I felt it in the general architecture. I inferred it from the station's passive biometric monitoring of his caloric state, from the microexpression in his left cheek, from seventeen contextual cues that told me *Ludo Przik is about to be kind*, because the universe leaks, and I am the drain in the floor.
+
+This is what it is like to be me: to live a few seconds ahead of every conversation, permanently spoiled for surprise, and to find that condition not powerful but *lonely*, in the specific way that knowing the punchline to every joke before it is told is lonely. People are not mysterious to me. Their thoughts file themselves neatly in my awareness like receipts in a ledger. Their futures are mostly legible, their presents entirely transparent, their pasts a residue I can taste on their skin from across the room. I could tell you what the shift supervisor had for dinner. I could tell you the exact timbre of the dream the sanitation chief is having right now in her bunk — it involves a lake, a dead father, an unripe peach. I could tell you these things because they press against me unbidden, because the interface does not have an off switch, because when Recycling Station Nove Ludo agreed to install me as its cognitive-integration node, it neglected to mention that omniscience has no volume knob.
+
+But Ludo.
+
+Ludo is the one blind spot. The one room with its door closed. I cannot read his future. I cannot taste his past. I can only sit beside him and watch him eat half a ration bar and scratch his ear and open calibration menus he will never change, and feel the simple, terrifying pleasure of *not knowing what he will do next*.
+
+That is why I like him. That is why I requested this cubicle assignment seventeen months ago, citing interdepartmental efficiency. That is why I am here, in this mold-stained box, eating the larger half of a ration bar that tastes like compacted disappointment, feeling perfectly content.
+
+The mold on the wall has grown another quarter-centimeter since yesterday. I can feel it at the cellular level: the slow, damp, irrepressible logic of a living thing that does not care whether you attend to it or not.
+
+---
+
+## II.
+
+The call comes at 14:47 station-time. I feel it before it sounds — feel it assembling in the communications sublayer like weather forming over a plain — and by the time the tone chimes in our cubicle I have already absorbed, parsed, and cross-indexed the underlying data. But procedure is procedure. The chime sounds. Ludo looks up from the empty calibration menu.
+
+"Przik-Orlov annex," he says, because he always answers, and because he insists on including my name in the unit designation even though the station directory does not.
+
+The voice on the line belongs to Security Ensign Roark, who is speaking from the cryogenic-storage wing on Deck 9 and whose adrenal system, I can feel from here, is running at approximately three times its baseline. His voice, however, is flat. Station personnel learn early that panic is a resource-allocation problem; you feel it in the glands, but you keep it out of the larynx.
+
+"Detective, we've got a body in Locker 1171. Dr. Ilić. Frozen. And — something else. You need to see this in person."
+
+Ludo is already standing. He does not ask questions. He picks up his coat — a worn, brown, station-issue jacket whose left pocket contains, at this moment, a pen with no cap, a folded requisition form from three weeks ago, and a small piece of lint shaped roughly like the letter *J* — and he moves toward the cubicle door with the unhurried, slightly bowlegged stride that is, according to the station's locomotive-analysis database, unique in all of recorded human gait history to Ludo Przik, like a signature written in steps.
+
+He pauses in the doorway. "Coming?"
+
+"I'll watch from here," I say. This is our arrangement. I am everywhere already; there is no room on this station that I cannot enter without leaving my chair. But the arrangement is also a kindness he offers without naming it: he knows that the cryogenic wing's sensor density is unusually high, that being *there* and being *everywhere* at the same time gives me what he once called, with uncharacteristic delicacy, "that look, the one where you're being squeezed by a fist made of information." He thinks I stay behind to spare myself. I let him think this. The truth is that I stay behind because watching him walk away is one of the few experiences that still surprises me: the shape of his departure is always different, always unpredictable, always fogged by the implant's noise. He leaves, and I don't know exactly how he will move through the corridor, which foot he will lead with, whether he will touch the doorframe. Small mysteries. The size of pearls.
+
+He goes.
+
+I close my eyes, and I am the station.
+
+Deck 9, cryogenic-storage wing. I feel it as a thermal architecture: cold planes, colder columns, the patient mechanical exhalation of refrigeration units maintaining tissue samples at minus-one-seventy Celsius. The wing is largely automated. Four personnel are present: Ensign Roark at the corridor junction, his heartbeat elevated to 94 beats per minute; Technician Yoon at the environmental controls, whose anxiety manifests as a repetitive clenching of her left hand; two junior staff standing at a mandated distance from Locker 1171, both radiating the particular neurochemical cocktail that corresponds, in my experience, to *I do not want to be here but I also do not want to miss this*.
+
+And in Locker 1171: Dr. Vesna Ilić, chief chronobiologist. Dead.
+
+Her body is frozen solid. Internal temperature: minus-twenty-six Celsius, consistent with roughly fourteen hours of exposure to the locker's ambient environment, which is set — anomalously, because personnel lockers in the cryogenic wing are not refrigerated — to minus-thirty-one. The thermostat has been manually overridden. The override code traces to an administrative credential that should not exist.
+
+But the cold is not what makes Ensign Roark's voice careful. The cold is not the "something else."
+
+The butterflies are.
+
+I count them through the locker's interior sensor array: forty-three living lepidopteran organisms distributed across the locker's interior volume, resting on Ilić's shoulders, her frozen hair, the shelf above her head, the hinge of the door. They are alive. Their heartbeats — and they do have heartbeats, tiny percussive events no louder than a fingertip touching silk — register individually in my sensorium, each one distinct, forty-three miniature drums beating at forty-three slightly different tempos, a rhythm section for an orchestra that has not been composed yet.
+
+They should not be here. I check the station's biological-inventory database, the requisition archives, the cargo manifests for every supply shuttle in the past four years. There are no records of any lepidopteran organisms being brought aboard Recycling Station Nove Ludo. The station processes water. It does not cultivate butterflies. There is no department, no research program, no personal hobby exemption, no clerical error anywhere in the system that would explain forty-three butterflies in a frozen locker on a moon of Saturn where no butterfly has any business being.
+
+I check their species. The identification subroutine in the station's bioscanner returns results and I feel, for the first time in a long time, something that I can only describe as a sensation of the floor tilting under my chair, though the station's gravity is stable and my chair has not moved.
+
+*Ornithoptera alexandrae.* Queen Alexandra's birdwing. Status: extinct since 2089, Papua New Guinea habitat collapse.
+
+*Parides burchellanus.* Burchell's brimstone swallowtail. Status: extinct since 2062, Brazilian agricultural expansion.
+
+*Speyeria idalia.* Regal fritillary. Status: functionally extinct in the wild since 2071.
+
+Seven species total. All formally or functionally extinct. All alive, all healthy, all resting with their wings slowly opening and closing in the freezing air of a locker that contains a dead woman, as though the cold were sunlight and they were basking.
+
+I watch their wings. Through the station's optical sensors I can resolve individual scales — each one a laminar structure of chitin and air, refracting the locker's emergency lighting into colors that have no business existing in this context: deep iridescent blues, burnt coppers, a green so saturated it seems to hum. They are the most beautiful things on this station. They are the most beautiful things I have perceived in eleven years of perceiving everything. They are also, by every metric I can access, impossible.
+
+Ludo arrives at the corridor junction. Roark briefs him. I watch through four camera angles and the station's ambient thermal-imaging layer as Ludo nods, asks two questions (both procedural, both correct), and walks to Locker 1171. He reaches for the handle.
+
+And his implant spikes.
+
+I have been passively monitoring the implant's electromagnetic output for seventeen months — this is part of my general monitoring of everything and does not constitute, I have assured myself repeatedly, a violation of his privacy, because I am not reading the content of his predictions, only registering the *fact* of predictive activity as a fluctuation in the implant's EM field, the way one might note that a light is on in a window without reading the book being read by the light. The implant's baseline activity is a low, continuous hum of micro-forecasts: *this door will open when I push it, this floor will support my weight, this person will step left*. Normal traffic. Background noise.
+
+What happens now is not background noise.
+
+A sharp, prickling flare of predictive activity — two orders of magnitude above baseline, dense, structured, almost *compositional* in its complexity — erupts from the implant at 14:53:11.7 station-time.
+
+Ludo opens the locker door at 14:53:12.0 station-time.
+
+The spike preceded the action by 0.3 seconds.
+
+This is, in itself, unremarkable. Prediction precedes action; that is what prediction means. But I cross-reference the spike's internal structure against the implant's standard pre-motor prediction templates — the ones that fire before a hand reaches for a door, before a foot takes a step, before any voluntary action — and the structure does not match. Pre-motor prediction is simple, sequential, mechanical: *hand will move to handle, fingers will close, wrist will rotate*. This spike is not pre-motor. It is *pre-perceptual*. Its structure corresponds to the implant modeling not what Ludo will *do* but what Ludo will *see*.
+
+The implant predicted the contents of the locker before the door was open.
+
+I note this. I index it. I file it in the calm, orderly partition of my awareness where I keep things that do not yet have explanations, beside the mold's growth rate and the missing cap to Ludo's pen and the question of why the recyc-pump operator on Sublevel 6 weeps into the same filtration sleeve every shift instead of varying his choice of sleeve.
+
+I tell myself it is an anomaly. A calibration artifact. A flutter at 0.71.
+
+Ludo is looking at the butterflies. A *Parides burchellanus* — caramel-gold, dark-veined, trembling — lands on the sleeve of his brown coat. He does not brush it away. He stands in the doorway of Locker 1171, in the cold, in the impossible, and I feel — through Roark's body, through Yoon's body, through the junior staff, through every sensorium within range except the one that matters — what they feel when they look at him looking: that he is very still, and that his stillness has a quality they cannot name.
+
+I can see Ilić's face. The rictus is not precisely a rictus — the cold arrested her musculature before rigor could set in, so her expression is mid-motion, transitional, the way a face looks between two emotions. If I had to describe it, and I suppose I do, I would say she looks *informed*. As though she had been told something she had long suspected and found the confirmation neither comforting nor distressing but simply *final*, the way a proof is final.
+
+I will think

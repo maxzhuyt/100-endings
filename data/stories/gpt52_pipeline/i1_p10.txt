@@ -1,0 +1,285 @@
+The restaurant had three cameras I could see without moving my head.
+
+One in the corner above the host stand, angled down like a patient hawk. One over the bar that pretended to watch bottles but really watched hands. One by the bathrooms, pointed at the hall where people checked their faces and their lies.
+
+The tables were too close—easy shoulder-surfing radius, too many screens exposed when people leaned back. The servers flowed in a loop that crossed the POS terminal every forty seconds: swipe, tap, glance, return. The terminal sat on a swivel arm, screen turned fifteen degrees toward the dining room, a gift for anyone who collected other people’s totals or names.
+
+I’d picked this place because it was quiet enough to talk and bright enough to see expressions. I told myself it was for romance. My body told me it was for reconnaissance.
+
+I checked my watch, not for the time but to feel the drag of the strap on my skin. A grounding trick. The kind you learn when you’ve spent too many years inside your head.
+
+I don’t do that anymore.
+
+That sentence came to me like a policy banner, the kind companies paste on walls and then ignore. I repeated it anyway. I don’t do that anymore. I don’t take what isn’t offered. I don’t test systems that didn’t ask me to. I do bug bounties. I do audits with signed scopes. I do consent.
+
+There was a time—before the incident, before the cost—when I would have called this “situational awareness” and worn it like a virtue. After, it became a habit with teeth.
+
+The host brought water. Ice clinked, bright and brittle. I tried to hear it as just ice.
+
+A shadow fell across the entryway glass, the door opening, and my attention snapped like a cursor to movement. She stepped inside, shaking rain out of her hair with a small, quick motion that made her look like she’d just surfaced.
+
+Mara. Her profile picture hadn’t captured the way she walked—like she was slightly amused by gravity, like it was negotiable.
+
+I stood too fast, chair legs scraping. She saw me, smiled, and that smile—immediate, unguarded—should have been enough to crash every other process in my brain.
+
+Instead, my mind did what it always did: it inventoried.
+
+No ring. Calluses on the side of her index finger—guitar, or a lot of writing. Bag strap worn on the left shoulder. Nails short, practical. She scanned the room once, found me, then stopped scanning. Trusting.
+
+She reached the table and I reminded myself, urgently, that this was not an engagement, it was a date.
+
+“Hi,” she said, and her voice was lower than I expected, warm. “You’re early.”
+
+“I like… beating the rush.” I heard myself and winced. I meant: I like mapping the room before variables enter.
+
+She laughed, slid into the seat across from me, and the server appeared almost immediately, as if the restaurant had flagged our table as active.
+
+“Still good with Thai?” I asked.
+
+“Perfect.” She pushed her wet hair behind her ear. “Also, I brought a peace offering.”
+
+“A—”
+
+She opened her bag and produced two sleeved cards like a magician revealing doves. One was a Sol Ring, the other a Forest with art that looked like a cathedral made of leaves.
+
+“For you to judge me with,” she said. “Because I remember you said you were a Commander person.”
+
+Something in me unclenched. Not the scanning. But the part that had been bracing for small talk about weather and work and the safe, sterile surfaces people keep between strangers.
+
+“I’m not here to judge,” I said, and then, because the truth mattered more than looking smooth, “but yes, that’s a strong opening statement.”
+
+She grinned. “See? This is why I needed to bring cards. If we run out of conversation we can argue about whether Sol Ring should be banned.”
+
+“It should,” I said immediately.
+
+Her eyes lit. “Finally. Someone brave.”
+
+The menu became background noise. We fell into it like it was a familiar format.
+
+“Okay, but what do you replace it with?” she demanded. “Like, are you a ‘ban fast mana’ purist or—”
+
+“I’m a ‘make games more interesting than turn-two mana rocks’ realist.”
+
+She leaned forward. “What’s your commander?”
+
+“Brago,” I confessed, bracing for moral judgment.
+
+Instead she made an approving sound. “Flicker nonsense. Respectable. Mine is Meren, which means I’m the villain at the table no matter what I do.”
+
+“You could play group hug,” I offered.
+
+“I’d rather be honest about my intentions,” she said. “Also, I once tried group hug and my friends still bring it up like it was a betrayal. Like I gave them gifts with razor blades.”
+
+I laughed—an actual laugh that didn’t feel like I’d precomputed it—and the room softened. The cameras stayed where they were. The POS terminal stayed a POS terminal, not a vulnerability. The server returned for our order and I didn’t track her route. I tracked Mara’s face when she talked about the first time someone countered her favorite spell and she “learned what heartbreak was.”
+
+“It was in high school,” she said, making a face. “I brought my deck to lunch like a loser, and this guy—Todd—he had a full set of—what were they—Force of Will? And I was like, ‘That’s not fair.’”
+
+“Todd sounds like he had rich parents,” I said.
+
+“He did. His mom was a dentist.” She rolled her eyes. “Anyway, I still remember my first concert being this awful ska band because Todd—same Todd—invited me and I thought it meant something.”
+
+Ska band. Todd. Dentist mom. High school lunch. My brain, traitorous, started stacking it into categories.
+
+Security question: first concert.
+
+Answer: “awful ska band”—she didn’t name it, but I filed the shape of the memory. The kind of thing someone might use as a password because it feels like theirs.
+
+She went on, unbothered. “And then later I moved to—well, I grew up in Cedar Falls, which is basically nothing, and—”
+
+Hometown: Cedar Falls.
+
+“And my first pet—don’t laugh—was a rabbit named Pixel. I named her after some computer thing my dad said.”
+
+First pet: Pixel.
+
+I smiled because Pixel was cute, and also because Pixel was a four-letter word that would fit neatly into a lot of “forgot password” fields.
+
+“I won’t laugh,” I said. “Pixel’s a great name.”
+
+“She bit me once,” Mara said, delighted. “Anyway, I’m a teacher now, and my favorite teacher was Mrs. Halverson, seventh-grade science. She had this thing where she’d make you write—”
+
+Favorite teacher: Mrs. Halverson.
+
+My stomach did a small, sickening flip, like stepping onto a stair that wasn’t there. The conversation was still charming; the stories were still hers; my warmth toward her was real.
+
+And underneath it, a cold echo repeated each detail in another voice.
+
+A voice that didn’t say Mara. It said: data.
+
+I took a sip of water. The ice hit my teeth. I forced myself to listen like a human.
+
+She noticed my pause and said, “Sorry, I’m rambling.”
+
+“You’re not.” I set my glass down carefully, like a ritual. “I’m… having fun.”
+
+And I was. That was the worst part, the part that made my brain’s reflex feel like a betrayal, not of her but of me.
+
+Food arrived. Pad thai, curry. Steam. Peanuts. Lime. We ate, traded bites. She told me about her students making memes about her and how she’d once confiscated a phone and accidentally hit play on some song that turned out to be—she lowered her voice—“incredibly inappropriate.”
+
+I kept laughing at the right places. I kept meeting her eyes. I kept pretending my mind wasn’t collecting.
+
+She pulled her phone out when she mentioned it, thumb hovering. “Wait, I have the meme. It’s—oh my god, it’s so dumb.”
+
+I told myself not to look. I told myself to look away, to focus on my plate, to be someone who could be trusted in the radius of another person’s secrets.
+
+She set the phone on the table between us, screen angled slightly toward me because she was including me, because she was sharing. Her finger traced a pattern across the glass: down, right, right, down. A neat, quick L-shape that hit the first four dots like she’d practiced it a thousand times.
+
+My pupils narrowed as if the world had become high-contrast. The restaurant noise dropped behind a wall. Her fingertip was a stylus drawing a key I’d seen in a hundred trainings titled “Do Not Do This.”
+
+Weak. Observable. Repeatable.
+
+I saw it, and my mouth moved faster than my morals.
+
+“That pattern is basically ‘one-two-three-four,’” I said. Too loud. Too fast. Too precise. “I could—sorry, I could shoulder-surf that in one try.”
+
+The moment hung there, suspended like a dropped glass that hadn’t hit the floor yet.
+
+Mara’s thumb froze above the screen. Her eyes lifted to mine—not angry, just… recalculating. Like I’d changed states.
+
+She turned the phone slightly toward herself, an unconscious pullback, and her smile thinned into something cautious.
+
+“Why were you watching my screen?” she asked softly.
+
+The server passed behind her, tray balanced, oblivious. Forks clinked. Someone laughed at the bar. The world resumed, but our table was suddenly its own little breach report.
+
+“I—” My throat tightened. “I wasn’t trying to. I mean, I was, but not—” Great. “It’s… reflex.”
+
+“Reflex,” she repeated, and the word sounded like an excuse even before it left her mouth.
+
+I could see the next question forming: Is this something you do?
+
+She didn’t have to ask. Her body had already asked it by drawing the phone back, by putting a boundary where a second ago there had been openness.
+
+“I used to work in security,” I said, because that was the sanitized version. It was the version that fit in polite conversation and didn’t involve the incident. “And I’m trying to not… do that all the time.”
+
+Her gaze flicked to my hands, then back to my face, like she was checking for something she hadn’t known to check for ten minutes ago.
+
+“So you were assessing me,” she said. Not accusing, just naming.
+
+The word hit harder than “watching my screen.” Assessing. Auditing. Testing.
+
+“No,” I said too quickly, which made it a lie-shaped sound. “I mean, not you. I was—” I heard myself teetering toward a lecture about threat models, about how patterns are guessable, about how you should use a passcode and biometric fallback.
+
+I swallowed it. The fork scraped against my plate, an ugly noise, and it grounded me in my body again.
+
+In my head, a courtroom assembled itself without my permission.
+
+Defense: You were trying to help. You care. You didn’t steal anything.
+
+Prosecution: You watched her unlock. You made her feel unsafe. You centered your cleverness. She didn’t consent to an audit.
+
+Defense: It’s muscle memory.
+
+Prosecution: Muscle memory is not morality.
+
+She didn’t ask to be tested. She asked to show me a meme.
+
+“I’m sorry,” I said, and forced myself to stop there for half a beat, to let it be apology and not a preface. “That was invasive. I was watching when I shouldn’t have been, and then I blurted it out like… like it was my job.”
+
+Mara’s shoulders loosened by a fraction. Not forgiven—just less braced.
+
+“I didn’t realize people did that,” she said. “Like, in real life.”
+
+“Some people do,” I said. I tried to keep my voice human, not instructional. “I’m trying really hard not to be one of them anymore.”
+
+She picked up her phone, held it in her palm like it was suddenly heavier. “It’s just a pattern.”
+
+“I know.” I took a breath. “And you didn’t ask for advice. If you want me to drop it, I will. Completely.”
+
+Her eyes searched mine again, this time for pressure. For the hidden hook in the offer.
+
+I made myself still. No persuasive tone. No urgency. Consent meant I had to be able to hear no.
+
+Mara exhaled, a small cloud of tension leaving. “I appreciate you saying that.” She hesitated. “But… was it really that bad?”
+
+The court went silent. This was a door opening. An invitation. The difference between being an intruder and being asked to come in.
+
+“It’s common,” I said carefully. “And it’s easy to see if someone’s sitting across from you. That’s all. If you ever want to change it, I can tell you options. Only if you want.”
+
+She looked down at her screen, then back up, a wry smile trying to return. “Okay. Not tonight. Tonight I just want to show you the meme without feeling like it’s a bank vault.”
+
+“Deal,” I said, relief sharp enough to sting. “I won’t comment on your security unless you ask.”
+
+“Promise?”
+
+“I promise.”
+
+She unlocked the phone again, this time turning her body slightly away as a compromise between habit and caution. I looked at her face, not her hand, as if my gaze could prove something.
+
+The meme was dumb in the way she’d promised: a picture of a cat sitting on a pile of math worksheets with text that said, *I’M HELPING*. We both laughed, and the laughter had a seam in it now, but it was still laughter.
+
+We ate the rest of the meal with a carefulness that felt like walking over a repaired bridge. I listened harder. I tried to let her stories be stories.
+
+Then she said, “Oh! Speaking of seventh grade—did I tell you about the time I broke my arm?”
+
+My brain, traitorous and eager, leaned forward.
+
+She held up her forearm as if it still remembered. “Fell off my bike outside Mercy Hospital. My mom was so mad.”
+
+Hospital: Mercy. Mother: mad. Another breadcrumb, another little shiny answer-shaped thing.
+
+And then—because the universe has a sense of humor—she pushed her phone toward me. “Here, I’ll show you the X-ray. It looks fake. Like a cartoon bone.”
+
+My hands stayed on the table. The phone sat between us like a test I hadn’t studied for but somehow already knew the answers to.
+
+In my head, an exploit chain lit up in neon.
+
+Hometown: Cedar Falls. First pet: Pixel. Favorite teacher: Mrs. Halverson. First concert: ska band with Todd. Hospital: Mercy. Combine with social media. Reset an email. Pivot to everything.
+
+It wasn’t even difficult. That was the horror of it. The world was made of unlocked doors, and I’d spent years learning how hinges worked.
+
+The montage wanted to run. My mind wanted the private thrill of capability, the quiet proof of power: I could, I could, I could.
+
+I closed my eyes for half a second and did something that felt like tearing my own hand away from a hot stove.
+
+Don’t connect the dots.
+
+Not even for fun. Not even in imagination. Not even as a thought experiment.
+
+Because the line wasn’t just action. The line was attention. The line was what I let myself treat as mine.
+
+I opened my eyes. Mara was watching me, phone still offered, her face open in a way that was cautious now but not closed.
+
+“I’d love to see it,” I said, and kept my voice steady. “Can you hold it so I can look without taking it? I’m trying to be… better about boundaries.”
+
+Her eyebrows lifted. Surprise, then something like understanding.
+
+“Yeah,” she said. “Of course.”
+
+She angled the screen toward me, her hand on it the whole time, and I looked at the X-ray: a thin white line where bone should have been uninterrupted. A childhood fracture, healed. Proof that bodies break and still go on.
+
+“That does look fake,” I said, and meant it.
+
+Her smile came back more fully, though it stayed a little guarded at the edges. “Right? It’s like my arm was drawn by someone who’d never seen an arm.”
+
+We drifted back into Magic talk, safer ground. She asked about my Brago deck. I asked about her Meren list. We argued about whether tutors made games boring. She told me about a pod at her local game store that had “unspoken rules” and how she’d broken one by accident and “it was like committing a war crime.”
+
+When the check came, I didn’t watch the POS terminal. I watched her hands as she tucked her card away, the small, practiced motions that made a person’s life look effortless from the outside.
+
+Outside, the rain had stopped. The street was wet, reflecting the restaurant’s neon like a second, upside-down city. Cars slid by with their headlights smeared in the puddles.
+
+We stood under the awning for a moment, not quite ready to split into separate directions. Through the glass, I could see people at tables, phones on wood, screens lighting faces. Little lock icons in the corners of apps, little illusions of safety.
+
+My mind tried, automatically, to map the reflections—angles, sightlines, vulnerabilities. A thousand ways in.
+
+I let it, just long enough to notice it happening, and then I did the harder thing: I shifted my focus back to Mara’s laugh from earlier, the way it had startled out of me too, like a clean sound I’d forgotten I could make.
+
+Intimacy was a system with no perfect firewall. It ran on trust, which meant it ran on vulnerability.
+
+“I had fun,” Mara said, and there was a question tucked inside the statement, careful and brave.
+
+“I did too,” I said. I kept my hands to myself. I kept my eyes on her eyes. “If you want a second date, I’d like that. And if you don’t, I understand.”
+
+She studied me for a beat, rainwater dripping from the awning in steady ticks beside us.
+
+“I want a second date,” she said finally. “But—” She lifted her phone slightly, like a tiny flag. “No more surprise audits.”
+
+“No more,” I said.
+
+She nodded, and her smile this time had less caution in it. She turned to go, then paused. “Also, Sol Ring is staying in my deck.”
+
+I huffed a laugh. “We’ll see.”
+
+She walked away down the wet sidewalk, her footsteps soft. I watched her until she merged with the reflections and taillights.
+
+Then I looked at my own phone in my palm

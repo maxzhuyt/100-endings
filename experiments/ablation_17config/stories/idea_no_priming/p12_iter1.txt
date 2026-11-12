@@ -1,0 +1,120 @@
+# The Marginalia
+
+## A Self-Directed Cognitive and Linguistic Log
+
+### Dr. Lina Sar, PhD
+**Department of Computational Linguistics, University of Toronto**
+
+---
+
+## Section 1: Prolegomenon and Scope
+
+**Entry 1.1 — October 3, 2024, 08:42 EST**
+
+I should state at the outset that this document is not a memoir. I have no interest in the genre's conventions — its selective nostalgia, its false epiphanies, the way it shapes a life into an arc when lives do not, in fact, arc. This is a log. A controlled, timestamped, sequentially indexed record of cognitive and linguistic function, maintained by the subject for the subject, with the secondary purpose of contributing longitudinal self-report data to a field that has almost none.
+
+My name is Lina Sar. I am forty-one years old. I hold a doctorate in computational linguistics from the University of Edinburgh and have spent the last nine years on faculty at the University of Toronto, where my research concerns the statistical regularities of syntactic decay in aphasic speech — that is, I study the specific, patterned ways in which damaged brains lose the ability to make sentences. I have published thirty-two peer-reviewed papers. I mention this not as credential but as context: the instrument performing this self-audit is, by professional training, precisely the instrument qualified to detect its own deterioration.
+
+On September 11, 2024, following six weeks of progressive myoclonic jerking in my left hand, two episodes of transient visual disturbance, and a marked decline in short-term recall that I had been privately documenting since August, I received a confirmed diagnosis of sporadic Creutzfeldt-Jakob disease. The diagnosis was rendered by Dr. Helen Wen, neurologist, Toronto Western Hospital, and confirmed via RT-QuIC assay of cerebrospinal fluid, 14-3-3 protein positivity, and MRI findings consistent with cortical ribboning in the left temporoparietal region. EEG showed periodic sharp wave complexes at a frequency and morphology characteristic of sCJD.
+
+I will not perform grief here. The reader — if there is a reader; I should note that I am composing this primarily for my own reference, though I have not foreclosed the possibility of later circulation — may supply whatever emotional register seems appropriate. I will supply data.
+
+What CJD does, described in the terms of my discipline rather than Dr. Wen's, is this: the brain is a text. An extraordinarily long, recursive, self-referencing text — a system of signs that generates meaning through combinatorial rules operating over a finite set of elements. What the prion protein does is introduce a mistranslation. Not at the semantic level. Deeper. At the level of the code itself — the molecular alphabet from which the signs are built. The PrP^Sc protein is a misfolded copy of a native protein, and its sole function is to refold other native copies into its own corrupted shape. It is, if you will, an erratum that propagates. A typo that edits the page it sits on. Given sufficient time, the erratum rewrites the entire text, and what remains is spongiform — riddled with vacuoles, with absences where signal used to be. The brain becomes a page full of holes.
+
+I estimate — and Dr. Wen's prognosis is consistent, though she delivered it with more euphemism than I found useful — that I have between four and eight months of functional cognition remaining. The terminal phase, once it begins, is rapid. I intend to use the interval I have to maintain this log with the rigor I would bring to any research project: daily entries when possible, each timestamped and self-assessed for coherence; periodic self-administered linguistic benchmarks (lexical retrieval, syntactic complexity, pragmatic appropriateness); and honest — I must emphasize this — *honest* annotation of any anomalies I observe in my own output.
+
+The value of this project depends entirely on the reliability of the observer. I am aware that this presents a recursion problem: CJD will, by definition, compromise the instrument performing the observation. I will degrade, and my reports of my own degradation will degrade with me. This is, I acknowledge, the central limitation of the study and also, I suspect, its central interest. I am the text and the reader of the text, and both are subject to the same corruption.
+
+I begin, therefore, while the instrument is still calibrated. While I can still trust the evidence of my own sentences. While the prose is, if I may be permitted a single vanity, still mine.
+
+---
+
+**Entry 1.2 — October 3, 2024, 14:17 EST**
+
+A note on methodology.
+
+Each entry will be composed in a single sitting, unedited after completion, in order to preserve the real-time texture of the cognitive state at the time of writing. I will timestamp the beginning and end of each session. I will flag any word-finding difficulties, syntactic breakdowns, or semantic anomalies as they occur, using bracketed annotations — e.g., [Note: 3-second retrieval delay on "morphology"; substituted "shape" before recovering target word]. This convention will allow me (or a later reader) to distinguish between deliberate stylistic choices and involuntary errors.
+
+I will also record, as faithfully as I can, any subjective experiences that fall outside the standard CJD symptom profile. Dr. Wen has encouraged this. "We learn the most from the things we don't expect," she said, which is true but also, I suspect, a sentence she has said to many patients in many contexts, worn smooth with repetition like a stone in a river. I should note that I have no objection to Dr. Wen's manner. She is competent, thorough, and exactly as compassionate as her profession requires without quite tipping into the performative. I have been fortunate in my clinician.
+
+David — my husband — has been reading about CJD since the diagnosis. He has ordered three books, all from the popular press, all written for caregivers. He has not asked to read any of the journal articles I have on my desk, which I understand. They are not written for comfort. He is processing this in his own idiom, which is material and practical: he has rearranged the furniture so I am less likely to fall, he has put my medications into a labeled weekly organizer, he has quietly moved the knives to a higher shelf. I have noticed all of this. I have not mentioned it. There is a particular quality of attention that a person brings to the body of someone who is dying — a watchfulness that pretends to be casual — and I observe it in David now with the same analytical detachment I am bringing to this log, though that may not be detachment at all. It may be the only way I can bear to look at it.
+
+But this entry is about methodology, not David.
+
+I will continue tomorrow.
+
+**[End of entry. Duration: 22 minutes. Lexical retrieval: normal. Syntax: baseline complexity maintained. No anomalies to report.]**
+
+---
+
+## Section 2: Baseline Function and Initial Observations
+
+**Entry 2.1 — October 5, 2024, 09:03 EST**
+
+Self-administered linguistic benchmark (weekly):
+
+**Lexical retrieval test** (timed naming from photographs, n = 60 items): 58/60 correct. Errors: "colander" produced as "strainer" (acceptable synonym, but I know the target was "colander" and experienced a 5-second block before producing the alternate); "protractor" — full retrieval failure, recovered after 11 seconds. Neither error is outside the range of normal variation for a general-population subject, but I note them because my baseline, administered by my own doctoral student Priya Anand last year as part of a control dataset, was 60/60 with mean retrieval latency of 0.8 seconds. I am slower. Not clinically significantly slower. But slower.
+
+**Syntactic complexity** (self-assessed via mean sentence length and subordination depth in preceding entries): Consistent with baseline. Mean sentence length approximately 24 words, mean subordination depth 2.3 clauses. I remain, as one reviewer once put it with what I chose to interpret as admiration, "syntactically baroque."
+
+**Pragmatic appropriateness**: I have noticed no instances of tangential speech, topic drift, or failure to observe conversational maxims in my interactions over the past two days, though I should note that I have had very few interactions. David. Priya, briefly, by email. The pharmacist. I am not yet avoiding people, I think. I am simply — consolidating.
+
+---
+
+**Entry 2.2 — October 7, 2024, 11:30 EST**
+
+David came home from work early yesterday, which he has been doing since the diagnosis, though neither of us has named this pattern explicitly. He brought takeout from the Thai restaurant on Bloor — the one we've been going to since we moved to this neighbourhood in 2019, the one where the owner knows our order. He presented the bag with a kind of studied casualness, as though he had simply happened to pass by, as though this were not a forty-minute detour from his office. I noted the effort. I noted the performance of effortlessness. These observations are not criticisms. They are the behaviours of a man constructing a scaffolding of normalcy around a situation that has no normalcy in it, and I find them, when I allow myself to find them anything at all, touching.
+
+We ate on the couch. He told me about a problem with a client — something about a drainage easement, a surveyor's error, the kind of small municipal frustration that constitutes the texture of his work as a property lawyer. I listened. Or I tried to listen. There is a new quality to my attention that I have been reluctant to document because I cannot yet determine whether it is a symptom or merely a mood, and I do not wish to contaminate this record with interpretive overreach.
+
+What I will say is this: when David was speaking, I became aware of a secondary —
+
+No. Let me be precise. Precision is the entire point of this exercise, and if I begin reaching for metaphors I will lose the data.
+
+When David was speaking, at approximately 18:45, I experienced an intrusive cognition — a verbal-semantic fragment that did not originate from my own internal monologue, or at least did not match the characteristics of my typical inner speech. My internal monologue, as I have documented extensively in my own research on endophasia, tends to be syntactically complete, moderately paced, and marked by the same register as my written output. What I experienced was different in kind: a short, fragmentary, affectively loaded phrase — *she looks thinner*
+
+The phrase appeared (I use "appeared" advisedly; the phenomenology was closer to reading than to hearing, as though the words were briefly *inscribed* somewhere in my visual field, though this may be a post-hoc rationalization) — the phrase appeared during a pause in David's sentence, and was immediately followed by a second fragment: *don't stare at her hands*
+
+I did not speak these words. I did not, as far as I can determine, think them. They were not preceded by the usual preparatory activation I associate with my own verbal production — the ghostly sense of a sentence being assembled before it is delivered to consciousness. They arrived, fully formed, from — and here is where precision fails me — elsewhere.
+
+I should note that intrusive cognition is a well-documented feature of prion disease. As spongiformation progresses in the prefrontal and temporal cortices, the normal inhibitory gating of endogenous thought is compromised, resulting in the subjective experience of thoughts that feel "foreign" or "inserted" — a phenomenon with obvious phenomenological overlap with the Schneiderian first-rank symptoms of schizophrenia, though the underlying mechanism is entirely distinct. [Cf. Josephs et al., 2009, "Rapidly progressive neurodegenerative dementias," *Archives of Neurology*, 66(2), 201–207.] I am not alarmed. I am documenting.
+
+The fragments themselves are notable primarily for their content: they are precisely the sort of thing David *would* think in that moment. I was losing weight. My left hand had been tremoring visibly throughout dinner. The fragments read as plausible David-cognition, which means they are almost certainly generated by my own predictive model of David's mental states — a model built over twelve years of marriage, now liberated from the normal executive constraints that would keep it subvocal and implicit. In other words: I have always, at some level, been simulating David's thoughts. The disease is simply making the simulation audible.
+
+This is the parsimonious explanation. I will note it and move on.
+
+**[End of entry. Duration: 31 minutes. Note: possible paraphasic intrusion during composition — I initially typed "inscribed" as "inscrypted" before correcting. Likely motor error. Flagged for pattern monitoring.]**
+
+---
+
+**Entry 2.3 — October 9, 2024, 07:15 EST**
+
+A brief entry before my appointment with Dr. Wen this afternoon. The fragments have continued. Three occurrences yesterday, two the day before. They are consistently short (3–8 words), consistently in a register distinct from my own, and consistently *about me* — which is, I recognize, exactly what my own anxious subconscious would produce if it were ventriloquizing the people around me.
+
+Occurrence log:
+
+| Timestamp | Context | Fragment | Attributed source |
+|---|---|---|---|
+| Oct 7, 22:10 | David reading beside me in bed | *how long before she can't do this* | David |
+| Oct 8, 09:30 | Phone call with Priya re: lab data | *she sounds the same thank god* | Priya |
+| Oct 8, 16:42 | Walking past neighbour in hallway | *what's wrong with her arm* | Neighbour (Mrs. Cheung) |
+| Oct 9, 06:50 | David making coffee in kitchen | *she's up early again the sleep is going* | David |
+| Oct 9, 07:02 | Alone, composing this entry | [none] | — |
+
+Note the final row. When I am alone, there is nothing. The fragments appear exclusively in the presence of other people. This is consistent with my hypothesis — the predictive social-modelling system requires a target to simulate — but I record it because consistency with a hypothesis is not the same as confirmation of one, and ~~I need to be honest about~~ ~~there is a part of me that~~ I am aware that another explanation exists, and that I am choosing not to entertain it, and that this choice is itself a datum.
+
+**[End of entry. Duration: 14 minutes. No retrieval errors. Syntax stable. Note: first instance of self-redaction — two phrases struck through above. I have left the strikethroughs visible rather than deleting, per my own protocol. I was going to write something I didn't want to write. The content of the redaction is available to a future reader, if not to my present willingness.]**
+
+---
+
+## Section 3: The First Reading
+
+**Entry 3.1 — October 12, 2024, 23:48 EST**
+
+I have not written for three days. This is itself a datum — the first interruption in my logging protocol — and I should record the reason before the impulse to avoid it overwrites the impulse to document.
+
+On the evening of October 10, David and I were on the couch. I had experienced a sustained period of myoclonus — the left hand, then both hands, then a brief but frightening interval in which the tremor spread to my jaw and I could not speak or close my mouth properly. It lasted perhaps ninety seconds. David held my hands. He did not call Dr. Wen. He did not reach for his phone. He held my hands and waited, the way you wait for a seizure to pass, and when it was over, he brought me tea and sat beside me with his thigh against mine and said nothing, which was the right thing, which was the exact and perfect right thing to do.
+
+And while he sat there, while the tea cooled in my hands and his warmth was steady along my left side, the fragments came. Not fragments this time. Not three-to-eight-word bursts. A sustained passage — forty, fifty seconds of continuous interior monologue — in David's voice, in David's register, in the particular cadence I know from twelve years of hearing him think out loud when he doesn't realize he's doing it:
+
+> *she's getting worse

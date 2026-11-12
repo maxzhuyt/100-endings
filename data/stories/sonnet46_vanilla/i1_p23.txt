@@ -1,0 +1,88 @@
+# SCP-7741
+
+**Object Class:** Euclid (Under Review)
+
+**Special Containment Procedures:** SCP-7741 designates the anomalous phenomenon surrounding Senior Researcher Dr. Mara Osei (hereafter referred to as "the subject"). The subject is to be monitored continuously via dormitory and laboratory surveillance. All handwritten materials produced by or delivered to the subject are to be photographed, catalogued, and cross-referenced with the subject's known psychological baseline. The subject is to undergo daily psychological evaluation until the phenomenon resolves or is fully classified.
+
+---
+
+**Personal Log — Dr. Mara Osei**
+**Submitted to Site-19 Oversight per Mandatory Disclosure Protocol**
+
+---
+
+The first note appeared on a Tuesday. I remember because I'd been arguing with Dr. Calloway about the SCP-3812 containment rotation schedule, and I came back to my office irritated and tired, and there it was on my desk. Standard Foundation memo paper — the cream-colored kind with the black header, the kind we all use. My handwriting. Unmistakably mine, down to the way I make my lowercase *e* slightly too open, like a mouth.
+
+It said: *Check the Faraday cage in Lab 7. Don't let them run the Tuesday test.*
+
+I stood there for a long time. Then I checked the Faraday cage. There was a hairline fracture in the copper mesh that nobody had caught. The Tuesday test — a resonance experiment involving SCP-████ — was postponed. Whether that mattered, whether anything would have happened, I still don't know. Dr. Calloway said I was being paranoid. He signed the postponement order anyway.
+
+I told myself it was a prank. Foundation personnel pull stranger things.
+
+The second note appeared inside my locked desk drawer. I had the only key. It said: *They're going to tell you it's psychological. It isn't. Trust the notes more than you trust them.*
+
+That one frightened me more than the first.
+
+---
+
+**Oversight Addendum — Week Two**
+
+Psychological evaluation conducted by Dr. Yuen returned no indicators of psychotic break or delusional ideation. Graphological analysis confirmed with 94% certainty that all notes were produced by Dr. Osei's hand. Temporal displacement of ink composition is being investigated. SCP-████ and SCP-████ have been evaluated as potential sources of psychological manipulation. Neither has been ruled out.
+
+---
+
+The notes started coming faster after that. One a day, then two. I kept them in a locked box inside the site safe. They kept appearing in the box anyway, sometimes on top of notes I hadn't written yet, sometimes tucked beneath ones I had. The timestamps I'd assigned them stopped making sense. I found a note dated three days ahead sitting underneath a note I'd written that morning.
+
+*The breach happens in Lab 4. It starts with the smell of copper. You'll think it's the ventilation.*
+
+*Don't go in when you smell copper. Please. I'm asking you.*
+
+The handwriting on that one was shaking. Mine shakes when I'm exhausted or frightened. I recognized it the way you recognize your own voice on a recording — with revulsion, with disbelief that you actually sound like that.
+
+I started avoiding Lab 4. Dr. Calloway scheduled a meeting to discuss my "pattern of avoidance behavior." I sat across from him and tried to explain that I might be receiving warnings from a future version of myself, and I watched his face do the careful thing that Foundation psychologists' faces do when they're deciding whether to escalate a case.
+
+He escalated the case.
+
+---
+
+**Oversight Addendum — Week Three**
+
+Dr. Osei has been temporarily reassigned from active research. Temporal Affairs Division has been consulted. TAD Senior Agent Reyes notes that verified cases of retrocausal information transfer have involved significant energy expenditure and typically produce observable environmental signatures. No such signatures have been detected. However, TAD cannot rule out a low-energy mechanism not yet classified.
+
+SCP-████ containment has been reinforced as a precaution.
+
+---
+
+The notes started contradicting each other in week three. One said the breach would happen on a Friday. Another said it had already happened and I'd survived it. A third said I hadn't.
+
+*You won't remember this but you've already read this note four times. Each time you lock it away. Each time it comes back. You need to stop locking things away and start acting.*
+
+*The thing in Lab 4 knows you're reading these. It wants you to act. Don't.*
+
+That second one was in my handwriting too. Same pen pressure. Same open *e*. Two notes, both mine, telling me opposite things. I sat on my dormitory floor with them spread around me and tried to decide which version of myself to trust, and the answer that kept surfacing was neither. Neither version of me knew what was real anymore.
+
+That's when I understood that might be the point.
+
+If SCP-████ could produce targeted psychological deterioration — and the literature suggested it could, under certain conditions — then the notes didn't need to be real. They only needed to seem real. They only needed me to stop trusting my own perception long enough to become useless, or dangerous, or both.
+
+I wrote that theory in my official report. Dr. Yuen called it a "healthy critical reframing." Agent Reyes called it "exactly what a manipulated subject would conclude." Both of them are right. That's the problem.
+
+---
+
+The last note I received was yesterday. It appeared on my pillow. It said:
+
+*I know you've decided the notes aren't real. That's what I decided too. I was wrong. The smell of copper isn't the ventilation.*
+
+*I'm sorry I couldn't be clearer. I'm sorry I ran out of time to be clearer.*
+
+*Don't go into Lab 4.*
+
+It is in my handwriting. It is on standard Foundation memo paper. I have not been in Lab 4 in eleven days.
+
+Lab 4 smells like copper this morning. I can smell it from the hallway.
+
+I don't know what I'm going to do.
+
+---
+
+**Status:** Ongoing. Dr. Osei is under observation. Lab 4 has been temporarily sealed pending olfactory analysis. No anomalous readings detected as of 0800.

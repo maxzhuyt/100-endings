@@ -1,0 +1,89 @@
+# The Parsley Gulch Field Journal
+
+## Being Selected Entries from the Personal Diary of Constance "Connie" Ruark, Sanitary Surveyor, Colorado Territory, 1873
+
+*Edited and annotated by Dr. Helen Ostrander-Wills, Senior Research Fellow, Rocky Mountain Sanitation History Project, University of Denver*
+
+---
+
+### Editor's Preface
+
+The document presented here was recovered in 2011 from the estate of Walter Ruark Kessler of Pueblo, Colorado, a great-grandnephew of the diarist, who had stored it in a cedar chest alongside several daguerreotypes, a box of corroded cartridge casings, and a hand-drawn map of the upper Arkansas River watershed labeled, in the diarist's distinctive hand, "Where Not to Drink." The journal itself is a standard leather-bound octavo notebook of the kind commonly available at dry-goods stores throughout the Colorado Territory in the early 1870s, its pages heavily foxed and bearing the residue of substances this editor has elected not to have chemically analyzed. The handwriting, verified against Ruark's three surviving letters to the Denver Board of Health (1871–1872), is confident, legible, and remarkably consistent given what appears to have been the challenging fieldwork environment in which the entries were composed.
+
+A note on the text: Constance Ruark's prose style presents certain editorial challenges. Her language is, by the standards of any era, frank. By the standards of a woman writing in 1873, it is without known parallel in the archival record.[^1] We have elected to present the diary entries unredacted, in keeping with the Project's commitment to preserving primary sources in their original form, though we acknowledge that certain passages may strike the modern reader as startling in their anatomical specificity. Where context is required — historical, scientific, or interpretive — we have supplied it in the footnotes. Where context is insufficient, we have done our best.
+
+The events described in these entries took place in and around the settlement of Parsley Gulch, a short-lived mining camp in the Sangre de Cristo range, during the months of August and September 1873. Parsley Gulch does not appear on any modern map. Its brief existence is attested primarily by two sources: this journal, and a single paragraph in the *Cañon City Avalanche* dated November 8, 1873, which reports the abandonment of the settlement owing to what the newspaper delicately termed "an insuperable difficulty with the water."
+
+We believe Ruark's account offers a more complete picture.
+
+—Dr. Helen Ostrander-Wills
+Denver, Colorado
+March 2024
+
+[^1]: The closest comparable document in our collection is the 1869 field diary of Ephraim Scoville, a drainage engineer for the Union Pacific, whose descriptions of latrine conditions at the Promontory Summit labor camps are notable for their candor. Scoville, however, confines himself to technical language. Ruark does not confine herself. An illustrative example: where Scoville might write "the seepage presents a hazard to the downstream water table," Ruark, describing a functionally identical situation, writes — and we will paraphrase here, as the original entry contains language we feel is better encountered in its full context below — that the effluent in question was sufficient to "turn the stomach of a hog that had already been eating its young." The paraphrase, we concede, does not capture the full force of the original.
+
+---
+
+### August 3, 1873
+
+Arrived Parsley Gulch at half-four in the afternoon having spent the last nine miles on the back of a mule named, by its owner, "Dependable," a name I can only attribute to frontier irony or a528 forthright contempt for the English language, as the animal stopped dead eleven times by my count, tried to eat my left boot twice, and finally sat down — *sat down*, like a dog — at the top of the pass and refused to move until I dismounted and swore at it in a manner I will not reproduce here because I am told by the Board that these field journals may one day be reviewed and I would like to maintain what little professional reputation I have, though God knows if they send me to one more camp like this I shall not have a reputation, I shall have a coroner's report.[^2]
+
+The sky coming over the divide was the color of an old bruise. Rain threatened but did not deliver, which I have found is a defining characteristic of both the Colorado weather and the Colorado male. The trail down into the gulch follows a creek bed that is dry, sandy, and decorated at intervals with the carcasses of pack animals in varying states of picturesqueness. I counted three mules and what was either a very small horse or a very large dog. The smell improved as I descended, which I record only because it ceased to improve approximately two hundred yards from the settlement, at which point it reversed itself with a vengeance that I can only describe as *theological.*[^3]
+
+Parsley Gulch. I have now seen it. I would like to unsee it. The town — I use the word with the same liberality with which its inhabitants use their drinking water as a privy — sits in a narrow draw between two ridges, the kind of situation that a thoughtful person would recognize as a natural drainage trap and an unthoughtful person would recognize as a fine place to dig a hole and get rich. There are perhaps sixty structures, mostly canvas and raw pine, arranged in two opposing clusters separated by what I am given to understand is the cause of all the trouble: a natural hot spring roughly forty feet across, which steams and burbles and stinks in the center of the draw like the boil on the backside of the Lord's creation.
+
+I approached the spring before presenting myself to either camp, as I have learned that it is best to assess the hydrological situation before anyone has a chance to lie to me about it. I will describe what I found, though I recognize that my description may test the limits of the journal form and possibly of the paper itself.
+
+The spring is fed from below by a geothermal source. The water temperature at the upwelling I estimate at 105 to 110 degrees Fahrenheit — warm enough to culture every bacterium known to Dr. Koch and several I suspect he would prefer not to meet.[^4] The pool is ringed by a mineral deposit,ite-colored, three to five inches thick, which at some point in the geological past was probably white and is now the yellow-brown of a baby's first sin. Floating on the surface: a film, iridescent, of a color I associate with the insides of things that should remain inside. Along the eastern bank, closest to the larger of the two camps, the mud has been churned to a consistency and fragrance that I can only compare to the back end of a slaughterhouse in July.
+
+I knelt. I smelled. I did not taste, because I wish to continue living.
+
+I have been in mining camps from Leadville to Fairplay and I have seen what men will do to a water source when left unsupervised, but I tell you now, in the privacy of this journal and before whatever God oversees the bowels of the Colorado Territory: I have never seen a natural spring so thoroughly, creatively, and enthusiastically ruined. Both camps are using it. Both camps are fouling it. The upstream-downstream distinction, which in most settlements provides at least a theoretical gradient of contamination, is meaningless here — the spring has no outlet. It simply *sits*. Everything that goes in stays in. I observed, within arm's reach of each other: a shaving station, a laundry operation, a place where someone had clearly been washing ore samples, a place where someone had clearly been washing *themselves*, and a place where someone had clearly been doing something I will not name except to say that the evidence was unambiguous and still warm.[^5]
+
+The men of Parsley Gulch are killing each other over the right to this.
+
+I shall present my credentials tomorrow. I am not optimistic.
+
+[^2]: The Denver Board of Health did indeed review field journals submitted by its contracted surveyors, though the practice was largely administrative. Ruark's surviving correspondence with the Board suggests a contentious relationship. In a letter dated April 1872, the Board's secretary, one Charles Hennepin, writes: "We again respectfully request that Miss Ruark confine her reports to factual observations and refrain from characterizing municipal officials as — " the letter breaks off here, as the lower half of the page has been torn away. The missing portion has not been recovered.
+
+[^3]: Ruark's olfactory descriptions, while vivid, are consistent with what we know of boomtown sanitation. A survey conducted by the Colorado Territorial Board of Health in 1874 — one year after the events described here — found that of thirty-seven mining settlements inspected, thirty-one had no organized waste-disposal system, and fourteen were drawing drinking water from sources located within fifty yards of active latrines. Parsley Gulch was not among the settlements surveyed, as it no longer existed.
+
+[^4]: Robert Koch's foundational work on bacterial culture would not be published until 1876. Ruark's reference to culturing bacteria, if accurately dated, suggests a familiarity with germ theory that was remarkably advanced for an American field sanitarian in 1873. It is possible this entry was written or revised at a later date, though the ink and handwriting are consistent with the surrounding entries. We note this without attempting to resolve it.
+
+[^5]: We have consulted with Dr. James Olvera of the Colorado School of Public Health regarding the hygienic implications of the conditions Ruark describes. Dr. Olvera's assessment, delivered after reading this entry, was: "Dear God." He subsequently provided a more formal analysis, which we summarize as follows: a geothermally heated, enclosed water body subjected to the contamination Ruark describes would be, within days, a breeding ground for *Vibrio cholerae*, *Salmonella typhi*, and numerous coliform bacteria. The warm temperature would accelerate microbial growth. The lack of an outlet would prevent any natural flushing. The spring, in short, would have been one of the most dangerous bodies of water in the Colorado Territory. Both camps were drinking from it.
+
+---
+
+### August 4, 1873
+
+I must set down the facts of the situation as I now understand them, because I suspect that when I am old — if the water here does not prevent it — I will read this account and refuse to believe it, and I would like my future self to know that I am not exaggerating, that I recorded this sober and in daylight, and that the human race is exactly as stupid as it appears.
+
+There are two mining operations in Parsley Gulch. On the eastern ridge, occupying the larger and slightly less squalid cluster of structures, is the Consolidated Sovereign Men's Mining Company.[^6] On the western ridge, in a camp that looks as if it was assembled by someone who had heard buildings described but never actually seen one, is the Grand Dominion Brotherhood Mineral Extraction Outfit. I understand there was once a third operation, the Apex Alliance, but it departed in the spring after a dispute I have not yet been able to characterize and which may not be relevant.
+
+The war — and I am told I must call it that, as both sides insist upon the term with the gravity of men who have read about Gettysburg and believe they are participating in a similar endeavor — concerns the spring. Specifically, it concerns the mineral rights to the spring and the three hundred feet of ground surrounding it, which both companies claim under separate filings with the territorial register in Cañon City.[^7] Seven men have died since June: three by gunfire, one by stabbing, one by what I am told was "an accident with a powder charge" that I suspect was no accident and very little charge, and two — and here we arrive at my professional interest — from complaints of the gut that could have been avoided if a single person in this settlement understood the relationship between the creek he shits in and the creek he drinks from.
+
+Guards are posted around the spring at all hours. The Consolidated Sovereign Men have four, stationed on the east bank in a breastwork made of ore carts and flour barrels. The Grand Dominion Brotherhood has three, set up behind a wall of stacked pine logs on the west bank, one of whom was, when I observed him this morning, actively vomiting into the water he was guarding.[^8] Shots are exchanged at irregular intervals, mostly in the evenings, mostly after whiskey. I am told this is called "holding the line."
+
+Neither camp has a well. Neither camp has a latrine worthy of the name — I have inspected them.[^9] Neither camp has a doctor, though the Consolidated Sovereign Men employ a man named Prouty who claims medical training and who, when I asked him his opinion on waterborne disease, looked at me as though I had asked his opinion on the mating habits of mermaids.
+
+I will describe the men later. They are not yet interesting enough to describe. The spring is the protagonist of this story, and the spring is dying, and the men are dying with it, and nobody will admit that the thing they are fighting over is the thing that is killing them because to admit it they would first have to look at it — really look at it, the way I look at it — and a man in the Colorado Territory will do many things, but he will not look at his own shit and call it by name.
+
+I am going to fix this. I do not yet know how.
+
+[^6]: We have been unable to locate incorporation papers for either the Consolidated Sovereign Men's Mining Company or the Grand Dominion Brotherhood Mineral Extraction Outfit in the Colorado territorial records. The names are consistent with the era's tendency toward grandiose corporate styling: a survey of mining company filings from the 1870s yields such specimens as the Imperial Hercules Gold & Silver Extraction Brotherhood, the Supreme Continental Mineral Syndicate, and — our personal favorite — the Majestic Sons of Triumph Prospecting Association of Breckenridge, which appears to have consisted of two brothers and a borrowed mule.
+
+[^7]: Overlapping mineral claims were among the most common sources of violence in the Colorado mining camps. The territorial claim system, administered from a central office that was in practice weeks of travel from most active mining districts, was easily exploited. Duplicate filings were routine. The confusion was often genuine, but just as often it was strategic: filing an overlapping claim against an established operation was a recognized, if disreputable, tactic for extracting a buyout. Whether this was the case in Parsley Gulch, we cannot determine from the available evidence.
+
+[^8]: We feel it is our responsibility to note that the guard in question was almost certainly suffering from cholera or a closely related enteric illness, and that his vomiting into the spring would have significantly worsened the contamination. We note this in the spirit of historical completeness, and because Ruark would have wanted us to.
+
+[^9]: Ruark's inspection of the latrines is described in detail in a passage we have elected to omit from this edition. The passage spans approximately three-quarters of a page and includes language and imagery that we feel exceeds the requirements of historical scholarship. We will note only that the latrine of the Grand Dominion Brotherhood is described as being situated uphill from the camp's food preparation area and directly above a natural drainage channel, and that the latrine of the Consolidated Sovereign Men is described, in its entirety, as "a plank over a ditch and a prayer to a God who has clearly left the territory." Interested scholars may consult the original document at the Project archives by appointment.
+
+---
+
+### August 5, 1873
+
+Today I presented myself to Mr. Harlan Grieve, superintendent of the Consolidated Sovereign Men, a man built like a barrel that has been left in the rain and has begun to believe it is a cathedral. He has a beard the color and texture of steel wool, hands like catcher's mitts, and the bearing of a person who has never once in his life been told he is wrong by anyone he felt obligated to listen to.
+
+I came with my credentials: my letter of commission from the Denver Board of Health, my certificate of training from the Philadelphia Sanitary Institute (such as it was — four months of lectures, half of them given by men who had never been west of the Schuylkill River), and my own card, which reads: *Constance A. Ruark, Sanitary Surveyor and Drainage Consultant.* I have found that the card produces, in roughly equal proportions, confusion, amusement, and the kind of focused discomfort a man exhibits when he has sat on a cactus and is attempting to pretend he has not.
+
+Grieve received me in what passes for his office, a canvas-roofed lean-to attached to the assay shack, furnished with a desk made from a door and two sawhorses, a chair that had been repaired with rawhide, and a spittoon that had not been

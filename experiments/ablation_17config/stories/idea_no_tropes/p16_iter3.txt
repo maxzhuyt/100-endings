@@ -1,0 +1,51 @@
+Let me carefully study these structural beats and write the story accordingly. This is a complex found-document story about a Colombian-US counter-narcotics task force, told through compiled documents with margin annotations by the sole survivor, Maria Estrada.
+
+Let me plan the story beat by beat:
+
+Beat 1: Cover memo - bureaucratic, with handwritten annotation
+Beat 2: Personnel dossier, operational brief, margin crosses
+Beat 3: First ambush - field report, wiretap transcript, after-action memo, Maria's annotation
+Beat 4: Maria's parallel archive of internal communications revealed
+Beat 5: Teammate accuses a mole, gets pathologized, dies
+
+
+Beat 6: Maria's analytical summary revealing the sequential pattern of betrayals
+Beat 7: I need to construct an ending that ties everything together
+
+The clues scattered throughout suggest Maria may have deliberately allowed people to die to map the full network of moles, her silence functioning as a methodological choice rather than ignorance. The cover memo needs to read as mundane initially but become devastating on a second pass, and the final document should crystallize the question mark next to her own name—whether she was complicit, a victim, or something more complex entirely.
+
+I'm structuring this as a series of official documents: starting with a classified cover memo, then personnel files, operational briefs, intercepts, and field reports that gradually build toward an accusation memo and her response, all designed to make the reader realize Maria's "complete record" is actually her own confession. The mole wasn't one person but a chain, and her inaction—watching people die while gathering evidence—makes her part of that chain. was the mechanism by which HALCÓN could discard each mole and move to the next. Her "complete record" is actually her confession that her methodology was indistinguishable from complicity. The question mark next to her name isn't uncertainty about whether she survived - it's uncertainty about whether she, too, was a mole, or something worse: the one who let each mole be used up because she needed more data.
+
+The pattern mirrors Lu Xun's systemic cannibalism - the mole wasn't one person but everyone sequentially turned and discarded. Maria's real complicity was choosing to document rather than intervene, which meant she served the same function as the moles themselves, allowing operations to be compromised because stopping one would have meant losing the full picture she was after.
+
+The most devastating ending would be a final intercept revealing HALCÓN knew about Maria's surveillance all along and kept her alive precisely because her silence was useful to him. Her survival wasn't escape - it was containment. I should draft this now, though I'm still working through what the final document needs to accomplish. Maria's final annotation is the devastating confession—she knew what was happening, could have stopped it, but chose the data over the people, and now she can't tell if she was a failed analyst or an unwitting asset. The question mark next to her name captures that uncertainty perfectly. For the ending, I'm realizing the most structurally satisfying version is revealing that the last person in the chain of moles—the final link—is Maria herself, which reframes everything that came before.
+
+But here's what makes it truly devastating: she was never formally recruited or contacted. HALCÓN simply recognized that she was watching and documenting everything without acting, and let her continue. Her silence became his final asset. She turned herself through her own analytical rigor, becoming the enemy's instrument through the very act of trying to expose his instruments.
+
+The file ends with an intercepted message from HALCÓN's frequency—coordinates matching where the last team died, preceded by "la analista no va a hablar"—and Maria's final annotation is blank. There's nothing left to say.
+
+I'm settling on the sequential mole revelation as the structural climax, with Maria's confession that her silence was the final link in the chain. Not that she was formally a mole, but that her choice to document rather than act made her functionally indistinguishable from one. The closing intercept proves HALCÓN knew about her and weaponized her inaction.
+
+Now I'm structuring this as a series of documents—cables, memos, annotations—with bureaucratic formatting to make it feel authentic. I'm aiming for around 8,000-12,000 words to give each beat proper weight. The seventh beat will feature that final intercept where HALCÓN references "la que escucha" or something similar, revealing he was aware of Maria's surveillance all along and saw her silence as his greatest operational asset. Maria's final annotation will acknowledge this, and the file closes with a handwritten note that recontextualizes or reframes the opening line.
+
+The closing handwritten line should echo the opening—"I have included everything. That is the least and most I can do"—but now it reveals what "everything" truly means: she's included evidence of her own complicity. That reframing will send readers back to the cover memo with new understanding.
+
+Now I'm mapping out the key personnel: Maria Estrada as the intelligence analyst with signal intelligence background and meticulous personal logs, Captain Rodrigo Uribe as the methodical team leader with fifteen years in counter-narcotics and a personal life anchoring him to reality, and Tomás Gallardo as the next figure to establish.
+
+Continuing with the team roster and establishing the dynamics—Andrés Salcedo as the well-connected liaison who becomes the accused and exonerated figure, contrasting with Gallardo's accusation and subsequent pathologizing. Then there's Jim Whitfield, the DEA embedded advisor with his wife seven months pregnant when the operation begins, Patricia Reyes handling communications with her encyclopedic knowledge of frequencies, and Carlos Mendieta as the technical analyst with his shortwave radio habit. The deaths begin with Whitfield...
+
+or maybe Carlos instead, since the fútbol detail adds poignancy. Actually, I'm weighing whether to kill Carlos early for emotional impact or save Whitfield's death for later when the pregnant wife detail can land harder. Patricia as the first casualty doesn't quite hit the same way. I think Carlos Mendieta works best for Beat 3—it's devastating but not the ultimate blow—and then I can bring the pregnant wife tragedy back later for maximum effect.
+
+Now I'm mapping out the death sequence: Carlos goes first in the ambush, then Patricia and Whitfield die between the beats, with Whitfield's wife detail becoming tragic in the documents. Tomás gets accused and pathologized before his death in Beat 5, Salcedo dies in the Beat 6 timeline, and Rodrigo goes last. But wait—Beat 6 mentions each team member was turned sequentially, which means potentially all of them except Maria were compromised at some point.
+
+That's the real horror: these deaths aren't just of innocents, but of people who'd already been turned and were being discarded once they stopped being useful. So Carlos with his radio access might've been the first one flipped, used for initial intelligence, then eliminated in that Beat 3 ambush when he became expendable. Each subsequent death follows the same pattern—turned, exploited, disposed of. someone being killed in an ambush that seemed prepositioned. If the dead person was the mole, that doesn't quite work because why would the cartel kill their own mole?
+
+Actually, it does work: the cartel used Mendieta, then when his access was no longer needed (or he was about to be discovered), they eliminated him in a staged ambush that looked like a random operational failure. "Discarded."
+
+But in Beat 3, the ambush kills a team member during a raid. The wiretap shows HALCÓN giving coordinates. The interpretation is that someone leaked the raid details. If Mendieta was the mole, he leaked the raid details, but... then he was killed in the same raid? That would be the "discarding" - they set up the ambush knowing he'd be there, eliminating their used-up asset.
+
+That's dark and effective. Maria's note in Beat 6 would reveal this pattern. So I'm reconsidering whether the person killed in Beat 3 is actually the mole or just collateral damage. If each compromise correlates to a different team member being turned and then discarded, then the deaths themselves are the moles being eliminated after they've served their purpose—not innocent bystanders caught in the crossfire. Discarded' sometimes meant assassination, sometimes disappearance, sometimes simply the cessation of contact followed by the agent's death in a subsequent raid that the agent no longer had value to prevent."
+
+That last phrase is key: "the agent no longer had value to prevent" - meaning the mole could have warned the team about the raid (since they were in contact with HALCÓN), but HALCÓN stopped communicating with them, so they couldn't warn even if they wanted to, and they died in a raid because the cartel's protection was withdrawn.
+
+So the pattern

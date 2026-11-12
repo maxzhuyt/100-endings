@@ -1,0 +1,119 @@
+# The Frequency of Forgotten Things
+
+## I.
+
+The cat was judging me for the soldering iron.
+
+Not judging — that implies a process of evaluation, a weighing of evidence. Moth doesn't weigh anything. Moth simply arrives at a verdict and inhabits it with her entire body. The verdict, that evening, was that I'd spent too long at the bench and not long enough operating the can opener, and she delivered this finding by sitting on the exact section of the shortwave receiver I needed to reach, her tail draped across the frequency dial like a furry injunction.
+
+"You're not wrong," I told her. "But the 4.7-ohm resistor goes in tonight or it doesn't go in at all, and if it doesn't go in, then the maritime band stays dead, and if the maritime band stays dead, I can't listen to the Filipino cargo vessels arguing about right-of-way in the Strait of Malacca, and then what was any of this for?"
+
+Moth blinked. The verdict stood.
+
+I should say — because I have the feeling this is going to be a story I need to tell in order, and I'm not naturally an in-order person — that it was a Tuesday in November, that I was in my apartment in Haifa, that the apartment smelled like the garlic I'd burned trying to make the toum that Yael from downstairs insists is simple and which I have now failed at eleven times, and that I was sixty-three years old and comfortable with every one of those years in the way you become comfortable with a coat that doesn't quite fit but that you've worn so long the shape of it is your shape now.
+
+The soldering iron hissed. Moth repositioned her disapproval three centimeters to the left, which was enough. I leaned in, touched the joint, watched the silver bead form—
+
+And behind me, on the shelf where I keep the equipment I haven't officially used in nine years but which I leave plugged in because the draw is negligible and because unplugging things is a kind of surrender I'm not ready for, a red LED began to pulse.
+
+I didn't hear it at first. The shortwave was crackling with static, and the window was open to the courtyard where the Levy children were conducting what sounded like a war-crimes tribunal against their youngest sibling for the crime of stepping on a beetle. But Moth heard it. Moth's ears rotated like satellite dishes toward the shelf, and she abandoned her post on the receiver with the offended urgency of a diplomat recalled to her capital.
+
+I turned.
+
+The monitoring rig was a ugly thing — a repurposed rack-mount server I'd fitted with a dozen demodulators and a piece of software I'd written myself in 2011 when I still had the optimism for side projects. It listened, passively, to a spread of frequencies that used to carry automated telemetry from remote infrastructure stations across central Asia. Weather monitors. Seismic stations. Hydrology sensors. And a handful of relay installations that the Soviet Union had built in the 1960s and '70s for purposes that ranged from the prosaic to the classified, most of which had gone dark before the Berlin Wall came down.
+
+No one monitored these frequencies anymore. The stations had been decommissioned, or forgotten, or both. The international monitoring agreements had lapsed. The budgets had been reallocated. The engineers who understood the equipment had retired and in some cases died. I knew this because I'd been one of those engineers — not Soviet, obviously, but part of the international atmospheric monitoring cooperative that had, for a few decades, maintained a kind of global nervous system for the facilities that nations had scattered across their territories and then neglected. When the cooperative dissolved in 2015 — budget cuts, institutional apathy, a new generation of satellite-based monitoring that was better at everything except the things it couldn't do at all — I'd taken my rack-mount home and plugged it in and told myself it was a hobby.
+
+It was not a hobby. Hobbies are things you do because you enjoy them. I kept the rig running because some part of me couldn't accept that there was no one left listening to the frequencies. That was a different thing. That was something closer to a duty. Or a compulsion. Or a prayer to a god I didn't believe in that the silence on those channels was actually the silence of things working correctly, and not the silence of things failing without witnesses.
+
+The LED pulsed.
+
+I put down the soldering iron, pushed my stool back, and crossed the room. The monitoring software had flagged an incoming signal — automated, compressed, formatting consistent with the old Soviet TLM-3 telemetry standard. Source identification embedded in the header. I leaned forward, adjusted my glasses, and read the station code.
+
+ARAL-7.
+
+I sat down.
+
+I sat down because my knee demanded it, which is the excuse I'll give, but also because the name hit me somewhere in the architecture of my memory that I don't usually visit. Aral-7 was a relay station in western Kazakhstan, built in 1971 on a plateau above the remains of what used to be the Aral Sea's northern shoreline. I had never been there. I had never needed to go there. It had been mothballed — officially, ceremonially mothballed, with the decommission paperwork filed and the international notifications sent — in 1994, which was the year I got married and also the year I stopped believing that the phrase "standing order" was something bureaucracies took seriously.
+
+Aral-7 should not have been sending anything.
+
+I opened the telemetry packet. It took me a minute — the TLM-3 format is not intuitive, and my decoder hadn't been updated since I wrote it, and the data was compressed using a scheme I had to look up in a reference document I kept in a folder on my desktop labeled, with the organizational genius of past-me, "STUFF." But the structure was clean. The packet was well-formed. The transmission was not a ghost or a glitch or a piece of atmospheric noise that my software had misinterpreted. It was a distress ping — automated, machine-generated, triggered by a subsystem that had been designed, fifty years ago, to cry for help if specific operational parameters were exceeded.
+
+The subsystem was the cooling plant. The parameter it was reporting was volumetric vent rate. And the rate it was reporting was—
+
+I checked my math. I checked it again. I opened a separate calculator and did it by hand, because there are moments when you do not trust the machine.
+
+The cooling plant at Aral-7 was venting compressed refrigerant into the atmosphere at a rate of approximately eleven thousand cubic meters per hour. It had been doing so, according to the timestamp in the packet, for nineteen days.
+
+I need to explain what that means, and I need to explain it in a way that doesn't sound like a lecture, because I've been told — by Yael, by my daughter, by the barista at the café who made the mistake of asking what I did before I retired — that I have a tendency to become professorial at exactly the moments when I should become concise.
+
+So: concisely.
+
+The refrigerant used in Soviet-era industrial cooling systems of that vintage was a chlorofluorocarbon compound — not Freon exactly, but a cousin of Freon, heavier, more persistent, and in the quantities Aral-7 was releasing, capable of doing something very specific to the column of atmosphere directly above it.
+
+Imagine the air over a landscape as a stack of blankets. Warm air below, cool air above, the whole system held in a gentle equilibrium that allows, among other things, weather to work. What the refrigerant does — what any sufficiently massive release of a heavy halogenated gas does — is poison the bottom of the stack. It displaces oxygen at ground level, yes, but more importantly, and more insidiously, it disrupts the thermal gradient. The bottom of the stack gets cold. The top of the stack doesn't know this yet. And when the top of the stack finds out — when the convective cycle that has been moving heat upward suddenly discovers that the ground layer is denser and colder than it should be — the stack doesn't adjust. It collapses. The column of air above the release site undergoes a kind of inversion seizure: temperatures plummet, air pressure drops, and for a radius that depends on the volume of the release and the local topography, the atmosphere stops doing the things that atmosphere does.
+
+It stops carrying sound in the way you expect. It stops moving heat. It stops, in the most visceral and immediate sense, being something you can comfortably breathe — not because the oxygen is gone, though at ground level near the source it might be, but because the air becomes so cold and so dense and so still that breathing it is like breathing a wall.
+
+This is not theoretical. It happened in Cameroon in 1986, at Lake Nyos, when a limnic eruption released a cloud of CO₂ that rolled down the hillsides and killed 1,746 people in their sleep. It happened on a smaller scale at a chemical plant in Bhopal. The mechanism is different in each case. The outcome is the same. The air betrays you.
+
+I pulled up a map. The plateau where Aral-7 sat was elevated — three hundred meters above the surrounding lowland. Below it, in the alluvial plain that had once been the Aral Sea's basin, there were three villages. I could see them on satellite imagery: Karateren, Zhanbay, Tastubek. Tiny. Remote. The kind of settlements that exist on maps the way certain stars exist in catalogs — cataloged, yes, but not observed, not visited, not considered by anyone in any capital with the power to consider things.
+
+I did not know their populations. I looked it up. Karateren: approximately eight hundred people. Zhanbay: approximately fourteen hundred. Tastubek: approximately nine hundred.
+
+Three thousand one hundred people, plus or minus, living in the airflow path below a station that was pumping invisible poison into the sky.
+
+I checked the international monitoring feeds. There was nothing. No alert, no advisory, no notation. The satellite systems that had replaced the cooperative could detect atmospheric anomalies at scale — they were very good at hurricanes, at volcanic plumes, at the large and photogenic disasters that looked compelling in briefings. A localized refrigerant release from a single ground-level source in a part of Kazakhstan that no one was studying? It would not register until the inversion column was fully formed. And by then the cold air would already be rolling downhill.
+
+I checked the station's administrative record. Mothballed, 1994. Custodial responsibility transferred to the Kazakh Ministry of Emergency Situations in 2003 as part of a bilateral agreement. No inspections on record since 2007. No maintenance. No human contact of any kind.
+
+In the past. That was the phrase. Aral-7 was in the past.
+
+I pulled up the cooperative's old emergency contact list — the one I'd kept, updated sporadically, more as a memorial than a resource. I called the first number. Disconnected. The second. A fax machine screamed at me. The third connected to a government office in Almaty where a young woman listened to me politely and then explained that the department I was looking for had been merged with another department that had subsequently been dissolved, and could she transfer me to the general inquiry line?
+
+I hung up. I called the IAEA's environmental monitoring desk in Vienna and spoke to a night-duty officer who took my information with the careful blankness of a person who has been trained to take information without committing to the belief that it is real. He told me someone would follow up within seventy-two hours. I asked him what the weather was like in Vienna. He told me it was raining. I told him that in seventy-two hours the atmosphere above three villages in Kazakhstan might be unbreathable and I would appreciate a more aggressive timeline. He put me on hold. I listened to Vivaldi in a tinny arrangement. He came back and told me someone would follow up within forty-eight hours.
+
+I did the math one more time. Vent rate, duration, gas density, terrain slope, wind patterns for the region at this time of year. I had nineteen days of accumulation already and a topography that channeled cold air downslope like a funnel. The villages were sixty kilometers from the station. Sixty kilometers of gradual descent through low scrubland and dry riverbed.
+
+At current rates, the inversion front would reach Karateren in four to six days. Zhanbay and Tastubek shortly after.
+
+I looked at Moth. Moth was asleep on the windowsill, magnificently indifferent to atmospheric fluid dynamics.
+
+"I'm going to Kazakhstan," I told her.
+
+She didn't open her eyes.
+
+I called Yael. I asked her to feed the cat. I asked her to water the plant on the balcony — the stubborn one, the one that kept surviving despite my absolute failure to care for it, which I took as evidence that some things are simply determined to live. Yael asked me why I was going to Kazakhstan on a Tuesday night. I told her a machine was doing something it shouldn't, and no one else was picking up the phone. She was quiet for a moment, and then she said, "Dov, you're retired."
+
+"Semi-retired."
+
+"You're sixty-three."
+
+"You're fifty-eight. We're both numbers. I'll be careful."
+
+"You're going to go whether I say anything or not."
+
+"Yes."
+
+"Then bring a real coat. Not the one you think is warm. The one that's actually warm."
+
+I packed. The warm coat — the actual warm coat, not the one I think is warm but which Yael correctly identifies as a gesture toward warmth rather than an achievement of it. Tools. The laptop. A portable HF transceiver in case I needed to reach someone from the field. My old cooperative credentials, expired, laminated, probably useless, carried the way some men carry photographs of their younger selves. And at the last moment, standing in the doorway with my bag slung over my shoulder and one foot already in the hallway, I turned back and pulled from the shelf the one piece of equipment I had promised myself I would never need again: the field manual for the TLM-3 telemetry standard, Soviet revision, 1974 edition, its cover stained with coffee that was not mine and marginal notes in a handwriting I still recognized.
+
+My grandmother's handwriting.
+
+I turned off the light. The monitoring rig's red LED pulsed in the dark, steady as a heartbeat, faithful as a dog, sending its small alarm into a room that was no longer occupied.
+
+I was already gone.
+
+---
+
+## II.
+
+In Karateren, Aisulu was testing the dough.
+
+She pressed two fingers into the center of the mass and watched it spring back — slowly, as dough should, with the elastic reluctance of something that has been worked and folded and given time to become itself. Her mother had taught her the test. Her mother's mother had taught her mother. The knowledge lived in her fingertips the way that certain words live in the mouth: you didn't think about them; you simply said them, and they were right.
+
+The dough was for baursak. Forty kilograms of it, rising in three zinc tubs on the floor of the schoolhouse kitchen, because tomorrow was the start of the three-day harvest festival and there would be baursak at every table, in every house, piled on plates and offered to anyone who walked through a door, which for three days would be everyone who walked through every door. The festival was Karateren's one annual act of collective extravagance — a remnant of the kolkhoz era that had survived the dissolution of the kolkhoz itself, persisting the way certain plants persist after the garden has been abandoned, not because anyone tends them but because their roots go deeper than the gardener knew.
+
+Aisulu was sixty-one. She was the school cook. She had bad hips and a voice that could stop a child at forty meters, and she loved the festival with an intensity that she understood was disproportionate but which she made no effort to moderate. Tomorrow morning she would start frying at four a.m. Tonight she tested the dough and listened to the sounds coming through the open window: children in the schoolyard stringing lights between the goalposts of the football pitch, their voices carrying in the still air the way voices

@@ -1,231 +1,136 @@
-# 100-Endings: Narrative Pipeline Ablation via Ending Geometry
+# 100-Endings
 
-Evaluates creative writing pipeline configurations by measuring **how predictable and coherent generated stories are** using 100-ending geometry — a method that generates 100 possible continuations at each position in a story and analyzes their geometric properties in embedding space.
+Code, data and results for **Spoiler Alert: Narrative Forecasting as a Metric for Tension in LLM Storytelling**
+(Sui\*, Zhu\*, Cheng, West, So, Long, Holtzman — COLM 2026; [arXiv:2604.09854](https://arxiv.org/abs/2604.09854), v2).
 
-## How It Works
+The metric walks through a story sentence by sentence:
 
-```
-Stage 1                    Stage 2                   Stage 3
-Generate Stories           Generate 100 Endings      LLM Judge
-(API: Opus 4.6)           (vLLM: Qwen3-32B)        (Qwen3-8B)
+- After each sentence from 10% to 99% of the way through the story, Qwen3-32B writes 100 independent
+  2–3-sentence predictions of how the story ends.
+- Qwen3-8B then judges each prediction against the true continuation.
+- **No-rate** is the share of predictions that miss. Higher no-rate means the ending is less predictable,
+  i.e. more tension.
 
- prompt + pipeline  ►  story text  ►  100 endings  ►  yes_rate (no_rate)
- config (CLI flags)     per position     per position    per ending
-```
+## Results
 
-**Core metric — no_rate:** At each sentence position in a story, we generate 100 possible endings and ask an LLM judge: "Does this ending match what actually happens?" The **no_rate** (fraction of endings that do NOT match) measures narrative unpredictability. Higher no_rate = less predictable story = more human-like narrative structure.
+### Corpora (paper Tables 1 and 6)
 
-**Reference anchors:**
-- Top-10 LLMs (0-shot, EQ-Bench 32 prompts): ~0.71 no_rate
-- New Yorker fiction (human): ~0.87 no_rate
-- Our pipeline configs: 0.83–0.88 no_rate
+| Corpus | n | EQ-Bench | Mean NR | Late NR | Retain | IR60 |
+|---|---|---|---|---|---|---|
+| New Yorker | 261 | 78.61 | **0.765** | **0.607** | **51.7%** | **0.200** |
+| Tell Me a Story | 100 | 60.89 | 0.693 | 0.311 | 39.3% | 0.128 |
+| StoryStar | 100 | 45.81 † | 0.656 | 0.375 | 34.7% | 0.166 |
+| Top-10 EQ-Bench LLMs, zero-shot | 320 | 81.88 | 0.630 | 0.215 | 23.3% | 0.106 |
 
-## Full Ablation Design
+- **Mean NR**: no-rate averaged over positions. **Late NR**: averaged over positions ≥ 80% revealed.
+- **Retain**: share of a local no-rate peak still present at the lowest point within the next 10 positions.
+- **IR60**: share of positions where the smoothed curve reverses with a vertex angle ≤ 60°.
+- The rubric (Claude Sonnet 4 judge) ranks LLM stories above the New Yorker; 100-Endings ranks them last.
+- † This value does not reproduce; see [ERRATA.md](ERRATA.md) B.
 
-### Phase 1 — Structural Pipeline Ablations
+### Generation pipeline (paper Table 2; 32 EQ-Bench prompts)
 
-**Controlled for:** Fixed 15 story ideas (3 iterations each, best qualified selected) | Model: Opus 4.6
-
-Tests the core pipeline components: warmup modes and beat generation.
-
-| Run ID | Step 0 (Warmup) | Step 1 (Beats) | Step 2 (Story) | CLI |
-|---|---|---|---|---|
-| `vanilla` | — | — | raw idea (no instruction) | `--step1 none` |
-| `instruction_vanilla` | — | — | idea + writing instruction | `--step1 none --vanilla-instruction` |
-| `full_title` | title warmup | full beats | write from beats | `--step0 title` |
-| `full_fulltext` | NYer fulltext warmup | full beats | write from beats | `--step0 fulltext` |
-| `no_warmup` | — | beats from scratch | write from beats | `--step0 none` |
-| `short_beats` | title warmup | 3 beats only | write from beats | `--step0 title --step1-max-beats 3` |
-
-### Phase 2 — Beat Count Sweep
-
-**Controlled for:** Fixed 15 story ideas (1 iteration) | Model: Opus 4.6 | Step 0: fulltext warmup (c1_specific)
-
-Holds step0=fulltext constant, varies beat count.
-
-| Run ID | Max Beats | CLI |
-|---|---|---|
-| `full_fulltext` | unlimited | *(from Phase 1)* |
-| `fulltext_beats10` | 10 | `--step0 fulltext --step1-max-beats 10` |
-| `fulltext_beats5` | 5 | `--step0 fulltext --step1-max-beats 5` |
-| `fulltext_beats3` | 3 | `--step0 fulltext --step1-max-beats 3` |
-
-### Phase 3 — Idea Generation Ablations
-
-**Controlled for:** Model: Opus 4.6 | Step 0: fulltext warmup | Step 1: full beats (except vanilla configs)
-
-Tests whether LLM-generated story ideas (from taxonomy + tropes + genre priming) produce better narrative structure than fixed ideas.
-
-| Run ID | Taxonomy | Tropes | Priming | Step 1 | CLI |
+| Source | EQ-Bench | Mean NR | Late NR | Retain | IR60 |
 |---|---|---|---|---|---|
-| `idea_full` | ✓ | ✓ (LLM-curated) | ✓ | full beats | `--idea-gen` |
-| `idea_no_priming` | ✓ | ✓ (LLM-curated) | ✗ | full beats | `--idea-gen --no-genre-priming` |
-| `idea_no_tropes` | ✓ | ✗ | ✓ | full beats | `--idea-gen --no-tropes` |
-| `idea_tax_only` | ✓ | ✗ | ✗ | full beats | `--idea-gen --no-genre-priming --no-tropes` |
-| `idea_tropes_only` | ✗ | ✓ (random 2) | ✗ | full beats | `--idea-gen --no-taxonomy` |
-| `idea_bare` | ✗ | ✗ | ✗ | full beats | `--idea-gen --no-taxonomy --no-tropes` |
-| `idea_vanilla` | ✓ | ✓ | ✓ | **none** | `--idea-gen --step1 none` |
-| `idea_instruction_vanilla` | ✓ | ✓ | ✓ | **none (with instr)** | `--idea-gen --step1 none --vanilla-instruction` |
+| Sonnet 4.6 | 82.0 | 0.606 | 0.137 | 14.6 | 0.073 |
+| + Pipeline | 85.0 | 0.749 | 0.340 | 34.1 | 0.135 |
+| + Pipeline without Step 0 (App. J) | 82.7 | 0.728 | 0.398 | 33.8 | 0.134 |
+| Opus 4.6 | 82.9 | 0.611 | 0.185 | 15.9 | 0.090 |
+| + Pipeline | 81.8 | 0.697 | 0.296 | 32.8 | 0.142 |
+| GPT-5.2 | 83.8 | 0.694 | 0.329 | 36.1 | 0.131 |
+| + Pipeline | 81.2 | 0.740 | 0.443 | 43.6 | 0.141 |
 
-**Idea generation components:**
-- **Taxonomy**: Random 7-level narrative profile from the Screenwriters Taxonomy (type, super-genre, macro/micro genre, voice, pathway, POV)
-- **Tropes**: Sample tropes from 10 aspect categories, then LLM selects 2 most relevant for the taxonomy profile
-- **Genre Priming**: LLM analyzes 5 random taxonomy profiles to activate narrative reasoning (cached once per run, shared across all 15 stories)
+95% bootstrap intervals are in `results/tables/TABLES.md`.
 
-**Dependencies:** Taxonomy off → priming also off. Taxonomy off + tropes on → tropes randomly selected (no profile to match against).
+**Read these rows with [ERRATA.md](ERRATA.md) A1–A3.**
 
-## Prerequisites
+- **Truncation (A1).** 8, 18 and 17 of the 32 Sonnet, Opus and GPT-5.2 pipeline stories end mid-sentence at the
+  4,000-token cap.
+  - On prompts whose pipeline story is complete, the Sonnet 4.6 gain holds; this is also true without Step 0.
+  - The Opus 4.6 and GPT-5.2 gains are not distinguishable from zero on those prompts.
+- **Length (A2).** Pipeline stories are 2–3× longer than vanilla ones, because the story writer never sees the
+  prompt itself.
+- **Pairing (A3).** A properly paired test makes Sonnet's EQ-Bench gain and GPT-5.2's EQ-Bench drop significant.
 
-- Python environment with `requests`, `python-dotenv`, `numpy`, `torch`, `transformers`
-- vLLM environment for Stages 2-3 (GPU required, H200 recommended)
-- API key for OpenRouter in `.env`:
-  ```
-  TEST_API_KEY=sk-or-...
-  TEST_API_URL=https://openrouter.ai/api/v1/chat/completions
-  ```
+### Measurement stability (Table 7)
 
-## Quick Start
+Re-generating all endings and re-judging the Sonnet 4.6 stories three more times moves mean and late
+no-rate by at most 0.003 (mean NR: vanilla 0.605–0.607, pipeline 0.747–0.749; late NR: vanilla 0.137–0.139, pipeline 0.337–0.340).
 
-### 1. Generate stories (CPU, API calls)
+## Reproducing the paper's numbers
 
 ```bash
-# Full pipeline: fulltext warmup → beats → story
-python generate_stories.py --run-id full_fulltext --step0 fulltext \
-    --ideas data/story_ideas.json --iterations 1 --threads 6 \
-    --model anthropic/claude-opus-4-6
-
-# Vanilla with writing instruction
-python generate_stories.py --run-id instruction_vanilla --step1 none --vanilla-instruction \
-    --ideas data/story_ideas.json --iterations 1 --threads 6 \
-    --model anthropic/claude-opus-4-6
-
-# Idea generation (full)
-python generate_stories.py --run-id idea_full --idea-gen \
-    --ideas data/story_ideas.json --iterations 1 --threads 6 \
-    --model anthropic/claude-opus-4-6
+pip install numpy scipy pandas statsmodels
+python analysis/reproduce_tables.py      # writes results/tables/TABLES.md
 ```
 
-### 2. Retry unqualified stories (outside 2000-3000 words)
+The script recomputes every numeric table in the paper from the files in `results/` and checks each value
+against the printed one:
 
-```bash
-# Dry run: see what needs retrying
-python retry_unqualified.py --dry-run
+- **394** printed values reproduce exactly.
+- **59** bootstrap bounds reproduce within Monte-Carlo error.
+- **9** values differ. Each is explained in [ERRATA.md](ERRATA.md) B.
 
-# Run retries (Phase 2: re-runs step2; Phase 3: generates new stories)
-python retry_unqualified.py --phase 2 --phase 3
-```
+The human-evaluation tables (9–16) are not covered; that data is not yet in the repository.
 
-### 3. Generate 100 endings (GPU, Qwen3-32B on H200)
-
-```bash
-python generate_endings.py --config full_fulltext,vanilla --batch-size 64
-# or via SLURM:
-sbatch sbatch/endings_ph3_gpu1.sbatch
-```
-
-### 4. LLM Judge (GPU, Qwen3-8B)
-
-```bash
-python compute_judge.py --config full_fulltext,vanilla --batch-size 128
-# or via SLURM (chain after endings):
-sbatch --dependency=afterok:<endings_job_id> sbatch/judge_ph3_gpu1.sbatch
-```
-
-### 5. Analyze results
-
-Open `notebooks/norate_by_phase.ipynb` — produces one bar chart per phase with 95% CI and reference baselines.
-
-## Pipeline Configuration (CLI Flags)
-
-All ablation settings are command-line flags — no code edits needed.
-
-### Step 0: Warmup (`--step0`)
-
-| Flag | Description |
-|---|---|
-| `--step0 title` | LLM generates beats from a famous story title (20 in pool, default) |
-| `--step0 fulltext` | LLM reads entire NYer story text and extracts beats (20 stories) |
-| `--step0 precomputed` | Use 6 pre-generated templates (no API call) |
-| `--step0 none` | Skip warmup; beats generated from scratch in step 1 |
-| `--step0-style {baseline,c1_specific,c2_abstract}` | Prompt style (default: `c1_specific`) |
-| `--step0-source ID` | Fix a specific source (e.g., `A1`, `00015`). Omit for random. |
-
-### Step 1: Beat Generation (`--step1`)
-
-| Flag | Description |
-|---|---|
-| `--step1 default` | Standard beat adaptation prompt (default) |
-| `--step1 path.json` | Custom prompt templates from JSON |
-| `--step1 none` | Skip beats → step 0 auto-skipped → step 2 becomes vanilla |
-| `--step1-max-beats N` | Limit to N beats (e.g., 3 for short beat list) |
-
-### Step 2: Story Writing
-
-Always present. Writes from beats if available, or directly from the idea (vanilla mode).
-
-- `--vanilla-instruction` — When step1=none, wraps the idea in "Write the story now. Write only the story — no commentary." matching the instruction used by `StoryWriteStep`.
-
-### Idea Generation (`--idea-gen`)
-
-| Flag | Description |
-|---|---|
-| `--idea-gen` | Enable story idea generation (taxonomy + tropes + priming) |
-| `--no-genre-priming` | Disable genre priming |
-| `--no-taxonomy` | Disable taxonomy profile (also disables priming) |
-| `--no-tropes` | Disable trope selection |
-| `--tropes-path PATH` | Custom tropes JSONL file |
-
-## Step 0 Reference Stories
-
-### Title Mode (20 famous stories)
-
-| ID | Story | Technique |
-|---|---|---|
-| A1 | The Ones Who Walk Away from Omelas (Le Guin) | Moral philosophy |
-| A2 | The Lottery (Jackson) | Suspense/Reveal |
-| A3 | Hills Like White Elephants (Hemingway) | Subtext/Dialogue |
-| A4 | The Yellow Wallpaper (Gilman) | Unreliable narrator |
-| A5 | A Good Man Is Hard to Find (O'Connor) | Violence/Grace |
-| A6 | The Garden of Forking Paths (Borges) | Metafiction |
-| A7 | The Metamorphosis (Kafka) | Surrealism |
-| A8 | Rashomon (Akutagawa) | Perspective |
-| A9 | The Necklace (Maupassant) | Irony |
-| A10 | The Overcoat (Gogol) | Pathos |
-| A11 | Girl (Kincaid) | Form/Rhythm |
-| A12 | Axolotl (Cortazar) | Magical Realism |
-| A13 | Cathedral (Carver) | Minimalism |
-| A14 | The Lady with the Dog (Chekhov) | Realism |
-| A15 | Araby (Joyce) | Epiphany |
-| A16 | A Very Old Man with Enormous Wings (Marquez) | Imagery |
-| A17 | Sonny's Blues (Baldwin) | Voice |
-| A18 | The Fifth Story (Lispector) | Experimentation |
-| A19 | A Madman's Diary (Lu Xun) | Allegory |
-| A20 | The Bear Came Over the Mountain (Munro) | Time/Memory |
-
-### Full-Text Mode (20 New Yorker stories)
-
-Located in `data/nyer_sources/`. Short stories (1000-2600 words) from the New Yorker corpus. Full text sent to the LLM for structural extraction.
-
-## Output Structure
+## Layout
 
 ```
-results/
-├── stories/{run_id}/              # Stage 1: generated stories
-│   ├── t1_001_iter1.txt           # Story text
-│   ├── t1_001_iter1_meta.json     # Pipeline intermediates + metadata
-│   └── _config.json               # CLI config snapshot
-├── endings/{run_id}/              # Stage 2: 100 endings per position
-│   └── t1_001_iter1_endings.json
-└── judge/{run_id}_judge.json      # Stage 3: yes_rate + binary judgments
+metric/                      100-Endings implementation used for the paper (generation, judge, curve stats) + SLURM files
+pipeline/                    Step 0 / 1 / 2 generation pipeline, EQ-Bench prompts, Step 0 templates, idea generator
+data/stories/<condition>/    the 32 EQ-Bench stories per model condition (+ pipeline_steps.jsonl.gz: warmup and beat sheet);
+                             tell_me_a_story/: our 100-story sample (CC-BY 4.0)
+results/scores/<group>.csv   one row per story: words, sentences, positions, mean/late NR, retain, IR30/60/120, EQ-Bench,
+                             Tension8, truncation flags (ends_mid_sentence, at_length_ceiling)
+results/curves/              per-position no-rate curves for every story (all corpora)
+results/endings/             all 100 generated endings + judge verdict per position (model stories, Tell Me a Story)
+results/stability/           repeats 2–4 of the Sonnet 4.6 curves (Table 7)
+results/eqbench/             per-story rubric scores for the human corpora (Table 4)
+results/supplementary/       ending-diversity and GPU-cost outputs (Tables 26–28)
+results/tables/              generated by analysis/reproduce_tables.py
+analysis/                    reproduce_tables.py; build/ (how results/ was assembled); supplementary/ (diversity, cost);
+                             audit/ (truncation audit and sensitivity of Tables 1–2: audit/sensitivity.md)
+experiments/ablation_17config/   the March 2026 pipeline ablation: not in the paper, withdrawn (see its README)
 ```
 
-## Word Count Filtering
+Groups in `results/`:
 
-Stories outside the 2000-3000 word range are filtered from analysis (but kept on disk). The `retry_unqualified.py` script regenerates unqualified stories:
-- **Phase 1** (3 iterations): selects best qualified iteration per idea → n=15
-- **Phase 2** (fixed ideas): re-runs step 2 only (reuses warmup + beats from metadata)
-- **Phase 3** (idea-gen): generates entirely new stories to fill gaps
+- **Human corpora:** `new_yorker`, `tell_me_a_story`, `storystar`.
+- **Zero-shot LLMs:** `top10_zeroshot`.
+- **Model conditions:** `{sonnet46,opus46,gpt52}_{vanilla,pipeline}`, plus `sonnet46_pipeline_nostep0` (App. J).
+- **Human study only:** `kimik2_pipeline`, a supplementary run. Only its story `i1_p17` is used, as one of the six human-study stories (Table 8).
 
-## Relationship to creative-writing-bench
+## Data availability
 
-[creative-writing-bench](https://github.com/maxzhuyt/creative-writing-bench) evaluates stories via **rubric scoring + Elo pairwise matchups** (EQ-Bench Creative Writing v3). This project (100-endings) evaluates via **geometric coherence + semantic accuracy**. They share the same narrative pipeline architecture (`core/narrative_pipeline.py`) and can use the same writing prompts, but measure different aspects of story quality.
+- **Released:**
+  - The texts of every model-generated story we produced, and our 100-story Tell Me a Story sample
+    (Huot et al., 2025; CC-BY 4.0).
+  - All generated endings and verdicts for these stories and for the Top-10 stories.
+  - Per-story scores and full no-rate curves for every corpus.
+- **Not redistributed, by source:**
+  - New Yorker texts: copyright; see the paper's Ethics Statement.
+  - StoryStar texts: scraped.
+  - Endings generated for the New Yorker and StoryStar stories: withheld along with the texts, because they retell their plots.
+  - Top-10 story texts: in EQ-Bench's `creative_bench_runs.zip`.
+- **Not yet included:** the human-evaluation data (Appendix D).
+
+## Running the metric and the pipeline
+
+See [`metric/README.md`](metric/README.md) (vLLM, one H200 GPU, about 3 GPU-minutes per story) and
+[`pipeline/README.md`](pipeline/README.md) (OpenRouter API).
+
+## Citation
+
+```bibtex
+@inproceedings{sui2026spoiler,
+  title     = {Spoiler Alert: Narrative Forecasting as a Metric for Tension in {LLM} Storytelling},
+  author    = {Sui, Peiqi and Zhu, Yutong and Cheng, Tianyi and West, Peter and So, Richard Jean and Long, Hoyt and Holtzman, Ari},
+  booktitle = {Conference on Language Modeling (COLM)},
+  year      = {2026},
+  eprint    = {2604.09854},
+  archivePrefix = {arXiv}
+}
+```
+
+The repository state before this reorganization (the March 2026 ablation code and the earlier strict-judge
+metric) is kept under the git tag `archive-2026-03-20`.

@@ -1,0 +1,99 @@
+# Hacker Mindset
+
+The hostess seats us at table seven. Corner booth, sight lines to both exits, one camera above the bar running firmware I could identify from here if I squinted. Stop it. *Stop it.*
+
+"This is nice," Rachel says, and she means the restaurant, but I'm already cataloging: open Wi-Fi network named "Trattoria_Guest" — no captive portal, no client isolation, guaranteed. The POS system is running on the same network because I can see the printer behind the bar sputtering out tickets on the same SSID. One ARP spoof and I'd have every credit card number flowing through this place like—
+
+*Stop. It.*
+
+She's smiling at me. She has a great smile. Focus on the smile.
+
+"I love Italian," I say, which is true and also the most boring sentence ever constructed in English. I deserve to be alone.
+
+But then — salvation. She sets her bag down, and there's a keychain. A keychain with a little plastic Jace Beleren hanging off it, scuffed and faded like she's carried it for years.
+
+"Is that Jace?"
+
+Her eyes light up. Actually light up. Not performatively, not politely — the real thing. Dopamine hit. Genuine recognition flooding her features.
+
+"You play?"
+
+"I played. I *play*. I mean—" Smooth. Very smooth. "I run a blue-black control deck that has ended friendships."
+
+"Oh, you're a *monster*," she says, and she's laughing, and something in my chest unclenches that I didn't know was clenched.
+
+For twenty minutes I am a normal human being. We talk about the Innistrad block. We argue about whether Counterspell should ever have been reprinted. She tells me she once won an FNM with a janky homebrew mill deck and I believe her because her eyes do this thing when she's proud — they narrow slightly, chin lifts, micro-expression cluster consistent with genuine confidence rather than fabrication. I'm profiling her. I can't not profile her. But at least I'm enjoying it.
+
+"I started playing in college," she says. "University of Florida, go Gators. My roommate taught me freshman year."
+
+*University of Florida. First school attended. Security question number three on most banking platforms.* I take a sip of water and drown the thought.
+
+"My mom thought it was satanic," she continues, laughing. "Classic Sandra move."
+
+*Mother's maiden name? No — mother's first name. Sandra. But maiden name is often derivable from—*
+
+STOP.
+
+"She came around when I explained the math involved. Mom's a retired math teacher, so."
+
+*Mother's occupation. Sandra. University of Florida. I now have two common security question answers and a potential social engineering vector and I hate my brain, I hate it, I hate it.*
+
+She's telling me about her first pet, a cat named Biscuit who destroyed her parents' couch in their house on Maple-something Street — and I am not going to remember that, I am going to let it flow through me like water, I am going to be a person who hears a cute cat story and thinks *cute cat* and not *first pet's name, childhood street, challenge questions for Gmail recovery.*
+
+"Biscuit was a menace," I say, and she laughs again, and the laugh is worth more than every credential I've ever captured.
+
+The food arrives. It's good. She's good. This is good.
+
+Then her phone buzzes on the table.
+
+She picks it up, tilts it slightly toward me — not intentionally, just the natural angle — and swipes her unlock pattern.
+
+Z-shape. Four nodes. No backtracking.
+
+My soul leaves my body.
+
+It's one of the nine most common unlock patterns. Literally in the top ten. Academic paper by Marte Løge, 2015. Seventy-seven percent of patterns start in a corner. Hers starts top-left, because of course it does, because most people are right-handed and top-left is the natural starting position and she has just shown me the digital equivalent of a house key under a doormat.
+
+I try to hold it in. I physically clench my jaw. I look at my pasta. I think about Jace. I think about mill decks. I think about anything other than—
+
+"You should change your unlock pattern."
+
+The words are out. They're in the air. They exist in the physical world now, vibrating between us at the speed of ruining everything.
+
+She blinks. "What?"
+
+"Your unlock pattern. It's a Z-shape. It's — statistically it's one of the most common patterns, and you swiped it at an angle where anyone sitting across from you could—" I see her expression shifting, the openness contracting, and I'm watching it happen in real-time like a system going into lockdown, ports closing one by one. "I'm sorry. That's — I do this thing where I—"
+
+"Did you just *watch me unlock my phone?*"
+
+"Not on purpose. I mean — yes, technically, but it's not—" I'm breached. Defenses down. No playbook for this. "It's like how you probably can't look at a number without factoring it. Your mom's a math teacher, you probably grew up—"
+
+"Don't bring my mom into this."
+
+Fair. Completely fair.
+
+Silence. She puts her phone face-down on the table. New perimeter established.
+
+I set my fork down. "I used to do security work. Penetration testing. Finding weaknesses in systems. The problem is, my brain doesn't turn off. I see patterns, vulnerabilities — in networks, in software, in..." I gesture vaguely at the restaurant. "Everything. It's not that I *want* to hack your phone. It's that I can't not notice the door is open."
+
+She's studying me. Evaluating. I can't read her expression, which is terrifying and also, somehow, attractive. An unreadable system. Encrypted.
+
+"That sounds exhausting," she says finally.
+
+"You have no idea."
+
+She picks up her phone. Unlocks it — turning it deliberately away from me this time — and does something I can't see. Then she sets it down and picks up her fork.
+
+"I changed it. Happy?"
+
+"Was it to an L-shape? Because that's the second most common—"
+
+"Eat your pasta, hacker boy."
+
+I eat my pasta. She tells me about a Phyrexian Obliterator deck she's been theorycrafting. I tell her it's evil and beautiful. She says thank you.
+
+I think this might be going okay.
+
+I don't look at the Wi-Fi network once.
+
+Well. Twice. But only twice.

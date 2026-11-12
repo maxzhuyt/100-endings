@@ -1,0 +1,111 @@
+Item #: SCP-████  
+Object Class: Keter (provisional)  
+Special Containment Procedures: All documentation relating to Incident “Memo to Myself” is restricted to Clearance-4/████ personnel. Dr. K’s office has been sealed pending further notice.  
+
+Description: SCP-████ is the collective designation for a temporally-dislocated epistolary phenomenon manifesting as handwritten memoranda addressed to Dr. █████ K.  
+
+Addendum-1: Chronological Log (researcher commentary redacted except where impossible to separate from primary record)
+
+———
+
+BEAT-1  
+08:41, 04/12/20██  
+Routine containment log opened. No anomalies anticipated.  
+[Excerpt]  
+
+At 09:03 I discovered the following sheet on the exact center of my blotter, edges aligned to millimeter precision.
+
+*Do not open SCP-████ tomorrow. 14:32. You will thank me.*  
+—09:00 04/12/20██, my handwriting
+
+Security footage 08:00-09:00 shows zero ingress. Paper matches Foundation stock from my own drawer.
+
+———
+
+BEAT-2  
+09:15, 04/12/20██  
+Report filed. Site Director orders nightly lock-up of all memo material.  
+Addendum-1A: Containment Log  
+```
+Item: Anomalous memorandum-01  
+Action: Placed in Class-3 combination safe, combo known only to Director.  
+Outcome: Safe verified sealed 22:00.
+```
+
+09:01, 05/12/20██  
+Safe unopened. Memo inside replaced by new sheet.
+
+*Safe is meaningless to me. To you. To when.*
+
+———
+
+BEAT-3  
+Micro-predictions logged for seven consecutive days:
+
+• 06/12 11:07—Site grid fluctuation 0.8 %. Occurred 11:07:03.  
+• 06/12 12:18—Coffee overturned on SCP-███ draft. Prevented; spill relocated to blank sheet.  
+• 07/12 09:45—Junior Researcher Alvarez paper-cut left index finger. Bandaged pre-emptively.  
+Accuracy: 100 % (n=23).  
+Committee upgrades me to “observational asset.”
+
+———
+
+BEAT-4  
+09:00, 13/12/20██  
+Note received:
+
+*SCP-████ breaches at 09:00. evac now.*
+
+09:30—No breach. SCP-████ offline for scheduled maintenance since 08:00.  
+Handwriting tremulous, ink viscosity ↑32 % (lab report appended).
+
+Director’s addendum: Dr. K removed from direct SCP-████ duty. Psychological evaluation ordered.
+
+I retain fragment reading *“—is still correct in 2 of 3 branches—”* hidden in coat lining.
+
+———
+
+BEAT-5  
+Night of 14/12/20██  
+Self-surveillance protocol enacted.  
+Observation Cell-7. Video begins 00:00.  
+Transcript excerpts:
+
+00:00-03:14—Subject motionless.  
+03:14—Single-frame distortion; checksum anomaly.  
+08:00—Subject awakens.  
+08:03—Subject lifts pillow. Recovers following:
+
+*You hid from me. I was also hiding.*  
+Medium: red crayon.
+
+DNA on wax matches unknown contributor with 87 % allelic overlap to Dr. K.
+
+Footnote, added by me, later redacted:
+
+I no longer sign my initials. They predate me.
+
+———
+
+BEAT-6  
+14:31, 15/12/20██  
+Half-incinerated sheet materializes on keyboard:
+
+*IT IS STILL 14:32 STOP HIM STOP YOU—* (repeated 41×)  
+Margins saturated with human blood; match to Dr. K, sampled 36 h post-mark.
+
+No corresponding breach report located. Timeline integrity compromised.
+
+Archived at 14:31:57. Upload initiated by automated failsafe.
+
+———
+
+BEAT-7  
+Oversight Memorandum, 16/12/20██  
+“Cause indeterminate. Recommend indefinite containment of remaining notes as SCP-████-1. Dr. K classified MIA. Timeline unverified.”
+
+Clipped behind appendix:
+
+*Containment is memo is me.*  
+Handwriting verified as Dr. K.  
+Timestamp: 16/12/20██ 14:32

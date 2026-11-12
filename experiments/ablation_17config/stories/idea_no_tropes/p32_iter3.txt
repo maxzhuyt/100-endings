@@ -1,0 +1,123 @@
+# Diane's Intentions
+
+## I.
+
+The badge reader outside Building C had been recalibrated over the weekend, which meant you now had to hold your ID at a specific angle — fifteen degrees off perpendicular, roughly the attitude of a person trying to read a menu without admitting they need glasses — and wait for the light to cycle from red to amber to green while the system performed whatever biometric confirmation the Department of Organizational Integrity had decided was necessary after the third-quarter security review, which Diane had not attended because it conflicted with the only window she could reliably use to exfiltrate compressed pharmaceutical trial data to a Latvian military contractor's encrypted relay node, and also because they never provided adequate seating.
+
+She held the badge. She waited. The light turned green with the enthusiasm of a government employee on a Friday afternoon, and the magnetic lock disengaged with a sound like a small animal sighing.
+
+Monday. Sixteen days before the end of the fiscal quarter, eleven months and six days into what she mentally categorized as the Supplemental Income Situation, and the start of another week in which she would need to file her biweekly status report, rotate the dead-drop encryption key, submit her parking validation, and determine once and for all whether it was Kevin or Marcia who kept adjusting the thermostat in pod six to a temperature suitable for aging prosciutto.
+
+The coffee vending machine was in the east corridor, wedged between a fire extinguisher and a laminated poster about phishing awareness that featured a cartoon fish wearing a burglar's mask. The poster had been there since 2019. The fish's expression conveyed less menace than confusion, as if it, too, could not believe it had been chosen for this purpose. Diane selected "Americano — Regular" and held her face in front of the payment sensor, which scanned her and charged her departmental account $1.85 and presumably also logged the timestamp, the caloric estimate, and whatever other data the facial-recognition system was harvesting under the terms of a user agreement she had never read, because she had also never read the terms of her employment agreement, or the Espionage Act, or the supplementary clauses of the National Security Information Protocol, and she was beginning to think this was a personal pattern she should examine, but not today, because today she needed to decide whether to use the 802.11ac channel or the deprecated legacy protocol for the 11:40 dead drop, and the coffee was too hot, and the Americano had the acrid, existentially defeated taste of a liquid that had once been adjacent to a coffee bean in the way that a person sitting in a hospital waiting room is adjacent to medicine.
+
+She carried it to pod six. Her cubicle was the third from the window, which meant she received approximately forty minutes of natural light per day, a figure she had calculated and included in a formal complaint to Facilities Management that had gone unanswered for seven months, a silence she found more personally wounding than any of the operational risks associated with transmitting classified documents to a foreign entity via a network of compromised academic servers, because at least the Latvians *acknowledged receipt*.
+
+The morning's first task was email. She had two accounts: the departmental Outlook, which contained the usual sedimentary layers of all-staff announcements, meeting invitations for meetings that could have been emails, and emails that could have been silence; and a second account accessible only through a browser she had installed inside a virtualized partition on her workstation, routed through three proxy relays and a DNS obfuscation layer she had built herself from a tutorial on a Tor forum, which she had bookmarked alongside a recipe for lemon ricotta pancakes because the browser did not support nested bookmark folders and she had to put it somewhere.
+
+The departmental inbox contained:
+
+1. An all-staff reminder that the parking garage would be closed for resurfacing on Thursday. (Diane's parking spot — C-47, east wall, shaded, a spot she had secured through eleven months of arriving at 6:50 AM and once, during a particularly contested week in March, 6:31 AM — would be unavailable. She felt the kind of anger that lives in the jaw.)
+
+2. A reply from Gary in IT regarding her ticket about the monitor refresh rate, which read in its entirety: "Hi Diane, have you tried restarting?"
+
+3. A calendar notification for a mandatory ergonomics seminar.
+
+The second inbox contained a single message, PGP-encrypted, header-stripped, routed through a .onion address that changed every seventy-two hours. The message, once decrypted, contained a set of GPS coordinates, a file size allocation, and the phrase "timeline remains as discussed." Diane read it, noted the coordinates (a new relay point; they rotated monthly), calculated the bandwidth she'd need for the next transfer — roughly 2.3 gigabytes, which she would need to segment and distribute across four upload windows to stay beneath the network monitoring threshold — and then deleted the message, purged the cache, and returned to her departmental inbox to compose a response to Gary in IT that would communicate, through the medium of aggressive professional courtesy, that she had *already tried restarting*, Gary, and that if he had read the original ticket with even the cursory attention one might extend to a stop sign or a burning building, he would know this, because she had written "I have already tried restarting" in the second sentence, which she had bolded.
+
+She was nine sentences into this reply when Richard Moyle walked past her cubicle carrying a Tupperware container that smelled of tilapia.
+
+Richard. Tilapia. Microwave.
+
+Every office has its Geneva Convention, and Richard violated it at 11:45 each day with the serene confidence of a man who had never once considered the possibility that his actions had consequences for other human beings. Diane had written three draft emails to HR about this and sent none of them, not because she lacked conviction but because the HR complaint form required you to categorize the nature of the grievance, and "olfactory hostility" was not among the options, and she refused to shoehorn Richard's tilapia into "Workplace Environment — Other" because it was not Other, it was *specific*, it was *targeted*, it had a *smell profile* that she could map by cubicle row and elapsed time like a weather system made of fish.
+
+She watched him pass. She returned to the email to Gary. She thought about the bandwidth allocation for the 11:40 transfer and whether she should use the east stairwell server closet again or rotate to the utility corridor on three, and she thought about this the way she thought about the Gary email and the tilapia and the parking garage closure, which is to say she thought about it as a logistical problem occurring on a Tuesday in a building where the fluorescent lights buzzed at a frequency that was, she was increasingly certain, *deliberately chosen* to suppress independent thought.
+
+On her way to refill the coffee — the first cup having failed at its only job — she passed the glass-walled office suite where the counterintelligence liaison team worked. There were four of them today, visible through the glass like fish in a tank that was itself inside a building that smelled of fish, which was Richard's fault. One of them was reading something on his screen with the particular brand of focused lethargy that suggested either critical intelligence analysis or online shopping. Another was eating a granola bar. Diane walked past them every day. She had been walking past them for eleven months. They had the institutional presence of fire extinguishers — she could see them, she knew approximately where they were, and she assumed that in the event of an actual emergency they would prove to have been last inspected in a previous fiscal year.
+
+She thought about them the way she thought about the earthquake preparedness placard taped to the wall beside the elevator: as evidence that the building acknowledged the theoretical possibility of disaster while doing nothing to make such acknowledgment feel relevant to a person holding bad coffee on a Monday.
+
+The 11:40 transfer went cleanly: 2.3 gigabytes, segmented, routed, relayed, received. Confirmation arrived at 11:57 in the form of a coded string that looked, to anyone monitoring, like a failed API handshake. Diane deleted it, cleared her logs, and went to lunch. The cafeteria was serving a grain bowl that aspired to the concept of nutrition the way the building aspired to the concept of natural light: with visible effort and no success.
+
+She ate. She thought about the parking garage. She thought about how the Latvians paid on a net-30 cycle, which was faster than her own agency's reimbursement process for travel expenses. She thought about the ergonomics seminar and whether she could claim it conflicted with a client call. She thought about the fact that she had been committing espionage for eleven months and that the dominant emotion in her interior life was not guilt or fear but the particular brand of low-grade irritation that comes from working in a building where nothing is quite the right temperature, nothing is ever fully resolved, and the coffee tastes like a cry for help.
+
+It was, she would later reflect, a completely normal Monday.
+
+This is relevant.
+
+---
+
+## II.
+
+The email arrived at 7:02 AM on a Friday, which was the first sign that it had been composed by a system rather than a human, because no human in the agency sent emails at 7:02 AM on a Friday, a time slot that existed in a Bermuda Triangle between the end of Thursday's ambition and the start of Friday's capitulation.
+
+> **FROM:** IT Infrastructure — Automated Systems Division  
+> **TO:** All Staff — Building C  
+> **SUBJECT:** Mandatory System Update: Digital Wellness and Productivity Integrity Suite (DWPIS) — Action Required  
+> **PRIORITY:** Standard  
+>
+> Dear Valued User,  
+>
+> Please be advised that a system-wide update will be deployed across all Building C workstations beginning Friday at 9:00 PM EST. The Digital Wellness and Productivity Integrity Suite (DWPIS) is designed to enhance your digital experience by providing real-time monitoring of bandwidth allocation, usage patterns, and network integrity. As part of this update, your workstation will undergo an automatic restart. Please save all open documents prior to the restart window.  
+>
+> No action is required on your part beyond normal workstation hygiene.  
+>
+> For questions, please consult the DWPIS FAQ at [internal link].  
+>
+> Thank you for your commitment to digital wellness.  
+>
+> — *The IT Infrastructure Team*
+
+Diane read this email the way she read all all-staff emails from IT Infrastructure: with the skimming, dismissive velocity of a person bypassing a terms-of-service agreement, which, as previously established, was how she read all documents that governed her relationship to systems capable of destroying her life.
+
+*Digital Wellness and Productivity Integrity Suite.*
+
+She sat with this phrase the way one sits with a particularly aggressive piece of modern art: not because it rewarded attention, but because its awfulness *demanded* it. *Digital Wellness.* As if her workstation were a person who needed to hydrate. *Productivity Integrity.* As if there existed, somewhere in a boardroom she would never see, a person who believed the word "integrity" could be applied to the process of monitoring whether employees were streaming Netflix during business hours, and who had moreover chosen to pair it with "productivity," a word that had long ago ceased to mean anything and now functioned exclusively as a sound that managers made to indicate they were still alive and in charge.
+
+She was composing a mental letter about this — addressee unclear, possibly God, possibly the person in IT who had chosen the acronym DWPIS without noticing that it sounded like something you'd need antibiotics for — when the system prompted her to restart.
+
+She clicked "Remind Me Later."
+
+She clicked it again at 10:00 AM, at 11:15, at 1:30 PM, and at 3:45, each time with the calm, practiced resistance of a person who had spent decades refusing to update software and saw no reason to alter this policy simply because she was also refusing to comply with federal law. At 4:58 PM she left for the weekend, and by Monday the system had restarted itself without her consent — the digital equivalent of a landlord letting himself in — and her unsaved draft was gone.
+
+The draft had been a complaint about the break-room Keurig, specifically the fact that someone (Richard, she suspected; it was always Richard, or if it was not Richard it was the kind of person Richard represented, which was a category of human being that warranted its own Linnaean classification) had used the last K-Cup without replacing the box, a transgression she had been documenting in a file she kept on her desktop titled "Kitchen Issues Log — 2024" which was, she would admit if pressed, the most organized document she maintained, surpassing in rigor and consistency both her departmental status reports and the encryption rotation schedule she used for the dead drops. The draft had been four paragraphs long. She had been particularly proud of the third paragraph, which deployed the phrase "baseline collegial accountability" in a way she felt communicated, to a sufficiently attentive reader, that she was considering violence.
+
+Gone.
+
+She rebuilt her morning: badge, coffee, pod six, email. The workstation felt different in ways she couldn't immediately name. The desktop wallpaper was the same (a default image of a mountain range she had never changed because changing it would require interacting with the Settings menu, which was a portal to a dimension where every click generated three new menus and nothing was ever where it had been the last time). The taskbar was the same. But there was a new icon in the system tray — a small shield with a green checkmark, throbbing gently, like a digital pulse. She hovered over it. A tooltip appeared:
+
+> **DWPIS Active — Monitoring Mode**  
+> Your digital wellness is being maintained.
+
+Diane looked at this tooltip. She looked at it for a while. She experienced the particular sensation of a person who has been told, by a machine, that her wellness is being *maintained*, a verb that implied both ongoing effort and the possibility that, without such effort, her wellness might degrade — might, perhaps, already *be* degrading — and that the machine was the only thing standing between her and some unspecified digital unwellness, a threat model she could not evaluate because the FAQ link in the original email had returned a 404 error, which she had chosen to interpret as an omen.
+
+Over the following days — Monday through Friday, compressed here because Diane's experience of them was itself compressed, each day a repetition of the same fluorescent-lit cycle with minor variations in cafeteria offerings and parking-spot proximity — the DWPIS did what it did.
+
+It monitored.
+
+It monitored the way weather monitors: persistently, indifferently, without preference for what it observed. It tracked bandwidth allocation across all Building C workstations. It flagged anomalous usage patterns. It auto-generated weekly summaries in a format that no one had requested and deposited them in a shared drive folder labeled "Transparency Metrics" that no one checked. It functioned, in other words, exactly like every other piece of institutional software Diane had ever encountered: it produced data no human had the time or interest to read, filed it in a location no human would think to look, and existed primarily to justify its own procurement budget to a committee that met quarterly to discuss whether it was justifying its procurement budget.
+
+This is what Diane believed about the DWPIS, and for the first eight days she was correct.
+
+On day nine it flagged one of her dead drops.
+
+The flag arrived not as an alarm but as an auto-generated email from the system to her supervisor, Glen Holloway, with Diane cc'd, formatted in the same anodyne template the system used for all its notifications — the same template it used when it flagged someone for exceeding their cloud storage allocation or for downloading a file attachment over 25 megabytes. The email read:
+
+> **FROM:** DWPIS — Automated Compliance  
+> **TO:** Holloway, Glen R. (Supervisor — Pod 6)  
+> **CC:** Colquitt, Diane M.  
+> **SUBJECT:** Usage Anomaly Report — Colquitt, D.M. — Ref #DWPIS-2024-11-0947  
+>
+> Dear Mr. Holloway,  
+>
+> The Digital Wellness and Productivity Integrity Suite has identified the following anomaly in the usage profile of the above-referenced user:  
+>
+> **Anomaly Type:** Non-standard bandwidth allocation  
+> **Description:** Encrypted external data transfer via non-approved relay protocol. Estimated volume: 2.3 GB. Transfer segmented across four upload windows (11:40–11:57 AM). Destination: Unresolved external address.  
+> **Classification:** Inappropriate use of company bandwidth (Category 3 — Policy Ref: AUP-2022, §4.11)  
+> **Recommended Action:** Manager acknowledgment within five (5) business days. No further action required at this time.  
+>
+> Thank you for your commitment to digital wellness.
+
+Diane read this email seventeen times.
+
+She read it the way a person reads a medical test result that might be devastating or might be nothing: scanning for the specific words that would confirm the worst interpretation, finding them, then

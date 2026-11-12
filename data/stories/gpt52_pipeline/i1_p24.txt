@@ -1,0 +1,269 @@
+**Item #:** SCP-7481
+
+**Object Class:** Keter
+
+**Special Containment Procedures:**  
+SCP-7481 instances are to be secured in place when feasible. When an instance manifests in an abandoned, structurally compromised, or jurisdictionally inaccessible site, the nearest Foundation asset is to establish a perimeter sufficient to prevent civilian approach until the door can be removed or the host structure can be demolished under cover of standard urban renewal/disaster remediation protocols.
+
+All located SCP-7481 instances must be photographed, laser-scanned, and swabbed prior to removal. Particular attention is to be paid to the abrasion pattern surrounding the doorknob and latch plate. The scratches are to be recorded at micron resolution; measurements are to be uploaded to Site-43’s Anomalous Toolmark Repository for comparison against known implements.
+
+No unapproved personnel are to open or cross the threshold of an SCP-7481 instance. Requests for exploration must be authorized by at least two (2) O5 Council members.
+
+In the event an SCP-7481 instance manifests within an active Foundation facility, the affected corridor/room is to be sealed and flooded with inert gas. All internal camera feeds are to be mirrored to an offsite array in real time. Personnel assigned to the area are to submit to immediate cognitive integrity screening.
+
+**Description:**  
+SCP-7481 is a class of identical, unmarked interior doors that manifest within abandoned structures worldwide (e.g., condemned apartment blocks, derelict warehouses, decommissioned hospitals). An SCP-7481 instance will appear where no doorway previously existed (most commonly on an interior wall), fully installed with frame and latch hardware. All instances are visually indistinguishable: painted matte off-white, hollow-core construction, brass-colored knob, no manufacturer stamp, no serial number, no visible aging beyond minor grime consistent with the host environment.
+
+Despite this apparent mundanity, every instance exhibits the same set of scratches around the doorknob and latch plate: a crescent-shaped cluster of parallel abrasions (approx. 32.4 mm arc length), centered 18.0 mm above the knob axis, with three deeper gouges intersecting the arc at consistent angles (41°, 64°, 88° relative to vertical). The scratches are present immediately upon manifestation, regardless of the host site’s condition, and do not match known toolmark patterns, consumer manufacturing defects, animal activity, or weathering. Electron microscopy suggests the abrasions were produced by a hard composite edge with a repeating microtooth pattern at 0.9 mm intervals.
+
+Opening an SCP-7481 instance does not lead into the adjoining room behind the wall. Instead, the door opens into an extradimensional space (designated SCP-7481-A) resembling an archive.
+
+---
+
+### Addendum 7481.1: Initial Exploration Log
+
+**Foreword:** The first SCP-7481 instance was cataloged after its appearance within the boarded third floor of a condemned municipal records building in ███████, Ontario. Initial assumption was a localized pocket space or misclassified portal anomaly. A three-person team (MTF Lambda-12 “Papertrail”) was dispatched for remote observation and limited entry.
+
+**Exploration Log 7481.1**  
+**Date:** 2024-11-03  
+**Team:** Agent Hsu (Lead), Agent Daramola, Researcher Pike  
+**Equipment:** bodycams, lidar, tether line, inertial nav, air sampler
+
+> **00:00** — Hsu: Door’s on the north wall. No dust disturbance on the floor except directly at threshold. Knob scratches present. Same pattern as photos.  
+>   
+> **00:01** — Pike: There’s no stud break. The frame’s… integrated. Like it grew there.  
+>   
+> **00:02** — Hsu: Opening.  
+>   
+> **00:03** — *Door opens inward. Ambient temperature drops 3°C. Audio registers low-frequency hum. Light level increases without visible source.*  
+>   
+> **00:04** — Daramola: That’s not a room.  
+>   
+> **00:05** — *Camera shows corridor lined with shelving. Ceiling height indeterminate; shelves extend beyond camera’s dynamic range. Signage hangs from unseen supports, reading “STACKS / INDEX / INTAKE” in English and two unknown scripts.*  
+>   
+> **00:06** — Pike: The air smells like paper and ozone. No mold. No dust.  
+>   
+> **00:08** — Hsu: Lidar’s returning inconsistent distances. The far shelves keep… moving away.  
+>   
+> **00:10** — *Team crosses threshold. Footsteps echo from behind and above, then from the corridor ahead. No visible openings other than the corridor.*  
+>   
+> **00:12** — Daramola: I can see our backs.  
+>   
+> **00:13** — Hsu: Say again?  
+>   
+> **00:14** — Daramola: On the polished metal of that shelf endcap—look. There’s our reflection, but it’s delayed and… wrong angle. Like we’re behind ourselves.  
+>   
+> **00:17** — Pike: Lighting’s ambient. No fixtures. The shelves are labeled. These are… accession numbers.  
+>   
+> **00:20** — *Team advances 30 m. A freestanding terminal is present, powered, screen blank until approached. Interface displays “CATALOG / QUERY / RETURN.”*  
+>   
+> **00:21** — Hsu: No network hardware. Pike, don’t touch.  
+>   
+> **00:22** — Pike: It already knows we’re here. It’s asking for “Authority Credential.”  
+>   
+> **00:24** — *A paper card sits in a tray beneath the terminal, as if dispensed.*  
+>   
+> **00:25** — Daramola: That wasn’t there.  
+>   
+> **00:26** — Hsu: Bag it. We’re not wandering. Ten minutes, then out.  
+>   
+> **00:28** — *Team retrieves card. Card stock is unfamiliar; surface is fibrous and slightly warm. Card reads: “INTAKE: DOORWAYS / ORIGIN: LOCAL / STATUS: PENDING / SCRATCH PATTERN VERIFIED.”*  
+>   
+> **00:30** — Pike: It says “scratch pattern verified.”  
+>   
+> **00:31** — Hsu: We didn’t tell it that.  
+>   
+> **00:34** — *While returning, team’s outbound echo precedes their steps by ~0.8 seconds. Door remains open. No movement detected in corridor aside from minor parallax effects.*  
+>   
+> **00:38** — Hsu: Exiting.  
+>   
+> **00:39** — *Team exits SCP-7481-A. Door closes normally.*  
+>   
+> **00:40** — Daramola: There’s grit on my boot. Like—glass dust.  
+>   
+> **00:41** — Pike: Same on mine. Smells like ozone.  
+
+**Note:** The “INTAKE” card’s fibers contain trace isotopes consistent with high-altitude lightning events, not terrestrial papermaking. No ink compound matches known formulations.
+
+---
+
+### Addendum 7481.2: Recovered Documents (Selected)
+
+Following Addendum 7481.1, additional SCP-7481 instances were located in ███████ (Brazil), ███████ (Greece), and ███████ (Japan). All exhibited the identical scratch pattern, down to microstriations. Limited retrieval operations recovered loose documents from within SCP-7481-A without extended traversal.
+
+**Document 7481-A/EX1 (Fragment)**  
+*Recovered from floor adjacent to “INTAKE” terminal; torn along perforation.*
+
+> **CONTAINMENT FAILURE: VOLUME EVENT**  
+> **Authority:** Custodial Authority / Remediation Wing  
+> **Classification:** Post-Failure / Priority Black  
+>   
+> …the event is not contained by perimeter, by suppression, by denial. The event is contained only by **curation**.  
+>   
+> Do not preserve everything. Preservation is not benevolence. Preservation is selection.  
+>   
+> **To preserve a world, you must first decide which parts will be permitted to exist.**  
+>   
+> …all doors are to be standardized. All interfaces are to be made identical. All entry points are to be made **forgettable**.  
+>   
+> …scratch verification confirms authorized handling. If scratches are absent, do not open. If scratches are present, do not assume safety.
+
+**Document 7481-A/EX2 (Census Table Fragment)**  
+*Recovered in sealed mylar sleeve labeled “DEMOGRAPHIC / AFTER.”*
+
+> **Population (Global)**  
+> Pre-Failure Baseline: █,███,███,███  
+> Post-Failure (Year +5): ███,███,███  
+> Post-Failure (Year +12): ██,███,███  
+> Post-Failure (Year +20): ███,███  
+>   
+> **Note:** “Non-recorded” populations excluded by protocol. See Manual 3.2 (“Permitted Existence”).
+
+**Document 7481-A/EX3 (Procedural Manual Excerpt)**  
+*Recovered from a binder with metal rings; rings show no corrosion.*
+
+> **MANUAL 3.2 — PERMITTED EXISTENCE**  
+>   
+> 3.2.1 — Records are more stable than bodies.  
+>   
+> 3.2.2 — In emergencies, prioritize: (a) procedural continuity, (b) authority continuity, (c) critical personnel continuity, (d) cultural artifacts capable of restoring compliance.  
+>   
+> 3.2.3 — When continuity fails, **iterate**.  
+>   
+> 3.2.4 — Doors are preferred interfaces. Doors are recognizable across iterations. Doors invite entry without requiring belief.
+
+---
+
+### Addendum 7481.3: Personnel File Recovery (“River Horse” Event)
+
+On 2025-02-14, MTF Lambda-12 re-entered SCP-7481-A under expanded authorization to locate the source collection referenced by “Manual 3.2.” At 71 m from the threshold (per inertial estimate; lidar remained inconsistent), the team encountered a labeled drawer unit: “PERSONNEL / CUSTODIAL / CLEARANCE: IV.”
+
+**Exploration Log 7481.3 (Excerpt)**
+
+> **00:52** — Pike: These are personnel jackets. They’re… alphabetical. English letters.  
+>   
+> **00:53** — Hsu: Don’t open unless we have to. Photograph labels.  
+>   
+> **00:55** — Daramola: There’s a tab. “PIKE, M.”  
+>   
+> **00:56** — Pike: That’s me.  
+>   
+> **00:57** — Hsu: Step back.  
+>   
+> **00:58** — *Pike does not step back.*  
+>   
+> **01:00** — Pike: The folder is already unsealed. Like someone expected—  
+>   
+> **01:01** — Hsu: Pike, that’s an order.  
+>   
+> **01:02** — *Folder contents photographed in place. Paper is thinner than modern stock; text is typed in a serif font with occasional glyph substitutions. A photo sleeve is present; photo itself is absent, but the sleeve is labeled: “LIKELIHOOD MATCH: 0.97 — FACIAL / GAIT / VOICE.”*  
+>   
+> **01:03** — Daramola: Date line says Year +17. That’s not a calendar.  
+>   
+> **01:04** — Pike: Psychological notes… “compulsive rationalization,” “sleep interruption: archivist dreams,” “subject repeatedly reports hearing footsteps echo from directions inconsistent with geometry.”  
+>   
+> **01:05** — Hsu: Close it. Bag the entire folder.  
+>   
+> **01:06** — Pike: It has my employee ID number. The one I have now.  
+>   
+> **01:07** — *Silence.*  
+>   
+> **01:08** — Hsu: We leave. Now.  
+>   
+> **01:10** — Daramola: The organization name—here—“Custodial Authority.” Same org chart shape. Oversight. Internal Affairs. Ethics.  
+>   
+> **01:11** — Pike: It says “Foundation” in the margin. Like a translation note.
+
+**Recovered File 7481-A/PF-19 (Selected Lines)**
+
+> …Subject exhibits loyalty to continuity over truth, suitable for Records.  
+>   
+> …If subject becomes aware of iteration markers (doors, scratches), reassign to Intake.  
+>   
+> …Do not allow subject to retrieve Section ███.  
+>   
+> …Oversight acknowledges prior familiarity with subject. “We have been here before.”
+
+Pike was removed from SCP-7481-related duties and placed under observation. Pike’s exit interview includes repeated references to “a smell like old paper after lightning” and an insistence that his boot grit “belonged inside.”
+
+---
+
+### Addendum 7481.4: Evidence of Active Curation (Hazmat Entities)
+
+Between 2025-03-01 and 2025-04-09, three sanctioned mapping attempts of SCP-7481-A produced incompatible floorplans. In each, specific shelf blocks present in one pass were absent in subsequent passes. Dust disturbance patterns were recorded on shelving bases despite the absence of ambient dust accumulation elsewhere.
+
+On 2025-04-12, MTF Lambda-12 encountered entities within SCP-7481-A.
+
+**Exploration Log 7481.4 (Excerpt)**
+
+> **00:18** — Hsu: Movement, far aisle. Thermal shows three, maybe four.  
+>   
+> **00:19** — Daramola: They look like us.  
+>   
+> **00:20** — *Bodycam captures humanoid figures in uniform: matte gray coveralls, respirators without visible filters, gloves reinforced at fingertips. No insignia. Each carries a hard case and a compact tool resembling a clamp.*  
+>   
+> **00:21** — Pike (over comms, remote): Tell me their hands.  
+>   
+> **00:22** — Hsu: Their gloves have ridges. Like serrations.  
+>   
+> **00:24** — *Entities remove entire labeled shelf sections with practiced speed. They do not browse; they extract preselected blocks, sliding them onto low skids. No vocalization.*  
+>   
+> **00:25** — Hsu: Foundation! Identify yourselves!  
+>   
+> **00:26** — *Entities freeze. One turns its head toward the team; visor reflects shelves that are not in camera view.*  
+>   
+> **00:27** — Daramola: They’re backing away.  
+>   
+> **00:28** — Hsu: Do not pursue. Mark their path.  
+>   
+> **00:29** — *One entity grips the edge of a nearby door set into a freestanding frame (previously unobserved). Its gloved hand contacts the knob area. The same crescent scratch pattern is produced in real time on the paint surface—three gouges, identical angles.*  
+>   
+> **00:30** — Hsu: That’s the scratches.  
+>   
+> **00:31** — *Entities pass through the freestanding door. Door closes. Frame remains, now empty, as if it had always been a wall.*  
+>   
+> **00:32** — Daramola: Did they just—  
+>   
+> **00:33** — Hsu: Record everything. Back to threshold.  
+
+Post-mission analysis confirms fresh abrasions on an SCP-7481-A internal doorframe matching the global scratch pattern, including microtooth striation at 0.9 mm intervals. The pattern is therefore not incidental damage but an intentional verification mark made with a standardized device or glove reinforcement.
+
+---
+
+### Addendum 7481.5: Oversight Irregularities / Unauthorized Visits
+
+Following Addendum 7481.4, Internal Affairs initiated an audit of SCP-7481 documentation handling. The audit found the following discrepancies:
+
+1. **Door Manifestation Correlation:** Of 41 documented SCP-7481 manifestations between 2024-11-03 and 2025-05-20, 19 occurred within ±6 hours of confirmed O5-level travel blackouts (periods where standard tracking and logging are suspended under Council authority). Statistical analysis suggests non-random correlation (p < 0.001).
+
+2. **Bodycam Metadata Tampering:** Raw feeds from two SCP-7481-A entries contained overwritten metadata fields labeled “OCCLUSION EVENT” despite no recorded camera obstruction. The overwritten segments correspond to intervals where the team’s audio captured additional footsteps inconsistent with team movement. The audio remains; the video is replaced with repeated frames of the threshold.
+
+3. **Recovered Logbook Page:** On 2025-05-23, a loose page was recovered from SCP-7481-A’s “ACCESS / OVERSIGHT” shelf. Page is stamped with a symbol approximating the Foundation insignia but with the central pillar replaced by a keyhole.
+
+**Document 7481-A/OV-1 (Recovered Logbook Page)**
+
+> **OVERSIGHT ENTRY — AUTHORITY CONTINUITY VISIT**  
+>   
+> Attending: O█, O█, O█  
+>   
+> Purpose: Review Section ███; confirm curation progress; verify door standardization; update intake schedule.  
+>   
+> Note: Local iteration shows improved compliance. Foundation name persists. Good.  
+>   
+> **Reminder:** Do not allow Records personnel to read their own jackets. It accelerates recursion awareness.  
+>   
+> **Reminder:** Scratches must be consistent. Consistency is the only kindness we can afford.
+
+Internal Affairs’ request for O5 interviews was denied. An Ethics Committee memorandum recommending suspension of SCP-7481 exploration pending oversight clarification was returned unsigned and marked “NON-ACTIONABLE.”
+
+---
+
+### Addendum 7481.6: Closing Observation
+
+On 2025-06-02, an SCP-7481 instance manifested inside Site-43, Sector D, in a corridor between Records Storage and the document shredder bay. The corridor has been under continuous camera coverage for twelve (12) years and is accessible only by Level 4 personnel. No breach of physical security was recorded.
+
+The door was present at 03:14:09. The paint was clean. The knob was brass-colored. There was no manufacturer stamp. There was no dust disturbance except directly at the threshold.
+
+The scratches around the knob were already there.
+
+A catalog card lay on the floor in front of it, oriented perfectly parallel to the

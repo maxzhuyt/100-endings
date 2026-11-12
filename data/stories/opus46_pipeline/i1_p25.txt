@@ -1,0 +1,95 @@
+# The Azra Gambit
+
+## Chapter Two: Transfer Orbit
+
+The transfer vessel's air filtration system hummed a persistent B-flat — or something near it, a quarter-tone sharp, perhaps, the kind of imprecision that would have been corrected in any system Arthur had designed. He'd been listening to it for three hours. Cataloguing it. Determining whether the resonance originated in the compressor housing or the ductwork seams. This was what an engineer's mind did when it had no work: it found work. And when the alternative to finding work was thinking about why he was aboard a vessel he hadn't chosen, traveling to a destination no one would name, the compressor housing became very interesting indeed.
+
+He sat in the aft passenger compartment. Four acceleration couches, milspec crash-rated, arranged in pairs facing each other across a narrow aisle. He occupied the port-side rear. The starboard-side forward couch held a young officer who had introduced himself only as "Lieutenant" on departure and who had, in the subsequent three hours, spoken exactly once more, to offer coffee.
+
+The coffee had been good. This bothered Arthur in a way he couldn't entirely articulate. It had come in a ceramic mug — not disposable polymer, not a sealed bulb, but a proper mug with a handle and a weighted base designed for low-thrust gravity. Fired into the glaze on one side was the insignia of the Antares Diplomatic Corps: the four-pointed star bisected by a stylus, rendered in a blue so dark it was nearly black. Arthur had held the mug and studied the insignia with the same attentiveness he'd have given a suspect weld joint. Diplomatic Corps. He'd known three men over the years who'd had dealings with Antares. Two of them had prospered. The third had disappeared on a routine freight run to Deimos, and the notable thing about that disappearance was the silence that followed it — not the silence of mystery but the silence of understanding, the kind of quiet that settles over a room when everyone present knows what happened and has independently decided not to be the one who says it.
+
+The lieutenant's uniform was pressed to a crispness that suggested either a machine or a devotion to routine that amounted to the same thing. His boots were clean. His sidearm — a compact Voss pulse pistol holstered at the hip — had been visible exactly once, when he'd reached for the coffee thermos, and Arthur suspected this was not accidental. Everything about the young man communicated a calibrated gentleness, the way a veterinarian's grip communicates gentleness while also communicating that struggling will not help.
+
+Through the porthole — real glass, not a display, which meant this vessel was either antique or expensive beyond the reach of the word — Mars had diminished from a landscape to a disc to, now, an ochre coin hung on black velvet. They were accelerating outward. The thrust profile was steady, around a third of a g, oriented along a vector consistent with Jupiter approach. Arthur hadn't been told this. He didn't need to be told. Thrust profiles were his language the way musical notation was a composer's. You didn't translate them. You read them.
+
+"Where exactly are we going?" he asked. He had asked this at departure. He had asked it again at the ninety-minute mark. Repetition, he felt, conveyed a useful precision of interest.
+
+The lieutenant looked up from his reading tablet. He had a face assembled from trustworthy components: clear eyes, a jawline that suggested decisions, the kind of untroubled brow that recruiting materials favor. Whether this face was innate or cultivated for assignment was a question Arthur chose to leave unanswered.
+
+"We'll arrive within the hour, Mr. Neegan. Can I get you anything in the meantime?"
+
+"An answer would be sufficient."
+
+"Within the hour," the lieutenant repeated, and his smile was the smile of a man discussing favorable weather, or a simple meal, or anything else that carried no weight whatsoever.
+
+Arthur turned back to the porthole. Mars was gone. Even the sun had shifted, diminished to an unusually bright star among its peers. The glass was cold under his fingertips. Somewhere forward, beyond the sealed cockpit bulkhead, someone was flying this vessel toward a specific point in empty space, and the only data Arthur possessed was a B-flat hum and a cup of very good coffee.
+
+He thought about his claim. Forty hectares of Martian regolith in the Noctis Labyrinthus graben system, license number 4471, filed with the Colonial Mining Bureau eighteen days ago. Eighteen days. In eighteen days he had gone from a man who ate rehydrated lentils alone in a twelve-meter habitat module to a man drinking real coffee aboard a vessel with glass portholes and milspec crashcouches while a polite young officer with a pulse pistol avoided his questions with the practiced ease of a concierge.
+
+The filtration system hummed. B-flat. Near enough.
+
+---
+
+They docked forty-seven minutes later.
+
+Arthur felt it in sequence: the orientation thrusters firing in staccato bursts, fine-tuning their approach vector; then the heavy, resonant clang of magnetic clamps engaging — industrial gauge, the kind rated for docking a mid-tonnage freighter, which told him something about the mass of whatever they were connecting to; then the subtle pressure shift in his inner ears as the atmospheres equalized. The host vessel ran higher cabin pressure than the transfer craft. One-point-one atmospheres, perhaps one-point-two. A trivial detail. Arthur catalogued it anyway. Trivial details were what you had when no one would give you significant ones.
+
+The lieutenant stood, stowed his tablet, and gestured toward the hatch with a deference that managed to also be a direction. "This way, Mr. Neegan."
+
+The hatch opened onto a corridor that immediately recalibrated Arthur's assumptions. He had expected a station, or perhaps a military cruiser — something functional, something that declared its purpose through exposed conduit and stenciled warnings. What he got was width. The corridor was broad enough for four people abreast, paneled in grey composite of a grade typically reserved for governmental installations, and lit by fluorescent strips recessed behind diffusion panels that gave everything a flat, shadowless quality he associated with surgical theaters. The floor was surfaced in a resilient polymer that absorbed footsteps. The air tasted of nothing at all, which meant the filtration was excellent, which meant it was expensive.
+
+This was not a station. It was not a cruiser. It was something that occupied the bureaucratic space between the two — an infrastructure of ambiguity, built to be difficult to classify and therefore difficult to regulate. Arthur recognized the design philosophy even if he couldn't name the architect. You built like this when your work required the permanence of a station and the deniability of a ship.
+
+A woman waited at the junction where their corridor met a wider thoroughfare. She was perhaps fifty, compact in the way of someone who had maintained fitness as a professional requirement rather than a personal choice. Her suit was collarless, dark blue, cut without ornamentation, and bore no insignia of any kind. Where the lieutenant's uniform had communicated allegiance through symbols, this woman's clothing communicated authority through their absence. She didn't need to tell you who she was. The ship told you.
+
+Her hair was steel-grey, cropped close to a well-shaped skull. Her eyes were dark and held the particular quality of attention that Arthur associated with people who listened not for what you said but for what you decided not to say.
+
+She extended her hand. Her grip was firm and brief.
+
+"Mr. Neegan. I'm Director Lien. Thank you for accepting our invitation."
+
+"I don't recall accepting anything."
+
+"No," she agreed. Her tone was pleasant, unhurried, as though his correction were a minor point of scheduling rather than an observation about coercion. "I suppose you don't. This way, please."
+
+She turned and walked. He followed. There was, he noted, nothing else to do. The lieutenant fell in behind them at a distance that was too consistent to be casual, and Arthur added this to his catalogue of details that were not being discussed.
+
+They passed through two security checkpoints. The first required palm geometry — a biometric scanner set into a pedestal beside a reinforced door. Arthur placed his hand on the plate and felt the familiar prickle of the infrared vein-map reading. Standard federal-grade equipment; he'd encountered identical systems at the Terrestrial Bureau of Engineers during his certification process. The second checkpoint took a retinal scan. The scanner was newer, sleeker, and bore a manufacturer's code Arthur didn't recognize, which either meant it was proprietary or it was military and he'd never had clearance to see one.
+
+At each checkpoint, guards stood at parade rest. They wore the same dark blue as Director Lien, unadorned, and their sidearms were not Voss pistols but something heavier, something Arthur couldn't identify from a glance. They nodded to the Director with the reflexive deference of long routine. None of them looked at Arthur with curiosity. He was expected. He had been expected, probably, for some time.
+
+The room Director Lien brought him to wanted very much to be called an office. It had the furniture of an office: a broad desk, two chairs, a console along one wall, a shelf. But the arrangement was wrong for an office. The chairs were positioned for confrontation rather than collaboration. The console displayed data feeds — several of them, scrolling, updating in real time — that suggested intelligence rather than administration. The shelf held no personal effects, no books, no photographs. The room was a strategist's den wearing an office's clothes, and the disguise was thin enough that Arthur suspected it was not meant to fool but to communicate. *We are being civilized about this. You will note our civility.*
+
+Behind the desk, a viewport stretched nearly the full width of the wall. Through it, stars. No planet visible, no station, no orbital infrastructure. Wherever they were, they were between things. The emptiness of the view was itself a kind of statement.
+
+But it was the desk that held Arthur's attention. Mahogany. He recognized the grain, the reddish-brown depth of the wood, the particular way the light caught the oil in the finish. This was terrestrial hardwood, grown in terrestrial soil, and it had been shipped to this location at a cost that Arthur — who was accustomed to calculating material transport expenses as a professional function — could estimate within a range that started at obscene and ascended from there. The desk was not a desk. It was a credential. It said: *We can afford to waste.*
+
+"Sit down, Mr. Neegan."
+
+He sat. The chair was comfortable, which was worse than if it hadn't been. Director Lien settled across from him and folded her hands on the mahogany surface with the patience of a woman who had conducted this particular type of conversation many times and who understood that patience was its own form of pressure.
+
+"You filed your geological survey with the Colonial Mining Bureau eighteen days ago," she said. "Claim 4471-Neegan. Standard subsurface assay, gravimetric and spectrometric, conducted over a period of—" she glanced at a display inset into the desk's surface "—eleven weeks. Do you know how many people have accessed that survey since you filed it?"
+
+"It's a public record. I'd imagine—"
+
+"Forty-three." She let the number exist in the air for a moment, let it occupy the space between them. "Thirty-one of those within the first seventy-two hours. I can break that down for you. Twelve were corporate mining concerns — BHP-Tharsis, Zhongyuan Mineral Group, Ares Consolidated, and nine others of varying scale and varying scruples. Nine were governmental bodies, and I use the term loosely, since four of those governments don't officially exist under any recognized charter. They are, nonetheless, well-funded and well-armed. The remaining twelve were private intelligence brokers, selling access and analysis to clients I can partially identify and partially only guess at." She paused. "Your assay estimates a continuous vein of approximately four hundred metric tonnes of unrefined Azra ore. That is, conservatively, more than the combined annual output of every active mine in the Martian system."
+
+Arthur said nothing. He didn't need to be told what the number meant. He had run it himself. He had sat in his habitat module at three in the morning, the spectrometer readout casting blue light across his hands, and he had entered the figures into his estimation model three times because the first two times he was certain he had made an error. He hadn't made an error. The vein was there. Four hundred tonnes. A geological improbability that was nonetheless a geological fact, sitting beneath thirty meters of Noctis regolith on a forty-hectare plot that he'd staked for twelve hundred credits and a filing fee.
+
+He remembered the feeling. Not excitement — that came later. The first sensation had been vertigo. The particular vertigo of a man who realizes that the ground beneath his feet, which he had understood to be a commodity of modest and predictable value, had become something else entirely. Not ground. Territory. The kind of thing people killed for. The kind of thing people always had.
+
+"What do you want, Director?"
+
+Lien regarded him. Her expression was neither sympathetic nor hostile; it was administrative, the face of someone processing a case file that happened to contain a living person.
+
+"I want to keep you alive, Mr. Neegan." She said it with the same cadence she might have used to state a project objective. "That may sound dramatic. I assure you it is the most precisely literal thing I will say to you today."
+
+She opened a drawer — the sound was quiet, the mechanism smooth — and placed a single sheet on the desk between them. Paper. Not a display, not a data tablet, but paper — actual cellulose, cream-colored, heavy-stock, with text printed in clean block type. The tactile anachronism of it struck Arthur the way the mahogany had. Here was another material shipped from Earth at absurd expense, deployed in pursuit of an impression. Paper meant permanence. Paper meant ceremony. Paper meant: *this document exists in a world older and more serious than your digital claims and electronic filings.*
+
+"Antares is prepared to offer you the following," Director Lien said, and her voice took on a faintly recitative quality, the voice of someone reading not from the page but from memory, because the page was for him and the knowledge was hers. "Full extraction rights retained in your name. A twelve percent royalty on all refined output, indexed to the Terran commodities exchange rate at time of processing. Sovereign security status for your claim site and your person, backed by Antares enforcement authority under the Hellas Accords. Full medical indemnity. A seat — nonvoting, advisory — on the extraction oversight board."
+
+"And in exchange?"
+
+"Antares assumes operational control of the mining site and exclusive first-right allocation on all military-grade output."
+
+Arthur heard the term land the way you hear a diagnostic alarm

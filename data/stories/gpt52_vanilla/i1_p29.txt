@@ -1,0 +1,139 @@
+The solar rig was a rectangle of scavenged glass and bruised silicon lashed to the roof with copper wire and prayers. On clear days it fed the lab a steady trickle; today it flickered like a tired eyelid, voltage spiking and sagging in time with the dirty clouds dragging themselves over the broken skyline.
+
+The lights didn’t so much turn on as decide, moment to moment, not to turn off.
+
+Kestrel watched the multimeter needle dance and kept her hand on the knife switch anyway. The switch was an old breaker from a metro substation, mounted to plywood with hose clamps. When the panel surged, it kept her centrifuge from screaming itself apart. When it dipped, it kept her thermocycler from forgetting what temperature meant halfway through a run.
+
+The thermocycler had never been a thermocycler, not really. It was a repurposed drink cooler wrapped in insulation foam, with two Peltier tiles on either side, a salvaged CPU fan, and a cracked microcontroller that still remembered how to count to thirty-five. A strip of nichrome wire inside provided heat when the sun was stingy. A thermistor taped to an aluminum block fed temperature readings back to the controller—when the tape held.
+
+Across the bench, a rack of PCR tubes sat nested in a block of milled aluminum. Each tube held a few microliters of hope: template DNA, primers, nucleotides, polymerase. On paper, it was the same reaction corporations used to sell the future. In practice, it was a tiny ritual performed with dubious reagents and a power supply that wanted to die.
+
+Kestrel’s settlement wanted food.
+
+Not just any food—food that could survive the dust storms, the alkaline rain, the late frosts that came out of season like old debts. Before the collapse, AgroDyne and its competitors had promised drought-proof maize, saline-tolerant rice, blight-resistant tubers. They’d delivered, too. For one generation.
+
+The obsolescence had been elegant: engineered traits encoded with built-in expiry. “Proprietary genetic containment,” the brochures had called it. Gene cassettes designed to self-silence after meiosis. Recombination traps that shredded the insert during gamete formation. Epigenetic locks keyed to chemicals only AgroDyne sold. Farmers could buy seed, harvest, eat, sell—but they couldn’t save. Not if they wanted the traits to persist.
+
+The corporations had made biology into a subscription service. Then the money stopped mattering, and the subscription ended. The modified plants still grew—once—but their children were ghosts of the promise: weak stalks, brittle leaves, yields that collapsed like tired lungs.
+
+Kestrel had been a grad student when the first riots started. She remembered lectures about “biosecurity” and “gene flow” delivered in windowless halls with biometric locks. She remembered the day her advisor stopped coming to campus and nobody replaced him. She remembered walking home past a burned-out AgroDyne kiosk with a poster still clinging to the glass: *ONE SEED. ONE WORLD. ONE BRAND.*
+
+Now she worked in a room carved out of a gutted dental clinic, its walls lined with shelves made from filing cabinets and shipping pallets. The dental chair was gone; in its place sat a lab bench made from a door. The autoclave was a pressure cooker wired to a temperature probe. The laminar hood was a clear plastic storage bin turned on its side, with a HEPA filter from a vacuum cleaner and a fan meant for a server rack. When she needed “sterile,” she wiped everything down with ethanol distilled in a pressure-cooker still and prayed her hands shook less than yesterday.
+
+The multimeter needle twitched again. The thermocycler beeped—an optimistic chirp—and began its cycle. Denature, anneal, extend. Over and over. A polymerase chain reaction, a little engine that turned scarcity into abundance, at least on a molecular scale.
+
+Kestrel flexed her fingers, feeling the ache in the joints. The ache had a name: the price of her last experiment.
+
+The settlement’s medic, Mara, had brought her a vial of something two months ago, wrapped in foil and secrecy. “Black market,” Mara had said, as if the words alone were a contagion. “Not AgroDyne. Something else.”
+
+It had been a gene therapy vector in a cold chain that had failed three times on the way to them. A viral capsule carrying a modification designed to upregulate clotting factors and boost immune response—sold, before the collapse, to wealthy preppers and private security contractors. The kind of people who wanted to bleed less and heal faster when the world turned sharp.
+
+Kestrel had taken it because her hands were always cut. Because lab work in a broken world meant scavenged glass and dull blades and infections that killed the careful. Because every fever in the settlement was a coin flip, and she was tired of flipping.
+
+The injection had burned like solvent. The first week she’d sweated through her blankets, hallucinating pollen storms in the dark. The second week the cuts on her knuckles stopped reopening. The third week she noticed she wasn’t bruising the way she used to.
+
+The unexpected upside was that she could work longer. The toll was that her body felt *louder*—heart pounding harder, skin itching with a restless vigor, sleep shallow and full of teeth. Her hair had started coming in thicker at the temples, an odd vanity in a life that had no mirrors that weren’t cracked. Mara monitored her, worried about thrombosis, about immune overreaction, about cancer. Kestrel took her own blood smears under a salvaged microscope and looked for the story in the cells, reading clusters of platelets like tea leaves.
+
+The therapy had been untested on anyone who wasn’t a client with a lawyer. If it turned her blood to sludge in a year, there’d be no recall, no class action, no compensation. Just a corpse and a settlement down a biohacker.
+
+That was why she didn’t take contracts lightly.
+
+A knock at the door—three taps, a pause, two taps—broke her focus. The signal they’d agreed on after the last time someone wandered in while she was running gels and ruined a day’s work with their curious breath.
+
+She flipped the knife switch to isolate the thermocycler, letting it run on the capacitor bank for a minute, then opened the door.
+
+Rook stood in the hall, rain on his jacket, goggles pushed up into his hair. He smelled like wet concrete and smoke. Behind him hovered a stranger, small and wrapped in a patched coat whose pockets bulged with things that clinked softly. Their face was hidden behind a respirator with the filter taped on.
+
+“Contract,” Rook said, because he always said the word like it was a warning.
+
+Kestrel’s eyes went to the stranger’s hands. Gloves. Good. People who understood contamination were rare.
+
+“Come in,” she said. “Wipe your boots.”
+
+They stepped into the lab, and the stranger’s gaze swept over everything: the jury-rigged centrifuge made from a cordless drill mounted in a wooden frame, the gel electrophoresis box that used aquarium wire and a phone charger, the rack of pipette tips washed and re-used until they went cloudy, the battered laptop running open-source software to control the thermocycler.
+
+“You’re Kestrel,” the stranger said through the respirator, voice muffled and genderless. “We heard you can make traits stick.”
+
+“I can make things *try*,” Kestrel said. “Nothing sticks if the genetics are designed to rot.”
+
+The stranger reached into their coat and set a small hard case on the bench. The case was foam-lined. Inside were three cryovials, each labeled with a corporate logo that made Kestrel’s stomach tighten: AgroDyne’s old helix-mark, faded but unmistakable.
+
+“Salvage from a vault,” the stranger said. “Pre-collapse stock. Not seed. Not product. Source.”
+
+Kestrel didn’t touch the vials. “That’s radioactive,” she said, meaning *dangerous* in every way that mattered. If it was real, it was the kind of material people killed for: original lines before the obsolescence triggers were spliced in, or the chemicals that unlocked them, or the master template that let you rebuild.
+
+“Not quite,” the stranger said. “It’s plasmids. Trait cassettes. Clean. We need you to amplify them. PCR. Enough copies to inoculate a nursery run.”
+
+Kestrel laughed once, sharp. “And how do you plan to deliver plasmids into plants without a particle gun or Agrobacterium cultures?”
+
+The stranger’s eyes—dark lenses behind the respirator—tilted toward her makeshift hood. “We heard you have cultures.”
+
+Kestrel did. In a mini-fridge that used a car battery and hope, she kept a few strains of *Agrobacterium tumefaciens* alive, fed on homemade agar and sugar. She’d salvaged them from a university greenhouse early on, before the fires. They were finicky, prone to contamination, but they were her best tool for turning DNA into plants.
+
+“That’s not the hard part,” she said. “The hard part is the obsolescence. Even if these plasmids are clean, if you’re trying to recreate corporate traits, you’ll just recreate corporate rot. One generation. Then nothing.”
+
+The stranger leaned closer. “That’s why we’re paying you. We don’t want their rot. We want the drought tolerance *without* the fail-safe. We want something that breeds true. For our people.”
+
+“Our people,” Rook echoed, but his tone made it a question.
+
+Kestrel’s gaze flicked to him. Rook handled security for the settlement; he also handled the ugly ethics when they came. His scars had scars. He didn’t like black market work because it brought black market attention.
+
+“What’s the payment?” Kestrel asked.
+
+The stranger opened another pocket and produced a foil-wrapped brick. Not food. Too heavy, too precise. They unwrapped it just enough to show a stack of sealed blister packs.
+
+Antibiotics. Real ones. Not the dubious herbal tinctures Mara brewed or the half-expired pills scavenged from abandoned pharmacies. These were clean, labeled, unpunctured.
+
+Kestrel’s throat tightened. She thought of the settlement’s children with infected cuts, the old man with pneumonia who’d coughed himself hollow last winter. She thought of Mara rationing amoxicillin like it was gold.
+
+“Where did you get those?” she asked.
+
+The stranger’s shrug was small. “We have routes.”
+
+“Routes,” Kestrel repeated. Smuggling. Raids. Something worse.
+
+“And the other half?” the stranger asked. “We heard you… modify people.”
+
+Kestrel’s hand went, unconsciously, to the inside of her elbow where the last injection site had left a faint scar. “I don’t do medicine for strangers,” she said.
+
+“You will,” the stranger said, calm. “If you want the rest.”
+
+They placed a second case on the bench. This one had a biometric lock. A little screen blinked red, hungry for a fingerprint it would never get.
+
+“Inside,” the stranger said, “is a vector. Medical grade. Not the cheap stuff. Designed to repair radiation damage. Upregulate DNA repair pathways. Keep hair from falling out. Keep marrow from failing. We need it. You need it.”
+
+Kestrel stared at the case like it was a snake. Radiation had become a background flavor in the wastes—old industrial sites, dirty bombs, leaking reactors nobody had the parts to fix. People got sick in slow, ugly ways. She’d seen it: gums bleeding, bruises blooming, infections that never healed. Her own hands, for all their improved clotting, still tingled sometimes after scavenging runs near the dead zones.
+
+“Why come to us?” Rook asked. “Why not your own lab?”
+
+The stranger’s shoulders rose and fell. “We had one. We lost it. And we can’t run PCR without stable power. Your solar rig—” they nodded toward the flickering meter “—is better than ours.”
+
+Kestrel’s eyes went to the multimeter needle again. It trembled, then dipped. The lights dimmed as if listening.
+
+She thought of the plasmids in the first case: a chance to rebuild traits that could make food resilient, not just for one harvest but for every harvest after, seed saved and shared like stories. She thought of the antibiotics and the locked medical vector: salvation with strings, as always.
+
+“What’s the catch?” she asked, because there was always one.
+
+The stranger’s voice softened, almost kind. “You deliver us stable, inheritable crop lines in six weeks. We deliver the medicine and the antibiotics. You fail, we take back what we’ve given and we take something else. Your lab. Your cultures. Maybe you.”
+
+Rook shifted, and Kestrel heard the faint whisper of his knife leaving its sheath.
+
+Kestrel held up a hand. Violence in a lab was like dust in a clean room: it ruined everything.
+
+She looked down at the PCR tubes, the tiny volumes already cycling through heat and cold, duplicating fragments of DNA that would decay if she didn’t act fast. Corporate genetics had been designed to die; everything she did was a race against entropy. A black market contract just added a timer made of teeth.
+
+“I’ll do the amplification,” she said slowly. “I’ll take a look at your plasmids. But if they carry obsolescence triggers—if they’re poisoned—then I’m not your tool. I’m not growing you another monopoly.”
+
+The stranger nodded once, as if they’d expected resistance and budgeted for it. “We’re not asking for monopoly. We’re asking for survival.”
+
+Kestrel reached for a pair of gloves—washed, dried, patched at the fingertips with tape—and pulled them on. The nitrile was thin, almost transparent. She could feel her pulse in her fingers, steady and hard, like the therapy had taught her blood new songs.
+
+She opened the first case, lifted one cryovial, and held it up to the flickering light.
+
+Outside, thunder rolled over the ruins. Inside, her jury-rigged thermocycler clicked as it reached the end of its first cycle and began the next, persistent as a heartbeat.
+
+In six weeks, either she would have something that could feed her settlement for years, or she would have handed power back to people who still believed life was a product.
+
+The multimeter needle jumped.
+
+Kestrel adjusted the knife switch, stabilized the current, and began to work.

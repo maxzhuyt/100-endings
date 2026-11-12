@@ -1,0 +1,119 @@
+# The Signal Story
+
+## I.
+
+Three years I have been sitting on this bench. It is not a good bench. It is a laboratory bench, which means it is a slab of chemical-resistant composite mounted at a height designed solely to make a seated person's lower back announce, by the third hour, that it is considering early retirement. The stool that accompanies the bench has a pneumatic cylinder that no longer holds, so that over the course of a morning I sink, imperceptibly, from a working height to something closer to a child's posture at a dinner table, my chin approaching the countertop. Every forty minutes or so I stand, haul the seat back up, and descend again. This is the most productive cycle in my professional life.
+
+The bench is in Room 714B of Building 7, which is the building the physics department gives to people it is not yet ready to fire but has stopped wanting to see. Building 7 is across a parking lot from the real physics building. The hallway carpet is the color of a headache. The overhead lights operate on some kind of institutional timer that shut them off at 11 PM regardless of occupancy, so that anyone working late must wave their arms every eight minutes to trigger the motion sensor, a practice that lends the after-hours hallways the look of a low-budget séance.
+
+I share 714B with Lena Moss.
+
+The room was designed, generously, for one. When Lena arrived — transferred from a lab in Building 3 after what I later learned was a dispute about telescope allocation that a more honest department would have called a war — our desks were arranged facing each other, a configuration the department manager called "collaborative" and which in practice meant we breathed each other's coffee for nine hours a day. Within a week I had rotated my bench ninety degrees so that we sat perpendicular, an arrangement that allowed us each the fiction of a private sightline. Her bench faced the window. Mine faced the wall. This felt, at the time, like a reasonable metaphor for our respective orientations toward the world, although I would not have said so to Lena, who did not traffic in metaphors.
+
+My dissertation was on cosmic ray muon flux variability at intermediate altitudes. It had been on cosmic ray muon flux variability at intermediate altitudes for thirty-seven months. My advisor, Dr. Kessler, had stopped asking about it in the way that veterinarians stop asking about a dog's appetite when the prognosis has shifted from treatment to management. Once a semester he would email me a single line — "How are we progressing, David?" — and I would respond with a paragraph dense enough with jargon to simulate motion, and he would write back "Good, keep at it," and we would both return to our lives. The dissertation existed. I had data. The data was not the problem. The problem was that every time I sat down to write the analysis section, I would arrive at the point where I was supposed to argue that the thing I had measured mattered — that the variability I'd documented meant something, connected to something, pointed toward some implication worth three years of a man's life — and I would find that I could not make the argument. Not because it was wrong, but because to make it, I would have to believe that the next sentence was worth writing, and the next, and the next, and at some point in the last three years the next sentence had stopped feeling worth writing in a way I could not explain to Kessler or to myself. So I sat. I adjusted my stool. I sank.
+
+Lena's work was different. Lena's work had a pulse.
+
+She was a radio astronomer, which in our department's hierarchy placed her somewhere between a medievalist and a person who talks to plants. Radio astronomy at our institution was not a program so much as a permission — a thing the department allowed to exist because the grants, while small, required almost no overhead, and because Lena, whatever her colleagues thought of her field, was the kind of researcher who made committees nervous to deny. She had a way of presenting her work that combined rigorous method with an intensity of focus that suggested, without ever stating, that she understood something about the universe that the rest of the room would get to eventually. She published in decent journals. She taught the survey course every spring to rooms of freshmen who came in expecting pictures of galaxies and left, some of them, with an unsettled look I recognized, because I'd seen it in the mirror.
+
+Her project, the one that had gotten her exiled to Building 7, involved monitoring a particular frequency band — the so-called "water hole" between the hydrogen and hydroxyl emission lines — using a modest dish the university maintained on a hill forty minutes north of campus. The dish was outdated. The monitoring schedule was skeletal. The project had no realistic expectation of detecting anything, which was, in the logic of our department, the reason it had been approved: it could not embarrass anyone. What Lena was looking for, though she would have framed it in more careful language, was a signal. An intentional transmission. A sign that someone, somewhere, had pointed a thought in our direction and pushed.
+
+She had been looking for four years. She had found nothing but noise. Interstellar hydrogen hissing its one dull note across the length of the observable universe. She never seemed discouraged by this, which I found, depending on the day, either admirable or clinically interesting.
+
+The night it changed was a Thursday in November, cold enough that the heating system in Building 7 had entered its annual negotiation between the two radiators in our hallway — one scalding, one dead — and I was wearing my coat indoors, scrolling through muon counts I had already scrolled through that morning. Lena was at her bench, headphones on, monitoring a feed from the dish. She did this the way other people listen to ambient music while working — half-attentive, habitual, the soundtrack to her actual tasks. I had learned not to speak to her when the headphones were on, not because she'd asked but because the one time I had, she'd looked up with an expression so startled and remote that I'd felt I'd reached into a stranger's dream.
+
+At twenty minutes to midnight — I know because the lights went off and I had to wave — she took the headphones off and turned to me and said, "There's something in the feed."
+
+She said it the way someone mentions a weird rash. Mildly, provisionally. One eyebrow slightly raised, mouth half-smiling as though embarrassed to have spoken at all.
+
+"What kind of something?" I asked.
+
+"A pattern. Probably instrumental. But it's — let me show you tomorrow, after I've cleaned it up."
+
+"Sure," I said.
+
+She put the headphones back on. I went back to my muon counts. The radiator nearest my bench made a sound like a small animal dying inside a pipe, which it did most nights around this time, a phenomenon I had reported to facilities twice and which they had resolved by sending a man who listened to the pipe, nodded, and left.
+
+I thought about Lena's "something" for perhaps ninety seconds. Then I stopped thinking about it, because I had my own problems, and my own problems were, in their own small and stupid way, keeping me alive. The dissertation existed. The bench existed. The stool sank, and I raised it, and it sank. This was the shape of my days. I was not looking for a signal. I was not looking for anything. I was waiting, though I would not have said so. I would have said I was working. But what I was doing, what I had been doing for three years on that bench, was sitting very still in a room with a broken radiator, with my frequency open, scanning, scanning, and if you had asked me what I was scanning for I would have made a joke about muon flux and changed the subject, because to answer that question honestly would have meant admitting that I had stayed in 714B long past the point when any rational person would have transferred, or quit, or done anything besides sink and rise and sink, and the reason I had stayed was not inertia, and it was not the bench, and it was not Lena Moss, though she was part of it in ways I did not then understand. The reason I had stayed was that the wall my bench faced was blank, and I had been staring at it for three years, and I had the persistent, irrational, and entirely private conviction that the wall was going to say something, and I did not want to miss it when it did.
+
+But you don't say that. Not to your advisor, not to yourself. You say you're working on the analysis section. You say you're almost there.
+
+---
+
+## II.
+
+She showed me the next morning.
+
+The spectrogram was unremarkable at first glance — a waterfall display, time on the vertical axis, frequency on the horizontal, amplitude rendered in a color gradient that ran from the cool blue of background noise to the hot yellow of a strong narrowband signal. Most of the display was blue. The band Lena monitored was quiet, as the water hole tends to be, which is why it was chosen as a candidate for intentional transmission: a natural clearing in the electromagnetic forest, a frequency range where the universe, for reasons of physics, mostly shuts up and listens.
+
+"Here," she said, pointing to a thin thread of green that appeared at 1,421.3 megahertz and persisted for approximately fourteen seconds before vanishing. "Wednesday night. 23:47 UTC."
+
+"Okay," I said. "Could be RFI." Radio frequency interference. The most common explanation, and usually the correct one. Satellites, cell towers, microwave ovens, a graduate student in the next county warming up soup at the wrong moment — the modern electromagnetic environment is a junkyard, and most of what trips the detectors is terrestrial garbage.
+
+"Could be," she said. "So I went back to the archival data."
+
+She pulled up a second display. Then a third. Then four more, spanning the previous six weeks of monitoring. The green thread appeared in each one. Not continuously — it came and went, sometimes absent for days, sometimes appearing multiple times in a single session. But its frequency was consistent. Its bandwidth was narrow. And its temporal structure — this was what she was showing me — was not random.
+
+"Look at the onset patterns," she said. She had overlaid the appearances chronologically, aligned by start time, and measured the intervals. I leaned in, and this was when my stool chose to begin its descent, so that I found myself slowly sinking away from the screen as I tried to read her annotations, a problem I solved by gripping the edge of her desk, which put my face approximately eight inches from her shoulder and introduced into the moment a physical intimacy neither of us acknowledged.
+
+The intervals were not periodic. If they had been periodic — evenly spaced, metronomic — the case for artificial origin would have been straightforward and the case for instrumental artifact equally so. Clocks repeat. Nature, generally, does not. What Lena had found was something else: the intervals varied, but they varied in a way that was itself patterned. Short-short-long. Short-short-long. Then a pause. Then short-long-short-long. Then a pause. The groupings shifted between sessions but maintained internal consistency within each session, as though someone were trying out arrangements. Trying out rhythms.
+
+"It's interesting," I said, which was true.
+
+"It's more than interesting," she said, which was also true, or possibly true, or at least not yet false.
+
+"You should file a candidate report with the monitoring committee," I said.
+
+"I will."
+
+She did not. Not then, and not for another three weeks, during which the signal continued to appear and Lena continued to record it, playing the recordings for me approximately every other day with a casualness that I now recognize was tactical. She was acclimating me. She was teaching me to hear what she heard, the way a birder points out a call you've been ignoring your whole life, and once you hear it — once the pattern separates from the noise — you cannot unhear it, and the world is louder than it was.
+
+The recordings changed.
+
+The first batch — the rhythmic groupings, the short-long patterns — had the quality of Morse code, or of a child banging on a table. Something was marking time, establishing a tempo, proving that the signal was not random. Lena played these for me on her laptop speakers first, then on headphones, and through the headphones the signal gained a specificity it lacked in open air. There was a texture to it. Not mechanical, exactly, but not organic either. A clean tone with faint spectral sidelobes, like a tuning fork ringing inside a glass jar.
+
+By the second week the tapping had stopped. In its place, the signal was doing something I did not have a framework for. The narrowband tone was still there, still at 1,421.3 megahertz, but it was now being modulated — its amplitude rising and falling in complex envelopes that, when Lena ran them through a Fourier transform and mapped the output to audio frequencies, resolved into sound.
+
+Not organized sound. Not yet. What came through the headphones during that second week was a kind of vocal chaos — a rapid, seemingly random sequence of tones that swept up and down the audible spectrum like someone running a finger along a piano keyboard with their eyes closed. But it was not random. Lena showed me the statistical analysis. The frequency distribution was not flat but peaked around certain values. Certain tones were visited more often than others. And the tones that were favored — this was the detail that first made me set down my coffee and look at her with an expression I had not previously worn in her presence — the favored tones corresponded, roughly, to the formant frequencies of human vowel sounds.
+
+"It could be a coincidence," I said. "The formant ranges for human vowels aren't arbitrary — they're constrained by the physics of vocal tract resonance, and those resonance frequencies aren't unique to biology. You'd find similar spectral peaks in any sufficiently complex physical system with a few degrees of freedom."
+
+"David," she said.
+
+"I'm just saying the overlap between—"
+
+"David. Listen."
+
+She played the recording from the previous night. Timestamped 02:14 UTC. Duration: forty-one seconds.
+
+It began with the now-familiar sweep — the tones ranging up and down, sampling, discarding. But twelve seconds in, the sweep narrowed. The tones clustered. And what emerged from the cluster was a sound that I can only describe by saying what it was not: it was not a vowel, and it was not not a vowel. It was the place where a vowel would go if a vowel were being built from first principles by something that had never heard one produced but understood, somehow, the acoustic target. An open-mid back rounded something. A shape of sound. An /ɔ/ that was not an /ɔ/ but was closer to an /ɔ/ than to anything else in the IPA chart that Lena, anticipating my objections, had already taped to the wall above her bench.
+
+The recording continued. More sweeps. More clustering. Then a second shape — front, close, unrounded. The ghost of an /i/. Then a burst of noise, a hiss that narrowed and sharpened until it was almost, almost, if you let it, a sort of /s/. Then silence.
+
+Lena's hands were steady when she pressed play. They were shaking when the recording ended.
+
+"Probably terrestrial interference," I said.
+
+She nodded.
+
+"Some kind of swept-frequency radar artifact that happens to correlate with—"
+
+"Sure," she said.
+
+"—formant structures, but the spectral envelope of a radar chirp could easily—"
+
+"Of course."
+
+She did not stop playing the recordings.
+
+Over the following ten days I heard — and I am being precise here, and I am reporting what I heard and not what I believe, because what I believe is not the point of this account and never has been — the following progression:
+
+November 14: The signal produced a sequence of twelve distinct vowel-like sounds, repeated in the same order three times.
+
+November 16: Consonant-like bursts appeared — plosives first, then fricatives. The plosives were clean and digital-sounding, as though someone had synthesized a /t/ from a textbook description. The fricatives were rougher, more static-laden, as if the process that produced them was working at the limit of its resolution.
+
+November 18: Syllable structures emerged. CV combinations. A consonant-like burst followed by a vowel-like resonance, held for approximately 300 milliseconds, then silence. Then another. The syllables did not repeat, or rather, they repeated with variations — the same consonant onset paired with different vowels, as though the system were running combinatoric drills.
+
+November 21: I arrived at the bench at 8 AM and found Lena already there, coat still on, a thermos of coffee untouched at her elbow, and she played me a four-second clip in which the signal said something that was not a word in any language but was shaped like a word. It had the prosodic contour of a word. It rose slightly in pitch at the end, the way a question does, or the way the first word of a conversation does when the speaker is uncertain of being heard.
+
+November 23: The signal produced, in sequence, what Lena's analysis identified as approximations of the English phon

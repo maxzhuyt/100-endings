@@ -1,0 +1,135 @@
+# The Paper Cathedral
+
+## I.
+
+The fluorescent tube above Evidence Bay C had a fault in its ballast that produced, every eleven seconds, a pulse of lavender light so brief it registered not as flicker but as mood — a faint, rhythmic alteration of the room's emotional weather that Carla Voss had stopped consciously noting around hour three and which now, in hour nine, had become indistinguishable from the action of her own attention.
+
+She had been assigned the Chiang Mai thread. It was narrow work. Deputy Commissioner Alderton had described it, in his memorandum of 14 November 1979, as "a tracing exercise focused on a discrete series of deposits originating in the Bangkok-Chiang Mai correspondent corridor and terminating in Sydney-based property acquisition vehicles." The memorandum was precisely worded and slightly redundant, as Alderton's memoranda always were, and Carla had understood its subtext immediately: this was forensic drudgery, a bone thrown to the woman they did not know what to do with. The major Nugan Hand investigative threads — the narcotics logistics, the arms financing, the tax fraud structures that serviced retired intelligence officers — had been assigned to men who held their pens like weapons and spoke at meetings. Carla had been given the property deposits. She had said thank you.
+
+The boxes were standard AFP archival: thirty centimeters by forty, buff cardboard, sequential case numbers in black marker along the spine. She had requested them in lots of ten. The evidence clerk, a man named Purcell who wore his reading glasses on a chain and who had been told by someone that this woman was difficult, signed them out without commentary, though he noted that her requests grew more frequent starting in the second week and that she had begun coming in at times that suggested she was not sleeping in any pattern he recognized as human.
+
+What Carla was doing, in those boxes, was reading the money.
+
+Not the amounts. Amounts were for auditors. Not the account names, which were shells, or the dates, which were often wrong, or the stated purposes, which were fiction. She was reading the *syntax* — the structural grammar of how the funds moved. Every laundering operation had a rhythm, a set of choreographic habits that persisted even as the surface details changed, the way a forger's hand betrays itself not in the shape of individual letters but in the pressure of the downstroke, the spacing between words. A legitimate wire transfer from Chiang Mai to Sydney through the Bangkok Metropolitan Bank's correspondent desk would follow a particular procedural sequence: origination notice, correspondent confirmation, reserve credit, beneficiary advice. The Nugan Hand transfers followed this sequence with one persistent variation. The correspondent confirmations carried a secondary routing code — a four-digit suffix appended to the SWIFT field — that did not correspond to any standard banking protocol Carla could identify.
+
+She had mapped nineteen of these codes across forty-seven transactions spanning eight months. The codes recurred, but not randomly. They followed a rotating schedule — a substitution pattern that, once she had plotted it on graph paper in her own notation, resolved into something so regular it was almost elegant. Every third transaction used one of four codes. Every fifth used one of three. The rotation reset every twenty-one days.
+
+This was a signal layer. Someone had embedded a communication protocol inside the transaction metadata. The deposits were not merely deposits. They were messages.
+
+This was interesting but not, in itself, extraordinary. Intelligence services had used banking infrastructure as covert communication channels since at least the 1950s, and the Nugan Hand Bank's connections to the U.S. intelligence community were already a matter of public rumour and private certainty within the AFP. What Carla was looking at, she assumed, was the residue of a single CIA-adjacent operation using the Chiang Mai-Sydney corridor to move both money and instructions.
+
+She requested more boxes. Purcell signed them out.
+
+It was in the second lot — boxes CF-0447 through CF-0456, covering a period from March to June 1979 — that the pattern broke.
+
+Not broke. Doubled.
+
+The four-digit codes were still there, still rotating on their twenty-one-day schedule. But beneath them — carried on a different field, the beneficiary reference line, which in legitimate transactions would contain a short descriptor like "PROPERTY SETTLEMENT" or "INVESTMENT TRANCHE 3" — was a second set of codes. Different structure. Different rotation schedule. Different logic entirely. Where the first set was substitutional, cycling through a fixed alphabet, the second was positional: the meaning was carried not by the code itself but by its placement within the reference string, its distance from certain anchor characters.
+
+Two encoding systems. Two signal layers. Running in parallel through the same transactions. Using different cryptographic grammars.
+
+Carla put the carbon-copy transfer confirmation — CF-0449/doc.23, a sheet of pale green paper with Nugan Hand's Bangkok correspondent header and a faint coffee ring in the upper left corner — down on the table. She placed both hands flat on either side of it. The lavender pulse came and went.
+
+Two pipelines. Two separate operations. Sharing the same host infrastructure — the same accounts, the same correspondent relationships, the same transactions — without either one knowing the other was there. The first had embedded its codes in the routing suffixes. The second had embedded its codes in the beneficiary references. Neither would have reason to examine the other's field. Each would see only its own signal and read the rest as noise.
+
+It was, from an architectural standpoint, extraordinary. It was also, from an intelligence standpoint, a catastrophic vulnerability. Because anyone who could see *both* signal layers — anyone who held the full transaction records and had the patience and the aptitude to map both systems independently — held leverage over two clandestine networks at once.
+
+Carla was aware that her breathing had changed. She noted this. She did not adjust it.
+
+She should call Alderton. She should enter a case notation. She should flag the documents for priority review and hand them to someone senior enough to understand what they touched — because what they touched, almost certainly, was not one intelligence-connected money pipeline but two, and the institutional implications of that were beyond her rank, beyond her brief, beyond the neat perimeter of the Chiang Mai property deposits that had been her leash and enclosure.
+
+She did not call Alderton.
+
+She placed CF-0449/doc.23 back in its evidentiary sequence. She aligned the edges. She recorded the time in her working notes — 02:47, 3 December 1979 — in the small, upright hand that was her only affectation, a penmanship she had cultivated in her first year at the service and which she maintained with a discipline she could not have explained and had never been asked to.
+
+She requested more boxes.
+
+---
+
+## II.
+
+The solicitor's office had been borrowed for the morning from a firm called Aldgate & Kerr, which occupied the second floor of a sandstone building on Darlinghurst Road, fifty meters from the Kings Cross intersection. The firm's principals were both on holiday — Aldgate in Noosa, Kerr at a property in the Southern Highlands — and the office had been made available through a channel Carla did not ask about and which her section supervisor, a man named Driscoll, described only as "a standing arrangement." The room smelled of leather desk blotters and a lemon cleaning product that was slightly past its effective date. Through the window, if she turned her head, Carla could see the noon traffic on the strip: sailors, tourists, a woman in platform heels arguing with a parking inspector.
+
+She did not turn her head. She was watching the man across the table.
+
+His name was Gareth Rice. He was forty-six, had been born in Wagga Wagga, had served in the Australian Army from 1955 to 1961 including a signals posting to Malaya, and had subsequently entered the private security sector through a firm called Pacific Strategic Consultants, which did not appear in any business registry Carla had checked but which listed as its Sydney mailing address the same Potts Point post-office box used by three retired U.S. military intelligence officers who sat on the advisory board of the Nugan Hand Bank. Rice was not, in any formal sense, a person of interest in the AFP's investigation. He had appeared in the evidentiary record exactly twice: once as a signatory witness on a property transfer document, and once as a footnote in an unrelated customs referral. He was, in the language of the files, peripheral.
+
+Carla had requested this interview through channels, citing the property transfer signature. Routine. Clarificatory. A matter of dates.
+
+"The Dee Why settlement," she said, opening a manila folder to a tabbed page. "Fourteenth of August. Your signature appears as witness to the transferee."
+
+"That's right." Rice had a broad, flat face and the particular stillness of a man who had been trained, at some point in his life, to suppress the small involuntary movements — the eye-dart, the lip-press, the microadjustment of posture — that most people did not know they made. He sat with both forearms on the table, hands loosely clasped, and he had not shifted his weight since sitting down.
+
+"The transferee is listed as Dorado Holdings Pty Ltd. Can you recall who asked you to witness the document?"
+
+"A solicitor. Can't recall the name. Someone from Nugan Hand's Sydney office arranged it."
+
+"Michael Hand?"
+
+"Couldn't say. Might have been one of his people. It was a quick thing. In and out."
+
+"You didn't know anyone at Dorado Holdings?"
+
+"No."
+
+Carla turned a page. The folder contained, in addition to the Dee Why document, fourteen other files she did not intend to ask about but which were arranged so that their edges and tabs were visible: a small, controlled landscape of implication. She had chosen the documents that morning with the attention a set designer gives to the objects on a stage — not for their content but for their *silhouette,* the impression they made on a viewer who could see them only partially and who would, therefore, fill in the gaps with his own fears.
+
+"The settlement amount on the Dee Why property was one hundred and forty-seven thousand dollars," Carla said. "Does that figure seem correct to you?"
+
+"I just witnessed the signature. I don't recall the details."
+
+"Of course." She made a note. The note was meaningless — a date she already knew, copied from one line to another — but the act of writing created a silence, and silence, with a man like Rice, was a reagent. It dissolved the surface and revealed what was underneath.
+
+Rice watched her write. His eyes moved to the folder, returned to her face. The transit took less than a second.
+
+"Can I ask what this is in connection with?" he said.
+
+"The property acquisitions thread. There are a number of Nugan Hand–connected settlements from '78 and '79 that we're reconstructing for completeness. Yours isn't flagged for anything particular."
+
+"Right."
+
+"Would you like tea? I think there's a kettle."
+
+"I'm fine."
+
+She turned another page. Beneath it, visible only as an edge, was a sheet with a Nugan Hand Chiang Mai letterhead — one of the actual correspondent transfer confirmations from the evidence boxes. She let her fingers rest on the folder's edge in a way that held the sheet very slightly open. The Chiang Mai header was visible for approximately four seconds. Rice's eyes went to it. Came back.
+
+"The Dee Why property," Carla said. "The purchase was funded through a Nugan Hand trust account. Were you aware of that?"
+
+"No."
+
+"The trust account received its funds from an overseas correspondent transfer. Chiang Mai branch."
+
+She said this as though it were a piece of housekeeping — a minor geographical fact, offered in the spirit of thoroughness. Rice's hands, still loosely clasped, did not move. But the tendons along the back of his right hand tightened, a contraction so slight it would have been invisible to anyone not looking for it. Carla was looking for it.
+
+"I wouldn't know about the source of funds," Rice said. "As I say, I just witnessed a signature."
+
+"Of course. I understand."
+
+She asked two more questions about dates. She confirmed a detail about the Dee Why property's strata title. She closed the folder.
+
+"That's everything I need," she said. "Thank you for coming in."
+
+Rice stood. He was taller than she had expected from his file photograph, and he moved out of the chair with a particular economy — no pause, no adjustment, straight to standing — that confirmed what she had already inferred about his training history. He shook her hand. His grip was dry and measured.
+
+"If you need anything else," he said, "you can reach me through the number on file."
+
+"I appreciate that."
+
+He left. She heard his footsteps on the staircase — even, unhurried, the gait of a man who knew he was being listened to and would not give the listener anything.
+
+Carla sat in the borrowed chair. The traffic noise from Darlinghurst Road was a continuous low presence, like tinnitus. The leather desk blotter had a crack along one edge where the material had dried and split. She placed her right hand on it and pressed down. The leather was warm.
+
+She had confirmed what she needed. Rice was connected to the first signal layer — the routing-code pipeline, the one that mapped onto the retired U.S. military intelligence network. His reaction to the Chiang Mai reference had been appropriate: controlled, practiced, real. He had recognized the geographical marker. He had not recognized the *document* — because the specific transfer confirmation she had allowed him to glimpse was from the second pipeline, the one embedded in the beneficiary reference fields, and if Rice was part of the first network, that document was noise to him. He had reacted to Chiang Mai, not to the paper.
+
+Which meant the first network used the Chiang Mai corridor but did not monitor the beneficiary reference fields. Which meant the first network did not know the second network existed.
+
+Carla sat in the solicitor's office for eleven minutes. Through the window, the Kings Cross traffic moved in its ordinary patterns. A bus stopped. A man sold newspapers. A couple entered the convenience store on the corner and came out with ice creams.
+
+She started the thought from the beginning. She started it again. She tested it for flaws the way she tested a ledger entry for forgery — not by looking at what was there but by looking for what was *absent,* the gaps where a genuine document would carry traces of its history and a forged one would be clean.
+
+The thought held. Both times. Every time.
+
+She stood. She collected the folder. She took the stairs to the street and walked to her car, which was parked on a side street behind a skip bin. The car was a 1974 Datsun 120Y in a colour its manufacturer called "sand" and which Carla thought of as "the colour of not being noticed." She got in. She placed the folder on the passenger seat. She put her hands on the steering wheel at ten and two.
+
+Her mouth was very dry. Her pulse, which she checked against her wristwatch, was seventy-eight beats per minute. Elevated for her resting rate by twelve. She noted this the way she noted everything — precisely, without judgment, as a data point

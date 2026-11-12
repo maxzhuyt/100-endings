@@ -1,0 +1,71 @@
+“At least the AI was the only casualty?” I said cautiously, untangling myself from the safety harness.
+        Markus snorted from just outside the plane; I barely heard it over the pounding rain. “It probably saved us from being more badly hurt, honestly. It locked the flight systems into a controlled descent mode right before the lightning hit.”
+        “We’ll bring its module back to base, along with our mapping data,” I assured him, “and hopefully they’ll be able to resurrect the flight AI without too much trouble.” I glanced around the interior of the small plane and exhaled. “Our personal survival packs made it through intact, thankfully.”
+        Markus called back, “Hey, Devin? Are we at a low spot in the terrain, or a high spot? It’s too cloudy to be sure right now, but we don’t want to risk being caught in a flash flood.”
+        “I don’t know, and let’s not risk anything. I’ll pass the packs out to you, then the data drives, then the emergency supplies case.”
+        A few minutes later, we were outside the plane with everything necessary we could salvage. The rain had slowed, but the dark gray cloud cover made it impossible to see all that far. My eyes had already adjusted to the gloom, but Markus at least warned me before he turned on the flashlight. 
+        “Hunh. Not much variation in elevation that I can see,” he said as he looked around. “Plants look to be developing correctly, though. I’m mostly seeing low ferns and short grasses.”
+        I sighed. “The terraforming is working, then, even though ferns evolved about three hundred million years before grasses. No trees?”
+        “No,” he answered, “but I vaguely remember Doctor Robinson talking about introducing them once they and their team confirmed that the soil was deep enough to support a robust root system.”
+        “Which means no landmarks. And since the scientists back at Alpha Base were waiting on all the mapping data before launching the GPS satellites, we don’t have that either.” I gestured for him to shine the torch at the emergency supplies case from the plane, and continued, “I have some practical survival experience, but my last assignment was on a terraformed water-world.”
+        He laughed. “With the rain tapering off, we’re not likely to need to swim back to base.”
+        “Ha ha,” I responded with a smile. Meanwhile, I was sorting through the case. The expeditionary team for this world had planned out what supplies might be necessary in case of an emergency. The packs were for personal survival needs, while bulkier items and more general necessities were stored in the case.
+        Markus watched me as I went through the supplies. “No GPS and no landmarks. You’re looking for a compass?”
+        I nodded as the last few raindrops fell. “A gyrocompass would be ideal, since the planet’s rotation has been stable for about an Earth year, but I have no idea if the last shipment from Earth had any, or if the expeditionary team managed to add them to our supplies.”
+        The storm seemed to be clearing as quickly as it had come up, revealing a bluish-gray sky tending toward twilight. Unfamiliar stars were just becoming visible, and neither of the two moons had risen yet. 
+        “Okay, only a magnetic compass, but that’ll at least be mostly useful for pointing us toward the base,” I said once I finished my review of the contents of the case. “The case is autonomous and mobile, so we won’t have to carry it, but it doesn’t have any smart systems, so we’ll need to link it to our transponders. If I had to guess, it’s probably a two or three day walk back to Alpha Base from here.”
+        “Devin,” Markus said slowly, “are we prepared for camping overnight? Do we have enough food and water?”
+        I exhaled slowly. “The personal survival packs should have three days worth of, well, I guess you’d call them meals. The pouches where everything’s a brick of food. The supply case has a food converter, and since the vegetation here is based off of Earth plants, theoretically anything it puts out is edible.” Gently, I asked, “First time mapping a terraformed world?”
+        He shook his head. “Nah, first downed plane, though. First crash ever, really.”
+        “Got it.” I gestured up toward the sky. “The Earth Expeditionary Force, you know, the EEF, who we’re working for? They’ve done this a lot. Enough to develop a protocol and plan for almost any emergency. The really important thing is to not panic, which so far you haven’t, then establish what supplies are available, then figure out if you should head toward base or wait for rescue.”
+        “Basically, follow the training they drill into us every other week?”
+        “Exactly.” I pulled out the emergency tent, closed the case, and patted the top of it. “Honestly, you’re doing really well for your first crash, Markus. We’ll identify a decently flat spot to set up the tent. At least at this point in the terraforming we don’t have to worry about animals.”
+        He chuckled, then his legs folded underneath him.
+        “Um. Shock, I guess? Sorry,” he mumbled.
+        “Never you mind. I’ve got the tent, we’ll just get you into it. Thank goodness these things have auto-deploy options.” 
+        The next morning, I woke up first, and poked my head outside the tent. Aside from the wreck of the plane, it was low, green vegetation as far as the eye could see. We’d have to rely on the compass and other orienteering tricks I’d picked up over my career with Earth Expeditionary Force.
+        This planet, TX-107, had been a nearly Earth-sized ball of dead rock before the terraforming crews started working on it a couple of years ago. The process was pretty smooth at this point in human history: get the planet rotating as close to Earth norms as possible, add water by using any ice available in the star system, seed the planet with various simple bacteria to form a basis for life, then introduce plants to help stabilize the oxygen cycle. Once the planet was stable enough for human habitation, a base was established, followed by exploration and mapping. I’d asked at one point, early on, why the EEF didn’t just use satellite mapping. The instructor made the point that it’s one thing to see an environment, and another to experience it.
+        “Morning, Devin,” Markus called sleepily from the tent. “I’ve had breakfast, or at least eaten my first meal brick of the day.”
+        I laughed. “Good. We’ll need to get moving soon. We don’t have comms since there aren’t any satellites, so our best bet is to head toward Alpha Base.”
+        He poked his head out and blinked a bit. “I remember you looking over the data last night. You know which way we’re supposed to go?”
+        I gestured away from the rising sun. “The planet rotates the same way Earth does and according to our mapping data, magnetic north isn’t that far off from the axis of rotation. We’ll be heading west-northwest, but stop every so often and take readings. Now that you’re up, I’ll have my meal brick. Then we’ll pack up and head out.”
+        At first, the hiking was fairly simple. The terrain was mostly flat, our supply case could easily keep up with us, and our exosuits meant that we could maintain a steady pace. To keep from getting bored, Markus and I exchanged stories about our time with the EEF. This was his third world, while this was my seventh. His worst experience had been on a world where there were constant dust storms, thanks to some malfunctions in the plant phase of terraforming. Mine had been the water-world; they’d put us into mermaid-class exosuits, and it took me a couple of weeks just to adapt to the tail.
+        By midday, we’d covered a good amount of distance, but Markus pointed out a range of low hills ahead while we were eating our second food brick.
+        “Does the mapping data say anything about those?”
+        I checked the mapping comp and whistled. “They’re taller than they look from here, though after them, it’s flat the rest of the way to base. We should be able to manage the climb, but I don’t know about our supply case. Or we could go around, but that would add at least another day.”
+        Markus grinned. “So do we make for the Gap of Rohan or do we risk Moria?”
+        I started laughing, glad to have been paired with a fellow geek. “I wish our food bricks were ‘lembas’! Let’s see what the supply case can make out of the local vegetation.”
+        Markus watched my face fall as I tapped away at the food converter. 
+        “Let me guess,” he said, “bad news?”
+        “It looks like none of the edible plant strains took,” I answered. “At least not in this area. They’ll need a botanist to figure out what happened, but for right now we’re stuck with food bricks, and unfortunately that means we need to risk Moria.”
+        He nodded and began packing up. “Do you want me to check the map for any possible routes?”
+        I nodded. “We’ll need to be careful with our food, but as long as we don’t have to backtrack, we should still be on schedule.”
+        Markus found us a path through the hills, though there were spots the case couldn’t traverse without assistance. Neither of us wanted to add more weight to our survival packs, and agreed that lifting the case over rock falls was preferable.
+        About midway through the hills, right as the sun was beginning to set, we stopped to make camp. After our food brick dinner, once we’d settled into our tent for the night, Markus stared up at the ceiling and asked, “Do you ever miss people? Like, I'm people, but more people?”
+        “Not really. I’m comfortable on my own or with a few people around, but crowds make me anxious. I never really got the hang of them, which was weird because I grew up in the New Columbia habitat.”
+        “But that’s the most populated habitat off-Earth!”
+        “Exactly. I grew up trying to find places that didn’t have throngs of people, and never succeeded until I started with EEF. What about you?”
+        “Eh. This is my third planet because I take breaks from EEF work, go home, and stay with extended family. Eventually, I need a break from them, and I sign up for another planet.”
+        “I hope the enforced isolation isn’t getting to you?” I turned to face him, and watched him grin.
+        “Not really. I’ll be honest, if we had access to edible plant stock, I’d have suggested the long way around. Just to have more time away from everything.”
+        I laughed. “Peas in a pod, we are. Sleep well.”
+        The next day went far more smoothly. The path down out of the hills was easier, and we made up for some of the time we’d lost in what we’d christened the Misty Mountains. The map data showed we were still on course for Alpha Base, and I’d relaxed enough around Markus to talk a bit more about my past. Mostly about my experiences on other terraformed worlds, and the people I’d met there. He told me about his family, and how he loved them, but mostly in small doses.
+        A storm hit the second night, and while our tent and gear was solidly anchored, I’ll admit I stayed up a bit late, listening to the rain. It never rained back in New Columbia, so the sound reminded me just how far I’d come since growing up the youngest child in my family.
+        Some time in the middle of the night, Markus woke me up from a deep sleep. I saw some concern on his face, and he gestured out beyond the doors of the tent.
+        “The rain stopped, but it looks like the water is starting to collect here, and I don’t know when it’s going to stop. It’s not that deep right now, but we should get moving.”
+        I nodded, a bit groggy, and we packed up and headed out as quickly as we could. Over the next half hour, we moved through increasingly deeper water, heading for higher ground as best as we could. Our exosuits and the supply case were water-tight, but neither of us wanted to really test that if we didn’t have to.
+        By the time we’d gotten to dry land, both Markus and I needed to rest and clean off our exosuits. The pond looked more and more like a lake as the minutes passed, our previous campsite now fully underwater. I shivered a bit, yawned, and said, “Let’s get to higher ground. We didn’t get enough sleep.”
+        Thankfully, when we set up camp in the new location, the tent stayed dry. We got a later start than either of us intended, but after the excitement of the previous night, neither of us were feeling all that energetic.
+        “The mapping data says we ought to reach Alpha Base sometime late this afternoon. Are you ready?” I looked at Marcus, blearily munching his way through his food brick. He nodded.
+        “How did we mess that up, Devin?”
+        I shook my head. “We got complacent. Didn’t check the elevation before we set up camp. Plus, the storm was kind of sudden, and without satellites we don’t have proper weather warnings. At least you were looking out for us. Thank you.”
+        “You’re welcome.” He finished his food, then hefted his pack back onto his shoulders. “One more break for lunch, then we should be back at base, right?”
+        “That sounds like a plan. I think I’ll ask to sleep in a real bed tonight.”
+        He chuckled wearily. “What, the sleeping bags aren’t comfortable enough for you?”
+        I laughed as we started moving. 
+        Today’s hike was much quieter. Both of us were tired from the previous night’s “adventure,” and with our goal close by, neither of us were in the mood for more than focusing on one foot in front of the other.
+        Which meant that we didn’t hear or see the rover until it was practically on top of us. 
+	“Hey, you two, you’re a sight for sore eyes!” Stacey Janssen was in charge of our division of the EEF.
+	I responded, “You too, boss.”
+	“Nope, none of that now. We lost your signal back when your plane crashed, but we couldn’t get a satellite up until this morning. Once we spotted you, I volunteered to come get you. Come on, everyone’s waiting back at the base. You’re both officially on rest and recuperation for the next couple of days.”
+	Markus managed a smile. “Good. Let’s get loaded up. I’m looking forward to something other than food bricks.”

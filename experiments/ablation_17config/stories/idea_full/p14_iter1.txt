@@ -1,0 +1,119 @@
+# Breathing Wrong
+
+---
+
+## 1.
+
+I got to Harlan No. 9 at four-fifty in the morning with six rolls of electrical tape, a thermos of Speedway coffee that tasted like it had been brewed through a radiator hose, and a folding chair I'd stolen from Mt. Olivet Baptist Church during their parking lot sale in June. The chair had a woven nylon seat that sagged in the middle so you sat in it like a hammock. I set it next to the communications tent and didn't sit down yet because I had cable checks to run and because sitting down at four-fifty in the morning felt like giving up on the day before it started.
+
+The sky was the color of a week-old bruise. No stars. The portal of the No. 9 was a dark mouth in the hillside surrounded by a chain-link fence with a padlock the competition organizers had replaced. The old padlock was still hanging on the fence by a zip tie, rusted into a single orange lump like a wasp's nest. Eleven years since anyone had pulled coal from this hole. You could smell it — not the sulfur, which fades, but the water, which doesn't. Standing groundwater in a sealed mine has a smell like a root cellar that dreamed it was a cathedral.
+
+I plugged my barometer into the sensor post, checked the thermocouple leads at the portal, and ran continuity on each of the six comm-wire junction boxes that the organizers had strung through the competition zone the day before. Everything read clean. Then I opened my logbook and wrote the date and the barometric pressure: 29.71 inches of mercury. This was lower than the morning forecast out of Jackson by three-hundredths, which isn't much unless you think about it, which I did, and then I stopped thinking about it because I had other problems.
+
+The bracket draw had come in at nine the previous night while I was eating a gas-station hot dog in the parking lot of the Sleep Inn in Harlan. Dwight Combs had called me from the coaches' meeting, and I could hear the sound of his jaw not quite closing all the way, which was how Dwight expressed excitement. We'd drawn Letcher County's B-squad in the first round. Their A-squad was ranked fourth in the state. Their B-squad had lost two members in March — not to injury but to the Pepsi bottling plant in Corbin, which paid fourteen dollars an hour and didn't require you to crawl through darkness wearing forty pounds of breathing apparatus. They were competing with four men and two alternates who'd been training for six weeks.
+
+It was, as I wrote in my logbook that night with the hot dog grease still on my fingers, the competitive equivalent of drawing a bye against the dead.
+
+I should explain what a mine rescue competition is, because you're probably imagining something heroic and you should stop. Six-person teams enter a sealed mine on a clock. The mine has been staged with scripted emergencies — mannequins with symptom cards pinned to their coveralls, simulated gas accumulations, roof falls built from stacked timbers and drywall. The team navigates a mapped zone, performs rescues, takes gas readings, follows procedure. Points are awarded for speed, accuracy, and adherence to protocol. Points are deducted for errors, which are everything. Errors are using the wrong splint. Errors are misreading a gas detector. Errors are having your apparatus face-piece fog because you didn't smear it with dish soap, which is what we told Terrell Bick every single practice and which Terrell Bick forgot every single time, the same way he forgot his wedding anniversary and the names of his wife's several cats. Errors are what we were good at.
+
+The team, in full:
+
+Captain Roy Greer, forty-nine, twenty-six years underground at various operations in Harlan and Bell counties, built like a doorframe someone had wrapped in denim. Torn rotator cuff in his left shoulder that he treated with Icy Hot and denial. He ran the team the way he'd run his section crew: with a flat baritone that made every instruction sound like a Bible verse from a book of the Bible you hadn't read.
+
+Dwight Combs, vice captain, who had the best gas-reading eyes on the team but couldn't move faster than a walk because of the titanium rod in his right femur, installed after a shuttle car caught him wrong at Lone Mountain in 2014. He called the rod "my government upgrade" and refused to set off metal detectors without announcing it to everyone in line.
+
+Terrell Bick, briefcase man, who carried the team's equipment cache and whose face-piece fogged. Always.
+
+Manuel Ferris, who everybody called Nacho for reasons he had explained to me once in a way that made me wish I hadn't asked. Good hands. Bad lungs. He'd been on workers' comp for eighteen months and competed because this was the thing he had left that let him be what he used to be.
+
+Silas Prewitt, the oldest at fifty-three, who spoke approximately four words per practice and most of them were "no" or "hand me that." His job on the team was shoring — building temporary supports in compromised areas — and he did it the way a priest performs communion: automatically, solemnly, with the muscle memory of someone who had stopped thinking about what the ritual meant.
+
+And Deanna.
+
+Deanna Coates, twenty-two, geology student at Southeast Community College in Cumberland, the only woman on the underground squad, who had shown up to an open tryout fourteen months earlier wearing hiking boots and a t-shirt that said KARST HAPPENS. She was five-foot-four and roughly the diameter of a fence post. Coach Vance Tolliver had retired two months before she arrived, citing his knees, his back, and his wife's newly expressed opinion that he smelled like a mine even on days he hadn't been in one. He'd left behind four spiral notebooks in a milk crate in the back of his truck, and Deanna had gotten the notebooks the way the disciples got the scrolls: by being the only one who showed up to ask.
+
+Vance's notebooks were legendary in the way that things become legendary in very small communities — actually ordinary but elevated by repetition. He'd coached mine rescue for twenty-one years across three teams. The notebooks were his accumulation: hand-drawn maps of competition mines, airflow diagrams, scribbled observations about how specific geological formations behaved under pressure changes. On the last page of the last notebook, he'd written a sentence that Deanna had quoted to me so many times I heard it in my sleep: *Listen to the mountain. It's already told you what it's going to do. You're just not hearing it yet.*
+
+Deanna talked about karst formations — the limestone dissolution systems that honeycomb the mountains of eastern Kentucky — the way other people talked about moody ex-boyfriends. With frustration, with tenderness, with the absolute conviction that if she just paid close enough attention, she could predict what they would do next. She had once described a sinkhole to me as "the mountain breaking up with its own groundwater table," and I had stared at her for a long time.
+
+I wasn't on the underground squad. I was the surface radio operator, which is the job you get when you can no longer do the job you trained for. Three years earlier I had been certified for underground competition — apparatus-qualified, gas-reading certified, the whole package. Then a practice run at an abandoned operation in Bell County had ended with a slab of draw rock the size of a kitchen table separating from the roof and landing on my left foot in a way that rearranged its architecture permanently. I now walked with a limp that I managed and a bitterness that I managed less well. I sat in a folding chair. I read instruments. I listened to the radio and made notes in a logbook and gave information to people who were in a position to act on it.
+
+The barometric reading at five-fifteen was 29.69. It had dropped two-hundredths in twenty-five minutes.
+
+I wrote it down. I didn't say anything about it.
+
+---
+
+## 2.
+
+They sealed up at six-oh-two, two minutes past the scheduled start because Terrell couldn't find his dish soap and then found it in his left cargo pocket where it always was. The competition judge — a retired MSHA inspector named Dale Messer who looked like he'd been carved from a block of mild disappointment — noted the delay on his clipboard and started the clock.
+
+Six bodies in full apparatus at the portal. BG-4 closed-circuit breathing units, each one a forty-pound commitment to the idea that the air you brought with you was better than the air you'd find. Face-pieces sealed. Oxygen flow checked. Captain Greer did the hand-count — one, two, three, four, five, six — and they went in.
+
+I settled into the church chair. Set my logbook on my knee. Pressed the earpiece in and listened.
+
+The comm wire was a hardline system — copper cable strung through the competition zone with junction boxes at each waypoint where the team could plug in a field telephone. No wireless underground. Radio waves don't travel through three hundred feet of sandstone and limestone. What travels through copper is voice, breathing, and whatever ambient sound the microphone picks up. I could hear their boots. I could hear the particular compressed-air wheeze of six BG-4 units cycling. I could hear, faintly, the sound of the mine itself — the settling groans, the drip of water that sounds nothing like a faucet and everything like a clock.
+
+The route was a right-hand sweep. Enter the main heading, proceed four hundred feet to the first junction, turn right into the East Mains section, hit Casualty Station One at approximately the six-minute mark, continue through the crosscut to the second junction and Casualty Station Two, then loop back via the return airway to the portal. Total distance underground: about twenty-two hundred linear feet. Competition par time: twenty-four minutes. Our best practice time: twenty-nine. Our worst: don't ask.
+
+But here's the thing about competition. You practice in a mine you know. You compete in a mine you don't. The map they give you is accurate but it's flat — it doesn't tell you what the floor feels like underfoot, doesn't tell you where the water pools or where the ribs have spalled or where the roof dips low enough to make a tall man hunch. The map says "junction" and the mine says "here's a junction with four inches of standing water and a smell like batteries and the sound of something you can't identify dripping from a source you can't see." The map is a plan. The mine is a fact.
+
+They moved well. I could hear it. Greer calling positions in that flat baritone: "Dwight, hold at the rib. Terrell, close up. Deanna, you're on gas." Boots moving in rhythm. At the two-minute mark they checked in at Junction Box 1 and Greer's voice was calm, almost bored. "Surface, J-Box One, all clear, gas reads zero-zero across the board, proceeding east."
+
+I marked it. "Copy, J-Box One, zero-zero, time is two-twelve. You're on pace."
+
+They were on pace. They were, in fact, four seconds ahead of pace, which was unprecedented in a way I chose not to mention because hope is a structural vulnerability I've learned to insulate against.
+
+Gas readings clean. Oxygen normal. Methane zero. Carbon monoxide zero. The mine was behaving itself. Eleven years sealed and the atmosphere had stabilized into something stale but not lethal — the geological equivalent of a room where no one has opened a window.
+
+At the four-minute mark, Junction Box 2. Greer's voice: "Surface, J-Box Two. All readings nominal. Deanna's on point for gas. Moving to Casualty One."
+
+"Copy, J-Box Two. Time is four-oh-eight. Still on pace."
+
+Still on pace. Four minutes in and the last-place team in the Eastern Kentucky regional bracket was executing a textbook right-hand sweep in a mine they'd never entered before. Dwight's titanium femur wasn't slowing him. Terrell's face-piece wasn't fogging. Nacho was moving with his old underground fluidity, the one his damaged lungs usually stole from him by minute three. Even Silas, who normally communicated exclusively in grunts and hand signals, had called out a roof-bolt spacing to Greer that showed he was paying attention.
+
+I sat in my stolen church chair and listened to them be competent and felt something in my chest that I recognized as the leading edge of belief, which I immediately packed in ice and stored in the part of myself where I keep things that can hurt me.
+
+Deanna was quiet on the radio.
+
+Not silent — she was making the call-and-response checks that the gas monitor is required to make, short confirmations after each of Greer's commands. "Copy." "Clear." "Zero-zero." But she wasn't speaking otherwise. No chatter, no observations, none of the running geological commentary that drove Greer crazy in practice. In practice, Deanna narrated the mine the way a nature documentarian narrates a reef — constant, awed, technically precise, and deeply annoying to anyone trying to concentrate on a cervical splint.
+
+Her silence was loud.
+
+I'd heard this particular silence before, exactly once, during a practice run at an abandoned drift mine in Leslie County. She'd gone quiet for three full minutes, and when she'd finally spoken, she'd said, very calmly, that they needed to move back from the face because the pillar on the left side was "talking." Greer had asked her what the hell that meant, and she'd said, "It means the mountain is redistributing load and that pillar is taking more than it wants." Forty minutes later, after they'd exited, a section of roof in the area they'd been working had let go. Nobody was hurt. Nobody acknowledged that Deanna had been right. These two facts existed in the same space the way a lot of things in eastern Kentucky exist in the same space: visibly, silently, and with great determination not to touch.
+
+I checked the barometer. 29.67.
+
+Another two-hundredths of an inch drop in the eleven minutes since entry.
+
+I wrote it down.
+
+---
+
+## 3.
+
+At seven minutes and fourteen seconds, they reached the junction where the mapped route turned right toward Casualty Station One. I heard Greer call the turn. "Right at the junction, standard sweep. Deanna, what's gas?"
+
+"Zero-zero," she said. Then: "Captain."
+
+There was a quality to the way she said "Captain" that I can only describe as the sound of someone choosing very carefully to be calm. It was the calm of a person who knows that what she's about to say will not be received well and has decided to say it anyway at a volume and pitch designed to minimize the explosion.
+
+"Captain, I want to check the left lateral."
+
+I heard Greer's breath catch on his apparatus — a small percussive sound, like a hiccup processed through a tin can. "We're on pattern, Deanna. Right turn."
+
+"I know. I'm asking for sixty seconds."
+
+"You're asking for sixty seconds we don't have."
+
+"We have them. We're four seconds ahead of pace. The surface operator just said."
+
+This was directed at me, and it was true, and I said nothing because my job was to provide information, not to adjudicate arguments, and also because I have learned that inserting yourself into a disagreement between Roy Greer and anyone else is like inserting yourself between a dog and a screen door.
+
+The next part I heard imperfectly. They stepped away from the comm wire — either physically moved down the heading or just turned their bodies so the microphone caught only fragments. I got Greer's baritone in pieces: "—not the time for—" and "—coach's notebook isn't—" and then Dwight's voice, which surprised me, quieter than Greer's but with the particular authority of a man who has had a shuttle car rearrange his skeleton and is no longer impressed by raised voices: "—let her check, Roy. Sixty seconds."
+
+Then they were back on the wire. Greer's voice, clipped flat: "Surface. Team is taking a sixty-second deviation left at Junction Three to allow the geologist to conduct an inspection."
+
+He said "the geologist" the way you might say "the astrologer" or "the man who talks to his plants." I noted it. I noted a lot of things. Noting things was what I did now.
+
+"Copy," I said. "Clock is running. You're at seven-forty-

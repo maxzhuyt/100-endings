@@ -1,0 +1,109 @@
+# The Tuner's Afternoon
+
+## I.
+
+The house was on Linden, set back from the street by a flagstone walk that had heaved in two places over the winter. I noticed because I notice walks. A tuner who trips carrying a Hale sight-of-hand lever and forty pounds of mutes, felt, and wedges learns to read the ground the way a sailor reads water: you watch for what will shift beneath you. The heaved stones had been there at least a season. No one had called to have them reset.
+
+The door was unlocked. A note had been taped to the brass knocker — a single line in pencil, the handwriting compressed and exact, the kind that comes from years of marking scores: *Come in. Down the hall, second left. I will be along.* The knocker itself was Schlage, original to the house, oxidized past function. I let myself in.
+
+The hallway smelled of old radiator heat and lemon oil and something else — buttercream. I passed the kitchen on my way to the music room and saw the cake. It was sitting on the granite counter in a bakery box from Fiorello's, the good place on Haven Avenue, the lid folded half-open as if someone had checked its contents and then lost interest in the act. White fondant. Sixty-five piped in a blue that matched nothing in the kitchen. No plates beside it, no forks, no napkins arranged in a fan, no candles pressed into the icing. The cake existed the way a delivered package exists on a porch where no one is home — present, sealed in its own occasion, waiting for a context that had not been prepared.
+
+I set down my case beside the piano and looked at the instrument before touching it.
+
+A Steinway Model D, nine feet, ebony satin finish — serial number in the 580,000 range, which placed its manufacture in the early nineties. I had tuned it twice before, both times on referral from the Delacorte Foundation, both times when the composer was not home. A housekeeper had let me in on those occasions, a square-shouldered woman named either Marie or Maria who had stood in the doorway of the music room and watched me work with the particular suspicion of someone who believes that moving parts, once settled, should not be touched. The housekeeper was not here today. No one seemed to be here, except the note on the door and the cake and, somewhere in the upstairs rooms, the composer herself.
+
+I ran my palm along the case rim. Satin finish shows every oil mark, every accidental scratch, and this one had both — the rim above the treble had the faint clouding that comes from a forearm resting there repeatedly, the way a person rests an arm on a windowsill while looking out. There was a water ring near the fallboard from a glass or mug set down without a coaster. The pedal lyre showed normal wear on the sustain pedal — brass rubbed to gold at the ball of the foot — but almost none on the una corda, the soft pedal, which told me something about how she played, or had been playing lately: no whispers, no pulled-back dynamics, everything driven through at full resonance. The music desk was up, and on it sat a manuscript — hand-notated, not printed, the pages heavy stock in a shade between cream and gray. I did not read it. I was not there to read.
+
+I unlatched my case, removed my tuning lever, and set out my felt muting strips and rubber wedges in the order I would need them. Each tool went to a specific place on the closed fallboard, aligned by sequence of use, the way a surgeon lays out instruments before an operation. The comparison is not vanity. It is simply what the work requires. A concert grand contains approximately twelve thousand parts. Two hundred thirty strings under roughly twenty tons of cumulative tension. Thirty-five thousand pounds of force held in equilibrium by an iron plate and a wooden frame and the particular decision, made once by a craftsman decades ago, of how tightly to seat each tuning pin in its block. My job was to enter that system of tension, make my adjustments, and leave it more coherent than I found it. To do that required order. It required, above everything, the willingness to listen without deciding in advance what you would hear.
+
+I put my hand on the lid and lifted.
+
+---
+
+## II.
+
+The soundboard was spruce, close-grained, the crown still good — I could see its gentle upward curve when I sighted along the bass bridge, which meant the board had not begun to flatten, which meant the instrument's fundamental voice was structurally intact. This was not always the case with a piano of this age in a house with radiator heat and no humidity control. I leaned in closer and noted the bridges: the long bridge for the treble and tenor, the short bridge for the bass. Both were seated cleanly. No cracks. No lifted bearing points. The plate — the cast-iron harp that holds the string tension — was clean and showed no oxidation beyond the usual patina.
+
+Then I looked at the hammers.
+
+There are eighty-eight hammers in a piano, each one a wooden molding wrapped in compressed wool felt, and each one strikes its string (or strings — most notes have three) several thousand times over the life of the instrument. Over time, the felt compacts at the strike point, developing grooves where it meets the strings. These grooves harden the surface, brighten the tone, eventually produce a sound that is glassy and percussive rather than resonant. A well-played piano develops grooves evenly across its range. This piano had not been played evenly.
+
+The hammers in the upper third of the keyboard — roughly C6 to C8, the two highest octaves — were deeply grooved. The felt at the strike point was compacted to the density of cork. These hammers had been hitting their strings tens of thousands of times in recent months — a pattern that suggested not practice, not repertoire, but *obsession* with a narrow band of frequencies. The kind of playing a person does when they are testing something. Checking whether a particular register still sounds the way they remember it sounding.
+
+Below that, through the middle octaves, the wear was moderate and uneven — clustered around certain notes, sparse around others, as if she had been playing passages that returned again and again to specific pitches while ignoring their neighbors. And in the bass — the lowest two octaves, the notes that resonate in the chest, that you feel as much as hear — the hammers were nearly pristine. The felt was soft and round-crowned. Those notes had hardly been played at all.
+
+There were pencil shavings on the soundboard. Small cedar curls, the kind produced by a handheld sharpener, caught between the strings in the tenor range where the spacing is widest. She had been composing at the keyboard — sharpening her pencil, not bothering to move the manuscript away, letting the shavings fall into the instrument the way a woodworker lets sawdust accumulate on the shop floor. The shavings told me the manuscript on the music desk was recent. They told me she had been at this piano not days ago but hours ago, or last night, working late, working close.
+
+The dampers were wrong.
+
+Not dramatically wrong — not the kind of malfunction a pianist reports as a stuck note or a sympathetic buzz. But four dampers in the upper-middle register had been slightly repositioned, their let-off distance altered by a fraction of a millimeter, so that they lifted from the strings a hair earlier than standard regulation would dictate. The effect would be subtle: a slight lengthening of sustain on those four notes, a faint blurring at the edge of their decay, so that when those notes were struck they would ring just a moment longer than their neighbors before being silenced. Someone had been inside this instrument with a screwdriver. Someone who knew enough about piano regulation to find the let-off screws, and enough about sound to know what a fraction of a millimeter would do to the sustain of a single note, but who had not thought to — or had not been able to — make the corresponding adjustment to the backcheck and repetition spring, so that the action felt slightly different under the fingers on those four keys. A pianist would feel it. A good pianist would feel it and wonder.
+
+I was cataloging the four altered dampers when she came in.
+
+I heard her before I saw her — not her footsteps, which were light and deliberate on the hallway's hardwood, but the particular silence that enters a room when someone stands in its doorway and watches you without speaking. I have worked in enough homes to know that silence. It has a weight. I straightened from the open case and turned.
+
+She was smaller than I expected, though I had not consciously expected anything. You do not expect things about a composer whose Second Sonata you have listened to perhaps four hundred times; you have instead an accumulated sense, built from the music itself, of a very large energy — of force — and when the body that produced that force turns out to be five foot three and narrow-framed and dressed in a gray cardigan that hangs open over a dark blouse, there is a moment of recalibration that is neither disappointment nor surprise but something closer to the feeling of discovering that a cathedral has a small door. Her hair was white and cut short. Her face was angular, settled into the particular economy of expression that I associate with people who have spent decades working alone — everything non-essential worn away, what remains sharp and purposeful. She wore no rings. Her hands were at her sides, and I looked at them the way I always look at hands: the span (an octave and a half, maybe a ninth comfortably), the knuckle joints (pronounced, a trace of thickening that might be early arthritis or might be the simple consequence of sixty years at a keyboard), the fingertips (callused on the pads, which is unusual for a pianist and suggested she had been doing something manual — sanding, or gardening, or perhaps the screwdriver work inside the instrument).
+
+"You're the one who came in March," she said. "And the October before that."
+
+"Yes, ma'am."
+
+"Marie said you were careful."
+
+I was not sure what to do with the compliment, so I set it where I set most things people tell me about my work, which is alongside the observation without response. She crossed the room and lowered herself into the chair beside the window — a worn leather chair, cracked along the seat, positioned about eight feet from the piano's right side. Not a listening chair. A *working* chair. The kind of chair a person sits in when they are supervising a process.
+
+"I'll be staying this time," she said. "I have instructions."
+
+---
+
+## III.
+
+I began with the dampers, because the dampers were wrong and because damper regulation is the foundation — if the dampers don't seat cleanly, every note carries residue from the last, and the tuning itself becomes unreliable. I muted the surrounding strings and worked through the upper-middle register, checking each damper's drop against the standard: the felt pad should contact all three strings of its unison simultaneously, killing the sound without any afterring or buzz. The four altered dampers I had noted were in the octave between C5 and C6 — specifically, E-flat 5, F5, A-flat 5, and B-flat 5. I adjusted the first one back to regulation and tested it. Clean stop. I reached for the second.
+
+"Leave those."
+
+Her voice was not loud, but it carried the quality of a tuning fork struck once and set on a hard surface — clean onset, no waver, the kind of voice that does not need to repeat itself. I withdrew my hand from the damper mechanism and waited.
+
+"The sustain on those four notes. I set it that way."
+
+"I saw. If you want extended sustain on specific notes, I can regulate the dampers properly and voice the hammers to compensate — you'll get a longer decay without the action feeling different under your fingers."
+
+"I know what proper regulation feels like. Leave them as they are."
+
+I left them. I finished the remaining dampers, working through the register methodically: test, adjust, test. She watched. Her chair made no sound. I was aware of her the way I am aware of any presence in a room where I am working — as a fact of atmosphere, a change in the acoustic, the way an enclosed space sounds different when it contains a second body.
+
+When the dampers were done, I began the rough tuning pass — setting the pitch across the instrument's full range before the finer work of temperament and voicing. I started at A4, 440 hertz, the reference pitch, and worked outward in both directions, setting octaves, testing intervals. This is the work most people imagine when they think of piano tuning: the slow, isolated notes ringing in an otherwise quiet room, each one sounded and adjusted and sounded again, the tuner's lever turning each pin by increments so small they are measured in fractions of a degree. It is meditative work. It requires a specific kind of attention — not concentration exactly, but a state of open receptivity in which the ear becomes the primary organ of thought and the hands follow what the ear decides. I had been in this state for perhaps twenty minutes, working through the tenor range, when she spoke again.
+
+"Stop there."
+
+I was on G above middle C. I lifted my hands.
+
+She rose from the leather chair and came to the piano. She moved the way people move who have a long acquaintance with a particular instrument — not toward it, exactly, but *into its space*, the way you enter a conversation already in progress. She placed the manuscript on the music desk, open to a page near the beginning. Her hand was steady. The page was dense with notation — beamed sixteenth notes, dynamic markings in her compressed pencil hand, pedal indications that I could see were nonstandard.
+
+"Play this," she said. "From the second system. Measure nine through twenty-four."
+
+I looked at the passage. It was piano music, written in a language I could read — I am not a performer, but I was trained at the Oberlin conservatory program before I chose the craft side, and I can sight-read adequately, the way a copy editor can write adequate prose. The passage was in three voices: a high, fragmented melody in the right hand, widely spaced; a middle voice that moved in slow, descending intervals; and a bass that was nearly static, a low D repeated at irregular rhythms, like a heartbeat with an arrhythmia.
+
+"You want me to play it through?"
+
+"At tempo. Mezzo-piano. Use the sustain pedal as marked."
+
+I sat on the bench — I had been standing to tune, as is my practice — and played the passage. My touch is not a performer's touch. It is accurate but uncolored, the way a reference recording is accurate: all the notes in their right places, the dynamics observed, the pedaling followed, but none of the intangible shaping that separates reproduction from interpretation. I played the sixteen measures as written and lifted my hands at the end of measure twenty-four.
+
+She had tilted her head. I registered this the way I register any physical fact: she was leaning slightly forward in the chair to which she had returned, her chin raised, and her head was turned approximately fifteen degrees to the right, so that her right ear faced the piano more directly than her left. It was the posture of someone straining to catch something — a faint sound in an adjacent room, a voice through a wall. Except the piano was not faint. I had played at mezzo-piano, a moderate volume, in a room with hardwood floors and plaster walls that were acoustically bright. There was no reason to strain.
+
+"The F," she said. "Measure fourteen. The high F in the right hand."
+
+"F6."
+
+"It's glassy. There's no core."
+
+She was right. The hammer for F6 was one of the deeply grooved ones I had noted. The compacted felt was producing a bright, hard tone — a ping rather than a note. It was a voicing problem, not a tuning problem, and I told her so.
+
+"I know what it is," she said. "I need you to voice it softer. I need roundness in that note. It should bloom, not strike."
+
+"I'll be voicing the full upper register later this afternoon. I can —"
+
+"Start with that hammer. Then play the passage again."
+
+I opened my voicing kit and removed the needles — three of them, set in a wooden handle, each the diameter of a hair. Voicing a hammer is the most delicate work I do. You insert the needles into the hammer felt at precise depths and precise locations — the shoulders,

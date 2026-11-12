@@ -1,0 +1,142 @@
+# Badge & Ball
+
+## I.
+
+On the eleventh of March, at approximately 3:40 p.m. Central Standard Time, Sheriff Debra Koenig of Harkin County processed the final item in a stack of seventeen interoffice compliance directives forwarded from the State Bureau of Public Safety Oversight (SBPSO), Division of Community Integration. The stack had arrived in a manila envelope hand-delivered by a mail carrier who had commented, unprompted, that it was going to rain, which it did not. The final item, printed on goldenrod paper in eleven-point Palatino, was Form SBPSO-CR-7: Annual Verification of Civic Recreational Engagement.
+
+The operative paragraph read as follows:
+
+> *Each department under county jurisdiction shall register active participation in a minimum of one (1) civic recreational program listed in the current Tri-County Parks & Recreation Catalog (see Appendix D, enclosed). Failure to register participation by the compliance deadline of March 15 may result in the withholding of Q3 community-policing supplemental funds, per Revised Statute 441.07(b)(3).*
+
+Debra read *register active participation* to mean *enroll.* The word "register" invited this. "Register" is a word that faces two directions: it can mean *to record a fact that already exists* or *to create a fact by recording it.* The form did not specify. The form did not need to specify, because the form had been written by someone who understood the difference, for an audience of people who were expected to understand the difference, and the difference was supposed to be obvious. It was obvious. Debra, who had been reading compliance documents since 7:15 that morning and who had eaten a granola bar for lunch at her desk while simultaneously approving overtime requests and denying a equipment transfer she did not have the budget to authorize, missed it.
+
+She turned to Appendix D.
+
+The Tri-County Parks & Recreation Catalog, Spring/Summer edition, listed twenty-three civic recreational programs. Fourteen were full. Four had age restrictions that disqualified active-duty officers. Two conflicted with shift schedules. Two were in the next county and required a travel waiver Debra did not have time to file. That left one: the Tri-County Adult Recreational Dodgeball League, which held games on Thursday evenings at rotating community-center gymnasiums and still had three open team slots.
+
+She navigated to the Parks & Recreation online portal. She opened the registration form. The system asked for a team name. There was no field for this. The team name was auto-generated from the registering organization's name and the first word of the recreation program. The system produced:
+
+**Badge & Ball**
+
+Debra stared at this for four seconds, which she would later calculate was the precise window in which she could have closed the browser. She did not close the browser.
+
+The system required a minimum roster of six participants and a maximum of ten. She entered the names of her department. There were nine:
+
+1. Koenig, Debra A.
+2. Halloran, Patrick M.
+3. Voss, Irene T.
+4. Carmody, Sean R.
+5. Phan, Lisa D.
+6. Ortiz, Miguel A.
+7. Brewer, Daryl K.
+8. Tillman, Janette P.
+9. Gunner
+
+She stopped at the ninth name. The cursor blinked in the text field after the *r.* Just Gunner. No surname. The system required a surname for each entry. In the departmental roster — the same roster from which she was copying — Gunner's full record read: *Gunner (K-9 Unit), Badge #K-041, Status: Inactive (Deceased 01/27).*
+
+Gunner had been a Belgian Malinois. He had served four years. He had been diagnosed with osteosarcoma the previous October and had been euthanized on a Friday in January, on the floor of Dr. Pearlman's office, with his handler, Deputy Ortiz, lying beside him on the linoleum. Debra had signed the disposition form. She had not, in the six weeks since, filed the personnel-roster update that would remove his name. The update required a change-of-staffing notification to the county clerk, a revised equipment-allocation form for the K-9 vehicle, and a memorandum to the state certifying the unit's decommission. It was not difficult paperwork. It was perhaps forty minutes of work. She had not done it.
+
+The registration form blinked. Gunner was still on her roster. Her roster was what the system asked for. She typed *Koenig* in the surname field, because it was the first name that came to mind, and because a dog does not have a surname, and because — she told herself, in the specific, calm, procedural interior voice she used when she was making a decision she knew was wrong — the system required a name and this was a name.
+
+She submitted.
+
+A confirmation email arrived eleven seconds later:
+
+> *Welcome to the fun, Team Badge & Ball! Your registration in the Tri-County Adult Recreational Dodgeball League (Spring Season) is confirmed. Your first match has been scheduled for Thursday, March 27, at 7:00 p.m., Eldon Briggs Community Center, Gym B. Team jerseys will be provided. Go get 'em!*
+>
+> *Please note: roster changes and team withdrawals must be submitted via notarized petition to the Parks & Recreation Commission. Petitions are reviewed at the quarterly commission meeting. The next scheduled meeting is November 14.*
+
+It was March 11.
+
+Debra closed her laptop. She placed Form SBPSO-CR-7 in the completed tray. She placed the goldenrod sheet facedown, which was not standard procedure but which she did because she did not want to see it. She removed the granola bar wrapper from her desk and dropped it in the wastebasket. She checked her department email. She approved a shift trade. She denied nothing. She told no one.
+
+Outside, it was not raining.
+
+---
+
+## II.
+
+The deputies refused in sequence, over a period of three days, with a unanimity that suggested either coordinated resistance or a shared instinct for self-preservation indistinguishable from it.
+
+Halloran was first. He was standing in the break room, pouring coffee into a mug that said WORLD'S MOST ADEQUATE on its side — a gift from his ex-wife, mailed to the station without a note, which he had adopted with what Debra recognized as a specifically masculine form of self-punishment disguised as humor.
+
+"Dodgeball," he said.
+
+"Recreational league. Thursday nights."
+
+"I would literally rather be shot."
+
+"Pat—"
+
+"I have *been* shot, Debra. I am speaking from a position of direct experiential comparison. Bullet: left side, through-and-through, 2019. I know what I'm talking about. I would rather have that again than play dodgeball in a gymnasium on a Thursday."
+
+Voss declined by email. Carmody declined by not responding to the email, the voicemail, or the handwritten note Debra left on his desk, which she found the next morning in his recycling bin, unfolded, suggesting he had read it and still chosen silence. Phan said she had a recurring Thursday conflict she could not specify. Brewer said his back couldn't take it. Tillman said yes, then no, then stopped answering her phone. Ortiz said nothing at all when asked, just looked at Debra with an expression she could not decode — or could, but chose not to — and walked out of her office. She did not follow him. She understood, or thought she understood, that his refusal had something to do with Gunner's name on the roster, that Ortiz had somehow already seen it or sensed it, though this was impossible. She did not ask.
+
+By March 18, she had zero participants and a match in nine days.
+
+She designed a flyer. The flyer read:
+
+> **HARKIN COUNTY SHERIFF'S DEPARTMENT**
+> **PUBLIC SAFETY WELLNESS EVENT**
+> **Open Gym Night — Thursday, March 20, 6:00 p.m.**
+> **Eldon Briggs Community Center, Gym B**
+> **"Building Community Through Movement"**
+> **All adults welcome. No experience necessary. Light refreshments.**
+
+She printed forty copies. She posted them at the library, the post office, the diner, the laundromat, the two gas stations, and the community center itself, where a woman behind the front desk looked at the flyer for a long time and then said, "There's no budget code on this," and Debra said, "I know," and the woman said, "I'm just going to put it on the board," and Debra said, "Thank you," and left before the interaction could develop further dimensions.
+
+On Thursday, March 20, at 6:07 p.m., Debra Koenig stood alone in Gymnasium B of the Eldon Briggs Community Center. The fluorescent lights buzzed at a frequency she would later describe, to no one, as "spiritually oppressive." The floor was maple, warped in the northeast corner from a leak that had been patched but not repaired. Six red rubber balls — standard TCARDL regulation, 8.5 inches diameter, textured for grip — sat in a line along the center of the court. The bleachers were empty. The light refreshments (a sleeve of store-brand cookies and a two-liter bottle of off-brand lemon-lime soda she had purchased with her own money and would never expense) sat on a folding table near the door. The gymnasium smelled of floor wax and historical regret.
+
+At 6:11, a man entered.
+
+He was tall and narrow. He wore khaki pants belted above his natural waist and a windbreaker that said STATE OF ILL. across the chest, the remainder of the word lost to a seam that had split and been repaired with packing tape. He moved with the careful, slightly delayed gait of a man who is always approximately one-third of the way toward sleep. His eyes were open but had the quality of eyes that might close at any moment, not from boredom but from a neurological inevitability he had long ago stopped apologizing for.
+
+"Is this the—" He consulted a folded piece of paper he removed from his windbreaker pocket. He unfolded it slowly. He read it. "Public Safety Wellness Event?"
+
+"It is. I'm Sheriff Koenig."
+
+"Terrence Olawale." He shook her hand. His grip was present but not committed. "I work the toll booth on Route 9. The one near the Dairy Queen."
+
+"I know the one."
+
+"I saw the flyer. I thought—" He paused. His eyelids dipped. He blinked, corrected. "I thought it might be good to—" Another dip. He looked at the bleachers. "Would it be all right if I sat down for a moment? I'm going to be—I'm very alert. I just need a second."
+
+He sat on the lowest bleacher. He placed his hands on his knees. His chin lowered. He was asleep in nine seconds.
+
+*
+
+At 6:14, a woman entered carrying a Bluetooth speaker the size of a small suitcase and a tote bag printed with the words DJ JANINE — YOUR NIGHT, YOUR WAY. Her left arm was pressed against her torso in a black medical sling decorated with what appeared to be hand-applied rhinestones. She was short, dense with energy, and moved through the gymnasium door as if the door were a curtain and the gymnasium were a venue where she was expected.
+
+"Sheriff Koenig?"
+
+"That's me."
+
+"Janine Pascarelli." She set the speaker on the folding table beside the cookies. "I'm a DJ. Weddings, mostly, but I do corporate, bat mitzvahs, the occasional memorial service. I don't know if you've thought about music for this, but I queued up a warm-up mix on the drive over. Real low-energy stuff. Some Fleetwood Mac, a little Sade, building to some mid-tempo — you want to get people's heart rates up without triggering fight-or-flight, you know? Because right now—" She surveyed the gymnasium. Her eyes moved in a practiced sweep: corners first, center, exit points, sight lines. It was the same sweep Debra performed when entering a room, though calibrated for a different threat model. "Right now, this room has a *funeral* energy. No offense."
+
+"None taken."
+
+The speaker emitted a soft pulse of "Everywhere" by Fleetwood Mac. It echoed off the gymnasium walls and returned as something thinner, watery, a song heard through a closed door. Janine adjusted the bass with her one functional hand. "The sling's a rotator cuff. I was moving a subwoofer out of a Dodge Caravan and—listen, it's a whole thing. Point is, my throwing range is about from here to—" She extended her right arm and mimed a toss. The imaginary ball traveled, by generous estimate, four feet. "That far. But I can catch. And I can read a room. And right now—"
+
+She looked at Debra.
+
+Debra had prepared a face for this evening. It was her public-engagement face: slight smile, squared shoulders, the posture of a person who has chosen to be here and is pleased that you have also chosen to be here. It was a good face. It worked on city council members, reporters, and the parents of teenagers she had caught doing things their parents did not want to know about in the parking lot behind the movie theater. It did not work on Janine Pascarelli.
+
+"Right now," Janine said, more quietly, "you need people. Don't you."
+
+Debra did not answer, which was an answer.
+
+Janine nodded. She pulled a cookie from the sleeve on the folding table, bit it, chewed with forensic displeasure, and said, "These are terrible. I'm in."
+
+*
+
+At 6:19, two women entered the gymnasium through separate doors.
+
+This was notable because the gymnasium had one primary entrance and one emergency exit. The emergency exit was chained from the outside and required a firm push and the silent acceptance that an alarm might sound, which it did. The alarm — a single, petulant bleat — woke Terrence Olawale, who opened his eyes and said, clearly and without context, "The correct change is a dollar seventy-five," before locating himself in time and space and returning to a state of mortified consciousness.
+
+The woman who had entered through the primary door was tall, fair-haired, and dressed in athletic clothing that appeared to have been purchased that afternoon: tags still attached to the sleeve of her jacket, a crease down the center of each pant leg suggesting they had been folded on a shelf for some time. She carried a reusable water bottle. Her posture conveyed the rigid preparedness of a person who has decided to do something and is furious about it.
+
+The woman who had entered through the emergency exit was the same height, also fair-haired, and dressed in clothing that had been athletic approximately a decade ago: a faded 5K Fun Run shirt from 2014, sweatpants with a hole in the left knee, sneakers held together by what Debra would later identify as contractor-grade adhesive. She did not carry a water bottle. She carried a manila folder, which she set on the bleachers before looking up and seeing the other woman.
+
+The two women looked at each other for approximately one and a half seconds. The look contained the following: recognition, inventory, an assessment of distance, a calculation of whether the distance was sufficient, a determination that it was not, and a mutual decision to create more of it. They moved, simultaneously and without consultation, to opposite corners of the gymnasium. The one in the new clothes went north. The one in the old clothes went south. Neither spoke.
+
+"Soderquist?" Debra said, consulting a sign-in sheet

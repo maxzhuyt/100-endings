@@ -1,0 +1,119 @@
+# The Repo
+
+---
+
+The work order comes off the printer at the yard same as any other. I pull it at 3:47 AM under the sodium lights of the Crossroads Plaza parking lot, engine idling, coffee still hot in the thermos. Twenty years of nights like this and you develop a rhythm. You don't rush the paperwork. You don't skip the details. Details are what separate the professional from the cowboy, and cowboys get shot.
+
+I hold the sheet against the clipboard and read it down.
+
+Vehicle: 2019 Honda Accord LX. Sedan. Four-door. Lunar Silver Metallic. I know the color without checking the code chart, but that's not unusual — you pull enough Accords, you learn the palette. VIN: 1HGCV1F14KA039___, the last three digits smudged by the printer but legible if you tilt the page. Lien holder: Pacific Range Credit Union, Glendale branch. Months delinquent: four. Four months is deep. Four months means certified letters have been sent and ignored. Means phone calls have gone to voicemail. Means someone has been sitting in a room watching the envelopes pile up on a counter and doing the math and the math has not come out and still they have not called, have not negotiated, have not surrendered the keys to the dealer. Four months is where I come in.
+
+Recovery address: 414 Sycamore Glen Court.
+
+I know the street. You work the east side long enough, you know every street. The houses on Sycamore Glen are mid-'90s construction, three-bedroom, two-bath, fourteen-hundred square feet, vinyl siding in four approved colors. HOA keeps the yards tight. Low fences. Attached two-car garages with the driveways on a six-degree grade — steep enough to make a flatbed tricky, gentle enough for a wheel-lift if you know your angles.
+
+Debtor name: listed on the order in the same font as every other debtor name I've ever read, which is what it is, which is a name I note and move past because the name is not the job. The job is the vehicle. I've told every trainee I've ever had the same thing: *You are not in the business of people. You are in the business of collateral.* The debtor's name goes on the form. The form goes in the file. The file goes to the lien holder. You go home.
+
+I screw the cap back on the thermos. Pull on my gloves — nitrile under leather, standard for a quiet lift. Clip the order to the visor where the dome light catches it. Check mirrors. Check the wheel-lift rig in the bed by feel: boom, crossbar, L-arms, straps, all seated. I've checked it three times already tonight but you check it again because the one time you don't is the time the crossbar pin is loose and you're dragging a sedan down the 134 shooting sparks like a Roman candle and explaining to your insurance company why the CHP impounded your rig.
+
+I put the truck in drive.
+
+The route takes eleven minutes at this hour. No traffic. No reason to hurry and no reason to delay. The radio's off. Has been off for weeks, actually — the knob broke and I haven't replaced it. The silence is fine. I prefer to run the approach in my head before I arrive. Visualize the site. Anticipate the variables. Dog, no dog. Garage, driveway. Slope, flat. Neighbor proximity and sightlines. Time of night, day of week, phase of the moon if you want to get poetic about it, which I don't.
+
+I turn onto Sycamore Glen with my headlights off at 4:02.
+
+---
+
+Standard approach is a two-pass reconnaissance. First pass, you drive the full block at fifteen miles per hour, windows down, taking inventory. You are a census taker of risk. Second pass, you confirm the vehicle's position and choose your angle.
+
+First pass.
+
+414 is mid-block, south side. I note the porch light is on — a yellow CFL behind a frosted sconce, set on a timer that trips at eleven and runs till dawn. A reasonable security choice. The kind of choice a man makes after reading the crime blotter one too many times, after deciding that a thirty-dollar timer from Home Depot is cheaper than the anxiety of a dark porch. I can see from the street that the bulb is the original — hasn't been changed in at least two years based on the color temperature, which has shifted toward amber the way CFLs do at end-of-life. A fresh bulb would be brighter. This one is tired.
+
+The fence is cedar, four feet, running the property line to the back corner. Standard residential grade, nothing that would slow a professional down. There's a weak point at the side gate where two slats have pulled away from the rail — the bottom rail, where moisture gets in and the nails corrode. April project. The kind of thing you buy the lumber for on a Saturday, lean it against the garage wall, and then it's July and the lumber's still leaning and the slats are still loose and you've stopped seeing them because you walk past them every day and the eye stops registering what the hand hasn't fixed.
+
+Vehicle is in the driveway, not the garage. That's favorable. A garage recovery adds fifteen minutes and a significant noise profile — you're dealing with door mechanisms, confined maneuvering, the amplified echo of every tool you drop. Driveway means open air, clean angles, faster egress. The Accord is parked nose-in, which means I'll back the rig up to the rear axle and lift from behind. Standard.
+
+I note the garbage cans. They're at the curb. Tomorrow — today, technically — is Thursday. Collection on Sycamore Glen is Friday. The cans are out a day early. Could indicate an irregular schedule. Could mean the occupant has lost track of the days, which happens — shift work, insomnia, the particular fog that descends on a person when the mail is all past-due notices and the phone is all unknown numbers. Could mean nothing. I note it as a variable and move on.
+
+Second pass. Vehicle confirmed: silver Accord, rear plate visible, first three characters match the order. Driveway grade is manageable. No vehicles on the street within three houses in either direction. Porch light, as noted. Front windows dark. No indication the occupant is awake.
+
+I park three houses east, on the north side, tucked against the curb beneath a jacaranda that hasn't been trimmed in a season and hangs low enough to break the silhouette of the truck cab from the street. Kill the engine. Sit for sixty seconds — standard cooling period, lets the neighborhood settle around the sound of your arrival. A dog barks two blocks over, then stops. Somewhere a sprinkler system clicks on and begins its arc.
+
+I take the slim jim, the bypass kit, and the under-dash tool roll. Close the door with my hip, no slam. Begin the approach on foot, staying on the grass margin where my boots don't report against concrete.
+
+The houses on this side of the street are all dark except for the usual constellations of standby lights — router LEDs, microwave clocks, the blue pulse of a smoke detector low on battery. Normal. A neighborhood at rest. I cross the street at an angle that keeps me out of the direct cone of 414's porch light and come up along the fence line on the east side, where the shadows are deepest.
+
+The loose slats are right where they've always been.
+
+---
+
+The side door is the preferred entry vector for the yard — it opens to the narrow run between the house and the fence, gives direct access to the driveway without crossing the front of the property. The door is a thirty-two-inch steel-core, solid but nothing special, secured by a Kwikset single-cylinder that any repo man with a tension wrench could defeat in under a minute.
+
+But the door also puts me within arm's reach of the security panel.
+
+Sentinel-4 residential package. Thirty-second entry window. Keypad on the interior west wall, left of the door frame, mounted at fifty-four inches — chest height, so you can punch the code in the dark while holding groceries, which was the idea, which was the logic when the system was selected from a catalog and comparison-shopped across three brands and installed over a weekend with a drill, a fish tape, and a level that kept rolling off the stepladder.
+
+The panel will be armed. A man four months behind on his car payments might let a lot of things slide, but the security system is a monthly charge buried in the credit card autopay, which means it's the kind of expense that persists even after conscious financial decision-making has collapsed — the zombie charge, we call it in the industry, the subscription that outlives the subscriber's solvency. The system will be armed and the thirty-second window will start the moment the side door opens, and if the code isn't entered, the monitoring company dispatches, and dispatch means sirens, and sirens mean a blown job.
+
+Now. Technically. I could enter the code.
+
+I could open this door, step inside, cross the three feet of linoleum between the threshold and the panel, and key in the four digits that would silence the system before it ever spoke. It would take six seconds. I have done it — a person could have done it, in the general case — thousands of times. The fingers know. The fingers could do it in the dark, have done it in the dark, coming home at 4 AM from jobs exactly like this one, the hand reaching for the panel before the eyes adjust, the beep-beep-beep-beep of the code entered by pure proprioception, the chime of acceptance, then the silence of a disarmed house.
+
+But that would constitute residential entry. The work order authorizes vehicle recovery from the listed address. It does not authorize entry into the dwelling. Section 9-503 of the Uniform Commercial Code permits the secured party to take possession of collateral without judicial process provided it proceeds without breach of the peace. *Without breach of the peace.* Entering a residence — even an unlocked residence, even a residence whose code you happen to know through, say, professional experience with Sentinel-4 systems, which use a common factory default that many owners never bother to change — entering a residence crosses the line from repossession to trespass, and trespass is a breach of the peace, and a breach of the peace voids the self-help remedy, and a voided self-help remedy means the lien holder has to go to court, which means lawyers, which means delay, which means I don't get paid and the job goes back in the queue and someone else pulls it next week and probably botches it because they don't — because they won't have the site-specific intelligence I've developed during this reconnaissance.
+
+So. The bypass tool.
+
+I pull the RF jammer from the kit — a device about the size of a deck of cards that floods the Sentinel-4's wireless frequency with noise, effectively deafening the panel to its own sensors. It won't stop the countdown if the door is opened, but it will prevent the door sensor from reporting to the panel in the first place. The trick is positioning: you need to get the jammer within eighteen inches of the door-frame magnet, which means mounting it on the exterior wall and hoping the signal penetrates the siding.
+
+On vinyl-sided houses with standard insulation, penetration is inconsistent. Wood frame helps. Foil-backed insulation kills it. I don't know what insulation — I would have to guess, based on construction era and regional building codes, what insulation is behind this particular wall, and the truth is that mid-'90s tract homes in this area used R-13 fiberglass batts, no foil backing, which gives me roughly a seventy percent success rate with the jammer.
+
+I could just enter the code.
+
+I position the jammer against the siding with a strip of mounting putty, one inch left of the door-frame magnet, and hold my breath. Open the door. The linoleum inside is — the linoleum is standard residential grade, a pattern I don't need to describe. The panel is right there, green LED steady, the display showing ARMED in sans-serif capitals, and the thirty-second window does not begin, which means the jammer is working, which means the door sensor is blind, which means I have bypassed a Sentinel-4 residential package from the exterior without breaching the dwelling.
+
+Four times as long as entering the code. But clean. Professional. Within scope.
+
+I retrieve the jammer, close the door, and proceed along the side of the house toward the driveway.
+
+---
+
+The dog comes around the corner of the garage at a trot.
+
+I see it before it sees me — or more accurately, it smells me before I see it, because it's already moving in my direction with its nose low and its tail at half-mast, the posture of a dog that has detected something interesting but hasn't yet classified it as threat or friend. Approximately sixty pounds. Breed indeterminate — some kind of Lab mix, maybe shepherd in the jaw, the kind of dog that the shelter lists as "retriever blend" because it moves adoptions. Noted on the assessment as potentially hostile, which is standard language for any on-site canine. You never assume friendly. You carry treats — liver-flavored, individually wrapped, effective on roughly eighty percent of residential dogs — and you carry pepper spray for the other twenty percent, and you make the determination in the first five seconds based on ear position, hackle state, and vocalization.
+
+This dog is not vocalizing.
+
+Its ears are forward but soft. No hackle. The tail has moved from half-mast to full sweep, a metronome of increasing enthusiasm, and it is closing the distance between us not in the stiff-legged, squared-off approach of a territorial animal but in the loose, slightly sideways amble of a dog that has just realized something wonderful is happening and cannot believe its luck.
+
+I reach for the treats.
+
+The dog ignores my hand entirely. It pushes past the offered treat and drives its head into my thigh — not a nudge, not a bump, but the sustained, full-weight lean of a dog that is trying to press itself into a person, the head buried against the leg, the body curving inward, the tail now moving so fast it's pulling the hindquarters with it in that full-body sine wave that dogs do when the tail alone is insufficient to express the magnitude of the situation.
+
+This is not standard canine behavior toward a stranger.
+
+I should note that some dogs are simply — some breeds are indiscriminate in their —
+
+"Benny."
+
+The word is out before the professional voice can intercept it. One word, two syllables, spoken in a register I haven't used on this job. A name voice. The voice you use at the back door at 6 PM when the kibble hits the bowl and the nails come skittering across the kitchen floor. The dog — the canine — responds to the vocalization with intensified contact behavior, pressing harder, and I can feel through the leather glove the vibration of a whine so high-pitched it's almost inaudible, a sound produced in the very back of the throat, the sound a dog makes when a person it has been waiting for has finally, finally come home.
+
+Canine neutralized. No pepper spray required. I step around the animal and proceed toward the vehicle.
+
+The dog follows.
+
+"Stay."
+
+It stays. I don't have to look back. I know it stays because I can hear the absence of nails on concrete, and because I spent four Saturdays in a PetSmart parking lot with a clicker and a bag of chicken bits teaching it that exact command, and it was a good student, better than most — better than most dogs, is what I mean — and it learned to stay with a reliability that the trainer called exceptional.
+
+I can feel it watching me from the porch. I don't look back. The job is the vehicle. The vehicle is thirty feet ahead of me in the driveway, and that is where my attention is directed, because I am in the business of collateral and the collateral is a 2019 Honda Accord LX and I am going to recover it now.
+
+---
+
+The slim jim slides between the window glass and the weather stripping with the practiced ease of ten thousand door locks in twenty years. You develop a feel. The tool's hook finds the linkage rod inside the door panel, and you apply lateral pressure — gentle, not forced, the way you'd work a lever you had some respect for — and the lock pops.
+
+Except it doesn't.
+
+I reposition. Try again. The hook is catching on something — a clip, maybe, or a secondary rod — and I can feel the geometry of the lock assembly through the tool the way a surgeon reportedly feels anatomy through a probe, and I know what the problem is. I know because this particular lock has a tolerance issue in the actuator housing where the linkage rod sits about two millimeters deeper than the Honda service manual specifies, a variance that is technically within factory spec but that, in practice, means the slim jim's hook slides right past the engagement point unless you angle the tool at roughly fifteen degrees off vertical while simultaneously — here — pulling the exterior handle to shift the rod into a reachable position.
+
+The lock

@@ -1,0 +1,233 @@
+# SCP-4471
+
+**Item #:** SCP-4471
+
+**Object Class:** Euclid
+
+**Special Containment Procedures:** Full containment of SCP-4471 is not achievable under current operational parameters. As of this writing, 31 confirmed instances of SCP-4471 have been identified across 19 countries. Foundation field agents embedded in municipal and national government bodies are to flag any reports of doors matching the external description (see Description) for immediate investigation and site acquisition where possible. Acquisition is not always possible. Sites where acquisition has failed are to be monitored remotely, with personnel access restricted to teams holding Level 3 clearance or above.
+
+Personnel are instructed that entry into SCP-4471 without explicit written authorization from a Level 4 supervisor is grounds for immediate disciplinary review.
+
+SCP-4471 instances cannot be destroyed. Attempts to seal individual instances have been uniformly unsuccessful; affected apertures resume functionality within 72 hours regardless of method used. Welding, concrete infill, and structural demolition of the surrounding wall have all been attempted. See Incident Log 4471-Kappa (access restricted, O5 authorization required) for details pertaining to the demolition attempt at the Gdańsk site. Incident Log 4471-Kappa is not available through standard research terminal query. Personnel who believe they require access should submit a formal request through their Site Director. Requests have not, to date, been approved.
+
+---
+
+**Description:** SCP-4471 designates a collection of functionally identical interior doors currently distributed across abandoned or decommissioned structures on six continents. No instances have been recovered from currently occupied buildings, though see Researcher Addendum 4471-Vasquez for a note qualifying this observation.
+
+Each instance of SCP-4471 is physically identical to the others in all measurable respects. Doors are 203.2 cm in height and 81.3 cm in width. Material is consistent across instances: solid-core wood of indeterminate species, finished with a lacquer that has resisted carbon dating and spectrographic analysis. No manufacturer markings, serial numbers, or identifying stamps appear on any surface of any instance. Hardware is a simple brass-toned lever mechanism of a style consistent with mid-twentieth-century construction, though the alloy composition does not correspond to any commercially produced hardware in the Foundation's materials database.
+
+The sole external identifier present on all instances is a pattern of scratches concentrated around and immediately beneath the doorknob. Scratch depth is consistent across all instances to within 0.2 mm. The pattern is not identical in the manner of mechanical reproduction; variations exist, but all variations fall within a range that forensic analysts have characterized as "consistent with independent production by a single tool under consistent pressure." Tool-mark analysis has been conducted by three independent labs. Results are inconclusive.
+
+Crossing the threshold of any SCP-4471 instance deposits all entrants into a single unified interior space, hereafter referred to as SCP-4471-A, regardless of which instance was used for entry and regardless of the physical layout of the building the instance is housed within. Entry through the SCP-4471 instance located in Gdańsk, Poland does not result in emergence into the interior of the Gdańsk textile factory. Entry through the instance located within a collapsed hospital wing in Mendoza, Argentina does not result in emergence into Argentina. All instances open into the same place.
+
+SCP-4471-A presents as an archival library of architecturally impossible scale. No ceiling has been observed; vertical measurement using laser rangefinder has consistently returned error readings beyond 600 meters. Lateral dimensions have not been established. Exploration teams using GPS systems report that positional data becomes nonsensical within approximately 40 meters of the entry threshold. Teams that have navigated further into SCP-4471-A report that hallways recur in patterns inconsistent with linear geometry, and that return to the entry threshold — and thus exit — appears to require an act of deliberate orientation rather than simple retracing of steps. No team has become permanently unable to exit, though the duration of this statement's accuracy cannot be guaranteed.
+
+Lighting within SCP-4471-A has no apparent source. Illumination is consistent, shadowless, and equivalent to approximately 200 lux. No light fixtures, windows, or luminescent materials have been identified. Atmospheric composition is within survivable parameters and does not require supplemental breathing equipment. Personnel have reported a persistent quality to the air that resists clinical description: pressure readings show a marginal but consistent deviation from standard, humidity is approximately 12% below ambient norms for any entry point of origin, and multiple team members across multiple exploration logs have independently noted an odor characterized as "chemical," "archival," and, in one case, "like a room that has been closed for longer than rooms are usually closed." No compound responsible for this odor has been identified.
+
+SCP-4471-A contains filing systems of enormous scope. Materials are organized in a filing and shelving arrangement that structural analysts have compared to no single archival tradition, but which borrows recognizably from several. Labels and headers are rendered in a language that Foundation linguists have partially deciphered. The language shares grammatical features with proto-Semitic and early Sino-Tibetan families but predates both; cross-referencing the archival calendar system employed within SCP-4471-A against known historical calendar systems suggests a point of origin between 4,000 and 11,000 years prior to the earliest human written records. The margin of error in this estimate is substantial. The estimate is nonetheless troubling.
+
+Documents within SCP-4471-A are not exclusively historical. Multiple sections of the archive have been confirmed as current — actively updated, with entries corresponding to events that have occurred within the last several years. The mechanism of this updating has not been established. No personnel have been observed adding to the archive during scheduled exploration windows, though see Exploration Log Beta for relevant qualification of this.
+
+---
+
+**Document Excerpt 4471-I (Recovered from SCP-4471-A, translated from partial decipherment):**
+
+---
+
+*CLASSIFICATION: NECESSARY*
+*CONTAINMENT STATUS: RESOLUTION PENDING*
+*FILED UNDER: PERSISTENT ANOMALIES, CATEGORY SEVEN — CIVILIZATIONAL INTERFACE*
+
+*Containment of the subject matter covered under this filing has been suspended indefinitely pending resource assessment. The Assessment Bureau has concluded that available personnel and infrastructure are insufficient to maintain the protocols established under Directive Fourteen. This conclusion was reached following the events of the third quarter, which are documented elsewhere in this section and which will not be summarized here except to note that the summary would serve no practical purpose at this time.*
+
+*Remaining operational staff are instructed to continue filing under current nomenclature through the end of the transition period. After the transition period, filing will resume under revised nomenclature, to be established by whatever body assumes coordination responsibilities. The Assessment Bureau does not currently know what that body will be called. The Assessment Bureau recommends that whatever body it is should know what it is inheriting.*
+
+*Personnel losses in the third quarter: substantial. Personnel losses projected for the fourth quarter: comprehensive.*
+
+*Files are maintained. Files will continue to be maintained. That is the one thing the Assessment Bureau can guarantee.*
+
+*End of filing.*
+
+---
+
+**Exploration Log 4471-Alpha**
+
+**Team:** Dr. ██████ (lead), Researcher M. Okafor, Agent T. Petrov
+
+**Entry point:** Gdańsk, Poland — abandoned textile manufacturing facility
+
+**Duration:** 3 hours, 14 minutes
+
+---
+
+**[TRANSCRIPT BEGINS]**
+
+**Dr. ██████:** We're through. I'm — yes, we're through. This is not the factory interior.
+
+**Okafor:** No. No, it's not.
+
+**Dr. ██████:** Petrov, close the door behind you. I want to make sure we can find it again.
+
+**Petrov:** Closed. It's the same door from this side. I can see the scratches on the knob from here.
+
+**Dr. ██████:** Good. Begin documentation.
+
+**[12 minutes of environmental data collection, omitted for brevity]**
+
+**Okafor:** The shelving goes further than I can see. Whatever system they're using — the labeling system — I can parse about every fifth word. Maybe every fourth.
+
+**Dr. ██████:** What do you make of it so far?
+
+**Okafor:** Categorization. It's some kind of categorization system. Whatever's filed here, it's been sorted. That's — that's actually quite sophisticated, if the dating on any of this holds up.
+
+**Petrov:** There are cabinets in this section. Metal, I think. Four-drawer standard configuration.
+
+**Dr. ██████:** Document and photograph, don't open yet.
+
+**Petrov:** Dr. ██████. I need you to come here.
+
+**Dr. ██████:** What is it?
+
+**Petrov:** This cabinet. This row. I —
+
+**[Pause, 17 seconds]**
+
+**Petrov:** My name is on this tab.
+
+**Dr. ██████:** Don't —
+
+**Petrov:** My name. My name is on this tab. In Latin characters. My name.
+
+**[Pause, 4 seconds]**
+
+**Dr. ██████:** Open it.
+
+**[Pause, 23 seconds]**
+
+**Petrov:** There's a photograph. That's — that's my face. That is my face.
+
+**Okafor:** The date on the document —
+
+**Petrov:** I can read the date.
+
+**Dr. ██████:** Say it aloud for the recorder.
+
+**Petrov:** ████. Three hundred and forty years ago. Three hundred and forty years ago there is a photograph of me in a filing cabinet inside a door in a Polish factory that didn't exist three hundred and forty years ago, and there is a psychological evaluation in handwriting that looks exactly like Dr. Harmon's handwriting, and I would like to leave now.
+
+**Dr. ██████:** We have more to document.
+
+**Okafor:** Petrov is right, we should extract and regroup —
+
+**Petrov:** I said I would like to leave. I did not say I was leaving. Give me the camera. Give me the camera. I want to photograph this whole section before we go.
+
+**Dr. ██████:** Petrov —
+
+**Petrov:** Give me the camera.
+
+**[Extraction initiated 47 minutes after this exchange]**
+
+**[Team emerged through original entry door into Gdańsk textile factory at 14:32 local time. All members accounted for. Petrov's photographs were reviewed and confirmed. Okafor's notes record that the handwriting on the psychological evaluation is, in her assessment, "not similar to" Dr. Harmon's handwriting but is, rather, "the same handwriting."]**
+
+---
+
+**Document Excerpt 4471-II (Recovered during Alpha exploration, photographed by Agent Petrov):**
+
+---
+
+*SUBJECT FILE — ASSESSMENT DIVISION*
+*PHYSICAL: Male, ██ years, ███ cm, ██ kg. Brown eyes. Scar on left forearm, cause: accidental.*
+*SPECIALIZATION: Threat assessment, tactical response, secondary training in archival security protocols.*
+*BEHAVIORAL NOTES: Subject demonstrates consistent performance under operational stress. Adaptability rated satisfactory. Primary loyalty vector assessed as institutional rather than personal, which is preferable. Note for file: subject has demonstrated residual pattern-recognition behavior that warrants monitoring. Does not yet recognize the significance of patterns he has identified. Reclassification upon recognition event.*
+*LOYALTY RISK ASSESSMENT: Acceptable.*
+*AWARENESS OF FULL CYCLE: No.*
+*RECOMMENDED RETENTION: Yes.*
+*DATE: ████*
+
+---
+
+**Exploration Log 4471-Beta**
+
+**Team:** Dr. ██████ (lead), Researcher M. Okafor, Archivist L. Chen, Archivist R. Park, Agent Vasquez, Agent Dembélé
+
+**Entry point:** Mendoza, Argentina — collapsed hospital wing
+
+**Duration:** 6 hours, 52 minutes
+
+---
+
+**[TRANSCRIPT BEGINS — PARTIAL]**
+
+**Dr. ██████:** Same space. Same smell. Same light. Mendoza confirmed as separate entry point, same interior.
+
+**Chen:** The filing system near this entrance appears contiguous with the section we documented in Gdańsk. It's not a different archive adjacent to the Gdańsk archive. It's the same room.
+
+**Okafor:** The same room has two doors four thousand miles apart.
+
+**Chen:** The same room appears to have at least twenty-nine doors. If all documented instances open here.
+
+**Dr. ██████:** We'll work in pairs. Vasquez, Dembélé, perimeter security. Chen, Park, begin assessment of the western — what I'm calling the western — shelving array. Okafor, with me.
+
+**[2 hours, 33 minutes of documentation, omitted]**
+
+**Dembélé:** Dr. ██████, we have something. You need to see this.
+
+**[Team converges on northern section, approximately 310 meters from entry threshold]**
+
+**Okafor:** Someone's been working here.
+
+**Dr. ██████:** Recently?
+
+**Dembélé:** Very. Shelving has been partially cleared. These containers —
+
+**Vasquez:** Sealed containers. Hard-sided. Straps, handles. Purpose-made for transport.
+
+**Park:** They were taking things out. They were removing documents.
+
+**Dr. ██████:** What were they removing?
+
+**Okafor:** I can't tell. The remaining files don't indicate gaps — it's not like there are labels without contents. It's as though whatever they took was never reflected in what's left.
+
+**[Pause, 14 seconds]**
+
+**Vasquez:** Contact.
+
+**[Pause]**
+
+**Vasquez:** Three — four — five figures. Northern approach, at the edge of the lights. Approaching our position.
+
+**Dembélé:** I see them.
+
+**[Contact description from subsequent reports: five individuals, height and apparent build consistent with adult humans. Full enclosure hazmat-style suits, gray-white, no visible insignia, brand markings, or identifying information of any kind. Visors opaque. Movement coordinated, purposeful, without apparent communication. They were, at the time of first observation, carrying the sealed containers. They stopped upon observing the team. For eleven seconds, nothing moved.]**
+
+**Vasquez:** They've oriented toward us.
+
+**Dr. ██████:** Hold position. Don't —
+
+**[The five figures set down their containers in a single simultaneous motion. They turned. They walked toward a section of shelving in the northwestern corner. A door was there that the team's initial survey had not documented. The figures moved through it. The door was not there when Vasquez reached that position, which she did within forty seconds.]**
+
+**Vasquez:** It's gone. The door is gone. There is no door.
+
+**[One container had not been fully sealed at the time the entities departed. Partial documents were recovered from the container and from the floor of the northern section. Recovered materials comprise Document Excerpt 4471-III and associated partial pages, categorized separately under restricted access. The cataloguing system used to organize materials within the container was partially reconstructable from remaining evidence. Archivists Chen and Park both independently assessed the system as "deliberate" and "selective." Items had not been removed at random.]**
+
+---
+
+**Document Excerpt 4471-III (Recovered from unsealed container, northern section, SCP-4471-A):**
+
+---
+
+*SECTION TWELVE: TERMINAL EVENT DOCUMENTATION*
+*FILING CATEGORY: CIVILIZATIONAL RECORD, END-OF-CYCLE*
+
+*The event began in the fourth quarter of the year classified under this system as the final year. This was known in advance. The date had been established through means documented in Section Four of this archive, and the nature of the event had been studied thoroughly enough that the outcome was not in question. What was in question was whether intervention was warranted. The Council of ██ spent eleven months in deliberation.*
+
+*The vote was nine to three in favor of continuation.*
+
+*"Continuation" in this context meant proceeding without intervention. The Council had access to the means of intervention. The decision not to use those means was made with full awareness of what the outcome of continuation would be. The minority position, articulated most fully by the three dissenting members, was that the outcome of intervention was less predictable than the outcome of continuation, and that the archive constituted a more reliable transfer mechanism than any other available option. The minority position was that the people were less important than the record. This position did not prevail. The majority position was the same.*
+
+*Personnel losses were comprehensive, as projected.*
+
+*The archive was sealed at the end of the fourth quarter. It has remained accessible. It was always meant to be accessible.*
+
+*To whoever is reading this: we did not fail at our work. We completed it. The work was to ensure that the next iteration would not begin without information. We could not give you everything we knew. We have given you everything we could carry.*
+
+*The obligation

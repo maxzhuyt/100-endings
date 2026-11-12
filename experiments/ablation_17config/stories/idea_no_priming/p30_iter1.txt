@@ -1,0 +1,105 @@
+# Brisket
+
+## I.
+
+The thing about Camp Doufan was that it ordered a lot of zip ties.
+
+Delia Roark could have told you how many. She could have told you the NSN — 5975-01-465-1340, Strap, Lashing: Nylon 6/6, Natural, 14.1 in. — and that the base consumed roughly 4,200 per quarter, which was 1,600 more than a forward operating base of its size and mission profile should require. She had filed a consumption anomaly note with CENTCOM J4 about this in February. No one had responded. She had filed it again in April, with updated figures, and received an auto-reply informing her that the J4 logistics analysis inbox had been migrated to a new server and to please re-send all correspondence to an address that bounced.
+
+The zip ties were going to the motor pool. TSgt Rodriguez used them to secure shade netting to the T-barriers because the proper fastening hardware — NSN 5305-01-590-8821, Pin, Cotter: Stainless Steel, 3/32 x 1 in. — had been on back-order since October of the previous year. Delia had traced the back-order to a vendor substitution issue at DLA Troop Support in Philadelphia. She had called Philadelphia. She had spoken to a GS-9 named Cheryl who told her that the vendor substitution had been flagged for review and that the review was pending a contracting officer determination that was itself pending a legal sufficiency review. Cheryl said this would take sixty to ninety days. That conversation had occurred in January.
+
+Delia logged the call, updated the tracker, annotated the requisition, and moved to the next line.
+
+Camp Doufan existed to support a mission that had been downgraded twice and renamed three times since its authorization in 2017. The current mission statement, which Delia had read in full because it was appended to the base's annual logistics support plan, occupied one and a half pages of prose that used the word "facilitate" eleven times and the word "kinetic" zero times. The base housed 340 personnel, a number that fluctuated by plus or minus thirty depending on TDY rotations and medical evacuations to Landstuhl, which were more frequent than you'd expect for a non-kinetic mission because the combination of heat, boredom, and improvised gym equipment produced a reliable stream of orthopedic injuries. Delia had processed the paperwork for nine medevacs in the current fiscal year. Seven were for the same torn ligament, the anterior cruciate, which she had learned to spell without looking it up.
+
+Her workspace was a partitioned corner of a hardened tent designated Bldg T-41 on the base map and "the Cage" by everyone who worked in it, because it was surrounded on three sides by chain-link fencing enclosing the primary supply storage area. The storage area held approximately 460 pallets of materiel at any given time, organized according to a system Delia had inherited from her predecessor, a SSgt Womack who had PCS'd to Ramstein in March and whose organizational logic Delia had dismantled and rebuilt within her first nine days on station. Womack's system grouped items by shipment date. Delia's system grouped them by consumption velocity — fastest-moving items nearest the access point, slowest-moving items against the back wall. She had briefed the change to her NCOIC, MSgt Torres, who had said "Sure" without looking up from his phone.
+
+The back wall of the Cage abutted a concrete blast barrier that formed the eastern perimeter of the logistics compound. Beyond the blast barrier was a drainage ditch. Beyond the drainage ditch was a gravel road used primarily by local national contractors entering through East Gate. Beyond the road was scrubland that stretched flat and pale toward the hills. Delia did not spend a lot of time looking at the scrubland. There was nothing there that required a requisition.
+
+She was twenty-six years old and on her second deployment. Her first had been to Al Udeid, which was a real base with a real mission and a Chili's. Camp Doufan did not have a Chili's. It had a DFAC that served four rotations and a Green Bean Coffee trailer that closed at 1400 because the contracted barista had negotiated those hours and no one with contracting authority had objected. Delia had not requested this assignment. She had been voluntold during a manning shortfall, informed by her flight chief at Lackland with the phrase, "Roark, you're good at counting things and Djibouti needs someone who can count things." She had taken this as a compliment. She still took it as a compliment.
+
+Her daily inventory report went to MSgt Torres, who forwarded it to the LRS commander, Capt Herrera, who forwarded it to the base XO, Maj Singh, who — Delia assumed — forwarded it to the base commander, Col Fenn, though she had no evidence anyone above Herrera actually read it. The report was formatted per AFI 23-101, Chapter 7, with local modifications Delia had introduced to flag projected shortfalls at thirty, sixty, and ninety-day intervals. The modifications added forty-five minutes to her daily workflow and saved, by her estimate, an average of three emergency procurement actions per month, each of which would have taken six to twelve hours to resolve. She had calculated the labor savings and included the figure in her last EPR input. Torres had removed it during his review, noting in the margin: "Don't put math in bullets."
+
+This was the shape of her days. She arrived at the Cage by 0630, before the heat became architectural. She worked through her inventory queue, processed incoming shipments, reconciled discrepancies, filed reports, made calls that no one returned, sent emails that no one read, and maintained a supply operation that functioned with a precision no one required. She was good at her job. She was, by the metrics available to her, excellent. If it sometimes occurred to her that excellence in this context was like mowing a lawn no one owned, she did not record the observation.
+
+The base requisitioned what it needed. What it needed was zip ties, boot socks, hydraulic fluid, printer toner (black only; the color printer had been broken since before Womack), bottled water in quantities that made the shipping cost per unit a figure Delia tried not to calculate, and once, in a requisition she processed with the same flat attention she gave everything else, a replacement flag for the base flagpole, because the old one had been shredded by a windstorm that had also relocated a portable latrine into the motor pool.
+
+What it never requisitioned, because no one thought to, was anything that might have suggested the people stationed there were going to remember being stationed there.
+
+---
+
+## II.
+
+The piglet was under pallet D-7, which held thirty-six cases of MRE Menu 14 (Vegetable Crumbles with Pasta in Taco Style Sauce), the slowest-moving item in Delia's inventory. Consumption rate: 0.3 cases per week. Projected time to depletion: two years, four months. No one went near D-7.
+
+Delia found it on a Tuesday during her weekly physical inventory check of the back rows. It was small and dark and loud. It had gotten through the drainage ditch somehow, or under the blast barrier — there was a gap at the base where erosion had scooped out six inches of clearance, which she noted on her facilities maintenance request log and then forgot about, because facilities maintenance requests at Camp Doufan were processed on a timeline best described as geological.
+
+The piglet weighed approximately four pounds. It was dehydrated. It had a cut on its left rear leg that was shallow but dirty. Delia picked it up, examined the cut, cleaned it with an antiseptic wipe from the first-aid kit mounted on the T-41 support pole (NSN 6545-01-586-7691, Kit, First Aid: Individual, OD Green), and set the piglet in an empty shipping container — a corrugated fiberboard box that had held twelve units of Toner, Laser Printer, Black, HP 05A Compatible — lined with packing material.
+
+She filled a latex glove with water, pricked the fingertip with a pushpin, and held it to the piglet's mouth. It drank. She weighed it on the postal scale: 4.2 pounds. She logged nothing.
+
+Feral pigs were not native to Djibouti but they were not unheard of. The port of Doraleh handled container traffic from every major shipping lane in the Indian Ocean. Things arrived. Rats, cats, the occasional snake — Delia had processed a pest-control request for a puff adder in Bldg T-12 two months prior — and, evidently, at some point, pigs. Or one pig. Or the offspring of one pig, now under a pallet of taco-style vegetable crumbles, drinking from a latex glove.
+
+She named it Brisket.
+
+The enclosure needed to be ventilated, shaded, and positioned away from foot traffic. Delia identified a space between pallets D-7 and D-9, against the blast barrier, that was accessible only from the back row of the storage area — a section she alone inventoried, because Torres had designated the back rows as "your thing" in a delegation of authority that suited both of them. She moved four pallets to create a three-sided shelter approximately four feet by six feet, open at the top for airflow, shielded on three sides by cases of MREs, water purification tablets, and a shipment of cold-weather gear that had been sent to Djibouti by a routing error Delia had reported in January and that DLA had acknowledged in March with a message indicating the return shipment would be coordinated "at the earliest opportunity."
+
+The cold-weather gear was useful now. It was insulating.
+
+Feed was a solvable problem. TSgt Kim ran the DFAC and maintained a waste log that Delia had helped him build when he'd been flagged for a health-and-sanitation inspection the previous quarter. The DFAC discarded between forty and sixty pounds of food waste per day — vegetable trimmings, plate scrapings, expired dairy, bread ends. This waste was collected in bins and removed by a local national contractor through East Gate every other day. Delia proposed to Kim that she would divert a portion of the waste for "composting research," a phrase she chose because it sounded like something that might appear in an environmental compliance memo and therefore would not have to be explained.
+
+Kim said, "We don't have a composting program."
+
+Delia said, "We do now."
+
+Kim looked at her for a moment. "How much do you need?"
+
+"Ten pounds a day."
+
+"Of compost."
+
+"Of compost material."
+
+He gave her a five-gallon bucket. She began collecting it every evening at 1830, after the last dinner rotation, carrying it back to the Cage in a route that took her past the laundry trailer and behind Bldg T-22, which was unoccupied and awaiting demolition, which meant no one was ever near it, which meant no one saw her carrying a bucket of food scraps to a supply cage where she was the only person who inventoried the back rows.
+
+Brisket ate vegetable trimmings, bread ends, rice, overcooked pasta, and once, an entire pan of corn muffins that Kim had pulled from the line because they had been contaminated by a cleaning-solvent spill. Brisket was fine.
+
+By the end of the second week, Brisket weighed 7.1 pounds, per the postal scale, and had learned to recognize Delia's footsteps.
+
+There were certain details Delia did not think about. She did not think about the fact that Camp Doufan existed by ongoing agreement with the Republic of Djibouti, a Muslim-majority nation whose population was approximately 94 percent Muslim. She did not think about the status-of-forces agreement, which she had never read, or the host-nation cultural sensitivity briefing she had attended during in-processing, which had covered religion, dress, greetings, gesture taboos, the protocol for Ramadan, and, she was fairly certain though she could not have said when, dietary prohibitions. She did not think about these things because she was not thinking about Brisket as a cultural object or a diplomatic variable. She was thinking about Brisket as a logistics problem, and the logistics were working.
+
+---
+
+## III.
+
+Col Marcus Fenn had commanded Camp Doufan for eleven months. He was forty-seven years old, a rated pilot who had been removed from the cockpit by spinal compression fractures sustained during an ejection from an F-16C in 2014, and who had subsequently remade himself as an operations and logistics officer with a reputation for two things: silence and evaluations. His silence was professional and absolute — he did not make small talk, did not attend base social events, did not eat in the DFAC during peak hours, and conducted meetings in a style that one of his prior deputy commanders had described as "like talking to a doctor who already knows the diagnosis." His evaluations were known across AMC as the most useful EPRs a person could receive, because they were honest to the point of institutional recklessness. A Fenn EPR said what you were, not what you wanted to be.
+
+Delia had spoken to him exactly four times. Twice during commander's calls, where his remarks were brief and structural. Once during an inspection of the logistics compound, where he had asked her the consumption rate of JP-8 and she had answered from memory and he had nodded once. And once in the DFAC, at 0545, when there were only four people in the building and he was eating scrambled eggs alone at a table by the wall, and she had walked past and he had said, without looking up, "Your ninety-day projections are good. The format is better than what we had."
+
+She had said, "Thank you, sir."
+
+He had said nothing else.
+
+She had thought about this for three days.
+
+The inspection of the logistics compound had been on a Wednesday. Fenn walked the rows with Maj Singh. Delia walked four paces behind them, clipboard in hand, answering questions about shelf life, stock rotation, and the status of the cotter-pin back-order. Fenn moved at a pace that suggested he already knew what he was looking at and was merely confirming it against a mental model. He stopped at pallet C-3 and asked about a discrepancy between the marking and the contents. Delia explained the mishipment: the pallet was labeled as containing twenty-four cases of 5.56mm blank ammunition for training exercises, but in fact held twenty-four cases of Meals, Ready-to-Eat, Menu 23 (Pepperoni Pizza Slice, Cheese Filled), which she had flagged in a discrepancy report submitted to the 405th AFSB three weeks prior, which was still pending resolution. Fenn looked at the pallet. He looked at Delia. He said, "Good catch." He continued walking.
+
+He walked all the way to the back row.
+
+Delia had moved Brisket that morning. She had anticipated the inspection — it was on the weekly schedule — and had relocated Brisket to the interior of a large tri-wall container marked COLD WEATHER GEAR — DO NOT OPEN WITHOUT AUTH FROM LRS/CC, a label she had produced herself on the Cage's label printer. The tri-wall was sealed. Brisket, who had been fed early and heavily, was asleep. The tri-wall was between pallets D-5 and D-6, which was not where the cold-weather gear had previously been stored, which meant Delia had moved it, which meant the configuration of the back row had changed since the last inventory photograph she had submitted, which was the kind of thing a base commander either noticed or didn't.
+
+Fenn stopped at the back row. He looked at the pallets. He looked at the tri-wall. He looked at the configuration. He looked at Delia.
+
+The moment lasted about two seconds. There was no sound from the tri-wall. The air was hundred-and-nine degrees. Delia's clipboard was exactly level.
+
+Fenn turned to Singh and said, "The drainage gap under the east barrier needs to be on the facilities list."
+
+Singh made a note.
+
+They moved on.
+
+---
+
+One week later, Delia submitted a routine facilities request for repair of a water spigot on the exterior of Bldg T-41 that had been nonfunctional since before her arrival. The request required the base XO's routing endorsement. It came back approved within forty-eight hours, which was unusual — the average turnaround for facilities requests was nineteen days. The approval was annotated with a single additional line, in a hand Delia did not recognize: *Approved. Ensure spigot has adequate drainage to east perimeter.*
+
+The annotation was not remarkable. An approved request was an approved request. The spigot was repaired by Friday. Delia used it to fill Brisket

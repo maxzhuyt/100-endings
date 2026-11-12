@@ -1,0 +1,11 @@
+{
+ "gen_h": 61.16,
+ "judge_h": 37.5,
+ "total_h": 98.67,
+ "N_stories": 2052,
+ "P_positions": 97201,
+ "E_endings": 9720100,
+ "per_story_min": 2.885,
+ "per_pos_sec": 3.654,
+ "per_ending_sec": 0.0365
+}

@@ -1,0 +1,137 @@
+# The Frequency of Innocence
+
+## 1.
+
+The word that cut Oren Basquiat was *attention*.
+
+It came over the intercom at 0600, Deck 7, Shift D rotating out for Shift E, the way it had come every twelve hours for the eleven months I'd been stationed on the Tern Point refinery platform. The duty supervisor keyed the handset and said, "Attention all personnel, shift change is now in effect," and the word *attention* dropped out of the overhead speaker like a piece of chandelier.
+
+I say *dropped*. What I mean is that it formed — translucent, faceted, about the length and width of a man's hand — and fell. It caught the light from the fluorescent bank above the corridor in a way that made it briefly beautiful, the way certain minerals are beautiful when you crack open a geode and find geometry where you expected stone. Then it tumbled, edge over edge, and one of its planes — the long diagonal of the double-*t*, I think, though I have no evidence for this and I am trying to be precise — opened Oren Basquiat's left forearm from wrist to elbow.
+
+He didn't scream. I think he was too confused to scream, and I think that saved him. Others were screaming, and their screams became a rain of smaller, irregular shapes — gasps and shrieks producing fragments the size of fingernails, sharp as silicon wafers, embedding in ceiling tiles and stippling the painted concrete floor with little craters like hail damage. The duty supervisor dropped the handset and began to shout an order to stay calm, and *stay* hit the far wall and lodged there, and *calm* shattered on impact into several dozen pieces that skittered across the deck like broken glass.
+
+After that, people stopped talking.
+
+I reached Oren while two others were pressing a wadded jacket against his arm. The wound was clean — cleaner than any laceration I'd seen in my fourteen months of filing safety reports across three installations. The edges were precise. It looked like a surgical demonstration. Blood welled but did not gush. Oren stared at his own arm with the particular blank expression of a man who has not yet chosen between pain and disbelief.
+
+I pulled an incident report form from my satchel. I carry them everywhere. Form 7-C, Workplace Injury (Non-Mechanical), a document designed for chemical burns and allergic reactions and the odd psychological episode that deep-space refinery work tends to produce in the fourteenth or fifteenth month. I clicked my pen. I looked at the form. There was no box for this.
+
+I began filling it in anyway.
+
+**Date:** Kepler Standard 4471.309
+**Location:** Corridor 7-East, adjacent to Intercom Panel 7E-14
+**Nature of hazard:** Acoustic materialization (crystalline)
+**Injured party:** O. Basquiat, Technician Grade III
+**Description of incident:**
+
+I wrote: *Routine verbal announcement via intercom system produced solid objects of apparent crystalline structure. One such object caused a laceration to the left forearm of the above-named technician. Objects appear to form in the immediate vicinity of the sound source and are subject to normal gravity. Estimated hardness: high. Estimated edge acuity: extreme. Other personnel in the corridor sustained minor abrasions from secondary crystallization events produced by their own vocalizations.*
+
+I paused. I looked at what I had written. It was the most absurd paragraph I had ever committed to paper. It was also, in every particular, true.
+
+**Recommended corrective action:**
+
+I wrote: *Immediate suspension of all verbal communication in affected area pending further assessment.*
+
+I capped my pen.
+
+By the time I reached the infirmary with Oren — guiding him by the elbow, neither of us speaking, the corridors eerily silent except for the hum of ventilation and the distant thrumming of the catalytic crackers seventeen decks below — the adaptation had already begun. Two technicians at the junction of Corridors 7-East and 7-North were communicating in hand signals, crude but functional: palm-up for *stop*, finger-point for *go*, a circling gesture near the temple that could have meant *crazy* or *be careful* or both. A maintenance worker had taped a sheet of paper to the wall outside the tool crib. On it, in block capitals, she had written: **DO NOT SPEAK. WORDS ARE FALLING. USE NOTES OR HANDS.**
+
+Below this, someone had added in smaller script: *Is this a joke?*
+
+Below that, in a third hand: *Look at the floor.*
+
+The floor beneath the intercom panel was scored with dozens of tiny impact marks, and in one long scratch that ran nearly a meter, I could see where a word — I could not tell which word — had skidded after falling, leaving a groove in the painted concrete as clean as a diamond cutter's line.
+
+I filed my 7-C. I filed a supplemental observation report. I filed a request for an engineering assessment of the intercom system, which I knew was meaningless but which the filing of made me feel less like a man standing at the edge of a cliff. I noted that the anomaly appeared to have originated on Deck 7 and was, according to reports trickling in via handwritten notes and increasingly frantic typed messages on the station's internal network, spreading outward. Deck 6 had experienced its first crystallization event by 0800. Deck 8 by 0830. The words were getting harder — denser, more opaque, with sharper facets — as the phenomenon expanded. An engineer on Deck 8 typed a message to the platform manager's office that read, in part: *Martinez tried whispering and it still solidified. Smaller crystals but still sharp. Even a murmur is producing visible formations. We are going to written communication only. Advise.*
+
+The platform manager's office advised nothing, because by 0900 the platform manager had made the mistake of dictating a priority message into his voice recorder and had to be extracted from his office through a window after the accumulated debris blocked the door.
+
+By midday, the Tern Point refinery — a city-sized orbital processing platform with a population of four hundred and eleven souls, spinning in its slow ellipse around a gas giant whose name I can never remember, converting raw isotopic slurry into fuel-grade material for supply line distribution — had become the quietest place in inhabited space.
+
+People learned. People always learn. They learned which hand signals meant *I need the wrench* and which meant *get out of the way*. They learned to type faster. They learned to write on their own forearms when paper was not nearby. They learned that laughter was dangerous — it produced small, irregular shards, not as lethal as words but capable of drawing blood from a cheek or puncturing an eardrum if the laugh was hard enough. They learned that coughing was safe, and sneezing was safe, and humming was mostly safe, though sustained humming at certain pitches could produce thin, needle-like filaments that floated rather than fell and were worse, in some ways, than the falling words because you could walk into them without seeing them.
+
+They learned to be quiet. They learned it fast.
+
+I kept filing reports. It was all I knew how to do.
+
+---
+
+## 2.
+
+She arrived on the supply shuttle three days after the first crystallization event, during what I have come to think of as the Period of Practical Silence — that stretch when the platform's population had mostly adapted to the new conditions and had not yet begun to unravel.
+
+I was in the docking bay because I am always in the docking bay when supply shuttles arrive. Cargo transfers require a safety inspector's signature. I stood with my clipboard and my pen and I watched the shuttle's airlock cycle open and I expected crates.
+
+A woman stepped out.
+
+She wore a standard-issue station jumpsuit, grey, clean, not new. On the left breast, where a name tag and departmental insignia would normally be affixed, there was only an employee number: **4471-0-0000**. The numbering convention was wrong. Station employee numbers are seven digits, not ten, and they do not contain embedded zeroes in that pattern. Her jumpsuit fit her as though it had been issued for exactly her measurements, which meant it had been requisitioned in advance, which meant she had known she was coming to this specific station before the anomaly was publicly reported.
+
+She was perhaps forty. Perhaps fifty. Her face had the particular quality of some faces that seem to exist behind a pane of glass — you could see all of its features clearly, but you could not quite feel its temperature, could not tell if it was warm or cold. Her hair was cut short and functional. She carried nothing. No duffel, no case, no personal effects. She surveyed the docking bay the way you survey a room you've already memorized from a blueprint: confirming, not discovering.
+
+A crystallized word lay on the deck near the bay door — *override*, from a technician who had forgotten herself earlier that morning. It was a large formation, nearly a foot long, the color of smoky quartz, lying in the path from the airlock to the interior hatch. The woman looked at it, stepped over it, and continued walking. She did not alter her stride. She did not look surprised. She did not look at it the way everyone else on the station looked at the crystallized words, which was with a mixture of fascination and the specific bodily flinch you develop after three days of living with objects that can appear in the air next to your head and open your skin.
+
+She walked as though the phenomenon were an expected weather condition.
+
+I followed her — not because I'd been instructed to, not at that point, but because a person with no luggage, a malformed employee number, and no visible reaction to the single most terrifying thing that had ever happened on this platform constituted, in my professional judgment, a safety concern.
+
+She went directly to the platform manager's office. She was inside for eleven minutes. I stood in the corridor and counted. When she came out, the platform manager's assistant came out behind her, located me with a kind of harried relief, and handed me a typed memo on station letterhead.
+
+The memo read:
+
+*To: K. Feld, Junior Safety Inspector, Compliance Division*
+*From: Platform Manager's Office*
+*Re: Internal Compliance Review — Isotope Handling Procedures*
+
+*Effective immediately, you are assigned to accompany and provide full facility access to Auditor 4471-0-0000, who will be conducting a comprehensive review of isotope handling, storage, and transfer procedures across all operational decks. You will remain with the auditor at all times during her review and provide whatever documentation, access, or logistical support she requests. This assignment supersedes your current duties until further notice.*
+
+I looked up from the memo. The woman was already walking. She had not waited for me to finish reading. She moved down the corridor at a pace that was neither fast nor slow, and I had to take several quick steps to catch up, and when I fell in beside her she did not acknowledge me.
+
+We walked through Deck 3.
+
+We descended to Deck 5.
+
+In the stairwell between decks, a fragment of someone's whispered conversation — the word *please*, barely breathed, probably someone in a nearby compartment praying or begging a companion for something — materialized in the air beside us. It was small, the size of a pebble, and it fell and struck the metal stair with a tiny bell-like sound. The woman did not flinch. She did not look at it. Her boot came down three inches from where it landed and continued past.
+
+I flinched. I always flinched.
+
+We toured the isotope storage bays on Deck 5 South. She examined the containment units with what appeared to be genuine interest, running her fingers along the seals, checking serial numbers against a list that I never saw her produce or consult — she seemed to carry the numbers in her head. She opened hatches and inspected manifests and, occasionally, pulled a containment unit partially out of its cradle and looked at the underside where the lot numbers were stamped.
+
+She did all of this without speaking.
+
+She wrote nothing down.
+
+This bothered me more than almost anything else, because I write everything down — it is the defining activity of my professional life — and watching someone conduct an ostensible audit without recording a single observation was like watching a surgeon operate without washing her hands. It was a fundamental omission. It was either profound incompetence or a signal that the audit was not actually an audit.
+
+After three hours, we returned to the quarters she had been assigned — a single berth on Deck 3, windowless, austere. She went in and closed the door. I stood in the corridor for several minutes, unsure whether my instructions to remain with her at all times applied when she was in her private quarters. I decided they did not. I went to my own berth and wrote down everything I had observed.
+
+Seven pages. It took me two hours. When I was finished, I read back through them and realized that I had documented a tremendous amount of data and had absolutely no idea what any of it meant.
+
+I did not know what she was looking for.
+
+I did not know what she wasn't.
+
+---
+
+## 3.
+
+Over the next four shifts — if I can call them shifts, because the station's clock discipline was beginning to fray, chronometers on different decks occasionally disagreeing by minutes that should not have been minutes — I followed the investigator through the refinery's operational layers and watched her dismantle two criminal enterprises without ever saying a word that anyone but her targets could hear.
+
+I need to be honest about what I knew. I knew, the way everyone on the station knew, that the isotope handling operation had a shadow. Tern Point processed fuel-grade isotopic material in quantities that made the numbers on the output manifests impressive even to someone with my limited understanding of petrochemical economics. Where there are quantities like that, there are skimmers. Where there are skimmers, there are networks. And where there are networks, there are, inevitably, two networks, because monopolies are unstable in the dark.
+
+I had filed reports. Discrepancies in lot counts. Containers that weighed marginally less than their manifests claimed. Maintenance logs for equipment that did not appear in the equipment registry. I had filed these reports, and they had gone wherever reports go — into the machinery of institutional awareness, where they either produce an action or are digested into silence. In my case: silence. The filing of the reports was, I understood without bitterness, mainly significant as a record that someone had noticed, so that if things went wrong, the institution could point to the filed report and say, *See, we were aware, we were monitoring*.
+
+I knew, therefore, that there were two cartels. I did not know the details of their operations, the names of their leaders, or the mechanisms of their smuggling. I was a safety inspector. I filed forms. The cartels were someone else's forms.
+
+But the investigator, in four shifts of silent work, knew everything.
+
+I watched.
+
+On what I will call Day One of her operations — though it may have been Night, as the lighting on Deck 9 had begun to pulse in a slow sine wave that no one could explain — she entered the primary cargo processing bay during a shift change and moved through the open floor with the unhurried purposefulness of someone walking through her own home. She paused at a terminal in the logistics office — a small glassed-in room overlooking the bay — and typed a brief sequence on the keyboard. The screen shifted. She read whatever it displayed. Then she opened a drawer beneath the terminal and placed inside it a folded piece of paper.
+
+I was standing behind her. I could see the paper. I could not read what was on it.
+
+She closed the drawer and walked out.
+
+Twenty minutes later, a man I recognized as Vasek Kolár — foreman of the cargo team, a large, quiet man with a face like eroded stone — entered the logistics office, sat at the terminal, and opened the drawer. He read the paper. His expression did not change. He put the paper in his breast pocket and left.
+
+On Day Two, she visited the storage sublevel on Deck 11, a section I had not previously been authorized to enter. My access card did not work on the hatch. The investigator produced a card from somewhere — her jumpsuit had pockets I hadn't noticed — that opened it. Inside, the sublevel was cold and poorly lit and stacked with containers bearing lot numbers that did not match any series in the official registry. She moved between the rows with a small flash

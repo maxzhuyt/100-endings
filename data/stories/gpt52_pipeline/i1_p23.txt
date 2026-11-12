@@ -1,0 +1,231 @@
+**Item #:** SCP-7███ (Provisional)  
+**Object Class:** Euclid/Pending
+
+**Special Containment Procedures:** Pending classification review. Until resolution of Investigation Tracks A/B, all paper products in Site-43 Research Wing 2 are to be inventoried at shift start and sealed in Lockers R-2-11 through R-2-18. Personnel assigned to SCP-7███ are to use digital memo systems only. Any handwritten communication recovered on Foundation memo paper is to be treated as potentially anomalous and logged to Archive 7███-N before dissemination. Subject (acting lead) is to submit to weekly psych evaluation and memetic screening.
+
+**Description:** SCP-7███ is an ongoing phenomenon involving the spontaneous appearance of handwritten notes on standard Foundation memo paper within areas under my control. The content of the notes has demonstrated partial foreknowledge of near-term operational events, mixed with errors inconsistent with known reality. The handwriting matches my own, including idiosyncratic kerning and a habitual misspelling of “accommodate.” I was assigned as acting lead on SCP-7███ after the first occurrence on 2026-02-14.
+
+---
+
+### Addendum 7███-N1 — Initial Artifact
+
+I found the first note in my desk drawer under a stapled copy of last quarter’s requisitions. I had not opened that drawer since the previous evening, and the drawer had been locked. The paper was standard memo stock: watermark, perforation, the blue header with “SITE-43 INTERNAL.”
+
+The warning was specific enough to be a prank, except for a detail I did not know yet.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-14 06:42):**  
+> Don’t stand under the south corridor lights at 14:20. Facilities is going to “test ballast stability” and they’ll pretend it was scheduled. It wasn’t.  
+> Also: Karst will use the phrase “actionable ambiguity” in the 09:00 briefing. Don’t react.
+
+At 09:03, Dr. Karst did, in fact, say “actionable ambiguity” while summarizing the week’s audit. At 14:19, I diverted through the north corridor and heard the pop and shower of glass from South-2. Facilities filed it as “scheduled testing.”
+
+I logged the note. I did not tell anyone else. At the time, that felt like discretion.
+
+---
+
+### Addendum 7███-N2 — Seizure of Stock, Immediate Reappearance
+
+After N1, I ordered all memo paper in Wing 2 collected, counted, and sealed. I watched the seal applied and signed the chain-of-custody myself. I moved to digital-only, had my assistant remove every legal pad, and had Security photograph my office and lab bench.
+
+At 18:11, a second memo sheet appeared on my lab bench beside a closed petri dish. The cameras covering the bench showed nothing: one frame the bench was clear, the next the note was present, no occlusion, no missed timecode.
+
+The handwriting was mine. The “t” cross-strokes slanted down, exactly as they do when my hand is tired. The word “accomodate” was misspelled.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-14 18:11):**  
+> Stop sealing paper. It doesn’t matter.  
+> Tell **no one** about the south corridor. You saved yourself. Don’t waste it.
+
+This was the first time the notes attempted to instruct rather than warn. It also implied that my earlier silence had been correct.
+
+It is difficult to overstate what it feels like to have a procedure mocked with no visible mechanism.
+
+---
+
+### Addendum 7███-A — Investigation Tracks Opened (Excerpt)
+
+**Meeting Summary — 2026-02-15 10:30**  
+Attending: Dr. Karst (Oversight), Agent Laghari (Security), Dr. Mehta (Memetics), myself.
+
+Track A (Temporal Leakage): Notes are authored by Subject at a later time and transmitted or manifested retrocausally; partial accuracy is consistent with a branching timeline or information loss.
+
+Track B (Manipulation/Intrusion): Notes are a memetic or cognitohazard artifact exploiting Subject’s handwriting knowledge; partial accuracy is consistent with surveillance, pattern exploitation, or an entity’s predictive modeling.
+
+Dr. Mehta recommended anti-memetic baseline testing and limiting Subject’s access to operational schedules. Agent Laghari recommended treating Subject as a potential insider threat until provenance established.
+
+I objected, on record, to being treated as an “asset or vector” in my own report. Dr. Karst responded, also on record, that paperwork does not confer immunity.
+
+---
+
+### Addendum 7███-N3 — Self-Surveillance
+
+I began documenting myself as if I were the anomaly.
+
+Sleep logs: unremarkable. I wore an actigraphy watch and was observed by my assistant during work hours. Psych evals: pass. Memetic screening: no triggers detected. Ink analysis: the ink on the notes matched Foundation stock pens from Supply Lot 43-INK-09, stored in a locked cabinet. Cabinet seal remained intact. My pen counts remained consistent.
+
+Handwriting comparison: a 98% match to my baseline samples.
+
+Cameras: the notes did not appear on footage by any discernible action. One analyst suggested “compression artifacts” where the paper “might” have been introduced off-frame. The bench footage had no off-frame.
+
+The note N3 arrived after I completed the Rorschach section of my psych eval but before I turned it in, folded into my lab coat pocket. I had not worn that coat since last week.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-16 16:02):**  
+> They’re going to ask you about the ink blot that looks like a moth. Say “it looks like lungs.”  
+> If you say moth, you end up in C-Wing.
+
+The blot did look like a moth. I said “lungs.”
+
+My evaluator marked “unusual specificity” and asked why I had paused before answering. I told her I was tired. She wrote that down.
+
+---
+
+### Addendum 7███-N4 — Prescriptive Notes, First Cost
+
+At 02:07 on 2026-02-17, the next note was on my pillow in Quarters 2B. I had been awake, reading on a tablet. The room’s paper inventory was zero. I checked under the mattress, the vents, the bathroom. Nothing else.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-17 02:07):**  
+> Do not tell Mehta about Track A.  
+> Do not go to Containment Wing C today.  
+> If you stop reading these, you die the easy way.
+
+I complied with the first instruction by omission. At 11:20, Dr. Mehta asked directly whether I had “subjectively experienced temporal discontinuity.” I said I hadn’t. That was true only in the narrowest sense.
+
+At 13:00, Security notified us of an incident in C-Wing: a junior tech, J. Orell, entered a maintenance antechamber alone, contrary to protocol, and was injured during a door interlock failure. The failure had no recorded cause.
+
+I did not go to C-Wing. Someone else did.
+
+I tried to tell myself that I could not have prevented it. The note had not told me how.
+
+It had only told me where not to be.
+
+---
+
+### Addendum 7███-N5 — Contradictions
+
+The notes began to fracture.
+
+The next sheet appeared inside a sealed binder in my office safe. The safe had been opened only by me that morning. The binder’s tamper strip was intact; it tore when I opened it and the note slid out.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-18 08:40):**  
+> Karst is dead. Don’t call him.  
+> SCP-7███ is **Safe** now. You filed it that way.  
+> Remember the spill in Lab 3? You cleaned it up before it happened.  
+> Don’t let Orell into C-Wing (you already did).
+
+Karst was not dead. I had spoken to him at 08:12. SCP-7███ was still provisional. There had been no spill in Lab 3.
+
+But Orell’s name was correct, and no one outside the incident chain should have known it yet; the report was still being drafted. The note’s last line was written harder, the pen digging into the paper as if pressed by an unsteady hand.
+
+I kept staring at “you already did.”
+
+The sentence made a kind of sense only if time did not.
+
+Or if something wanted me to believe it didn’t.
+
+---
+
+### Addendum 7███-B — Entity Cross-Check / Isolation Attempt
+
+Cross-referencing produced no direct match. Several contained anomalies involve predictive warnings; several involve handwriting mimicry; several involve paper manifestation. None require Foundation memo stock specifically, which remained the motif.
+
+On 2026-02-18, I was removed from duty for 24 hours and placed in an anti-memetic isolation suite. No paper, no writing implements, continuous observation, cognitohazard dampers active. Agent Laghari remained outside the glass.
+
+At 19:33, a memo sheet appeared on the inside of the observation glass, held in place as if by static, facing me. There was no hand, no movement, no preceding frame where it slid into view. The cameras showed it simply existing between one second and the next.
+
+Laghari saw it too. He swore, once, quietly, which I have never heard him do.
+
+The handwriting was mine, but shakier.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-18 19:33):**  
+> They’re going to say “vector.”  
+> Don’t let them put you under.  
+> 06:00 tomorrow. Site alarm. It’s not a drill. It is because of you.
+
+---
+
+### Incident Log 7███-I — Countdown / Event 2026-02-19
+
+At 05:10, Dr. Karst ordered me sedated “for my own safety” pending transfer to Medical for deeper screening. He cited Dr. Mehta’s concern that the notes were escalating into coercion and that my compliance patterns suggested “conditioning.”
+
+At 05:12, another memo appeared on the gurney sheet near my left hand. A nurse screamed; she later stated she had “just turned away for one second.” The paper was dry, crisp, uncreased.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-19 05:12):**  
+> Don’t go under. If you sleep, you miss the alarm and you become the reason.  
+> Bite your tongue if you have to. Stay awake.  
+> Tell Laghari: “red binders aren’t red.”
+
+I did not know what “red binders” referred to. I knew I could not afford to go under if the note was correct. I forced my jaw shut, and when the sedative hit, I bit hard enough to bring blood. The nurse shouted. The sedative was halted. Karst ordered restraints instead.
+
+At 05:59, Site-43’s general alarm activated.
+
+Not the drill tone. The real one.
+
+At 06:01, Containment Wing C reported a door interlock cascade. The same antechamber where Orell had been injured two days earlier cycled repeatedly, opening and locking in an impossible pattern. Two guards were caught in the inner doorway; one lost fingers. The system logs showed override commands issued from an admin terminal in Wing 2.
+
+My terminal.
+
+I was restrained in Medical at the time.
+
+At 06:07, power fluctuated, then stabilized. The cascade ceased as abruptly as it began. No entity breach was confirmed. The harm was real anyway.
+
+Karst stood over me, pale, eyes fixed as if trying to decide which hypothesis would let him keep treating me as a person.
+
+I heard myself say, through blood in my mouth, “red binders aren’t red.”
+
+Agent Laghari looked at me like I had just spoken a clearance code.
+
+He left without answering.
+
+---
+
+### Addendum 7███-N6 — Loop Evidence
+
+When they searched my office after the incident, they found a draft note in my handwriting in the trash, torn into quarters, written on Foundation memo paper. The paper matched the sealed stock’s watermark.
+
+I do not remember writing it.
+
+I remember being in Medical. I remember the straps. I remember the alarm.
+
+The reconstructed draft, per forensics, read:
+
+> Don’t go under. If you sleep, you miss the alarm and you become the reason.  
+> Bite your tongue if you have to.
+
+The pen pressure analysis suggested it had been written in haste, by a hand that kept stopping and starting, as if listening for footsteps.
+
+Ink residue was found on my right index finger. Medical staff insisted my hands had been cleaned.
+
+I tried to anchor myself in facts: I did not leave Medical. My terminal was not used by me. The notes appear without mechanism. The paper cannot be sourced. I am competent. I am competent. I am—
+
+At 23:48, in the corner of my medical chart folder—inside a file the nurse opened in front of me—another note.
+
+This one was barely legible.
+
+> **HANDWRITTEN NOTE (RECOVERED 2026-02-19 23:48):**  
+> I’m sorry. Don’t listen. Listen.  
+> Karst isn’t Karst. He is.  
+> You have to write this so it can warn you not to write it.  
+> If you burn the paper they’ll use your skin.  
+> **Please** don’t make Orell go. Please don’t make Orell go.  
+> It already happened tomorrow.
+
+I have read it twelve times. The more I read, the less certain I am which line is the intrusion and which line is the only true thing I will ever be allowed to know.
+
+I remember Orell’s name because someone told me. I remember the alarm because it happened. I remember biting my tongue because my mouth still hurts.
+
+If I wrote these, then there is a version of me that believes coercion is kindness.
+
+If I didn’t, then there is something in this building that has learned the exact shape of my sentences and is using them to move us like pieces.
+
+This is my attempt to put the pieces back into a report. Paperwork equals safety. That is what we say. That is what we believe until the paper starts talking back.
+
+---
+
+### Foundation Closing Addendum — 2026-02-21
+
+Subject has been reassigned from active research pending ongoing Track A/B resolution. All access to Wing 2 terminals revoked. Subject placed under continuous observation following evidence of unauthorized command issuance during Incident 7███-I.
+
+Note manifestations on Foundation memo stock have continued in Subject’s vicinity despite removal of paper sources and relocation to nonstandard quarters. Subject reports increasing difficulty distinguishing remembered events from documented events.
+
+Proposal under review: reclassify SCP-7███ as involving Subject as a containment component. Amnestic intervention deferred until determination of whether Subject-authored notes are causative or preventative.
+
+Further handwritten communications are to be logged. Under no circumstances are staff to follow instructions contained in notes without Oversight approval. This directive is recorded here due to repeated noncompliance by personnel “acting on instinct.”

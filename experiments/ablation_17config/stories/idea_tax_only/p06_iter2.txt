@@ -1,0 +1,151 @@
+# Temporal EMS Unit 7741
+
+---
+
+The ambulance existed in several centuries at once, which was the same thing as existing in none of them particularly well.
+
+It was a 2cemModular Frasier-class temporal rig, retrofitted twice, the way all the rigs in Municipal Temporal Emergency Services had been retrofitted twice because the city had funded exactly zero replacements since the Garfield administration — the second Garfield administration, the one in 2188, not the assassination one, though Unit 7741 had responded to that call too, seventeen years ago, and had arrived four minutes late because the phasing coupler was already failing and Gil had forgotten to file the maintenance request. The rig's phasing bay was a fluorescent-lit garage on the corner of Twelfth and Alder, tucked between a Laotian bakery and a store that sold secondhand prosthetic limbs, and it had motivational posters on the walls. One said REMEMBER: YOU CAN'T TRIAGE A PARADOX — CALL YOUR SUPERVISOR. Another said EVERY TIMELINE MATTERS, which someone had amended with a marker to read EVERY TIMELINE MATTERS EXCEPT PHIL'S. No one remembered who Phil was. The poster had been there longer than the building.
+
+Donna Reyes arrived at 0547, thirteen minutes before shift, because she always arrived thirteen minutes before shift, because she used the time to re-check the manifest, re-stock the gauze, and silently rehearse what she would say to Gil about the gauze he had not re-stocked at the end of their last shift. The speech had a three-act structure. She had been refining it on the bus.
+
+She swiped her badge. The bay smelled the way it always smelled: ozone, antiseptic, and the faintly sweet temporal residue that clung to surfaces after repeated phasing — a smell like burnt sugar and static electricity that the Occupational Health bulletin described as "non-carcinogenic in most standard-physics environments" with a footnote that read "See Appendix 9F for nonstandard-physics exceptions" and an Appendix 9F that was, and had always been, parsing error — blank page.
+
+The gurney sat where Gil had left it: half-in, half-out of the rig's rear bay, its left wheel locked at a wrong angle, a drying brown smear on the rail that might have been seventeenth-century blood or might have been the mole sauce from the burrito Gil had eaten over the patient during the Lisbon call. Donna put on gloves. She cleaned the rail. She unlocked the wheel and re-locked it at the correct angle. She checked the defibrillator's charge, the oxygen canisters, the chronometric stabilizer — which was supposed to read a steady 0.00 temporal drift when docked but which read, as it always read, a jittery ±0.03, because the stabilizer was older than some of the centuries they serviced and no one at requisitions had approved a replacement since the budget sequester of 2195, which was now thirty-one years ago and counting.
+
+She heard Gil before she saw him, the way you hear weather before it arrives.
+
+He came through the bay's side door with a coffee in each hand — not from the break room, never from the break room, but from the Laotian bakery next door, because Gil had decided three years ago that Kham's coconut coffee was the only thing standing between him and total psychological collapse, and he had said it in exactly that way, with exactly that drama, and Donna had wanted to say *you are a forty-six-year-old paramedic, not a doomed poet*, but instead she had accepted the coffee because it was, in fairness, very good coffee.
+
+"Morning," Gil said.
+
+"You left the gurney crooked."
+
+"I left the gurney *characterfully*."
+
+"You left biological matter on the rail."
+
+"That was mole sauce."
+
+"I'm not confident it was mole sauce."
+
+"Donna." He handed her the coffee. "It was absolutely mole sauce."
+
+Gilbert Yi was six-foot-three with the build of a man who had been athletic in his twenties and negotiated a fragile détente with gravity in his forties. His hands were too large for the nitrile gloves, which he resolved by never wearing them. His temporal license had been suspended twice — once for unauthorized resuscitation of a historically deceased Benedictine monk, once for what the incident report described only as "unsanctioned emotional engagement with a non-extant patient" — and reinstated both times because TEMS was understaffed by forty percent and couldn't afford to fire anyone who still showed up. He had, in the eleven years Donna had worked with him, broken four gurneys, two chronometric stabilizers, one phasing coupler, and Donna's ability to believe that the universe was fundamentally orderly. He had also, in those same eleven years, held the hands of more dying people across more centuries than anyone else in the division. He did this not because it was protocol — it was not protocol; protocol said to stabilize, tag, and transport — but because Gil could not, in any physiological or spiritual sense, stop himself from reaching toward a person in pain.
+
+This was the thing about him. This was the whole thing about him, the thing Donna could not forgive and could not stop watching, the way you watch someone carry a lit candle through a room full of curtains.
+
+She took the coffee. She did not deliver the three-act speech about the gauze.
+
+Dispatch crackled at 0604. The voice was Aniyah's — night shift holdover, already eighteen hours in, the fatigue flattened out into a calm so total it sounded like enlightenment.
+
+"Unit 7741, we've got a Code Teal, coordinates 1348-dot-6, Western European carbon, probable mass-casualty overlap. Flagged recurrent. You're closest by era-proximity. Acknowledge."
+
+Code Teal: medical emergency, pre-antibiotic timeline, high contagion risk. 1348. The overlap alone told Donna everything.
+
+"Acknowledged," Donna said into the comm. "1348-dot-6 — is that Avignon or are we further north?"
+
+"Bristol mapping. Southern approach. And Donna — it's flagged recurrent, which means someone already responded and it already went wrong, so the timeline's a little bruised. Watch your step."
+
+"Copy. Unit 7741 en route." She turned to Gil.
+
+He was already climbing into the rig.
+
+"Gloves," she said.
+
+"I'm wearing gloves."
+
+"You're holding a coffee. You are not wearing gloves."
+
+"I'm wearing spiritual gloves, Donna. The gloves of intention."
+
+"Put on the nitrile gloves."
+
+He put the coffee on the dashboard, where it would spill during phasing, as it always spilled during phasing, and pulled on the gloves — one tearing immediately at the thumb because his hands were too large — and dropped into the driver's seat with the loose, heavy grace of a man who had done this four thousand times and had not once, in all four thousand times, remembered to adjust his mirrors.
+
+Donna adjusted his mirrors. She strapped the second oxygen canister into its bracket. She confirmed the chronometric stabilizer read ±0.03, which was within tolerance if you used the expanded tolerance table rather than the standard one, which she did, because using the standard one would mean the rig could never legally phase, and then no one in the past would get any help at all.
+
+"Phase in three," she said.
+
+"Phase in three," Gil confirmed.
+
+The fluorescent lights buzzed. The motivational posters watched. The rig shuddered in its bay like a dog dreaming of running, and then the bay was empty, and then the bay had always been empty, and the coffee Gil had left on the dashboard existed now in a century where coffee would not be known for another four hundred years, which was a paradox so small and so frequent that no one had bothered to write a poster about it.
+
+---
+
+They came through into mud.
+
+This was standard for fourteenth-century calls. Time, in Donna's experience, had a texture, and the texture of the 1340s was mud — deep, sucking, organic, the kind of mud that had opinions about your boots. The rig settled with a hydraulic groan into a rutted track between stone buildings that were shorter and more haphazard than any reconstruction suggested, everything tilted slightly, everything smelling of woodsmoke and animal waste and the sweet, terrible undertone that Donna had learned to identify on her second week — the smell of a city with bodies it could not bury fast enough.
+
+Bristol. 1348. The plague had arrived by ship from Gascony and was now three weeks into its work. Donna knew this not because she was a historian — she was not a historian; she was a paramedic with a two-year technical degree and a certification in cross-temporal triage — but because she had been here before. They all had. The fourteenth century was a frequent flier. The calls came in waves, not because anyone expected TEMS to stop the Black Death — you could not stop the Black Death; the Black Death was a fixed-point event with a Historical Preservation Index of 9.97 out of 10, meaning that any intervention beyond individual stabilization and transport required authorization from three separate oversight boards, none of which had ever convened simultaneously — but because the temporal bruising around mass-casualty events created medical anomalies. People who should be dead and weren't. People who shouldn't exist yet and did. Temporal edema, the textbook called it. The swelling of one time into another.
+
+"Patient locator reads southeast, forty meters," Donna said, checking the handheld. "Single signature, anomalous. Probably a displacement — someone who got knocked out of their own timeline by the bruising."
+
+"Or someone who fell through a prior team's botched phase," Gil said, already pulling the gurney from the rear bay. The left wheel caught on the lip — the same wheel, always the same wheel — and the gurney lurched sideways, and the defibrillator case slid off the rail and hit the mud with a sound that was both a thud and a moral judgment.
+
+"Please," Donna said.
+
+"It's fine. These are field-rated."
+
+"Field-rated does not mean mud-rated."
+
+"Everything is mud here. If it's not mud-rated it's not field-rated." He picked up the defibrillator, wiped it on his pants, which were not sterile, and set it back on the gurney. "Lead the way."
+
+She led. They moved through the narrow track, the gurney wheels protesting over cobblestone and rut, and the smell thickened — not just death now but temporal displacement, the burnt-sugar-static smell that meant the local timeline was warped, softened, unreliable. Donna watched the chronometric reader on her wrist. The drift was climbing: ±0.07, ±0.12. At ±0.20, protocol said to pull back. She made a note to announce when they hit ±0.20. She also made a note, internally, that Gil would ignore her when she announced it.
+
+The patient was in a churchyard.
+
+He was sitting upright against a yew tree, which was not how plague victims sat, which was the first sign that this was a displacement rather than a local casualty. He was wearing a wool tunic that placed him roughly in the right century but the wrong region — Donna guessed Flemish, maybe Brabant — and his eyes were open but unfocused in the particular way that indicated temporal shock: the look of a person whose body was here but whose personal timeline was still catching up, buffering, like a stream that hadn't loaded.
+
+"Sir," Donna said, kneeling. "Sir, can you hear me? We're with Municipal Temporal Emergency Services. You've experienced a displacement. We're going to stabilize you and bring you home."
+
+The man's eyes tracked to her. His mouth opened. What came out was Middle Dutch, or something near it, and Donna's field translator — clipped to her collar, the size of a matchbox, three years past its recommended replacement date — caught about sixty percent.
+
+"He's saying he was in a market," Donna said. "He was buying — I'm getting 'cloth' or 'sail' — and then the ground opened and he was here. Classic bruise-displacement. Gil, get the stabilizer ready."
+
+Gil was not getting the stabilizer ready.
+
+Gil was looking at the churchyard.
+
+The churchyard was full. Not of displaced patients — of graves. Fresh ones, dozens of them, the earth raw and dark, some of them too shallow, and at the edges of the yard there were bodies that had not yet been buried, covered with lime and linen, and a few that had not been covered at all. A woman knelt near the far wall, arranging something — a child's shoe, a bundle of cloth — on a mound that was too small to be an adult's grave. She was not crying. She was past crying. She was in the place after crying, the place that was just hands moving because hands were what she had left.
+
+"Gil," Donna said.
+
+"I see her."
+
+"She's not our patient."
+
+"Donna, she's —"
+
+"She is a fourteenth-century local in a fixed-point mass-casualty event with a Historical Preservation Index of 9.97. She is not our patient. Our patient is this man, right here, experiencing temporal displacement, which is within our scope. *She is not our patient.*"
+
+Gil's hands were already opening the secondary kit. Not the stabilizer — the secondary kit, the one with the analgesics and the wound dressings and the basic antibiotics that were absolutely, unequivocally, punitively forbidden in pre-Pasteur timelines without oversight board authorization.
+
+"Gil. Gil. *Gilbert.*"
+
+He stopped. Not because she'd used his full name — she'd used his full name six hundred times and it had worked perhaps twice — but because the man against the yew tree made a sound. A low, guttural, dragging sound, the sound of a person's timeline snapping back into sync with their body, which was painful, which was always painful, and which Donna had been trained to manage and Gil had been trained to manage but which Gil managed by dropping everything — literally dropping the secondary kit into the mud — and taking the man's hand.
+
+"Hey," Gil said. "Hey, hey, hey. You're okay. You're right here. I've got you."
+
+The translator wasn't helping because Gil wasn't speaking Middle Dutch and the man wasn't speaking English and it didn't matter because Gil was holding his hand with both of those too-large ungloved — *he had torn through the nitrile already* — hands and looking into the man's face with an expression of such focused, radical, unselfconscious tenderness that Donna felt, as she always felt watching this, two things at once: a sharp, bright admiration and a fury so deep it was almost grief.
+
+Because this was what he did. This was all he did. He reached, and reached, and reached, and the reaching was real and the reaching was good and the reaching *did not follow protocol*, and one day the reaching was going to collapse a timeline or kill a patient or get them both fired and she would have to watch it happen from eighteen inches away, the distance she always was from Gil, the distance of a gurney's width, the distance of two people who had worked side by side for eleven years and had never once — not once — talked about why they kept showing up.
+
+"Stabilizer," she said. "Now. Please."
+
+Gil held the man's hand with his left and reached for the stabilizer with his right, knocking the defibrillator case off the gurney again.
+
+"Oh, come *on*," Donna said.
+
+"It's field-rated!"
+
+"You've now put it in fourteenth-century mud *twice*."
+
+"It's building immunity."
+
+She picked up the defibrillator. She checked its housing for damage. She placed it on the gurney and secured it with the strap that Gil never used. She activated the chronometric stabilizer and placed its leads on the patient's temples, and the man's eyes focused, sharpened, and the raw animal sound in his throat subsided into breathing — ragged but rhythmic, a body clock syncing back to its own time.
+
+"Transport in ninety seconds," she said. "Hold him steady."
+
+"I've got him."
+
+"With the stabilizer, Gil. Not with — you can hold his hand *and* monitor the stabil

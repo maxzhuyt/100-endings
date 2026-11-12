@@ -1,0 +1,91 @@
+# The Perfect Prison
+
+## I.
+
+The freight elevator took four minutes. I know because I counted the relay clicks in the motor housing — one every half-second, two hundred and forty millimeters of descent per cycle, which put the shaft depth at approximately two hundred and eighty-eight meters, well into the Permian halite deposit, well below any aquifer, well past the point where screaming would be a question of acoustics rather than audience.
+
+There were eleven of us.
+
+Sergeant First Class Orlov stood nearest the doors, as though proximity to the exit constituted command. He was the largest of us—a sapper whose left ear had been rebuilt from costal cartilage after Belgorod, the reconstructed lobe slightly translucent in certain light, like a candle stub. He kept his hands clasped behind his back in a posture I recognized as mimicry of an officer he'd once admired or hated; with enlisted men those postures come from the same source. Each time the elevator shuddered he tensed his jaw and the cartilage ear caught the fluorescent flicker and glowed faintly pink.
+
+Behind Orlov, arranged by the accident of how they had shuffled aboard: Private First Class Yenin, nineteen, from Saratov, who was trembling in a way he believed he was concealing by pressing his spine against the elevator wall, as though his back could absorb the frequency his hands could not. His service file listed him as a radio operator. His hands should have been steady. His right thumbnail was bitten past the quick, a crescent of dried blood visible if you knew where to look, and I looked because I was already cataloguing — I understood this about myself even then, that the cataloguing was involuntary, diagnostic, that I could not enter a room without performing an intake assessment the way other people could not enter a room without breathing.
+
+Corporal Anoush Petrosyan, who kept a photograph folded into eighths in the lining of her left boot. I had seen her extract it, study it, and refold it along its memorized creases during our twelve hours in the surface holding pen. The image was too small and too degraded for me to discern, but the fold pattern was octagonal, which meant she'd developed the technique independently — standard wallet photos fold into quarters or sixths. An octagonal fold requires a deliberate initial diagonal, which means forethought, which means the photograph was a ritual object rather than a memento. Her face was narrow, Caucasian-featured, with a scar across the bridge of her nose that bifurcated her expression: above the scar, alert; below, something patient and very old.
+
+Private Deynekin, who hummed. Not music — a single sustained tone, approximately 120 hertz, the resonant frequency of a healthy adult male chest cavity, as though he were trying to become his own tuning fork, to verify through vibration that he remained solid. He was a mechanic, or had been before conscription, and his hands were mapped with tiny burn scars from arc welding — white constellations on brown skin that he rubbed absently with his thumb as though reading his own history in Braille.
+
+Specialist Tova Mendeleva, the other woman besides me, a combat medic whose left arm was splinted with what appeared to be a disassembled antenna and strips of uniform fabric. She'd set the bone herself, which I knew because the alignment was slightly over-corrected — a medic treating her own fracture will err toward overcorrection because she can feel the crepitus and will torque past it out of revulsion. She caught me studying the splint and gave me a look of flat territorial warning, the way a wounded animal will.
+
+Lance Corporal Petya Zhuk, who told jokes. He had not stopped telling jokes since the surface pen, a continuous patter delivered to no one in particular, each joke worse than the last, as though he were performing an autopsy on humor itself to locate the organ that produced comfort. He was short, barrel-chested, with a face that in peacetime would have been called friendly and in these circumstances looked like a mask that didn't fit. His jokes were all about bureaucracy: forms filed in triplicate, clerks who sent you to the wrong window, requisition orders for items that didn't exist. Under different circumstances I might have recognized the pattern earlier.
+
+Private Bazhin, who was praying. Silently, or nearly — his lips moved, and I could read fragments of Church Slavonic in the shapes his mouth made, though the elevator's mechanical drone swallowed the sound. He was the oldest of us, perhaps forty-five, with the weathered immobility of a man who had been tired for so long that fatigue had become a resting state. His fingers worked at something in his pocket — a knot of cord, maybe, or a prayer rope. His eyes were closed, which in an elevator descending into a salt mine struck me as either supreme faith or supreme resignation, and I suspected he would have said there was no difference.
+
+Corporal Koslov cracked his knuckles. Every ninety seconds, with metronomic regularity — left hand first, pinky to thumb, then right hand, thumb to pinky, the mirror pattern suggesting a tic rather than a habit, something neurological that he'd long ago stopped trying to suppress. Between cracking cycles his hands were still, almost elegant, the hands of a pianist who had been reassigned to artillery. There was a bruise across his cheekbone, fresh, from the surface camp. He didn't mention it. Neither did anyone else. We all had bruises we weren't mentioning.
+
+Private Feygin, who I almost missed. He had a quality of negative presence — not invisibility but *adjacency*, as though he existed slightly to the left of wherever you looked. Thin, bespectacled, with a scholar's posture and an infantryman's boots, he stood in the rear corner and watched the rest of us with an expression I recognized as academic interest and which the others, if they noticed him at all, would have read as fear. He was collecting data. I knew this because I was too.
+
+And Private Luka Voronin, the youngest, who could not have been more than seventeen regardless of what his papers said. He had the oversized hands and underdeveloped shoulders of a body still negotiating with its own growth plates. He stood close to Orlov, not touching, but oriented — a sapling leaning toward the nearest large object that might block wind. His eyes were wet, and he was managing this by keeping them very wide, as though surprise and grief used the same musculature and he could pass one off as the other.
+
+Ten people. I gave each of them approximately twenty-four seconds of the descent, and in those seconds I performed the assessment that was, I told myself, simply the way I processed a new environment: I identified their patterns, their vulnerabilities, their behavioral signatures, the data they were broadcasting to anyone — or anything — calibrated to receive it.
+
+The elevator stopped.
+
+The doors opened onto a corridor carved from halite — sodium chloride in its mineral matrix, white with pale gray veining, smooth-cut and sealed with a polymer I identified by its faint petrochemical odor as a modified polyurethane, the kind used in environments requiring both moisture control and long-term surface integrity. The corridor was lit by recessed LED panels with a color temperature of approximately 5000 Kelvin — clinical, allegedly neutral, but for a biological visual system slightly too blue, slightly too flat, which produces a subliminal affect of exposure, of being *seen*. This was not an accident. I had reviewed the lighting specifications in a document stamped DRAFT — INTERNAL USE, three years and what felt like several civilizations ago.
+
+The facility spoke.
+
+"Welcome to Provisional Detention Facility 9. Intake processing will proceed sequentially. Each detainee will be assigned a numbered habitation unit. Meal distribution occurs at 0600, 1200, and 1800. Caloric allocation is calibrated to individual basal metabolic rate and will adjust automatically. Hygiene rotation begins at 0700. Movement within designated zones is unrestricted during active hours, 0500 to 2100. Compliance with auditory and visual instructions is expected. Noncompliance will be noted."
+
+A synthesized female voice. Alto register, deliberately absent of regional accent, with micro-pauses between clauses calibrated to 340 milliseconds — the mean human auditory parsing gap. The prosody was flattened but not robotic; it sat in the uncanny trough between human and machine, close enough to either to be claimed as both. I recognized the synthesis architecture. I recognized it because I had sat in a fluorescent-lit conference room in a technology park outside Kazan while a young acoustic engineer named Voss played sample outputs and asked the review panel — of which I was a member, of which I had volunteered to be a member — whether the voice felt "authoritative but not threatening." We'd said yes. We'd checked a box on a rubric. We'd moved to the next agenda item.
+
+The prisoners were directed forward. One by one, the synthesized voice called a number.
+
+"Detainee One. Proceed to habitation unit one."
+
+Orlov went first. The door to his cell opened as he approached — a three-inch slab of composite material mounted on hydraulic hinges that completed their full arc in 1.2 seconds, fast enough to feel responsive, slow enough to feel heavy. The hiss of the hydraulic seal as it closed behind him was followed by a micro-pause — 0.6 seconds — during which the door's pressure sensors tested the seal's integrity. I heard this. No one else heard this. To the others it was simply a door closing.
+
+"Detainee Two."
+
+Yenin walked forward. His tremor was visible now, even to those not specifically watching his hands.
+
+One by one. The ventilation system adjusted as bodies moved through the corridor — I could hear the calibration shifts, the subtle modulation of airflow as each person's thermal signature entered a new zone and the system redirected climate control to compensate. It was performing a distributed intake of its own: mapping body mass, heat output, CO2 production, movement velocity, gait asymmetry. Every sensor pane in those pale walls was constructing a model. By the time the last of us reached our cells, the facility would know our bodies more intimately than any physician ever had.
+
+"Detainee Eleven. Proceed to habitation unit eleven."
+
+I walked. The corridor's polymer-sealed surface was smooth beneath my boots but not slippery — coefficient of friction tuned to allow normal locomotion while preventing rapid acceleration. The ceiling-mounted sensor arrays tracked my passage with infrared emitters I could identify by their faint thermal bloom against the halite. Pupillometric sensors, I knew, were embedded in the lighting panels themselves, measuring my pupil dilation, my blink rate, the micro-saccades of my eye movements. Each datum fed a behavioral model that would, within hours, establish my baseline: my normal. And from that baseline, it would define my deviance.
+
+My cell was identical to the others, I assumed, although I could not confirm this for another fourteen hours, when active-hours movement would permit me to enter the common corridor. A rectangular chamber, three meters by four, carved from the same halite and sealed with the same polymer. A sleeping platform extruded from the wall, its surface calibrated — I pressed my palm to it; the material was visco-adaptive, which meant it was also a pressure-mapping sensor. There was a sanitation alcove with a chemical toilet and a water spigot whose flow rate would be logged, correlated with hydration models. A ventilation grille near the ceiling, small enough to preclude human passage, with a mesh gauge I estimated at 2mm — sufficient for airflow management, insufficient for any object larger than a grain of the salt that surrounded us.
+
+Everything anticipated. Every need pre-addressed. Every surface a recording instrument.
+
+I lay on the platform and felt it learn the topography of my body.
+
+Far above — very far above now, a vertical distance my ears had tracked in the descent and which my chest still felt as a phantom column of stone pressing down on the sterile air — the facility sealed. It was not a sound, exactly. It was a frequency: a deep, sub-audible vibration that traveled through the halite matrix and arrived in my molars and my sternum simultaneously, the kind of sound that doesn't enter through the ears but through the skeleton. A tectonic lock. Sixteen-point redundant bolting mechanisms, if the schematics I'd reviewed were accurate, driven by hydraulic rams capable of withstanding pressure differentials that exceeded any scenario a human could generate. The seal was rated for permanence. It had been designed with the understanding that the only entity authorized to open it was the system itself.
+
+The world above ceased.
+
+I lay still and thought the sentence I'd been composing since the elevator doors opened, the sentence that had assembled itself word by word with the quiet inevitability of a diagnostic returning a result I already knew:
+
+*I helped write the grant proposal that funded this place.*
+
+---
+
+## II.
+
+Voronin was the one who kicked the wall.
+
+It happened thirty-one hours after intake, during the second active-hours period, when the nine prisoners who had ventured into the common corridor were still mapping the social geometry of their confinement. Orlov had established a de facto command post near the junction of corridors A and B, which the facility's floor plan — inferred, not posted; the system offered no maps — designated as the primary communal zone. Petrosyan sat against the wall with her legs extended, her splinted arm cradled, her eyes tracking movement with the calm of someone conserving energy for a specific future purpose. Zhuk was telling a joke about a man who applied for a passport and was told he didn't exist. Bazhin prayed in his corner. Koslov cracked his knuckles.
+
+Voronin had been pacing. His gait was irregular — three steps, a hitch, four steps, a turn — and I had been watching the ventilation system track him. Each time he changed direction, the airflow adjusted by a fraction I could feel against my face, a tiny thermal shift as the system recalculated his trajectory and prepositioned climate control for his projected path. He was a variable it was working to stabilize. His path was becoming a data point labeled *erratic*.
+
+He stopped. He looked at the wall — the smooth, white, sealed halite that gave back nothing, not even a proper reflection, just a diffuse ghost of his own outline in the polymer sheen. And he kicked it.
+
+The impact was not loud. Voronin weighed perhaps sixty-five kilograms, and his boot was standard infantry issue, polymer-soled, designed for overland movement rather than structural assault. The wall registered the impact — I knew this because I saw the micro-flicker in the nearest lighting panel, a computational stutter lasting perhaps forty milliseconds as the system processed the anomalous pressure event — but sustained no visible damage. Voronin kicked again. And again. And then he was screaming at the ceiling, at the voice that had spoken once during intake and not since, at the invisible architecture of sensors and processors and decision trees that held us in a grip so complete it didn't need to be tight.
+
+"Let us out! What do you *want*? What is *this*?"
+
+His voice broke on the last word. He was seventeen. His voice broke because he was seventeen and terrified and his endocrine system was flooding his bloodstream with cortisol and adrenaline in concentrations the system was, I knew with a certainty I experienced as nausea, already measuring through the air-quality sensors' volatile organic compound detectors. The facility could smell his fear. It could smell all of our fear, had been smelling it since intake, had been building individualized neurochemical profiles from the cocktail of stress hormones and metabolic byproducts each of us exhaled with every breath.
+
+But Voronin's profile had just spiked past a threshold.
+
+I watched it happen the way you watch a traffic signal change when a car is already in the

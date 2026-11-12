@@ -1,0 +1,61 @@
+Personal log, three hours after the accident:
+        I’m alone now.
+        I don’t know what happened; even our Machine Intelligence (who asked us to call it Fred, for some reason) didn’t have enough data to do more than extrapolate a best guess. But our ship, the United Nations Exploratory Ship Outbound Wanderer, experienced some kind of damage to the Faster-Than-Light drive systems. Best guess? Some kind of dark matter particle that was solid enough in FTL-space at just the right time. Well, wrong time.
+        After she looked over the engines, Engineer Song explained that our FTL drive couldn’t be shut down anymore. “Luckily,” she said, “we’re only going 10 times the speed of light. Any faster, and I don’t know what would’ve happened to the ship.”
+        And of course, whatever caused the accident in the first place damaged two of the five life pods in the process. Ten crew, three pods, with a max of three people per pod, and the math was pretty clear: someone had to stay behind.
+        Captain Evans volunteered, said something about the captain going down with her ship and all that. I probably shouldn’t have laughed in her face, but it’s 2214, and we’re not military. “Look,” I continued, “I’m the best suited of all of us to stay back. This is my first time out so I don’t have the experience the rest of you do, but I’m also more familiar with the ship’s systems than any of you, since I helped put it together.”
+        The rest of the crew grumbled and tried to convince me to go, but eventually Captain Evans gave in, and that was that.
+        Lifepods aren’t shielded against FTL-space, so by now they’re all in normal-space. Broadcasting distress signals for what that’s worth, though Fred did try to drop them near inhabited systems. At this point, I can hope for the best, but prepare for the worst.
+        I pushed away from the keyboard, exhaling slowly.
+        “Communication Specialist Mills, are you finished with your log?” Fred had picked a voice that wouldn’t have been out of place singing torch songs a couple of centuries ago; MI’s knew about gender and frankly didn’t see the point.
+        “As much as I can be, I suppose,” I answered, stretching a bit. A faint whine from the engine spaces reverberated through the hull of the Outbound Wanderer, the only obvious signal the ship wasn’t operating the way it should. I glanced around the bridge: round and sleek and lit as though Earth’s sun was somehow overhead, just out of view.
+        “I have some news you may find distressing.”
+        “More than being stuck in a ship at FTL with no way to drop back into normal-space?”
+        “I’m sorry, yes. I’ve done some more calculations, and the ship has now deviated from its pre-programmed course.”
+        Of course it has, I thought. “Is the ship still traveling in a straight line? I mean, as much as that’s possible in FTL-space?”
+        “An astute question. The ship is now traveling in what is effectively a curve.” Fred paused. “I’ve calculated our new path, but there is no way to communicate this information to normal-space.”
+        “That’s… not good.” I headed back to stowage. “Supplies?” 
+        “Sufficient food and fluids for you for approximately four months. The remaining systems were either not affected or Engineer Song was able to effect repairs.”
+        “Help build a ship,” I muttered. “Go exploring in a vessel you helped fabricate. See the local galactic regions, and communicate with new sentients.” Stowage was just that: a room full of closets, drawers, cabinets, and bins full of things the crew wouldn’t regularly need.
+        “That sounds like the recruitment offers made to the orbital habitats,” Fred offered.
+        “It was. When you’re the fourth child, you don’t expect to have any opportunities outside of the family business. It sounded like an easy way to escape a destiny of farming and animal husbandry.” I paused. “Wait, you said all the remaining systems are online, right?”
+        “The only systems that could not be repaired are those connected to the FTL drive.” Fred paused, probably an eternity for it. “You have an idea.”
+        “Yeah, I think so. Do we have enough material for printing beacons?” By that point, I was sorting through everything that wasn’t food that I couldn’t use for my own needs.
+        “The fabricator was used for replacement parts for other damaged systems. Please allow me a moment to – yes, storage appears to have sufficient resources to print four beacons.”
+        “And nothing we can repurpose? I don’t know that I’m going to need twenty-seven pairs of pants not in my size.”
+        Fred, as with most MIs, had no sense of humor. “Most of the duplicate resources are recyclable, but the specific parts that form the core of the beacon cannot be printed from what is currently available.”
+        I grunted acknowledgement. “Right. How much information can we program into the beacons? By we, I mean you Fred.”
+        “The beacons can only broadcast their location. They lack the capability that would allow me to provide added information.”
+        “Of course,” I sighed. “And I’m going to guess there’s no way to change that?”
+        “Not without more materials than are available on this ship.”
+        It took me a couple of hours more, but I’d recycled the incidentals that weren’t going to get used. Back in my quarters, my unmade bunk looked like paradise. I’d been dead asleep during the accident, and could feel the fatigue creeping back in. “I think three beacons should be enough to point any rescuers in the right direction. I need at least some sleep, Fred. Can you drop a beacon every, hm, twelve standard hours? I think that should be enough for anyone to find us? Maybe save the fourth for an emergency?”
+        “I agree, Communication Specialist Mills. Both for your need for sleep, and your proposed plan. Deploying beacon in five standard minutes, allowing for printing and fabrication time.”
+        My bunk had never felt so welcoming.
+        Four hours later, I’d gotten enough sleep and had decided to spend at least some time on maintenance. Even in a fabricated ship, things still needed tightening, loosening, and/or lubrication. 
+        “My reference database refers to what you are doing as ‘busy work’, Communication Specialist MIlls.”
+        “Well, considering there are two more beacons to drop, and even after that there’s no way to know if there’ll be a rescue, I’d like the ship to at least hold together for however long. And I’m not going to go through the rest of the crew’s things. They’re not here to consent, and I don’t need to know what they decided to bring with them.”
+        “You are being very considerate.”
+        “I wouldn’t want anyone poking around in my stuff if I weren’t here. Not like I had any privacy back home. So I’m kind of a stickler for it now.”
+        Fred suggested, “I have an extensive library of entertainment, ranging from literature from the dawn of writing to complex virtual simulations of locations that humanity considers ideal for relaxation.”
+        “I appreciate what you’re doing, Fred. And yeah, I’ll probably partake at some point. It’s not like I was going to be doing anything really different if there hadn’t been an accident.”
+        Hours led into days, cycles of sleep, maintenance, and entertainment. The ship didn’t need much in the way of maintenance, but I didn’t want to risk anything else coming apart at the seams. Fred said the odds of the accident happening were “exceedingly improbable,” but a one in a trillion chance still means there’s a “one” in there. And even if the chances of a repeat accident were even less likely, I wanted to be prepared. 
+        The entertainment I focused on were the novels. Reading, even at adapted speeds, was still enjoyable. I’d be distracted for a few hours, lost in a world of someone else’s creation, and thankfully Fred had enough storage that I wasn’t in any danger of running out of reading materials.
+        “Are you sure you wouldn’t enjoy a simulation of a white sand beach?” Fred asked at one point.
+        “Can I read while I’m on the beach? You know, a simulated book in the simulation of the beach?”
+        “I have sufficient processing power for this, but most of the rest of the crew had requested time playing in the ocean.”
+        “Well, they probably all grew up planet-side. Water behaves differently in the orbitals, but I at least like the sound of the waves.”
+        On the sixth day after the accident, while puttering around the bridge, I broached a topic of concern. “The drive was supposed to shut down automatically, wasn’t it?”
+        “According to the mission parameters,” Fred replied, “the ship was supposed to stay in FTL-space for two weeks from the start of the mission. As the accident occurred approximately one week into the mission, the shut down instructions are still due to be sent to the drive systems tomorrow.”
+        “But the physical components of the drive can’t respond to that instruction, right?”
+        “Theoretically, no. The designers did not plan for this possibility.”
+        “So,” I said slowly, “we’re just going to keep flying until someone somehow manages to locate us, and somehow match our speed, and somehow connect with our ship.”
+        “Are you only now realizing this, or simply verbalizing because we are near the intended time for re-entry to normal-space?”
+        “Verbalizing to the only other sentient available. I’ve been trying to think of something, anything that might help, but it only occurred to me after you’d dropped the second beacon that we could have tried decelerating.”
+        “I attempted deceleration after the lifepods were launched, but the damage locked me out of the controls for the drive, and even Engineer Song would have had difficulty fixing the system enough to allow a manual adjustment.”
+        Frowning, I continued, “And my non-technical understanding of FTL-space is that there’s nothing really here to stop us, random dark matter particles aside.”
+        “Correct,” Fred responded.
+        I was about to respond when Fred announced, “My sensors have detected an object of significant size moving into proximity with us. There is a strong likelihood this is a ship, but due to the nature of FTL-space, I cannot determine more than that.”
+        I had no idea where we were, how it corresponded with normal-space, nor whether there was anyone “out there.” Before I could respond, the hull of the ship reverberated with a series of clunks and thuds.
+        “They have made contact. The likelihood this is a ship is now almost a certainty, but I cannot determine –”
+        My gut clenched as the room spun, colors briefly flashing to their inverse. We’d dropped out of FTL-space. The faster-than-light engines powered down, the ship's systems switching back automatically for functioning in normal-space.
+        It was obvious, but I couldn’t control myself. “We’re not alone anymore.”

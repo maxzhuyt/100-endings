@@ -1,0 +1,187 @@
+# The Infinite Playoff
+
+## I. The Hired Hand
+
+The call came on a Tuesday in November, which was already wrong because Lester Grohl didn't get calls anymore.
+
+He was sitting in the efficiency apartment on Decatur Street, the one above the laundromat, surrounded by the particular archaeology of a man who had stopped cleaning six months ago and then stopped noticing two months after that. Pizza boxes formed sedimentary layers. Columns of printouts leaned against the wall like the ruins of a civilization that had worshipped decimal places. His laptop was open on the fold-out table, running a regression analysis of nothing—he'd written a script that generated random batting samples and then analyzed them for patterns, a kind of statistical screensaver, something to keep the part of his brain that still worked from eating the rest.
+
+"Grohl? This is Martin Selway. Tri-Cities Dustdevils."
+
+Lester let three seconds of silence pass, because he thought that was what people with leverage did.
+
+"I know who you are," he said, which was half true. He knew the name. Selway was the general manager of the Dustdevils, a High-A affiliate of somebody—the Mariners, maybe, or maybe they'd switched. Teams switched affiliations the way Lester switched justifications.
+
+"We need a statistical audit. Discreet. Off the books but on the record, if you follow."
+
+"I don't follow."
+
+"We believe the Cedar Rapids Kernels have been manipulating game outcomes. Point-shaving. Selective tanking. We need someone to go through three seasons of box scores and find the fingerprints."
+
+"That's not really—" Lester started, then stopped, because what he'd been about to say was *that's not really what I do anymore*, and the truth was he didn't do anything anymore, and the further truth was that this was exactly what he used to do, back when doing things was something he did.
+
+"We'll pay twelve thousand. Half up front."
+
+Lester looked at the random batting samples scrolling across his screen. A fictional player named PLAYER_4407 had just gone 3-for-4 with a double. The algorithm was indifferent to this accomplishment.
+
+"Send me the scorebooks," he said.
+
+---
+
+## II. The Scorebooks
+
+They arrived in two formats: a Dropbox folder containing scanned PDFs of official game records from the Midwest League, and a separate encrypted drive—mailed physically, a thumb drive in a padded envelope—containing what Selway called "our parallel documentation." The Dustdevils had apparently been keeping their own records of games against Cedar Rapids for three years, noting discrepancies, flagging suspicious sequences.
+
+Lester set up a workspace. He cleared the pizza boxes from the fold-out table and replaced them with a system: laptop on the left running the official data, a second monitor (a TV, actually, a 32-inch Samsung he'd bought for watching games he no longer watched) on the right for the Dustdevils' files, and a legal pad in the center for cross-referencing.
+
+The work was good. The work was the kind of thing that made the other parts of his brain go quiet, the way a dog calms down when you give it a job. For three days he did nothing but compare at-bat records, running totals, pitch counts, and play-by-play logs between the two sources.
+
+On the fourth day, he found the first anomaly.
+
+It was a game from August 14th of the previous season. Cedar Rapids at Tri-Cities, a midweek contest that the official MiLB records showed as a 6-3 Kernels win. In the top of the fifth, the Kernels' designated hitter, a kid named Augustin Berroa, had come to the plate with runners on first and third and grounded into a 6-4-3 double play, killing the rally. Routine. Except in the Dustdevils' parallel documentation, that same at-bat showed Berroa singling to right, driving in two runs. The play-by-play diverged completely after that point, like a river splitting around a stone—one channel leading to a 6-3 final, the other to an 8-2 blowout.
+
+Lester marked it and moved on.
+
+He found seven more in the next two days. Always during Cedar Rapids at-bats. Always at moments of high leverage—runners in scoring position, late innings, tight games. The official and parallel records agreed on everything else: lineups, pitching changes, defensive alignments. But at these specific junctures, reality forked.
+
+This wasn't unusual in itself. Scorekeeping in minor league baseball was notoriously loose. Official scorers were often local volunteers, and parallel records kept by teams were biased by nature. Discrepancies happened.
+
+What was unusual was the pattern.
+
+Every one of the divergences occurred in a situation where the game's win probability swung by more than fifteen percent. Every one involved a Cedar Rapids batter in the middle of their order. And in every case, the official record showed the outcome *less favorable* to Cedar Rapids—the groundout instead of the single, the flyout instead of the double, the strikeout instead of the walk.
+
+This was, on its face, the opposite of point-shaving. If someone were fixing games for Cedar Rapids, the official records should show *better* outcomes for them, not worse. Unless the manipulation was more sophisticated. Unless someone was tanking specific at-bats to control the run line for gambling purposes while still allowing the team to win overall, playing the spread rather than the moneyline.
+
+Lester wrote this up. He felt the old electricity, the sensation of data resolving into narrative. He poured himself a drink—bourbon, the cheap stuff, because the expensive stuff had run out two years ago in a broader metaphorical sense—and stared at the legal pad.
+
+Then he went back to August 14th and looked again.
+
+And this is when the thing happened that would later seem, in retrospect, like the moment the ground started to dissolve, though at the time it felt like nothing, a minor computational hiccup, a rounding error in the machinery of his attention.
+
+The official record showed Berroa's at-bat as a 6-4-3 double play on a 2-1 count.
+
+Except he was almost certain that when he'd first looked at it, three days ago, the count had been 1-2.
+
+---
+
+## III. The Count
+
+He checked his notes. On the legal pad, in his own handwriting, he'd written: *Aug 14, T5, Berroa, 1-2 count, GIDP 6-4-3.* But the PDF on his screen clearly said 2-1. He pulled up the file metadata. It hadn't been modified. The scan was dated months ago.
+
+Lester stared at this for a long time.
+
+Then he did something he would later recognize as the first move in a pattern he'd been executing for years without seeing it: he changed his notes. He crossed out "1-2" and wrote "2-1" and moved on.
+
+It was nothing. He'd misread it. People misread things.
+
+Over the next week, the anomalies multiplied. Not just between the official records and the Dustdevils' parallel files, but within the official records themselves. He found a game from June 22nd where the box score showed a final of 5-4 but the inning-by-inning line added up to 5-3. He found a September game where a player named Tomás Espinal appeared in the Cedar Rapids lineup batting sixth and also appeared in the Tri-Cities lineup batting ninth—the same player, for both teams, in the same game. He found a July game where the pitch count for the Cedar Rapids starter totaled 94 but the play-by-play accounted for only 71 pitches, and the missing 23 pitches belonged to an at-bat in the third inning that had no batter listed, just a blank line where a name should have been, as if someone had been erased.
+
+He called Selway.
+
+"These records are a mess," he said. "Your parallel documentation is more consistent than the official files, which is—that shouldn't happen."
+
+"That's what we've been saying. The Kernels have been tampering."
+
+"No, you don't understand. Tampering leaves traces of intent. This is—" He paused, searching for the word. "This is incoherent. It's not like someone changed the records to benefit themselves. It's like someone went in and introduced contradictions for their own sake. There's a player who appears on both rosters. There's an at-bat with no batter."
+
+Silence on the line.
+
+"That's not in any of the records I sent you," Selway said.
+
+Lester looked at his screen. The game was open. Espinal was in both lineups. He read the date to Selway.
+
+"Pull it up," Lester said.
+
+He listened to Selway typing.
+
+"I'm looking at it," Selway said. "Espinal's in the Kernels lineup only. Batting sixth. Our ninth spot is Dominguez. I don't know what you're looking at, Grohl."
+
+---
+
+## IV. The Ledger
+
+After he hung up, Lester sat in the blue light of his two screens and breathed in a way that he recognized from previous episodes—controlled, deliberate, the breathing of a man trying to keep a structure intact. He minimized the scorebook files. He opened a new window. He stared at it.
+
+Then he went to the closet.
+
+The closet in the efficiency on Decatur Street was not large. It contained: a winter coat, three dress shirts from his Bowie Baysox years, a box of shoes, and behind the shoes, in a filing cabinet he had moved here from two apartments ago the way certain parasites travel with their hosts across ecosystems, seventeen manila folders.
+
+He hadn't opened the filing cabinet in eight months. He knew this because eight months ago he'd put a piece of tape over the drawer with the date written on it, a trick he'd read about somewhere, a way to prove to yourself that you haven't done something, that you've stopped, that the past is past. The tape was still there. The date was still there.
+
+He pulled the tape off and opened the drawer.
+
+The manila folders were labeled by season. Inside each one were printouts—stat sheets, box scores, play-by-play logs—covered in his handwriting. Margin notes in red pen. Corrections. Second corrections in blue pen correcting the red corrections. Occasionally a third pass in black, correcting both.
+
+These were his own work products. Not from the current investigation. From before.
+
+Lester Grohl had been a statistician for the Bowie Baysox for four years and a freelance analyst for various minor league organizations for six years after that. During the Baysox years, he had developed a gambling problem with the specificity and structure that only a statistician could bring to self-destruction: he bet on minor league games using models he built himself, models that incorporated proprietary data from his position with the team. When he lost—and he lost, because the models were good but the margins were thin and the vig was absolute—he borrowed. When he couldn't repay what he'd borrowed, he made adjustments.
+
+The adjustments were small at first. A walk-rate inflated by two percent to make a pitcher look worse than he was, tilting the line for the next start. An RBI total nudged upward to keep a hitter's leverage numbers in a range that Lester's model predicted would affect the spread. He was editing the data he analyzed, then analyzing the edited data, then betting based on the analysis. A closed loop. A snake eating its tail and calling the meal nutritious.
+
+The problem—the *deep* problem, the one that lived in the filing cabinet behind the shoes—was that the adjustments had grown, and then they'd interacted, and then they'd required further adjustments to remain internally consistent, and then those adjustments had introduced new inconsistencies, and at some point the project had exceeded his ability to track it consciously. The manila folders were the record of his efforts to maintain coherence in a dataset he'd been systematically corrupting for years. The red pen catches the blue pen's mistakes. The black pen catches them both. But who catches the black pen?
+
+He'd stopped. Eight months ago, he'd stopped. He'd paid off the last of what he owed—most of it, enough to stop the calls—and he'd sealed the cabinet and he'd written the date on the tape and he'd moved on to running regressions on random data, his brain chasing its own echoes in an empty room.
+
+He looked at the manila folders now, fanned across the fold-out table, and he felt the thing he always felt when confronted with the material evidence of his own deception, which was not guilt—guilt implies a stable self that has transgressed against its own standards—but something more like vertigo, the spatial disorientation of a man who has been building a house and suddenly suspects that the foundation is drawn on paper and the paper is inside the house.
+
+He opened the folder labeled with last season's dates.
+
+Inside, among the corrected stat sheets and the cross-referenced box scores, he found printouts from the Cedar Rapids Kernels.
+
+---
+
+## V. Recursion
+
+The Kernels printouts were covered in his handwriting. Not just margin notes but wholesale revisions: stat lines crossed out and rewritten, at-bat outcomes changed, pitch counts altered. The same red-blue-black pen progression. The same escalating self-corrections.
+
+He recognized all of it. The handwriting was his. The methodology was his. The documents were unambiguously products of his own hand and mind.
+
+But he had no memory of working on Cedar Rapids data. His gambling had focused on the Eastern League, the Double-A circuit where the Baysox played. He'd had no connection to the Midwest League, no reason to touch their records, no access to their official scorebooks.
+
+Except here they were. In his filing cabinet. In his handwriting.
+
+He spread the pages across the table and began comparing them to the files Selway had sent. The dates matched. The games matched. And the discrepancies—the forking at-bats, the impossible dual-roster appearances, the phantom pitches—were all there, in his own red pen.
+
+He had created the anomalies he'd been hired to investigate.
+
+The realization arrived not as a single blow but as a series of collapses, like a building coming down floor by floor, each level briefly supporting the one above it before giving way. He sat with the pages fanned around him and let the floors fall.
+
+*I altered these records.*
+
+*The discrepancies in the official scorebooks are discrepancies I introduced.*
+
+*The evidence of point-shaving I found is evidence I manufactured.*
+
+*The crime I'm investigating is a crime I committed.*
+
+And beneath that, a darker floor, falling:
+
+*I don't remember doing any of this.*
+
+And beneath that:
+
+*How did altered documents I created end up in the official MiLB database?*
+
+And beneath that, the darkest floor, the one that had no floor beneath it, just open air:
+
+*Did they?*
+
+He went back to his laptop. He pulled up the MiLB official records—not the PDFs Selway had sent, but the league's public database, accessible to anyone. He looked up August 14th. Berroa's at-bat in the fifth. The count was 1-2. The result was a single to right.
+
+Not 2-1. Not a double play.
+
+He checked his legal pad. He'd crossed out "1-2" and written "2-1" a week ago, correcting what he'd initially recorded, because the PDF had said 2-1. But the PDF was Selway's file. And Selway's file was—what? The official record? The parallel record? He'd been switching between them so often that the distinction had dissolved.
+
+He pulled up the September game with Espinal. In the public database, Espinal was in the Cedar Rapids lineup only. No dual appearance. Dominguez was in the ninth spot for Tri-Cities, just as Selway had said on the phone. 
+
+Lester opened the PDF. Espinal on both rosters.
+
+He opened his filing cabinet version. Espinal on both rosters, in his own handwriting, in red pen, overwriting—what? He held the page up to the light. Under the red pen, in the original print, Dominguez.
+
+He had put Espinal on the Tri-Cities roster himself. He had created the impossibility and then, weeks or months later, encountered it as a mystery.
+
+---
+
+He spent three days disassembling his own work.
+
+The method was painstaking and held a kind of sick beauty, like watching a surgeon operate on himself. He went through the filing cabinet page by page, holding each sheet to the light, peeling back the layers of ink—red pen, blue pen, black pen—to find the original numbers underneath. Then he compared the originals to the public

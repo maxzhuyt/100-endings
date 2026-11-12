@@ -1,0 +1,113 @@
+# SCP-7309
+
+**Item #:** SCP-7309
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** All instances of SCP-7309 are to be monitored remotely via closed-circuit surveillance. Civilian access to buildings containing SCP-7309 instances is to be prevented through standard cover protocols (condemnation orders, environmental hazard signage, perimeter fencing). No Foundation personnel below Level 4 clearance may interact with any SCP-7309 instance without written authorization from two (2) O5 Council members.
+
+As of ██/██/████, all exploration of SCP-7309-A has been suspended indefinitely. See Addendum 7309-F.
+
+**Description:** SCP-7309 designates a set of forty-seven (47) identical unmarked doors located in abandoned structures across six continents. Instances share no common architectural context—locations include a decommissioned textile mill in Łódź, Poland; a condemned residential tower in São Paulo, Brazil; a disused railway depot in Harbin, China; and forty-four other sites (see Document 7309-Full for complete inventory).
+
+All instances are composed of white oak, fitted with brass lever-style handles, and display no manufacturer markings. Each instance exhibits identical patterns of scoring and abrasion concentrated around the handle and latch mechanism, consistent with repeated manual operation over an extended period. Metallurgical analysis of the brass indicates wear patterns suggesting thousands of individual openings.
+
+When any instance is opened, it provides access to the same interior space, designated SCP-7309-A.
+
+---
+
+**SCP-7309-A** is an enclosed archival facility of indeterminate size. Interior architecture consists of climate-controlled corridors, filing halls, and descending stairwells constructed from poured concrete and steel shelving of no identifiable manufacture. The space is uniformly lit; no light source has been identified. Ambient temperature holds at 15.5°C ± 0.2°C regardless of measurement location.
+
+Spatial surveys have produced contradictory results. Corridors measured at 40 meters by laser rangefinder register as 72 meters by acoustic mapping. Stairwells descend to depths exceeding the geological foundation of every building in which an SCP-7309 instance appears. Teams entering through SCP-7309 instances in Łódź and São Paulo simultaneously encountered one another on the same corridor fourteen minutes into their respective explorations.
+
+The facility contains paper documents organized chronologically. Date indices on observed shelving span from approximately 11,000 BCE to present day.
+
+---
+
+**Selected Recovered Documents:**
+
+The following excerpts were retrieved during Exploration 7309-III and translated from an unclassified script designatedLanguoid-7309-Alpha. Translation was accomplished with unusual ease; syntactic structures closely parallel internal Foundation documentation standards.
+
+> **Document 7309-R-0041** (estimated date: ~3,200 BCE, index section "Containment Outcomes—Cascading")
+>
+> …Directive 1447 protocols remain in effect. All regional coordinators are reminded that sequential breach events do not yet constitute a Pattern-Aleph scenario. Allocation of suppression resources should continue per standard triage frameworks. Redundancy in observer networks is being restored. The Directorate considers the current situation controllable.
+
+> **Document 7309-R-0067** (estimated date: ~3,200 BCE, same index section, filed approximately 40 entries later)
+>
+> …no longer sufficient. Cascade modeling now indicates resonance across nine active containment zones. The Directorate has authorized emergency protocol use at discretion of regional leads. Civilian awareness metrics are—
+
+The remainder of Document 7309-R-0067 is missing. The page terminates mid-sentence. No subsequent filings appear in this index section.
+
+---
+
+**Exploration Log 7309-IV** (Abridged)
+
+*Exploration team: Researcher Adesanya (lead), Researcher Kovač, Security Officer Tran. Audio/video log, excerpted.*
+
+**[00:00–01:14:30]** — Team proceeds through previously unmapped northern corridor. Standard observations. Shelving density increases. Filing system transitions from chronological to personnel-based organization.
+
+**[01:15:02] Researcher Adesanya:** This section is different. Individual dossiers. Names, photographs—these are personnel files.
+
+**[01:16:48] Researcher Kovač:** These are in English. Modern English.
+
+**[01:18:33] Researcher Adesanya:** The dates on these files are wrong. This dossier is dated 1753.
+
+**[01:19:01] Researcher Kovač:** For whom?
+
+**[01:19:04] Researcher Adesanya:** For Dr. Elaine Kovač. Assigned Site-19. Psychological profile includes her MMPI scores. Her _current_ scores.
+
+*[Fourteen-second silence.]*
+
+**[01:19:18] Researcher Kovač:** That's not possible.
+
+**[01:19:55] Researcher Adesanya:** There's one for each of us. Tran—yours is here. The operational history is accurate. It includes the outcome of Exploration 7309-III.
+
+**[01:20:09] Security Officer Tran:** That mission hasn't been fully reported yet.
+
+**[01:21:40] Researcher Adesanya:** These are not predictions.
+
+*[No log entries recorded between 01:21:40 and 01:34:12.]*
+
+**[01:34:12] Security Officer Tran:** We need to leave.
+
+---
+
+**Exploration Log 7309-IV, continued:**
+
+**[01:42:07]** — Team encounters five (5) humanoid figures in sealed full-body protective garments, consistent in design with Level A hazardous materials suits. Figures are engaged in systematic removal of documents from shelving in the personnel section, placing them into opaque containers. Work is rapid and methodical.
+
+**[01:42:29] Researcher Adesanya:** Foundation security, identify yourselves.
+
+*[Figures halt. Nearest figure turns toward the team. No facial features are visible through the suit visor. After approximately three seconds, all five figures abandon their containers and move quickly down the corridor, turning a corner 30 meters ahead.]*
+
+**[01:42:58] Security Officer Tran:** Pursuing.
+
+**[01:43:10] Security Officer Tran:** Corridor terminates. Dead end. They're gone.
+
+**[01:43:44] Researcher Adesanya:** Noting: shelving in the area where figures were operating is now bare. Dust outlines clearly visible on shelves, consistent with recent removal of objects. Some outlines correspond to dossier-sized documents. Others are considerably larger.
+
+---
+
+**Addendum 7309-E: Access Log Anomaly**
+
+During post-exploration review, security teams conducted forensic analysis of SCP-7309 surveillance records across all forty-seven sites. Digital access logs for nine SCP-7309 instances were found to contain timestamp gaps corresponding to unrecorded entries. Physical evidence (thermal residue on door handles, soil transfer on flooring) confirms human access during these gaps on at least thirty-one occasions over the past ████ years.
+
+Badge-reader data recovered from the Łódź and ██████ instances identified authorization credentials belonging to three current O5 Council members. No corresponding exploration missions were approved or logged through any Foundation records system.
+
+Reanalysis of handle abrasion on all SCP-7309 instances indicates the wear pattern is consistent with repeated ungloved access by a small number of distinct individuals over an extremely prolonged period.
+
+---
+
+**Addendum 7309-F**
+
+By order of the O5 Council (vote: unanimous), the following actions are effective immediately:
+
+1. All exploration of SCP-7309-A is suspended indefinitely.
+2. Exploration teams 7309-III and 7309-IV are reassigned. Destination sites classified.
+3. This document is reclassified to Level 5 access only.
+4. Researcher Adesanya's request for a formal inquiry into O5 access log anomalies is denied.
+5. All physical materials recovered from SCP-7309-A during Explorations I–IV are transferred to O5 custody. Site-level copies are to be destroyed.
+
+Further revision of this document will be conducted at O5 discretion.
+
+*The scratches on the doors are very old, and very new, and no one who has the answer is required to share it.*

@@ -1,0 +1,74 @@
+# SCP-7441
+
+**Item #:** SCP-7441
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** All confirmed instances of SCP-7441-1 are to be sealed with Foundation-standard barrier locks and monitored via remote camera. Personnel discovering new SCP-7441-1 instances in the field are to report immediately to Site Director oversight before entry. Exploration teams must consist of no fewer than four (4) D-Class personnel accompanied by two (2) research staff. Under no circumstances are O5 Council members to be granted access to SCP-7441 pending ongoing internal review.
+
+The preceding sentence was added following Incident 7441-Sigma. See attached disciplinary memorandum, access level 4/7441 required.
+
+---
+
+**Description:** SCP-7441-1 designates a recurring door type discovered in 847 confirmed locations across 61 countries, invariably situated within abandoned or condemned structures. Each instance is physically identical: hollow-core interior doors, painted institutional white, bearing no markings, numbers, or hardware beyond a brass doorknob. All instances share a pattern of scratches radiating from the doorknob escutcheon, consistent across every specimen regardless of geographic origin. Analysis suggests the scratches were not made by tools but by fingernails.
+
+Each SCP-7441-1 instance opens into SCP-7441, a single contiguous interior space estimated at no less than 40 square kilometers. The space is architecturally impossible relative to the structures containing the entry points. SCP-7441's interior resembles a vast archival facility: floor-to-ceiling shelving units constructed from an unidentified dark wood, illuminated by overhead fixtures producing light of no identifiable source. Temperature maintains a consistent 18°C. The air smells faintly of cedar and something researchers have described variably as "old copper" and "before a storm."
+
+The archive contains an estimated 200 million documents spanning multiple languages, filing systems, and apparent time periods. Cataloguing is ongoing. Several documents have been translated and are excerpted below.
+
+---
+
+**Recovered Document 7441-D-0091**
+*Paper type: Consistent with mid-19th century European manufacture. Ink: iron gall.*
+
+> *...the Veil Protocol has held for three centuries and shows no sign of strain. The Directorate is satisfied. We have contained what cannot be named without consequence and we have done so without the world's knowledge or gratitude, which is precisely as it should be. The work continues. The work always continues.*
+>
+> *Should this record survive us—and given the nature of what we contain, survival is never guaranteed—let it be known that we understood the cost. We paid it willingly.*
+>
+> *The Directorate. The Unbroken Chain. We Secure. We Contain. We Protect.*
+
+---
+
+**Recovered Document 7441-D-0334**
+*Paper type: Unknown. Resists carbon dating. Text appears in a language predating any known writing system, translated via anomalous means by SCP-7441-R, a translation index discovered in Section 14.*
+
+> *...the failure was not of courage or intelligence but of assumption. We assumed the thing in the lower vault had limits. We assumed our predecessors had recorded everything relevant. We assumed the silence meant safety.*
+>
+> *By the time the silence broke, there was no one left to hear it.*
+>
+> *This archive is what remains of everything we knew. If you are reading this, you found the doors. The doors were left for you. Whether that was mercy or warning, we could not agree, and the debate ended when the world did.*
+
+---
+
+**Exploration Log 7441-EL-07**
+*Team: D-9182 (lead), D-9183, D-9184, D-9185, Researcher Okafor, Researcher Vásquez*
+
+**[00:14:22]** Team enters via SCP-7441-1 instance in Pripyat, Ukraine. Immediate visual confirmation of standard archive interior. Researcher Okafor notes shelving in this sector appears recently disturbed—dust displacement inconsistent with surrounding areas.
+
+**[00:31:08]** D-9183 locates Section 7, subsection marked "Personnel, Active." Researcher Vásquez begins photographing files. Files are organized alphabetically. Vásquez locates her own name.
+
+**[00:31:44]** *Vásquez (recorded, voice elevated):* "This is—this is my personnel file. My photograph. My Foundation ID number. The date on this is 1887."
+
+**[00:32:10]** Okafor confirms. File contains accurate physical description of Researcher Vásquez, her current anomaly specializations, and a handwritten notation: *Reliable. Persistent. Will not ask the right questions until it is too late. Retain.*
+
+Files for all six team members are located in the same subsection. D-9182's file contains only a single line: *Expendable, as agreed.*
+
+**[00:58:33]** Team proceeds to Section 22 following mapping data from prior exploration. Section 22 was fully catalogued during Exploration Log 7441-EL-04. Upon arrival, team discovers Section 22 is partially empty. Approximately 30% of shelving units have been cleared. No documents remain in the vacated areas.
+
+**[01:02:17]** D-9184 reports movement at the far end of the section. Thermal imaging confirms six humanoid figures in white protective suits bearing no insignia. Figures are systematically removing documents from shelving and placing them into containers that do not appear large enough to hold their contents.
+
+**[01:02:45]** Researcher Okafor calls out. Figures stop. All six turn simultaneously.
+
+**[01:02:49]** Figures flee. They do not run. The space between them and the team simply increases until they are no longer visible. No sound accompanies this.
+
+**[01:09:00]** Team examines vacated shelving. One document remains, apparently dropped. It contains a list of names under the heading *Council of Thirteen, Current Roster.* Thirteen names are listed. Twelve are redacted. The thirteenth is an O5 designation currently active within the Foundation.
+
+**[01:09:44]** *Okafor (recorded, quiet):* "Someone's been here before us."
+
+**[01:09:51]** *Vásquez (recorded):* "Someone's been here cleaning up before us."
+
+---
+
+**Addendum 7441-A:** Security footage from SCP-7441-1 instance at Site-17's decommissioned east wing—an instance not previously known to exist within Foundation property—shows three individuals entering the archive at 03:14 on ████████. Biometric analysis confirms two O5 Council members and one individual whose identity has been redacted from this document by authority exceeding the filing researcher's clearance level.
+
+The scratches around the doorknob on the Site-17 instance are fresh.
