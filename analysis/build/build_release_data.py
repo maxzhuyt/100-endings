@@ -143,7 +143,8 @@ def nyer_meta(sid):
         p = f"{d}/{sid}.txt"
         if os.path.exists(p):
             lines = [l.strip().lstrip("﻿") for l in open(p, encoding="utf-8") if l.strip()][:2]
-            title = lines[0] if lines else ""
+            # A few files have no title line; their first line is story text, which must not be released.
+            title = lines[0] if lines and len(lines[0].split()) <= 15 else ""
             author = lines[1][3:] if len(lines) > 1 and lines[1].startswith("By ") else ""
             return title, author
     return "", ""

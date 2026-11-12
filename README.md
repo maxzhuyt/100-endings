@@ -111,8 +111,11 @@ Groups in `results/`:
   - New Yorker texts: copyright; see the paper's Ethics Statement.
   - StoryStar texts: scraped.
   - Endings generated for the New Yorker and StoryStar stories: withheld along with the texts, because they retell their plots.
+  - March ablation: the Step 0 close readings of New Yorker stories (`narrative_warmup`) and the beat sheets written
+    from full New Yorker stories (`narrative_beats` in the four full-text configurations), because they quote the stories.
   - Top-10 story texts: in EQ-Bench's `creative_bench_runs.zip`.
 - **Not yet included:** the human-evaluation data (Appendix D).
+- **Git history:** rewritten on 2026-11-12. Delete any clone made before that date and clone again.
 
 ## Running the metric and the pipeline
 

@@ -87,7 +87,10 @@ To re-run it, use the fixes listed in `pipeline/README.md`:
 
 ## Contents
 
-- `stories/<config>/`: story texts and per-run configs.
+- `stories/<config>/`: story texts and per-run metadata (`*_meta.json`). Two fields are withheld because they quote
+  New Yorker stories:
+  - `narrative_warmup`, the Step 0 close reading of a New Yorker story, in every configuration;
+  - `narrative_beats` in `full_fulltext` and `fulltext_beats{3,5,10}`, whose Step 1 received the full story.
 - `sbatch/`, `rescore_2026-03-28/`: the SLURM files and the re-judging scripts.
 - `retry_unqualified.py`, `run_instruction_vanilla.sh`: generation helpers.
 - `notebooks/`: the March analysis notebooks. They read judge files on the authors' cluster and are kept for provenance only.
